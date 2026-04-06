@@ -23,6 +23,11 @@ See `SCHEMA.md` for the full operations manual.
 - Frontmatter YAML must be valid — consistent quoting, no tabs
 - When running shell commands, prefer reading files directly over piping through grep/sed
 
+## Pending / Drop Zone
+
+- Check `pending/` at the start of each session — if files exist, offer to SORT them
+- See `SCHEMA.md → SORT Operation` for the workflow
+
 ## After Every Task
 
 Before ending your response, do a quick self-healing pass on any pages you touched or read:

@@ -24,6 +24,11 @@ See `SCHEMA.md` for the full operations manual.
 - Obsidian `[[wikilinks]]` are the internal link format — always use these, not markdown URLs
 - Frontmatter YAML must be valid — no tabs, consistent quoting
 
+## Pending / Drop Zone
+
+- Check `pending/` at the start of each session — if files exist, offer to SORT them
+- See `SCHEMA.md → SORT Operation` for the workflow
+
 ## After Every Task
 
 Before ending your response, do a quick self-healing pass on any pages you touched or read:

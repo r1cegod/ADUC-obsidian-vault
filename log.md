@@ -14,3 +14,9 @@
 - Templates: 7 files in templates/
 - Obsidian config: attachment folder, templates folder, daily notes
 - Git: initialized with .gitignore
+
+---
+
+## Data Holes
+<!-- Self-healing Flag Only items go here. Agents log gaps that need user judgment or new sources. -->
+<!-- Format: - [YYYY-MM-DD] topic — why it matters + suggested action -->

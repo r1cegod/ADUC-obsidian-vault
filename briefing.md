@@ -13,6 +13,10 @@ _No active projects yet._
 <!-- 1-2 sentences on what matters right now -->
 _Vault just initialized. First task: add sources and start ingesting._
 
+## Pending
+<!-- Check pending/ for unsorted files each session -->
+_Nothing in the drop zone._
+
 ## Navigation
 - [[SCHEMA.md]] — wiki operations (ingest, lint, query, self-healing)
 - [[index.md]] — content routing table

@@ -17,8 +17,11 @@
 ## Projects
 <!-- Format: - [[path|Name]] — status | one-liner -->
 
+## References
+<!-- Format: - [[references/path|Title]] — one-liner (tags) -->
+
 ## Sources (recent first)
-<!-- Format: - YYYY-MM-DD: [[wiki/path|Title]] ← [[sources/path|raw]] -->
+<!-- Format: - YYYY-MM-DD: [[wiki/path|Title]] ← [[sources/path|raw]] (tags) -->
 
 ---
 
