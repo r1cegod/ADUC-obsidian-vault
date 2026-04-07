@@ -16,6 +16,8 @@ Owner reads it; agents read and write it; everything compounds over time.
 
 Run this before every task. It is not optional.
 
+This section is the canonical startup rule. Wrapper files like `AGENTS.md` should point here instead of restating a second competing sequence.
+
 ```
 1. Read briefing.md                  ← always, no exceptions
 2. Read context/now.md               ← always, before any content file
@@ -28,6 +30,25 @@ Run this before every task. It is not optional.
 **Enforcement:** If you find yourself opening a wiki page, project note, or source file before completing steps 1-2, stop and go back. Skipping the tiered load is the most common failure mode.
 
 **Canonical startup rule:** every task starts `briefing.md -> context/now.md`. Only after that may the path branch into `SCHEMA.md`, `index.md`, or a project README.
+
+### Canonical Startup Matrix
+
+After `briefing.md -> context/now.md`, choose the smallest next step that fits the task:
+
+| Task type | Next page |
+|-----------|-----------|
+| Simple repo task or direct question | Stop if Tier 0+1 is already enough |
+| Active project repo work | `projects/<name>/README.md` |
+| Wiki operation (ingest, sort, lint, query, archive) | stay in `SCHEMA.md`, then open `index.md` only if needed |
+| Project workflow / docs / handoff question | `projects/<name>/README.md`, then the relevant hub |
+| Exact contract wording / source precision | relevant project note first, then raw source only if still needed |
+
+Default for project work:
+- `briefing.md`
+- `context/now.md`
+- `projects/<name>/README.md`
+- one targeted hub or note
+- raw sources only when precision requires it
 
 ## Response Completion Rule
 
@@ -597,6 +618,21 @@ At the end of your task, append one block to `log.md`:
 - **AUTO-FIX** [[page]] — what was fixed
 - **FLAG** [[page]] — issue + suggested action
 ```
+
+### Stable Router Exception
+
+These pages are high-frequency routers:
+- `briefing.md`
+- `context/now.md`
+- `projects/<name>/README.md`
+- project hub pages
+
+If a stable router page:
+- was already validated earlier the same day
+- was not edited in the current task
+- and showed no structural issue when read
+
+then do not force a page-by-page repair pass again. A single log note like "stable router pages checked, no repair needed" is enough.
 
 ---
 

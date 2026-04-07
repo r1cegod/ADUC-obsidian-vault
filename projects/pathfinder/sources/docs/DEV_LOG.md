@@ -691,3 +691,20 @@ Import tests caught syntax errors. They did not catch wrong dict keys. Those onl
 - `git check-ignore -v logs/README.md logs/DEV_LOG.md`
 
 **What I learned:** The repo was not actually "tracking the dev log"; it was just leaving the entire directory ungoverned. Making the exception explicit is cleaner than relying on accidental untracked state.
+
+---
+
+### Entry 031 - 2026-04-07
+
+**Goal:** Reduce vault overhead for PathFinder work by making startup routing, sync boundaries, and current operating decisions easier to recover.
+
+**Decision:** Standardized the vault entry flow around one canonical startup matrix in `SCHEMA.md`, made `AGENTS.md` point to that matrix instead of re-defining it, sharpened the PathFinder project router with task-type fast paths, added a dedicated repo/vault sync policy note, and promoted the latest operating stance into `context/now.md` as explicit `Active Decisions`.
+
+**What changed:** Updated `D:\ANHDUC\ADUC_vault\ADUC\SCHEMA.md`, `D:\ANHDUC\ADUC_vault\ADUC\AGENTS.md`, `D:\ANHDUC\ADUC_vault\ADUC\projects\pathfinder\README.md`, `D:\ANHDUC\ADUC_vault\ADUC\projects\pathfinder\notes\pathfinder-workflow-hub.md`, `D:\ANHDUC\ADUC_vault\ADUC\context\now.md`, and `D:\ANHDUC\ADUC_vault\ADUC\index.md`. Added `D:\ANHDUC\ADUC_vault\ADUC\projects\pathfinder\notes\docs-repo-vault-sync-policy.md`.
+
+**Verification:**
+- Re-read the updated startup path from `AGENTS.md -> SCHEMA.md -> context/now.md -> projects/pathfinder/README.md`
+- Confirmed the new sync policy note is linked from both the PathFinder README and workflow hub
+- Confirmed the index page count and synthesis entry were updated for the new note
+
+**What I learned:** The main overhead was not lack of documentation. It was duplicated routing logic spread across wrapper files plus too much dependence on tailing `log.md` to recover the latest operating stance. Promoting those decisions into router pages is cheaper than re-deriving them every session.

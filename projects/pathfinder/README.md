@@ -22,6 +22,13 @@ Use the smallest sufficient route for the task:
 
 If exact wording or contract precision matters, drill into `projects/pathfinder/sources/docs/` only after reading the relevant note page.
 
+## Task Fast Paths
+- Code bug, repo review, or implementation resume: [[projects/pathfinder/notes/docs-current-context|Current Context]]
+- Evaluation replay or trace audit: [[projects/pathfinder/notes/docs-eval-how-to-use|PathFinder Evaluation Pipeline]]
+- Prompt or student-facing behavior change: [[projects/pathfinder/notes/pathfinder-prompt-hub|PathFinder Prompt Hub]]
+- Architecture, state, or graph routing question: [[projects/pathfinder/notes/pathfinder-architecture-hub|PathFinder Architecture Hub]]
+- Documentation, handoff, or vault/repo mirroring workflow: [[projects/pathfinder/notes/pathfinder-workflow-hub|PathFinder Workflow Hub]], [[projects/pathfinder/notes/docs-repo-vault-sync-policy|Repo Vault Sync Policy]]
+
 ## Hot Paths Now
 For the current evaluation cycle, these are the highest-value pages:
 - Live workstream: [[projects/pathfinder/notes/docs-current-context|Current Context]]
@@ -50,6 +57,7 @@ Core `docs/` content has been ingested into project-local sources and summarized
 - [[projects/pathfinder/notes/docs-stage-prompt-audit|Stage Prompt Audit Guide]]
 - [[projects/pathfinder/notes/pathfinder-architecture-hub|PathFinder Architecture Hub]]
 - [[projects/pathfinder/notes/pathfinder-evaluation-hub|PathFinder Evaluation Hub]]
+- [[projects/pathfinder/notes/docs-repo-vault-sync-policy|Repo Vault Sync Policy]]
 
 ## Raw Sources
 - Project-local mirror: `projects/pathfinder/sources/docs/`
@@ -62,7 +70,8 @@ Core `docs/` content has been ingested into project-local sources and summarized
 - [x] Mirror `docs/` into project-local sources, excluding `DEV_LOG.md`
 - [x] Create one derived summary page per ingested doc
 - [x] Add project routing to the vault index and context layer
-- [ ] Decide whether future repo doc updates should be mirrored manually or through a sync routine
+- [x] Establish a manual-by-default repo/vault sync policy with `logs/DEV_LOG.md` as the tracked repo mirror
+- [ ] Decide whether future repo doc updates should be mirrored manually forever or through an explicit sync routine
 
 ## Notes
 This project workspace is now both the routing layer and the live documentation home for PathFinder. The repo `docs/` folder is kept only as archived reference material.

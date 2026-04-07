@@ -1,6 +1,6 @@
 # Index
 
-> Content routing table. Last updated: 2026-04-07 | Pages: 108 | Sources: 55
+> Content routing table. Last updated: 2026-04-07 | Pages: 109 | Sources: 55
 > Format: `- [[path|Display Name]] - one-liner (tags)`
 
 ---
@@ -28,6 +28,7 @@
 - [[projects/pathfinder/notes/pathfinder-prompt-hub|PathFinder Prompt Hub]] - domain hub for stage and output prompt work (pathfinder, synthesis)
 - [[projects/pathfinder/notes/pathfinder-evaluation-hub|PathFinder Evaluation Hub]] - domain hub for replay workflow, stage audits, and retrieval evaluation (pathfinder, synthesis)
 - [[projects/pathfinder/notes/pathfinder-workflow-hub|PathFinder Workflow Hub]] - domain hub for maintenance, handoff, and durable-memory workflow docs (pathfinder, synthesis)
+- [[projects/pathfinder/notes/docs-repo-vault-sync-policy|Repo Vault Sync Policy]] - current write boundary between vault-canonical docs and the repo mirror layer (pathfinder, workflow, docs)
 
 ## Projects
 <!-- Format: - [[path|Name]] - status | one-liner -->

@@ -6,7 +6,7 @@
 
 1. Read `briefing.md` - vault orientation. Do this before anything else, including `context/` files.
 2. Read `context/now.md` - current priorities. Do this before reading project or wiki files.
-3. Read `SCHEMA.md` - only if performing a wiki operation (ingest, query, lint, sort).
+3. Use `SCHEMA.md -> Canonical Startup Matrix` to choose the next page only if the next step is not obvious from the task.
 4. If the task touches an active or named project, open `projects/<name>/README.md` before reading project notes or raw sources.
 
 **Session start check (run before every task):**
@@ -31,6 +31,7 @@ See `SCHEMA.md` for the full operations manual.
 - Obsidian `[[wikilinks]]` are the internal link format - always use these, not markdown URLs
 - Frontmatter YAML must be valid - consistent quoting, no tabs
 - When running shell commands, prefer reading files directly over piping through grep/sed
+- When consulting `log.md` for current state, read the newest entries from the bottom; do not scan from the top unless doing a historical audit
 - For project work, navigate `README.md -> notes/ -> sources/` unless the task explicitly requires raw-source-first reading
 - Treat project README pages as routing hubs, not passive project descriptions
 - If a project has domain hubs, use them as suggestion menus to find one likely next page; do not treat them as mandatory syllabi
@@ -56,3 +57,5 @@ See `SCHEMA.md` for the full operations manual.
 4. If the response created durable knowledge, changed the wiki structure, or ingested sources, write those updates before sending the response. Do not wait for a special session-end signal.
 
 See `SCHEMA.md -> Self-Healing Protocol` for full rules.
+
+Stable router pages already validated earlier the same day do not need repeated structural repair passes if they were not edited in the current task; follow `SCHEMA.md -> Stable Router Exception`.

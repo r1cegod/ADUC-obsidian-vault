@@ -387,6 +387,20 @@
 - Updated: [[wiki/synthesis/discord-moderation-domain]], [[wiki/synthesis/discord-moderation-source-map]], [[index.md]]
 - Result: the moderation corpus now includes the runtime connection layer for explicit slash-command AI workflows, passive Gateway intake, deferred responses, identity choice, and classifier-plus-agent backend design
 
+## [2026-04-07] QUERY | Vault approach review and optimization
+
+- Reviewed [[AGENTS.md]], [[briefing.md]], [[SCHEMA.md]], [[context/now]], [[index.md]], and [[log.md]] against the actual vault operating path
+- Found the main optimization target in the startup path itself: Tier 0 and Tier 1 were directionally correct, but the router summary was lagging the live context and the core schema still had parse-noisy mojibake in the highest-traffic sections
+- Updated [[briefing.md]] so Tier 0 now matches the live PathFinder state in [[context/now]]
+- Updated [[AGENTS.md]] to make `log.md` access cheaper: newest entries from the bottom first, not from the top
+- Planned follow-up: clean the highest-traffic startup section in [[SCHEMA.md]] into ASCII in a dedicated pass because the current file encoding makes broad in-place patching brittle
+
+## [2026-04-07] QUERY | Where compiled knowledge lives
+
+- Reviewed [[SCHEMA.md]], [[index.md]], [[references/discord-interactions-overview]], [[wiki/synthesis/discord-interactions-overview]], and [[wiki/synthesis/discord-ai-agent-connection-patterns]] to answer the raw-source vs compiled-knowledge boundary clearly
+- Clarified the storage model: raw transcripts stay under `sources/transcripts/`, external URLs live under `references/`, compiled source summaries live under `wiki/` or `projects/<name>/notes/`, and routing/discoverability lives in [[index.md]]
+- Result: the vault is not transcript-only; transcripts are one raw-source lane, while the durable knowledge layer is the synthesized wiki/project notes that link back to references and raw material
+
 ## Data Holes
 <!-- Self-healing Flag Only items go here. Agents log gaps that need user judgment or new sources. -->
 <!-- Format: - [YYYY-MM-DD] topic — why it matters + suggested action -->
@@ -455,3 +469,21 @@
 - Updated `D:\ANHDUC\Path_finder\.gitignore` so `logs/*` stays ignored except `logs/DEV_LOG.md`
 - Verified git now tracks `D:\ANHDUC\Path_finder\logs\DEV_LOG.md` while keeping `D:\ANHDUC\Path_finder\logs\README.md` ignored
 - Self-healing check: touched vault pages already had current dates, TL;DRs, and wikilinks; no page repair was needed
+
+## [2026-04-07] REVIEW | Vault workflow optimization
+
+- Re-read [[AGENTS.md]], [[briefing.md]], [[context/now]], [[SCHEMA.md]], [[projects/pathfinder/README]], and the newest tail of [[log.md]] to audit the vault operating model itself
+- Checked `pending/` and confirmed it is still empty
+- Main findings: startup/routing rules are duplicated across files; some "always read" wording conflicts with the tiered-loading idea; the project router is strong but still lacks a sharper task-type fast path; mandatory self-healing on every read page adds repeated overhead on stable router pages
+- Self-healing check: touched vault pages already had current dates, TL;DRs, and wikilinks; no page repair was needed
+
+## [2026-04-07] FIX | Vault workflow optimization
+
+- Updated [[SCHEMA.md]] to make the startup matrix canonical and added a stable-router self-healing exception
+- Updated [[AGENTS.md]] to point back to the canonical startup matrix instead of restating a competing startup sequence
+- Updated [[projects/pathfinder/README]] with task-type fast paths and linked the new sync policy directly
+- Added [[projects/pathfinder/notes/docs-repo-vault-sync-policy]] as the current repo/vault write-boundary policy
+- Updated [[projects/pathfinder/notes/pathfinder-workflow-hub]] to route workflow questions to the new sync policy
+- Updated [[context/now]] with an `Active Decisions` block so the current operating stance is visible without reconstructing it from `log.md`
+- Updated [[index.md]] for the new project note and page count
+- Self-healing check: touched router pages remained structurally healthy after the edits and already had valid dates / TL;DRs / wikilinks

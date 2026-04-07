@@ -12,7 +12,7 @@
 - [[projects/pathfinder/README|PathFinder]] - repo docs mirrored into the vault with derived summaries
 
 ## Current Focus
-PathFinder is in eval/hardening phase. Thinking has passed the current Stage 4 seam; Purpose and Goals are the next visible-response targets. Read [[context/now]] for live blockers and next actions.
+PathFinder is in eval/hardening phase. All six stage wrappers now pass the current Stage 4 seam; the next decision is whether to clean serializer warnings first or open a broader orchestrator/full-path hardening pass. Read [[context/now]] for live blockers and next actions.
 
 ## Pending
 <!-- Check pending/ for unsorted files each session -->
