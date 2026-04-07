@@ -31,7 +31,8 @@ It drills past surface-level answers and maps verified preferences to jobs, majo
 
 ## Archive Boundary
 - Canonical live docs now live in this vault under `projects/pathfinder/sources/docs/`.
-- The repo copy at `D:\ANHDUC\Path_finder\docs\` is archived reference material only.
+- The repo copy at `D:\ANHDUC\Path_finder\docs (archived)\` is archived reference material only.
+- Exception: `D:\ANHDUC\Path_finder\docs (archived)\DEV_LOG.md` is a required mirror of the canonical vault dev log and must be updated together with `projects/pathfinder/sources/docs/DEV_LOG.md`.
 - Use `projects/pathfinder/README.md` and the domain hubs in `projects/pathfinder/notes/` as the routing layer before opening raw docs.
 
 ## Code Entry Points
@@ -54,7 +55,8 @@ It drills past surface-level answers and maps verified preferences to jobs, majo
 - `load_dotenv()` must run before any `ChatOpenAI` initialization.
 - New state fields need a writer, a reader, and an exit condition.
 - Start session context from `PROJECT_CONTEXT.md`, then `CURRENT_CONTEXT.md`, and keep both aligned with `context_maintenance.md`.
-- Do not treat the repo `docs/` folder as live documentation anymore.
+- Do not treat the repo `docs (archived)/` folder as live documentation anymore.
+- `DEV_LOG.md` is the one mirrored exception: append the same durable entry to both the canonical vault copy and the archived repo copy.
 
 ## Quick Checks
 - API smoke test: `python test.py`

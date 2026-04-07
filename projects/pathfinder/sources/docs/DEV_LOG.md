@@ -400,3 +400,17 @@ Import tests caught syntax errors. They did not catch wrong dict keys. Those onl
 
 **Next:** Watch whether `README.md` should also be thinned later, or whether it still serves a distinct project-facing purpose.
 
+---
+
+### Entry 018 - 2026-04-07
+
+**Goal:** Lock the `DEV_LOG.md` synchronization rule after moving canonical docs into the vault.
+
+**Decision:** `projects/pathfinder/sources/docs/DEV_LOG.md` remains the canonical dev log, but `D:\ANHDUC\Path_finder\docs (archived)\DEV_LOG.md` is a required mirror. Every new durable decision entry must be appended to both files in the same change.
+
+**What changed:** Updated the canonical project context docs and maintenance rules to name the mirror exception explicitly, corrected stale repo archive paths to `docs (archived)\`, and updated the repo entry files so future sessions see the rule before touching docs.
+
+**What I learned:** "Archive-only" is too broad when one file is still intentionally mirrored. If the exception is not written down, drift is not an accident; it is the default outcome.
+
+**Next:** Keep both dev-log copies aligned on every future durable documentation or architecture decision.
+

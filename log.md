@@ -87,6 +87,14 @@
 
 ---
 
+## [2026-04-07] CREATE | README.md for external reviewers
+
+- Created `README.md` at vault root — targeted at scholarship reviewers
+- Includes: owner context, PathFinder project summary + navigation table, vault structure diagram, key documents table, design principles
+- Uses standard markdown links (not Obsidian wikilinks) for external readability
+
+---
+
 ## [2026-04-07] UPDATE | repo entry points hardened
 
 - Rewrote "Read This First" in `CLAUDE.md` and `AGENTS.md` (repo) as aggressive STOP blocks
@@ -111,6 +119,15 @@
 
 ### Stats
 - Total pages: 29 | Stubs: 0 | Orphans: 0 | Dead links: 0
+
+---
+
+## [2026-04-07] UPDATE | DEV_LOG mirror rule locked
+
+- Updated [[projects/pathfinder/sources/docs/context/docs/PROJECT_CONTEXT.md]] to mark `D:\ANHDUC\Path_finder\docs (archived)\DEV_LOG.md` as the one required repo mirror
+- Updated [[projects/pathfinder/sources/docs/context/how to/context_maintenance.md]] so new durable decisions must append the same entry to both dev-log copies
+- Updated `D:\ANHDUC\Path_finder\AGENTS.md` and `D:\ANHDUC\Path_finder\CLAUDE.md` to surface the mirror exception in the repo bootstrap
+- Appended the same Entry 018 to both `DEV_LOG.md` files and corrected stale archive-path references from `docs\` to `docs (archived)\`
 
 ---
 
