@@ -17,6 +17,7 @@ It drills past surface-level answers and maps verified preferences to jobs, majo
 - Stage agents follow the scoring -> analyst pattern.
 - Output compiler is the only student-facing response generator.
 - LLMs classify and synthesize. Python owns routing, counters, and thresholds.
+- Retrieval-heavy stages should use the shared Python retrieval layer in `backend/retrieval/` directly or through thin tool adapters, not re-embed provider logic per graph.
 
 ## Source Of Truth
 - Architecture: `projects/pathfinder/sources/docs/architecture/docs/ARCHITECTURE.md`
@@ -26,13 +27,13 @@ It drills past surface-level answers and maps verified preferences to jobs, majo
 - Prompt how-to: `projects/pathfinder/sources/docs/prompt/how to/production_system_prompts.md`
 - Evaluation pipeline: `eval/HOW_TO_USE.md`
 - Context maintenance: `projects/pathfinder/sources/docs/context/how to/context_maintenance.md`
-- Evaluation log: `projects/pathfinder/sources/docs/evaluation/stage_evaluation.md`
+- Knowledge-agent guide: `projects/pathfinder/sources/docs/evaluation/knowledge_agent_evaluation.md`
 - Decision log: `projects/pathfinder/sources/docs/DEV_LOG.md`
 
 ## Archive Boundary
 - Canonical live docs now live in this vault under `projects/pathfinder/sources/docs/`.
 - The repo copy at `D:\ANHDUC\Path_finder\docs (archived)\` is archived reference material only.
-- Exception: `D:\ANHDUC\Path_finder\docs (archived)\DEV_LOG.md` is a required mirror of the canonical vault dev log and must be updated together with `projects/pathfinder/sources/docs/DEV_LOG.md`.
+- Exception: `D:\ANHDUC\Path_finder\logs\DEV_LOG.md` is a required repo mirror of the canonical vault dev log and must be updated together with `projects/pathfinder/sources/docs/DEV_LOG.md`.
 - Use `projects/pathfinder/README.md` and the domain hubs in `projects/pathfinder/notes/` as the routing layer before opening raw docs.
 
 ## Code Entry Points
@@ -40,6 +41,7 @@ It drills past surface-level answers and maps verified preferences to jobs, majo
 - `backend/output_graph.py`
 - `backend/data/state.py`
 - `backend/data/contracts/`
+- `backend/retrieval/`
 - `backend/data/prompts/`
 - `backend/*_graph.py`
 - `frontend/`
@@ -53,10 +55,12 @@ It drills past surface-level answers and maps verified preferences to jobs, majo
 - Extractable fields use `FieldEntry`-style `{content, confidence}` wrapping.
 - Student-facing responses are Vietnamese.
 - `load_dotenv()` must run before any `ChatOpenAI` initialization.
+- Shared search, Reddit, and extraction logic belongs in `backend/retrieval/`; `backend/tools.py` is only the LangChain-compatible adapter layer.
 - New state fields need a writer, a reader, and an exit condition.
 - Start session context from `PROJECT_CONTEXT.md`, then `CURRENT_CONTEXT.md`, and keep both aligned with `context_maintenance.md`.
 - Do not treat the repo `docs (archived)/` folder as live documentation anymore.
-- `DEV_LOG.md` is the one mirrored exception: append the same durable entry to both the canonical vault copy and the archived repo copy.
+- Do not create or update delegated/workflow docs under `D:\ANHDUC\Path_finder\docs (archived)\`. Put new operational docs in the vault or repo live locations only.
+- `DEV_LOG.md` is the one mirrored exception: append the same durable entry to both the canonical vault copy and the repo mirror at `D:\ANHDUC\Path_finder\logs\DEV_LOG.md`.
 
 ## Quick Checks
 - API smoke test: `python test.py`

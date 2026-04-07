@@ -2,7 +2,7 @@
 type: project
 title: "PathFinder"
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-04-07
 tags:
   - project/pathfinder
   - ai
@@ -15,12 +15,20 @@ lang: en
 > **TL;DR**: PathFinder is a Vietnamese multi-agent career counselor project now mirrored into the vault with local raw docs plus derived summary notes.
 
 ## Start Here
-For any PathFinder task, read in this order:
-1. [[projects/pathfinder/notes/docs-project-context|PathFinder Project Context]]
-2. [[projects/pathfinder/notes/docs-current-context|Current Context]]
-3. Follow the task routes below
+Use the smallest sufficient route for the task:
+- Need stable orientation: [[projects/pathfinder/notes/docs-project-context|PathFinder Project Context]]
+- Need the live workstream: [[projects/pathfinder/notes/docs-current-context|Current Context]]
+- Need a domain-specific route: choose one hub from `Task Routes`
 
 If exact wording or contract precision matters, drill into `projects/pathfinder/sources/docs/` only after reading the relevant note page.
+
+## Hot Paths Now
+For the current evaluation cycle, these are the highest-value pages:
+- Live workstream: [[projects/pathfinder/notes/docs-current-context|Current Context]]
+- Evaluation workflow: [[projects/pathfinder/notes/docs-eval-how-to-use|PathFinder Evaluation Pipeline]]
+- Knowledge-agent eval contract: [[projects/pathfinder/notes/docs-knowledge-agent-evaluation|Knowledge Agent Evaluation Guide]]
+- Active retrieval-stage audits: [[projects/pathfinder/notes/docs-job-evaluation|Job Agent Evaluation And Audit Log]], [[projects/pathfinder/notes/docs-major-evaluation|Major Agent Evaluation And Audit Log]]
+- Next stage targets: [[projects/pathfinder/notes/docs-purpose-evaluation|Purpose Agent Evaluation And Audit Log]], [[projects/pathfinder/notes/docs-goals-evaluation|Goals Agent Evaluation And Audit Log]]
 
 ## Goal
 Build a durable project workspace that lets any agent start from a compressed, structured knowledge layer before drilling into the canonical PathFinder docs inside this vault.
@@ -46,8 +54,9 @@ Core `docs/` content has been ingested into project-local sources and summarized
 ## Raw Sources
 - Project-local mirror: `projects/pathfinder/sources/docs/`
 - Canonical live docs: `projects/pathfinder/sources/docs/`
-- Archived repo copy: `D:\ANHDUC\Path_finder\docs\`
-- Rule: this vault now holds the live PathFinder documentation set; the repo `docs/` folder is archive-only
+- Archived repo copy: `D:\ANHDUC\Path_finder\docs (archived)\`
+- Repo dev-log mirror: `D:\ANHDUC\Path_finder\logs\DEV_LOG.md`
+- Rule: this vault now holds the live PathFinder documentation set; the repo `docs (archived)/` folder is archive-only, while `logs/DEV_LOG.md` is the one maintained repo mirror
 
 ## Tasks
 - [x] Mirror `docs/` into project-local sources, excluding `DEV_LOG.md`
@@ -60,7 +69,7 @@ This project workspace is now both the routing layer and the live documentation 
 
 The strongest value of this workspace is onboarding efficiency. Agents can begin with the README, the ingest synthesis page, and a few key summaries, then open the raw source only when precision requires it.
 
-Project hubs are now the default navigation layer beneath this README. When a task falls into one domain, open the matching hub first instead of scanning the full note set.
+Project hubs are the default navigation layer beneath this README, but they are routing aids, not fixed syllabi. Use the matching hub when a task clearly falls into one domain; otherwise stop at the smallest page that already gives enough context.
 
 ## Related
 - [[projects/pathfinder/notes/pathfinder-docs-ingest]]

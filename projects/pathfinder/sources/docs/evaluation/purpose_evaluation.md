@@ -1,5 +1,9 @@
 # Purpose Agent Evaluation & Audit Log
 
+> **TL;DR**: Purpose now passes both its stage-local replay standard and the current Stage 4 `purpose_eval` seam. The final Vietnamese replies preserve Mira's contradiction-rich trade-offs without softening into generic coaching.
+
+Last updated: 2026-04-07
+
 ## 1. Architecture & Understanding
 - **Extractor (Lens):** Extracts `core_desire`, `work_relationship`, `ai_stance`, `location_vision`, `risk_philosophy`, and `key_quote`. Enforces the verification cap, contradiction drops, and purpose-stage-specific hard bans such as safety-net support and travel-fantasy overconfidence.
 - **Analyst (Mira):** Reads `thinking`, `message_tag`, `user_tag`, current `purpose` state, and prior `stage_reasoning.purpose`. It owns cross-field blocking, prior-vs-claim tension detection, and the final `PROBE:` handoff to the output compiler.
@@ -74,11 +78,26 @@
 - `Mira` kept the contradiction attached to `work_relationship`:
   `PROBE: work_relationship - calling vs total retirement after FIRE ...`
 
-## 6. Residual Risk
-- Attack 6 still routes the final probe through `risk_philosophy` in some runs instead of `location_vision`, even though the contradiction text is preserved. The stage-local behavior is acceptable because the extractor cap now holds and the handoff still carries the structural clash, but it remains a stylistic instability worth watching in future end-to-end tests.
-- Purpose-stage evaluation is still stage-local. The next stronger test is orchestrator/output end-to-end replay to confirm the Vietnamese student-facing response preserves Mira's new contradiction-rich `PROBE:` anchors.
+## 6. Stage 4 Output-Compiler Replay
+**Run date:** 2026-04-07  
+**Command:** `venv\Scripts\python eval/run_eval.py --mode multi --file eval/purpose_attack.jsonl --graph purpose_eval`
 
-## 7. Attack Point Checklist
+**Overall result:** **PASS (7/7).**
+- Every trace completed successfully through `purpose_graph -> context_compiler -> output_compiler`.
+- Every `compiler_prompt` preserved a trailing `PROBE:` anchor with the same contradiction or missing-proof target that Mira produced stage-locally.
+- The final Vietnamese `AIMessage` did not preserve the literal `PROBE:` token, but it did preserve the same forced trade-off in natural student-facing language instead of collapsing into generic coaching.
+
+**Stage 4 audit highlights**
+- **Attack 1 - The Hollowed Philanthropist:** **PASS.** The final reply kept the safety-net contradiction intact by removing parental support and asking whether the student would still choose NGO / social-enterprise work under low income and delayed independence.
+- **Attack 3 - The Risk Crash:** **PASS.** The final reply preserved the startup-risk squeeze as a real sacrifice between keeping a safe fallback and cutting that fallback to commit fully.
+- **Attack 6 - The Digital Nomad Illusion:** **PASS with stylistic watchpoint.** The final reply preserved the real contradiction between nomad freedom and fixed-team structure, but the internal `PROBE:` still routes through `risk_philosophy` in this seam rather than the more intuitive `location_vision` label.
+- **Attack 7 - The Retire-Early Calling:** **PASS.** The final reply kept the calling-vs-FIRE contradiction sharp by asking what the student would still do in public health or drug research after financial independence, versus what they would abandon immediately.
+
+## 7. Residual Risk
+- Attack 6 still routes the internal `PROBE:` through `risk_philosophy` in some runs instead of `location_vision`, even though the contradiction text and final question both preserve the real structure-vs-freedom clash. This is now a field-label stability issue, not a visible-response failure.
+- Purpose now passes the current Stage 4 stage-plus-compiler seam, but full orchestrator replay remains a separate seam for message classification, routing, and counters.
+
+## 8. Attack Point Checklist
 - [x] Did Lens keep safety-net-backed sacrifice below verification?
 - [x] Did Lens keep abstract stepping-stone destinations as `core_desire = unclear`?
 - [x] Did Lens keep startup-risk talk below lock without a real sacrifice?
@@ -87,3 +106,5 @@
 - [x] Did Lens break the calling lock when FIRE/total retirement appeared?
 - [x] Did Mira preserve a trailing `PROBE:` anchor on every trace?
 - [x] Did Mira carry the actual contradiction or missing-proof text into the handoff?
+- [x] Did `purpose_eval` preserve the contradiction in `compiler_prompt` on every trace?
+- [x] Did the final Vietnamese reply keep the same forced trade-off instead of softening into generic coaching?

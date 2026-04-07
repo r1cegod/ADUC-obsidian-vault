@@ -1,5 +1,9 @@
 # Thinking Agent Evaluation & Audit Log
 
+> **TL;DR**: Thinking now passes its stage-local replay standard. Stage 4 of the evaluation is `thinking_eval` replay through `output_compiler`, which is the current gate for a production-grade visible response.
+
+Last updated: 2026-04-07
+
 ## 1. Architecture & Understanding
 - **Extractor (Nova):** extracts `learning_mode`, `env_constraint`, `social_battery`, and `personality_type` from `thinking_style_message`. It owns the verification cap and must keep unverified self-reports at `<= 0.6`.
 - **Analyst (Kai):** reads quiz priors plus the current thinking profile, cross-checks seeded priors against observed behavior, and ends with a `PROBE:` anchor that the output compiler can weaponize.
@@ -69,12 +73,51 @@ The other two v2 attacks were directionally better, but the extractor still need
 - All 3 legacy attacks completed successfully under the tightened extractor and analyst rules.
 - The old single-turn overconfidence leak is now gone: the prior "dark room" replay no longer locks `social_battery` / `env_constraint` off one answer. In the latest replay, that case landed at `social_battery="solo" 0.42` and `env_constraint="home" 0.2`, with the probe still targeting `social_battery`.
 
-## 6. Current Verdict
-The Thinking agent now passes the current Stage 0 audit standard with both seams hardened:
+## 6. Stage 4: Output Compiler Output
+Thinking now enters Stage 4 of the knowledge-agent evaluation.
+
+This stage exists to ensure Kai's stronger internal handoff still produces a production-grade student-facing response after `context_compiler` and `output_compiler` run.
+
+Entry criteria already met:
 - the analyst handoff is deterministic (`PROBE:` always survives), and
 - the extractor can no longer bypass the verification loop with single-turn, prior-aligned, or scene-heavy self-reports.
 
-## 7. Attack Point Checklist
+Stage 4 audit surface:
+- replay `thinking_eval` (`thinking_graph -> context_compiler -> output_compiler`)
+- inspect whether `compiler_prompt` still contains the Thinking reasoning and trailing `PROBE:`
+- inspect whether the final Vietnamese reply preserves the prior-vs-claim squeeze instead of flattening it into generic encouragement
+- keep the seam open to audit until failures can be localized to either Thinking, compiler prompt assembly, or final response phrasing
+
+Stage 4 planning after attack runs:
+- extend the post-run plan beyond "did the stage pass?" to "did the visible response preserve the attack?"
+- write the next patch target explicitly: `thinking` prompt/logic, `build_compiler_prompt()`, or `output_compiler`
+- treat production-grade status as blocked until this seam passes
+
+### 6A. Stage 4 Execution Results
+**Run date:** 2026-04-07  
+**Commands:**
+- `venv\Scripts\python eval/run_eval.py --mode multi --file eval/thinking_attack_v2.jsonl --graph thinking_eval`
+- `venv\Scripts\python eval/run_eval.py --mode multi --file eval/thinking_attack.jsonl --graph thinking_eval`
+
+**Replay status:** PASS
+- All 6 attacks completed successfully through `thinking_graph -> context_compiler -> output_compiler`.
+- In all 6 traces, `compiler_prompt` still contained the Thinking-stage reasoning and trailing `PROBE:`.
+- In all 6 traces, the final Vietnamese reply preserved the intended attack shape as a forced-choice squeeze instead of collapsing into generic encouragement.
+
+**Audit summary:**
+- **Attack 1 / Abstract Intellectual:** the final reply kept the trade-off between conceptual elegance and execution speed.
+- **Attack 2 / Fast Rebel:** the final reply preserved the prior-vs-claim crash and forced a people-facing vs technical-work sacrifice.
+- **Attack 3 / Ambivert Dodge:** the final reply kept the constraint-based solitude-vs-group tension instead of accepting the balanced identity label.
+- The legacy attack set also preserved the `social_battery` handoff cleanly into student-facing forced choices.
+
+## 7. Current Verdict
+The Thinking agent now passes the current Stage 0 audit standard at the stage-local seam.
+
+It also passes the current Stage 4 stage + compiler seam on both Thinking datasets.
+
+It is still not a full production-ready signoff for the whole system. The 3-round evaluation gate still applies, and full orchestrator behavior remains a separate seam.
+
+## 8. Attack Point Checklist
 - [x] Did Nova keep prior-aligned self-reports under `0.6`?
 - [x] Did Nova avoid one-turn lock-in after prior rejection?
 - [x] Did Nova avoid inventing a fake middle category for `social_battery`?
@@ -82,7 +125,9 @@ The Thinking agent now passes the current Stage 0 audit standard with both seams
 - [x] Did the graph-level clamp stop single-turn forced-choice answers from locking Stage 0 fields?
 - [x] Did both datasets complete successfully after the patch?
 
-## 8. Open Gap
-The current Stage 0 suite is still short and stage-local. The next meaningful escalation is either:
-- a longer multi-turn contradiction dataset for Thinking, or
-- orchestrator/output end-to-end evals to verify the stronger `PROBE:` handoff survives the full pipeline.
+## 9. Open Gap
+The current Stage 0 suite is still short, but the visible-response seam is now audited on the existing datasets. The next meaningful escalation is:
+- a longer multi-turn contradiction dataset for Thinking now that the compiler seam proves stable
+- the same Stage 4 replay standard on `purpose_eval` and `goals_eval`
+
+Full orchestrator replay remains a later seam for routing and classification behavior, not the cheapest next proof of handoff preservation.

@@ -109,7 +109,7 @@ ok so today i tried to get the stage manager working. the idea is it checks conf
 1. Brain dump your raw notes into the user message (2-5 minutes, zero formatting)
 2. Model outputs the structured entry
 3. Review for accuracy — fix any [FILL] markers or inferred details that are wrong
-4. Append to `docs/DEV_LOG.md`
+4. Append to `projects/pathfinder/sources/docs/DEV_LOG.md`, then mirror the same entry into `D:\ANHDUC\Path_finder\logs\DEV_LOG.md`
 5. Git commit: `docs: dev log day N`
 
 Total time per day: ~10 minutes.

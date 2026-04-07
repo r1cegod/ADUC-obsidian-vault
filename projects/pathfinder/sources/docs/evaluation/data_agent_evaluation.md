@@ -28,7 +28,7 @@ This changes the evaluation seam. A data agent can fail even if its prose sounds
 ## Source Contracts
 - Official evaluation pipeline and runner: `eval/HOW_TO_USE.md`
 - Stage prompt audit rules: `docs/prompt/docs/stage_prompt.md`
-- Existing stage audit log style: `docs/evaluation/stage_evaluation.md`
+- Knowledge-agent counterpart: `docs/evaluation/knowledge_agent_evaluation.md`
 - Retrieval source seeds and Reddit notes: `docs/evaluation/research_sources.md`
 
 Prompt-level contracts already in force:

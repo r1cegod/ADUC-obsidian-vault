@@ -10,9 +10,17 @@ lang: en
 <!-- What matters today -->
 - 
 
-## Notes
+## Human Notes
+<!-- Raw reflections, meeting notes, observations, or context in your own voice -->
+- 
 
+## Signals To Keep
+<!-- Facts, decisions, patterns, or quotes that may deserve promotion later -->
+- 
 
-## Links Created
-<!-- New wiki pages or connections made today -->
+## Promote / Graduate
+<!-- Candidates to turn into wiki pages, project notes, tasks, or source hunts -->
+- 
+
+## Related
 - 

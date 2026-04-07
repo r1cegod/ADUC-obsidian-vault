@@ -123,7 +123,9 @@ thinking → purpose → goals → job → major → university
 
 Each stage agent runs: **Scoring Node** (extract fields, set `done`) → **Analyst Node** (write analysis to `stage_reasoning.{stage}`). No summarizer or chatbot in stage subgraphs — the output compiler is the sole student-facing response generator. It reads `stage_reasoning` via `PROFILE_CONTEXT_BLOCK` to understand what the stage agent found. A stage advances when its profile's `done` flag is set by the scoring node.
 
-Stage 3 `job` now has one deliberate exception inside that pattern: after extraction it can route through a dedicated research seam of **research planner → OpenAI web search researcher → synthesizer**. That seam writes a temporary `job_research` packet in state so the final analyst handoff is no longer coupled to raw tool output inside the same node.
+Stage 3 `job` and Stage 4 `major` now have deliberate exceptions inside that pattern: after extraction they can route through a dedicated research seam of **research planner → shared retrieval service → synthesizer**. Those seams write temporary `job_research` and `major_research` packets in state so the final analyst handoff is no longer coupled to raw tool output inside the same node.
+
+`uni` still uses ToolNode today, but its `search` tool now delegates into the same shared retrieval layer instead of owning a separate Serper-only provider path.
 
 When all 6 profiles have `done=True`, the output compiler switches to **Case B2 (path debate)** — no separate stage agent. The compiler injects the debate frame as a prompt block.
 
@@ -134,7 +136,7 @@ When all 6 profiles have `done=True`, the output compiler switches to **Case B2 
 | Layer | Fields | Purpose |
 |-------|--------|---------|
 | **Conversation** | `messages`, `summary`, `stage_reasoning`, 6 `{stage}_message` queues | Raw conversation + per-agent message routing |
-| **Extracted Profiles** | `stage`, `thinking` through `university` (6 profiles), `job_research` | Structured data extracted by scoring nodes plus Stage 3 research packet |
+| **Extracted Profiles** | `stage`, `thinking` through `university` (6 profiles), `job_research`, `major_research` | Structured data extracted by scoring nodes plus the retrieval-stage research packets |
 | **Signals** | `message_tag`, `user_tag`, `bypass_stage` | Per-turn and persistent behavioral classifications |
 | **Counters + System** | 6 counters, `trigger_window`, `path_debate_ready`, `stage_transitioned`, `escalation_*` | Python-managed behavioral thresholds and compiler gates |
 

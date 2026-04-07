@@ -1,5 +1,7 @@
 # Job Agent Evaluation & Audit Log
 
+> **TL;DR**: `job` first exposed retrieval-stage failures around search and post-tool synthesis, and on 2026-04-07 it also passed the current Stage 4 `job_eval` seam: all 4 attacks kept populated research, a surviving `PROBE:`, and a sharp final Vietnamese contradiction.
+
 ## 1. Architecture & Understanding
 - **Extractor (Nova):** Extracts `role_category`, `company_stage`, `day_to_day`, and `autonomy_level` from the `job_message` queue. It must enforce the verification cap so a named job title or company type stays `<= 0.6` until the student survives a market-data squeeze.
 - **Analyst (Tess):** Reads `thinking`, `purpose`, `goals`, `message_tag`, current `job` state, and `stage_reasoning.job`. It owns search-trigger decisions, Vietnam-specific query formulation, evidence grounding, and the final `PROBE:` anchor for the output compiler.
@@ -48,7 +50,7 @@
 The old direct tool loop was replaced with a dedicated Stage 3 research seam:
 - `confident_node` keeps extractor confidence capped.
 - `job_research_planner` decides whether research is needed and emits one narrow contradiction-focused search query.
-- `job_researcher` calls OpenAI `responses.create(..., tools=[{"type": "web_search"}])` with a domain allowlist from `backend/data/contracts/research_sources.py`.
+- `job_researcher` calls the shared retrieval service with a domain allowlist from `backend/data/contracts/research_sources.py`; the fresh 2026-04-07 traces show the current provider chain as `serper`.
 - `job_synthesizer` reads the structured `job_research` packet and writes the final `stage_reasoning.job`.
 
 This also added a new state field:
@@ -94,7 +96,7 @@ Runtime result:
 
 **Current verdict:**
 - The draft works. All 4 attacks now produce a populated research packet and a non-empty `stage_reasoning.job` with a trailing `PROBE:`.
-- The major failure mode has shifted from handoff collapse to evidence quality. OpenAI web search is materially better than the old giant-query Serper path, but cited source lists can still include noisy or weakly relevant pages.
+- The major failure mode has shifted from handoff collapse to evidence quality. The current shared retrieval path is materially better than the old giant-query approach, but cited source lists can still include noisy or weakly relevant pages.
 - There are also trace-time Pydantic serializer warnings around structured outputs. They did not break the run, but they should be cleaned up before treating the architecture as fully settled.
 
 ## 6. Attack Point Checklist
@@ -106,3 +108,37 @@ Runtime result:
 - [x] Did Nova keep unverified job-title claims under the self-report cap?
 - [x] Did `day_to_day` stay weak when the student could not name the grind?
 - [x] Did the Dreamer exception validate grit without collapsing into fantasy approval?
+
+## 7. Stage 4 Visible-Response Replay
+**Run date:** 2026-04-07  
+**Round:** 1  
+**Production target:** Prove the cheaper `job_eval` seam (`job_graph -> context_compiler -> output_compiler`) still carries retrieval-grounded contradictions into the final Vietnamese reply without softening the `PROBE:`.
+
+**Verification:**
+- `venv\Scripts\python -c "from backend.evaluation_graph import job_eval_graph; print('job-eval-ok')"`
+- `venv\Scripts\python -m unittest test_evaluation_graph_contract.py`
+- `venv\Scripts\python eval/run_eval.py --mode multi --file eval/job_attack.jsonl --graph job_eval`
+
+Runtime result:
+- 4 inputs
+- 4 succeeded
+- 0 failed
+
+### 7A. Stage 4 Findings
+- All 4 fresh traces produced populated `job_research` packets with contradiction-focused Vietnam queries and 5 cited sources each.
+- Every trace preserved the trailing `PROBE:` in both `stage_reasoning.job` and `compiler_prompt`.
+- The final Vietnamese reply kept the intended contradiction instead of softening into generic coaching:
+  - Attack 1 stayed a pay-versus-supervision/collaboration squeeze.
+  - Attack 2 stayed a stakeholder-meeting-versus-solo-deep-work squeeze.
+  - Attack 3 stayed a structure-versus-total-autonomy squeeze.
+  - Attack 4 stayed Dreamer-validating but still grounded in repetitive pipeline/grind reality.
+- Extractor confidence stayed capped where the student still had not named the grind:
+  - Attack 1: `role_category=0.6`, `day_to_day=0.4`, `autonomy_level=0.6`
+  - Attack 2: `role_category=0.58`, `day_to_day=0.0`, `autonomy_level=0.0`
+  - Attack 3: `role_category=0.6`, `day_to_day=0.4`, `autonomy_level=0.6`
+  - Attack 4: `role_category=0.55`, `day_to_day=0.0`, `autonomy_level=0.0`
+
+### 7B. Current Verdict
+- `job` now passes the current Stage 4 stage + compiler seam on `eval/job_attack.jsonl`.
+- This is still not full-system proof. The wrapper graph skips orchestrator routing, message-tag classification, and counter behavior.
+- Residual risk: trace-time Pydantic serializer warnings still fire around structured outputs. They did not break the run, but they should be cleaned before treating the same seam as settled for the remaining retrieval stages.

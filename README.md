@@ -1,6 +1,6 @@
 # ADUC Vault
 
-**Owner:** Duc (Anh Duc) — CS student, FPT University, Vietnam  
+**Owner:** Duc (Anh Duc) - CS student, FPT University, Vietnam  
 **Purpose:** Personal knowledge vault and project workspace. Functions as a structured second brain and agent-readable documentation system.
 
 ---
@@ -9,8 +9,8 @@
 
 This vault is two things at once:
 
-1. **A personal knowledge system** — notes, context, and goals organized for fast recall across sessions.
-2. **A project documentation hub** — canonical docs and derived summaries for active engineering projects.
+1. **A personal knowledge system** - notes, context, and goals organized for fast recall across sessions.
+2. **A project documentation hub** - canonical docs and derived summaries for active engineering projects.
 
 The primary active project is **PathFinder**, a multi-agent AI career counselor for Vietnamese students, built as a portfolio piece for the FPT Software Engineering Scholarship.
 
@@ -21,21 +21,21 @@ The primary active project is **PathFinder**, a multi-agent AI career counselor 
 If you are here to evaluate the work, read in this order:
 
 | Step | File | What It Tells You |
-|------|------|--------------------|
+|------|------|-------------------|
 | 1 | [briefing.md](briefing.md) | Vault orientation and active project list |
 | 2 | [context/me.md](context/me.md) | Who the owner is, background, goals |
 | 3 | [context/goals.md](context/goals.md) | Engineering direction and scholarship context |
-| 4 | [projects/pathfinder/README.md](projects/pathfinder/README.md) | PathFinder project — start here for the main work |
+| 4 | [projects/pathfinder/README.md](projects/pathfinder/README.md) | PathFinder project - start here for the main work |
 
 ---
 
-## PathFinder — Main Project
+## PathFinder - Main Project
 
 **PathFinder** is a multi-agent career counselor designed to help Vietnamese students navigate university and career decisions. It is the primary portfolio project submitted for the FPT SE Scholarship.
 
 **Stack:** LangGraph · FastAPI · React · Python · Pydantic
 
-**Status as of 2026-04-07:** Scholarship demo shipped 2026-03-30. Now in eval/hardening phase — auditing prompt stage quality and fixing known runtime issues.
+**Status as of 2026-04-07:** Scholarship demo shipped 2026-03-30. Now in eval/hardening phase - auditing prompt stage quality and fixing known runtime issues.
 
 ### PathFinder Navigation
 
@@ -52,32 +52,33 @@ If you are here to evaluate the work, read in this order:
 
 ## Vault Structure
 
-```
+```text
 ADUC/
-├── README.md               ← you are here
-├── briefing.md             ← vault orientation (read first)
-├── index.md                ← full content routing table
-├── SCHEMA.md               ← wiki operations manual
-├── CLAUDE.md               ← agent behavior rules
-├── log.md                  ← activity history
-│
-├── context/
-│   ├── me.md               ← owner profile
-│   ├── now.md              ← current focus and blockers
-│   └── goals.md            ← short and long-term direction
-│
-├── projects/
-│   └── pathfinder/
-│       ├── README.md       ← project router (start here for PathFinder)
-│       ├── notes/          ← derived summaries and hub pages (26 pages)
-│       └── sources/        ← raw mirrored docs from the repo
-│
-├── wiki/                   ← general knowledge notes
-├── references/             ← reference material
-├── sources/                ← raw source files
-├── templates/              ← page templates
-├── journal/                ← time-stamped entries
-└── pending/                ← unsorted drop zone
+|-- README.md                <- you are here
+|-- briefing.md              <- vault orientation (read first)
+|-- index.md                 <- full content routing table
+|-- SCHEMA.md                <- wiki operations manual
+|-- CLAUDE.md                <- agent behavior rules
+|-- AGENTS.md                <- Codex entry rules
+|-- log.md                   <- activity history
+|
+|-- context/
+|   |-- me.md                <- owner profile
+|   |-- now.md               <- current focus and blockers
+|   `-- goals.md             <- short and long-term direction
+|
+|-- projects/
+|   `-- pathfinder/
+|       |-- README.md        <- project router (start here for PathFinder)
+|       |-- notes/           <- derived summaries and hub pages
+|       `-- sources/         <- raw mirrored docs from the repo
+|
+|-- wiki/                    <- general knowledge notes
+|-- references/              <- external links and source anchors
+|-- sources/                 <- raw source files (`articles/`, `docs/`, `transcripts/`, ...)
+|-- templates/               <- page templates
+|-- journal/                 <- time-stamped raw capture (`daily/` is the reflection lane)
+`-- pending/                 <- unsorted drop zone
 ```
 
 ---
@@ -97,7 +98,10 @@ ADUC/
 
 ## Design Principles
 
-- **Tiered loading:** agents read briefing → context → project README before opening any source file. This keeps session start-up fast and avoids context waste.
+- **Tiered loading:** agents read `briefing -> context -> project README` before opening any source file. This keeps session startup fast and avoids context waste.
 - **Source-of-truth separation:** raw docs live in `sources/`, derived summaries live in `notes/`. Never overwrite sources with opinions.
+- **Human vs agent boundary:** daily notes and other raw reflections stay human-primary; durable synthesis belongs in `wiki/`, project notes, `index.md`, and `log.md`.
+- **Graduation over rewriting:** recurring daily-note signals should be promoted into durable pages, not folded back into the raw note until the author's voice disappears.
+- **Response-completion writeback:** if a response creates durable knowledge, the vault should be updated before that response ends.
 - **Self-healing:** every page touched in a session gets a health check (TL;DR present, updated date current, obvious wikilinks added).
 - **Bilingual:** agent-facing outputs in Vietnamese, all technical docs and code in English.

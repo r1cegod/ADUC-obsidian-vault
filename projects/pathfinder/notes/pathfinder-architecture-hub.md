@@ -2,7 +2,7 @@
 type: synthesis
 title: "PathFinder Architecture Hub"
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-04-07
 tags:
   - project/pathfinder
   - pathfinder
@@ -19,10 +19,10 @@ Use this hub for anything about graph shape, state ownership, architecture contr
 
 This hub exists to keep architecture reading hub-based instead of forcing agents to jump between multiple leaf notes directly. It is the architecture cluster center for the PathFinder project workspace.
 
-## Read Order
-1. [[projects/pathfinder/notes/docs-architecture|PathFinder Architecture]]
-2. [[projects/pathfinder/notes/docs-state-architecture|PathFinder State Architecture]]
-3. [[projects/pathfinder/notes/docs-architecture-howto|How To Write Architecture Docs For Multi-Agent AI Systems]]
+## Suggested Entry Points
+- Need the whole system shape first: [[projects/pathfinder/notes/docs-architecture|PathFinder Architecture]]
+- Need exact state ownership or field contracts: [[projects/pathfinder/notes/docs-state-architecture|PathFinder State Architecture]]
+- Need the doc-writing pattern for architecture notes: [[projects/pathfinder/notes/docs-architecture-howto|How To Write Architecture Docs For Multi-Agent AI Systems]]
 
 ## Use This Hub For
 - understanding graph topology

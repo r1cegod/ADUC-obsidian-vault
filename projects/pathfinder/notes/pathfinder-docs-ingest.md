@@ -2,7 +2,7 @@
 type: synthesis
 title: "PathFinder Docs Ingest"
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-04-07
 tags:
   - project/pathfinder
   - pathfinder
@@ -15,9 +15,11 @@ lang: en
 > **TL;DR**: The PathFinder docs corpus now exists in the vault as a project-local source mirror plus a compressed note layer covering architecture, state, prompts, context, evaluation, and workflow docs.
 
 ## Summary
-This ingest establishes the first structured knowledge layer for PathFinder inside the vault. Nineteen repo docs were mirrored into `projects/pathfinder/sources/docs/`, excluding `docs/DEV_LOG.md`, and each source now has a derived note page in `projects/pathfinder/notes/`.
+This ingest establishes the first structured knowledge layer for PathFinder inside the vault. Twenty-one repo docs are now mirrored into `projects/pathfinder/sources/docs/`, excluding `docs/DEV_LOG.md`, and each source now has a derived note page in `projects/pathfinder/notes/`.
 
 The corpus divides cleanly into five knowledge bands: architecture contracts, context and maintenance rules, prompt architecture, evaluation workflow, and contributor workflow docs. Together they describe how the system is built, how it is operated, and how behavior changes are hardened before being treated as production direction.
+
+One important distinction inside that workflow band: files under `delegated/` are human-consumption implementation walkthroughs, while `workflows/delegated_feature_how_to.md` is the protocol that teaches the LLM how to write those walkthroughs.
 
 The main practical value is routing. Future agents can start here, then jump into the specific note or raw source they need instead of scanning the entire repo docs tree from zero.
 

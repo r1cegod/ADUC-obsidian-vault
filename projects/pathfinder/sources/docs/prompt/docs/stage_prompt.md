@@ -1,4 +1,4 @@
-﻿# Stage Prompt Audit Guide
+# Stage Prompt Audit Guide
 
 Reference for writing and auditing every stage agent prompt in PathFinder.
 Updated as new patterns are discovered.

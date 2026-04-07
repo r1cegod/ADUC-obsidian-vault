@@ -2,7 +2,7 @@
 type: synthesis
 title: "PathFinder Prompt Hub"
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-04-07
 tags:
   - project/pathfinder
   - pathfinder
@@ -19,10 +19,10 @@ Use this hub for prompt audits, prompt design questions, and any task that chang
 
 This keeps prompt work disciplined and avoids bouncing between unrelated prompt notes.
 
-## Read Order
-1. [[projects/pathfinder/notes/docs-stage-prompt-audit|Stage Prompt Audit Guide]]
-2. [[projects/pathfinder/notes/docs-output-prompt-architecture|Output Compiler Prompt Architecture]]
-3. [[projects/pathfinder/notes/docs-production-system-prompts|The Complete Guide To Production-Grade System Prompts]]
+## Suggested Entry Points
+- Need stage-agent prompt rules or audit criteria: [[projects/pathfinder/notes/docs-stage-prompt-audit|Stage Prompt Audit Guide]]
+- Need output-compiler assembly behavior: [[projects/pathfinder/notes/docs-output-prompt-architecture|Output Compiler Prompt Architecture]]
+- Need the broader production prompt playbook: [[projects/pathfinder/notes/docs-production-system-prompts|The Complete Guide To Production-Grade System Prompts]]
 
 ## Use This Hub For
 - stage prompt design or audit work

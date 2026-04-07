@@ -27,6 +27,17 @@ Run this before every task. It is not optional.
 
 **Enforcement:** If you find yourself opening a wiki page, project note, or source file before completing steps 1-2, stop and go back. Skipping the tiered load is the most common failure mode.
 
+**Canonical startup rule:** every task starts `briefing.md -> context/now.md`. Only after that may the path branch into `SCHEMA.md`, `index.md`, or a project README.
+
+## Response Completion Rule
+
+Vault maintenance happens at the end of the agent's response, not only at an end-of-day or end-of-session boundary.
+
+Rule:
+- If the response ingested sources, changed wiki structure, clarified context, or created durable knowledge, update the vault before sending the response.
+- Do not rely on hidden session hooks or assumed compaction events to keep the vault current.
+- A user can still decide when a workstream is over, but the default assumption is: **finish response -> write back durable changes now**.
+
 ---
 
 ## Tiered Loading Protocol
@@ -60,7 +71,7 @@ Tier 2: wiki/, projects/   — read only the pages relevant to the task
 | `log.md` | Activity + auto-fix log | Append-only. |
 | `context/` | User profile + active state | The "brain" layer. |
 | `pending/` | Drop zone for unsorted files | Agents sort and ingest. Check on every session. |
-| `sources/` | Raw source documents | Global sources. Agents may annotate/organize. |
+| `sources/` | Raw source documents | Global sources. Use `articles/`, `docs/`, `transcripts/`, `misc/`, and `projects/` as the first filing layer. |
 | `images/` | Image sources (screenshots, diagrams, photos) | Treated as sources — agents read and reference. |
 | `references/` | Bookmarks, links, citations | External reference pages live here (not in wiki/). |
 | `wiki/` | Agent-generated knowledge pages | Core knowledge base — entities, concepts, synthesis. |
@@ -75,6 +86,7 @@ All directories are read/write for agents.
 
 - **`images/` vs `assets/`**: `images/` holds curated source images the user or agent explicitly files (screenshots, diagrams, photos). `assets/` is Obsidian's automatic attachment folder — when you paste an image into a note in Obsidian, it lands here. Agents should file images in `images/`; leave `assets/` to Obsidian.
 - **`sources/projects/` vs `projects/<name>/sources/`**: `sources/projects/` holds raw materials that don't belong to a specific project workspace yet. `projects/<name>/sources/` holds sources scoped to a specific project. When a project exists in `projects/`, its sources go there. When in doubt, put it in `projects/<name>/sources/`.
+- **`sources/transcripts/`**: use this for local transcript exports of audio/video sources. Keep the transcript as the practical raw text layer, and keep the external URL separately in a `references/` page.
 - **`references/`**: Holds reference pages (bookmarks, external links, bibliographies) — these are NOT wiki pages. They use the `tpl-reference` template and are indexed under `## References` in `index.md`.
 
 ### Project-Local vs Global Wiki Scope
@@ -87,21 +99,52 @@ When ingesting project sources, decide where wiki pages go:
 | Topic is reusable knowledge (a tool, a concept, a person, a technique) | `wiki/` (global) |
 | Unsure | Default to `wiki/` — knowledge is more valuable when discoverable globally |
 
+### Human vs Agent Write Boundary
+
+Treat the vault as two cooperating layers:
+
+- **Human-primary raw capture**: `journal/daily/`, meeting notes, rough reflections, and any note whose main value is the author's voice or unprocessed thinking
+- **Agent-maintained compiled layer**: `wiki/`, `projects/<name>/notes/`, `index.md`, and `log.md`
+
+Default rule:
+- Agents should summarize *out of* human-primary notes into compiled pages rather than rewriting the original notes into agent voice.
+- If a daily note contains a durable idea, promote it into a concept, synthesis, project note, or task page instead of over-editing the day note.
+- Exception: `context/` files and daily notes may still be updated when the task explicitly asks for it or when the conversation-triggered context rule requires it.
+
+### Daily Note Graduation
+
+`journal/daily/` is the raw reflection lane, not the final knowledge layer.
+
+Promote a daily-note fragment when it is:
+- stable enough to matter beyond one day
+- reusable across projects or questions
+- a decision, pattern, or workflow that future sessions should find quickly
+
+Good destinations:
+- reusable knowledge -> `wiki/concepts/` or `wiki/synthesis/`
+- project-specific learning -> `projects/<name>/notes/`
+- short-lived planning -> keep it in the daily note or move it to the relevant task system
+
 Project README pages always live at `projects/<name>/README.md`.
 
 ### Project Navigation Protocol
 
-For any task tied to a named project or an active project listed in `briefing.md`, agents must navigate in this order:
+For any task tied to a named project or an active project listed in `briefing.md`, agents should use the smallest sufficient route:
 
 1. `briefing.md` — confirm the active project and current vault focus
 2. `projects/<name>/README.md` — use this as the project router
-3. `projects/<name>/notes/` — read the smallest relevant summary/synthesis pages for the task
-4. `projects/<name>/sources/` — open raw project sources only when the summaries are insufficient or exact wording matters
+3. Choose the smallest next step that fits the task:
+   - stable orientation -> `projects/<name>/notes/docs-project-context.md` or equivalent
+   - live workstream -> `projects/<name>/notes/docs-current-context.md` or equivalent
+   - domain-specific work -> the relevant hub
+   - exact contract wording -> the relevant raw source
+4. Descend only when the current page is insufficient
 
 Rules:
-- Do not jump straight into `projects/<name>/sources/` unless the task is explicitly source-first.
+- Do not jump straight into `projects/<name>/sources/` unless the task is explicitly source-first or wording precision truly matters.
 - Project README must act as a task router, not just a status note.
-- If the project has cluster hubs (for example architecture, prompts, evaluation, workflow), route through the relevant hub before opening leaf notes.
+- Hubs are routing aids, not mandatory reading sequences.
+- Avoid opening multiple hubs or leaf notes by default. Pick one likely route, then stop-check.
 - Project notes are the default working knowledge layer for project-specific tasks.
 - If a reusable concept is discovered while working in a project, file it into global `wiki/` and link back from the project notes.
 
@@ -119,7 +162,8 @@ Recommended hub types:
 Hub rules:
 - Each hub routes to the smaller leaf notes inside one domain.
 - Project README links to hubs first, not just to individual leaf notes.
-- Agents should open the relevant hub before reading multiple leaf notes in the same domain.
+- Hubs should present suggested entry points by task, not a mandatory read order.
+- Agents should open the relevant hub before reading multiple leaf notes in the same domain, but should stop there if the hub already answers the routing need.
 - Hubs are preferred once a project area has 3+ related notes or is expected to keep growing.
 
 ---
@@ -186,6 +230,21 @@ lang: en
 | `reference` | `templates/tpl-reference` | `references/` |
 | `daily` | `templates/tpl-daily` | `journal/daily/` |
 
+### Specialized Ingest Templates
+
+Use these when they fit better than the generic templates:
+
+| Use case | Template |
+|----------|----------|
+| YouTube / video reference page | `templates/tpl-youtube-reference` |
+| YouTube / video source summary | `templates/tpl-youtube-source` |
+| GitHub repo / issue / PR reference page | `templates/tpl-github-reference` |
+| GitHub source summary | `templates/tpl-github-source` |
+| Reddit thread reference page | `templates/tpl-reddit-reference` |
+| Reddit source summary | `templates/tpl-reddit-source` |
+| Multi-source human-readable digest | `templates/tpl-topic-digest` |
+| Change / migration report | `templates/tpl-change-report` |
+
 ### Page Structure
 
 Every wiki page must have, in order:
@@ -241,7 +300,11 @@ Before creating any wiki page:
 |-----------|---------------|
 | Markdown (.md) | Read directly, standard ingest |
 | PDF (.pdf) | Read with PDF tool, extract text + structure |
+| Subtitle/transcript (.vtt, .srt, transcript markdown) | Normalize into markdown under `sources/transcripts/` when useful, then ingest from the normalized transcript |
 | Images (.png, .jpg, .svg) | View image, describe content, extract any text |
+| Video / YouTube | Capture metadata, create a `references/` page for the URL, extract a local transcript when possible, then ingest from the transcript plus video metadata |
+| GitHub repo / issue / PR / gist | Summarize the purpose, architecture, workflows, and caveats. Distinguish repo-level facts from marketing copy or comments |
+| Reddit post / comment thread | Capture the main claim, the strongest replies, disagreement pattern, and a reliability caveat. Treat anecdote and consensus separately |
 | Code files (.py, .js, .ts, etc.) | Summarize purpose, key functions/classes, architecture patterns. Focus on *what it does and why*, not line-by-line |
 | JSON/YAML/config | Extract schema structure, key settings, what it configures |
 | Data files (.csv, .xlsx) | Summarize columns, row count, data shape, key patterns |
@@ -318,7 +381,9 @@ When user asks to ingest an entire directory (e.g., "ingest all docs in `sources
 When processing multiple unrelated sources at once:
 - Process each source through Steps 1-7 individually
 - After all: mini-lint pass to check cross-references between newly ingested sources
+- If 2+ sources clearly belong to one topic: create or update a human-readable synthesis page so the owner can understand the topic without rereading every raw source
 - If 5+ sources: create or update a synthesis page summarizing the batch
+- Complete the writeback before sending the response; do not defer the digest or index/log updates to a later "session close"
 
 ### Image Ingest
 
@@ -337,6 +402,7 @@ Triggered when user asks to process `pending/` or as part of ingest.
 2. Determine destination for each:
    - Markdown article/note → `sources/articles/`
    - PDF/technical doc → `sources/docs/`
+   - Video/audio transcript or subtitle export → `sources/transcripts/`
    - Project material → `sources/projects/` or `projects/<name>/sources/` if project exists
    - Image (png, jpg, svg, etc.) → `images/screenshots/`, `images/diagrams/`, or `images/photos/`
    - Reference/link/citation → `references/`

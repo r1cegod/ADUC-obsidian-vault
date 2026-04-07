@@ -2,7 +2,7 @@
 type: synthesis
 title: "PathFinder Context Hub"
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-04-07
 tags:
   - project/pathfinder
   - pathfinder
@@ -19,10 +19,10 @@ Use this hub when you need to know what PathFinder is, what is being worked on n
 
 For most coding tasks, this is the first domain hub to open after the project README.
 
-## Read Order
-1. [[projects/pathfinder/notes/docs-project-context|PathFinder Project Context]]
-2. [[projects/pathfinder/notes/docs-current-context|Current Context]]
-3. [[projects/pathfinder/notes/docs-context-maintenance|Context Maintenance]]
+## Suggested Entry Points
+- Need stable project orientation: [[projects/pathfinder/notes/docs-project-context|PathFinder Project Context]]
+- Need the active workstream, blockers, or rerun commands: [[projects/pathfinder/notes/docs-current-context|Current Context]]
+- Need the rule for where new facts should live: [[projects/pathfinder/notes/docs-context-maintenance|Context Maintenance]]
 
 ## Use This Hub For
 - entering an active workstream

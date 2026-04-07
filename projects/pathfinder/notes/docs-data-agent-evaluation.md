@@ -2,7 +2,7 @@
 type: source-summary
 title: "Data Agent Evaluation Guide"
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-04-07
 tags:
   - project/pathfinder
   - pathfinder
@@ -35,6 +35,7 @@ The guide extends the normal stage-audit mindset into tool usage, query targetin
 The current repo can replay attacks and save traces, but it does not yet inject mocked tool outputs, so some of the target workflow is still aspirational.
 
 ## Related
+- [[projects/pathfinder/notes/docs-knowledge-agent-evaluation]]
 - [[projects/pathfinder/notes/docs-job-evaluation]]
 - [[projects/pathfinder/notes/docs-research-sources]]
 - [[projects/pathfinder/notes/docs-eval-run-eval]]

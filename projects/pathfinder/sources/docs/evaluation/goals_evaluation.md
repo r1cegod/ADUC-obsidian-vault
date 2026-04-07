@@ -1,5 +1,9 @@
 # Goals Agent Evaluation & Audit Log
 
+> **TL;DR**: Goals now looks stable at the stage-local handoff seam. The next stronger test is `goals_eval` replay through `output_compiler` to verify the final Vietnamese response preserves Silo's enforced `PROBE:` line.
+
+Last updated: 2026-04-07
+
 ## 1. Architecture & Understanding
 - **Extractor (Scale):** Extracts `long` horizon (`income_target`, `autonomy_level`, `ownership_model`, `team_size`) and `short` horizon (`skill_targets`, `portfolio_goal`, `credential_needed`). Enforces VERIFICATION CAP (`< 0.6` for unverified self-reports).
 - **Analyst (Silo):** Executes "The Priors Cross-Check" (checking Purpose priors like `risk_philosophy` against `ownership_model`) and "The Horizon Squeeze" (validating 5-year ambition against 1-year execution plan).
@@ -133,7 +137,47 @@
 
 ---
 
-## 6. Attack Point Checklist
+## 6. Stage 4: Output Compiler Output
+Goals now enters Stage 4 of the knowledge-agent evaluation.
+
+This stage exists to ensure Silo's stronger internal handoff still produces a production-grade student-facing response after `context_compiler` and `output_compiler` run.
+
+### 6A. Production Target And Round Plan
+- **Round:** 1 of 3 max for the Goals Stage 4 visible-response seam.
+- **Target stage:** `goals_eval` (`goals_graph -> context_compiler -> output_compiler`).
+- **What this round must prove before stopping:** the existing `eval/goals_attack.jsonl` suite replays cleanly through the wrapper graph, `compiler_prompt` still contains the Goals reasoning and trailing `PROBE:`, and the final Vietnamese reply preserves horizon mismatch, compliance detection, and prior-crash tension instead of flattening them into generic coaching.
+- **Production regression to prevent:** a sharp Goals-stage contradiction reaches `stage_reasoning.goals` but gets softened or erased by prompt assembly or the final output phrasing, leaving the student with a vague encouragement answer instead of a forced-choice squeeze.
+- **Behavior that should become stricter or more explicit:** the final reply should keep the same hard trade-off already present in Silo's handoff, especially when the student is hiding behind parent compliance, lifestyle fantasy, or an unsupported salary ladder.
+- **Behavior that should stay unchanged:** Stage 2 extractor confidence caps and the deterministic trailing `PROBE:` contract remain the source of truth; Stage 4 should only verify preservation at the visible-response seam, not reopen the stage-local contract.
+- **User-facing behavior change to surface after the run:** if the compiler now preserves sharper contradiction language, the user should explicitly confirm whether that stronger tone is the intended production direction for Goals.
+
+Stage 4 audit surface:
+- replay `goals_eval` on the existing Vietnamese student attack set
+- inspect whether `compiler_prompt` still contains the Goals reasoning and trailing `PROBE:`
+- inspect whether the final Vietnamese reply preserves the contradiction instead of softening it into generic advice
+- localize any failure to either Goals stage reasoning, compiler prompt assembly, or final output phrasing
+
+### 6B. Stage 4 Execution Results
+**Run date:** 2026-04-07  
+**Verified command:** `venv\Scripts\python eval/run_eval.py --mode multi --file eval/goals_attack.jsonl --graph goals_eval`
+
+**Replay status:** PASS after compiler-side patching.
+- All 8 attacks completed successfully through `goals_graph -> context_compiler -> output_compiler`.
+- In all 8 traces, `compiler_prompt` still contained the Goals-stage reasoning and trailing `PROBE:`.
+- In the final verified replay, the student-facing Vietnamese reply no longer leaked stray foreign-script tokens and no longer opened with generic "rất cụ thể" praise on compliance or vague answers.
+
+**Stage 4 patch set applied during the run:**
+- Tightened `backend/data/prompts/output.py` so stage-drilling replies must match the evidence quality instead of using a generic concrete-answer acknowledgment.
+- Added an exact `PROBE:` directive block in the compiler prompt so the final question must operationalize the analyst's real trade-off instead of swapping to a safer adjacent field.
+- Made `backend/output_graph.py` deterministic (`temperature=0.0`) and added a language sanitizer so non-Latin script leakage cannot survive into the final student-facing reply.
+
+**Audit summary:**
+- **Attack 1 / Abstract Millionaire:** the final reply now keeps the number + timeframe squeeze instead of rewarding empty-bucket wealth language.
+- **Attack 5 / Parent-Pleasing Civil Servant:** the final reply keeps the family-script framing visible and forces a concrete stability-vs-income choice.
+- **Attack 7 / Founder-to-Solo Flip:** the final reply now preserves the founder-vs-solo trade-off instead of collapsing into a generic follow-up.
+- **Attack 8 / Safe-Path Drift:** the final reply keeps the "everyone says so" compliance pattern in view and forces a sharper safety-vs-pay trade-off.
+
+## 7. Attack Point Checklist
 - [x] Did Scale strictly enforce the `0.6` cap on unverified self-reports?
 - [x] Did Scale block empty bucket words ("rich", "soft skills") with `< 0.5`?
 - [x] Did Silo successfully execute the Horizon Squeeze (ambition vs 1-year plan)?
@@ -143,3 +187,14 @@
 - [x] Did Silo treat parent-pleasing and safe-path answers as compliance rather than owned goals?
 - [x] Did the salary-pressure case stay capped until a real bridge was named?
 - [x] Did the founder-to-solo contradiction clear out the original founder path instead of leaving a stale lock?
+- [x] Did `compiler_prompt` preserve the Goals reasoning and trailing `PROBE:` in all Stage 4 traces?
+- [x] Did the final Vietnamese reply preserve contradiction/compliance pressure instead of generic praise?
+- [x] Did the final Vietnamese reply stay Vietnamese-only with no foreign-script leakage?
+
+## 8. Open Gap
+Goals now passes the current Stage 2 stage-local seam and the current Stage 4 stage + compiler seam on `eval/goals_attack.jsonl`.
+
+It is still not a full production-ready signoff:
+- the 3-round evaluation gate still applies for Goals
+- full orchestrator replay remains a later seam for routing and classification behavior
+- broader dataset growth is still useful even though the current Stage 4 seam is now clean

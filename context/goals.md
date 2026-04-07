@@ -8,7 +8,7 @@ status: active
 lang: en
 ---
 
-> **TL;DR**: FPT SE Scholarship result still pending. Now: harden PathFinder into a production-grade eval'd system. Build reusable AI agent portfolio. Operate with a personal knowledge system that makes agent restarts cheap.
+> **TL;DR**: FPT SE Scholarship result still pending. Now: harden PathFinder into a production-grade eval'd system, while refining the vault into a real markdown-native memory layer for agents. Build reusable AI agent portfolio. Operate with a personal knowledge system that makes agent restarts cheap.
 
 ## Current Quarter (Q2 2026)
 **Engineering:**
@@ -32,7 +32,11 @@ lang: en
 ## Learning Interests
 - Agent evaluation methodology (adversarial datasets, extraction quality, stage gate correctness)
 - Agent memory systems and retrieval
+- Obsidian / markdown-native vault architecture for agents
 - Documentation architecture for agent-facing knowledge
+- Command design for AI-assisted personal operating systems
+- Discord moderation systems (permissions, automod, ticketing, escalation design)
+- AI moderation agents (triage, evidence summarization, sanction recommendation, human-in-the-loop review)
 - Production prompt engineering (contracts, compliance resistance, edge case hardening)
 
 ## Related
