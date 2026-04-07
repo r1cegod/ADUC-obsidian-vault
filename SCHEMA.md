@@ -12,22 +12,42 @@ Owner reads it; agents read and write it; everything compounds over time.
 
 ---
 
-## Tiered Loading Protocol
+## Session Start Protocol
 
-Load context in tiers. Read the minimum, then decide if you need more.
+Run this before every task. It is not optional.
 
 ```
-Tier 0: briefing.md        (~200 tokens)  — ALWAYS read first
-         ↓ points to
-Tier 1: index.md           (~500-1500 tokens) — read to find pages
-        context/now.md     (~200 tokens) — read for current priorities
-        SCHEMA.md          (this file) — read when doing wiki operations
-         ↓ points to
-Tier 2: wiki/, projects/   — read only what's relevant to the task
+1. Read briefing.md                  ← always, no exceptions
+2. Read context/now.md               ← always, before any content file
+3. Check context/now.md updated date ← if > 7 days ago, flag before proceeding
+4. Check briefing.md Active Projects ← must match context/now.md Active Projects
+5. Check pending/                    ← if files exist, flag and offer to sort
+6. Check if user revealed new info   ← update context/ before starting task
+```
+
+**Enforcement:** If you find yourself opening a wiki page, project note, or source file before completing steps 1-2, stop and go back. Skipping the tiered load is the most common failure mode.
+
+---
+
+## Tiered Loading Protocol
+
+Load context in tiers. **Stop after each tier and ask: is this enough to complete the task?** Only descend if you genuinely need more.
+
+```
+Tier 0: briefing.md        (~200 tokens)  — ALWAYS read first. Stop here if the task is simple.
+         ↓ only if you need more
+Tier 1: context/now.md     (~200 tokens)  — read for current priorities
+        index.md           (~500-1500 tokens) — read to find specific pages
+        SCHEMA.md          (this file) — read only when doing wiki operations
+         ↓ only if you need more
+Tier 2: wiki/, projects/   — read only the pages relevant to the task
 ```
 
 **Simple task** (write code, answer a question): read `briefing.md` → stop if enough context.
 **Wiki operation** (ingest, query, lint): read `briefing.md` → `SCHEMA.md` → `index.md` → relevant pages.
+**Project task** (work on a specific active project): read `briefing.md` → identify project → open `projects/<name>/README.md` → read the relevant pages in `projects/<name>/notes/` → open raw project sources only when precision requires it.
+
+**Anti-pattern to avoid:** opening multiple content files in parallel before completing Tier 0. Parallel reads are efficient but bypass the tiered stop-check. Read briefing.md alone first, then decide.
 
 ---
 
@@ -68,6 +88,39 @@ When ingesting project sources, decide where wiki pages go:
 | Unsure | Default to `wiki/` — knowledge is more valuable when discoverable globally |
 
 Project README pages always live at `projects/<name>/README.md`.
+
+### Project Navigation Protocol
+
+For any task tied to a named project or an active project listed in `briefing.md`, agents must navigate in this order:
+
+1. `briefing.md` — confirm the active project and current vault focus
+2. `projects/<name>/README.md` — use this as the project router
+3. `projects/<name>/notes/` — read the smallest relevant summary/synthesis pages for the task
+4. `projects/<name>/sources/` — open raw project sources only when the summaries are insufficient or exact wording matters
+
+Rules:
+- Do not jump straight into `projects/<name>/sources/` unless the task is explicitly source-first.
+- Project README must act as a task router, not just a status note.
+- If the project has cluster hubs (for example architecture, prompts, evaluation, workflow), route through the relevant hub before opening leaf notes.
+- Project notes are the default working knowledge layer for project-specific tasks.
+- If a reusable concept is discovered while working in a project, file it into global `wiki/` and link back from the project notes.
+
+### Project Hub Pattern
+
+When a project grows beyond a handful of notes, add project-local synthesis hubs in `projects/<name>/notes/`.
+
+Recommended hub types:
+- `architecture-hub`
+- `context-hub`
+- `prompt-hub`
+- `evaluation-hub`
+- `workflow-hub`
+
+Hub rules:
+- Each hub routes to the smaller leaf notes inside one domain.
+- Project README links to hubs first, not just to individual leaf notes.
+- Agents should open the relevant hub before reading multiple leaf notes in the same domain.
+- Hubs are preferred once a project area has 3+ related notes or is expected to keep growing.
 
 ---
 
@@ -304,6 +357,8 @@ Triggered when user asks a question against the wiki.
 
 ### Step 1 — Search
 - Read `index.md` to identify relevant pages
+- If the question is project-specific, open `projects/<name>/README.md` before searching deeply
+- For project-specific questions, prefer `projects/<name>/notes/` over raw project sources
 - Grep wiki pages for key terms if index is insufficient
 - Read relevant wiki pages (prefer wiki over raw sources — the wiki is the compiled knowledge)
 
@@ -345,6 +400,9 @@ Triggered when user starts a new project or asks to set one up.
    └── notes/           (working notes)
    ```
 2. **Fill README.md**: use `tpl-project` template, fill in what's known
+   - README must include a clear `Start Here` section
+   - README must route by task type when possible (architecture, coding, eval, prompts, sources)
+   - README must state the source-of-truth boundary if raw sources come from an external repo
 3. **Update index.md**: add entry under `## Projects`
 4. **Update briefing.md**: add to Active Projects list
 5. **Update context/now.md**: add to Active Projects if it's a current priority
@@ -425,10 +483,29 @@ Append to `log.md`:
 
 ---
 
+## Conversation-Triggered Context Update
+
+Agents learn facts from two sources: ingested documents and live conversation. INGEST Step 6 covers documents. This rule covers conversation.
+
+**Trigger:** User reveals any of the following in conversation (not from a source doc):
+- Personal info (role, background, preferences, constraints)
+- Project status change (shipped, blocked, pivoted, deadline moved)
+- New priorities or goals
+
+**Action:** Treat it as an implicit INGEST Step 6. Before the main task:
+1. Update the relevant `context/` file (`me.md`, `now.md`, or `goals.md`)
+2. Log as `## [YYYY-MM-DD] UPDATE | context` in `log.md`
+3. Then proceed with the task
+
+**What NOT to update from conversation:** architectural decisions, code behavior, file paths, specific implementation details — verify those in the actual files first.
+
+---
+
 ## Self-Healing Protocol
 
 Every agent applies this whenever it reads vault pages — even for non-wiki tasks.
 Batch fixes at the end of your task into a single log entry.
+**Logging is mandatory — even if nothing was fixed, log what you did.**
 
 ### Auto-Fix (no approval needed):
 - Missing `updated` date → add today's date
@@ -461,6 +538,7 @@ At the end of your task, append one block to `log.md`:
 
 1. **Index splitting**: when any section exceeds 30 entries, split into domain sub-sections (e.g., `## Entities > AI`, `## Entities > Finance`)
 2. **Synthesis hubs**: when 5+ pages share a theme, create a synthesis hub page that links to all of them. Index entry points to the hub.
+   - For projects, prefer domain hubs inside `projects/<name>/notes/` before the graph gets visually noisy.
 3. **Tag registry**: at the bottom of `index.md`. Check before creating new tags. Add new tags to the registry when first used.
 4. **Archival**: `status: stub` pages not updated in 60+ days → set `status: archived`, move to "Archived" section in index
 5. **No deep nesting**: never add subdirectories beyond what's defined in this schema. Use tags and links instead.

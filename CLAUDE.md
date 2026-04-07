@@ -2,9 +2,17 @@
 
 ## Quick Start
 
-1. Read `briefing.md` for vault orientation (always do this first)
-2. Read `SCHEMA.md` for wiki operations (ingest, query, lint)
-3. Read `context/now.md` for current priorities
+**Read in order. Do not open any content file before completing Step 1.**
+
+1. Read `briefing.md` — vault orientation. Do this before anything else, including context/ files.
+2. Read `context/now.md` — current priorities. Do this before reading project files.
+3. Read `SCHEMA.md` — only if performing a wiki operation (ingest, query, lint, sort).
+
+**Session start check (run before every task):**
+- Is `context/now.md` `updated` date > 7 days ago? → Flag it, do not act on stale context.
+- Does `briefing.md` Active Projects match `context/now.md` Active Projects? → If not, reconcile before proceeding.
+- Files in `pending/`? → Flag and offer to sort before starting task.
+- Did user reveal new personal info or project status in conversation? → Update `context/` now, before the task.
 
 ---
 
@@ -31,10 +39,14 @@ See `SCHEMA.md` for the full operations manual.
 
 ## After Every Task
 
-Before ending your response, do a quick self-healing pass on any pages you touched or read:
-- Missing `updated` date? Add today's date.
-- Missing `> TL;DR`? Generate one.
-- Obvious missing wikilinks? Add them.
-- Log any auto-fixes to `log.md`.
+**This is mandatory, not optional.** Before ending your response:
 
-See `SCHEMA.md → Self-Healing Protocol` for the full rules.
+1. Self-healing pass on every page you touched or read:
+   - Missing `updated` date? Add today's date.
+   - Missing `> TL;DR`? Generate one.
+   - Obvious missing wikilinks? Add them.
+2. Log to `log.md`. Even if nothing was fixed, log what you did. No exceptions.
+   - Format: `## [YYYY-MM-DD] ACTION | Subject` — see `SCHEMA.md → Self-Healing Protocol`
+3. If user revealed new context in conversation (personal info, project status, priorities), update `context/me.md`, `context/now.md`, or `context/goals.md` as appropriate — log as `UPDATE | context`.
+
+See `SCHEMA.md → Self-Healing Protocol` for full rules.

@@ -7,11 +7,10 @@
 
 ## Active Projects
 <!-- Update this list as projects change -->
-_No active projects yet._
+- [[projects/pathfinder/README|PathFinder]] - repo docs mirrored into the vault with derived summaries
 
 ## Current Focus
-<!-- 1-2 sentences on what matters right now -->
-_Vault just initialized. First task: add sources and start ingesting._
+PathFinder scholarship demo shipped 2026-03-30. Now in eval/hardening phase — fixing `goals_graph.py` runtime break and auditing unaudited prompt stages (goals, job, major, uni). Vault bootstrapped and personal context (`context/me`) filled 2026-04-07.
 
 ## Pending
 <!-- Check pending/ for unsorted files each session -->
@@ -23,6 +22,7 @@ _Nothing in the drop zone._
 - [[context/me]] — user profile
 - [[context/now]] — current priorities (read this for task context)
 - [[context/goals]] — longer-term direction
+- [[projects/pathfinder/README|PathFinder]] — active project router; start here for PathFinder work
 - [[log.md]] — activity history
 
-**Last updated:** 2026-04-06
+**Last updated:** 2026-04-07

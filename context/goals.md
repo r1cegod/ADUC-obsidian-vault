@@ -2,26 +2,40 @@
 type: context
 title: "Goals"
 created: 2026-04-06
-updated: 2026-04-06
-tags: [context]
-status: stub
+updated: 2026-04-07
+tags: [context, auto-fixed]
+status: active
 lang: en
 ---
 
-> **TL;DR**: Longer-term direction — what you're working toward over months and years.
+> **TL;DR**: FPT SE Scholarship result still pending. Now: harden PathFinder into a production-grade eval'd system. Build reusable AI agent portfolio. Operate with a personal knowledge system that makes agent restarts cheap.
 
-## Current Quarter
-<!-- What you want to accomplish this quarter (Q2 2026) -->
+## Current Quarter (Q2 2026)
+**Engineering:**
+- Harden PathFinder: complete eval pipeline, fix all known runtime breaks, audit all prompt stages
+- Ship goals/job/major/uni prompt contracts with passing eval scores
 
-## This Year
-<!-- Bigger bets and direction for 2026 -->
+**Knowledge system:**
+- Build the vault into a reliable first-read brain for agents across active projects
+- Validate the PathFinder ingest pattern as the repeatable template for future project imports
+
+## This Year (2026)
+- Build a portfolio of 2-3 shipped AI agent projects that demonstrate full-stack depth (LangGraph, FastAPI, eval pipelines)
+- Reduce agent restart cost to near-zero: structured project memory means any session can start cold and reach productive state in <5 min
+- Standardize a vault ingest pattern that preserves source-of-truth boundaries and scales across projects
 
 ## Longer Term
-<!-- 2-3 year horizon: where do you want to be? -->
+- Ship AI systems that help real users — starting with Vietnamese students navigating career/university decisions
+- Build engineering depth in agent evaluation methodology (not just building agents, but knowing if they work)
+- Operate as a Doer, not a Thinker: ship → measure → refine loops over extended planning cycles
 
 ## Learning Interests
-<!-- Topics you want to go deep on -->
+- Agent evaluation methodology (adversarial datasets, extraction quality, stage gate correctness)
+- Agent memory systems and retrieval
+- Documentation architecture for agent-facing knowledge
+- Production prompt engineering (contracts, compliance resistance, edge case hardening)
 
 ## Related
 - [[context/me]]
 - [[context/now]]
+- [[projects/pathfinder/README]]
