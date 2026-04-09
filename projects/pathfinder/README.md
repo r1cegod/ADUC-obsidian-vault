@@ -2,7 +2,7 @@
 type: project
 title: "PathFinder"
 created: 2026-04-06
-updated: 2026-04-07
+updated: 2026-04-09
 tags:
   - project/pathfinder
   - ai
@@ -25,6 +25,7 @@ If exact wording or contract precision matters, drill into `projects/pathfinder/
 ## Task Fast Paths
 - Code bug, repo review, or implementation resume: [[projects/pathfinder/notes/docs-current-context|Current Context]]
 - Evaluation replay or trace audit: [[projects/pathfinder/notes/docs-eval-how-to-use|PathFinder Evaluation Pipeline]]
+- Cheap deterministic backend seam checks: [[projects/pathfinder/notes/docs-python-function-check-how-to-use|PathFinder Python Function Check]]
 - Prompt or student-facing behavior change: [[projects/pathfinder/notes/pathfinder-prompt-hub|PathFinder Prompt Hub]]
 - Architecture, state, or graph routing question: [[projects/pathfinder/notes/pathfinder-architecture-hub|PathFinder Architecture Hub]]
 - Documentation, handoff, or vault/repo mirroring workflow: [[projects/pathfinder/notes/pathfinder-workflow-hub|PathFinder Workflow Hub]], [[projects/pathfinder/notes/docs-repo-vault-sync-policy|Repo Vault Sync Policy]]
@@ -33,6 +34,7 @@ If exact wording or contract precision matters, drill into `projects/pathfinder/
 For the current evaluation cycle, these are the highest-value pages:
 - Live workstream: [[projects/pathfinder/notes/docs-current-context|Current Context]]
 - Evaluation workflow: [[projects/pathfinder/notes/docs-eval-how-to-use|PathFinder Evaluation Pipeline]]
+- Python seam gate: [[projects/pathfinder/notes/docs-python-function-check-how-to-use|PathFinder Python Function Check]]
 - Knowledge-agent eval contract: [[projects/pathfinder/notes/docs-knowledge-agent-evaluation|Knowledge Agent Evaluation Guide]]
 - Active retrieval-stage audits: [[projects/pathfinder/notes/docs-job-evaluation|Job Agent Evaluation And Audit Log]], [[projects/pathfinder/notes/docs-major-evaluation|Major Agent Evaluation And Audit Log]]
 - Next stage targets: [[projects/pathfinder/notes/docs-purpose-evaluation|Purpose Agent Evaluation And Audit Log]], [[projects/pathfinder/notes/docs-goals-evaluation|Goals Agent Evaluation And Audit Log]]
@@ -64,7 +66,9 @@ Core `docs/` content has been ingested into project-local sources and summarized
 - Canonical live docs: `projects/pathfinder/sources/docs/`
 - Archived repo copy: `D:\ANHDUC\Path_finder\docs (archived)\`
 - Repo dev-log mirror: `D:\ANHDUC\Path_finder\logs\DEV_LOG.md`
-- Rule: this vault now holds the live PathFinder documentation set; the repo `docs (archived)/` folder is archive-only, while `logs/DEV_LOG.md` is the one maintained repo mirror
+- Canonical dev-log day files: `projects/pathfinder/sources/docs/dev-log/days/`
+- Repo dev-log day files: `D:\ANHDUC\Path_finder\logs\dev\days\`
+- Rule: this vault now holds the live PathFinder documentation set; the repo `docs (archived)/` folder is archive-only, while the paired `DEV_LOG.md` index + day-file mirror is the one maintained repo logging exception
 
 ## Tasks
 - [x] Mirror `docs/` into project-local sources, excluding `DEV_LOG.md`

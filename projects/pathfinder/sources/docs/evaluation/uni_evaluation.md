@@ -1,8 +1,8 @@
 # University Agent Evaluation & Audit Log
 
-Updated: 2026-04-07
+Updated: 2026-04-09
 
-> TL;DR: Round 1 starts by moving `uni` off the legacy ToolNode loop onto the `job`-style retrieval seam so admissions, ROI, prestige, and international-cost checks can be evaluated through a structured `uni_research` packet.
+> TL;DR: Round 1 moved `uni` onto the explicit retrieval seam on 2026-04-07, and the 2026-04-09 confidence-lock audit confirmed that the extractor still keeps school and prestige claims below Python's `> 0.8` done gate while allowing `campus_format` to resolve categorically.
 
 ## Round 1 Production Target
 - Stage: `university`
@@ -113,3 +113,21 @@ Runtime result:
 - [x] Did `PROBE:` carry the contradiction rather than collapse into a generic school follow-up?
 - [x] Did Iris keep unverified school and prestige claims under the self-report cap?
 - [x] Did `done` stay `False` when the student had not defended the school path?
+
+## 7. 2026-04-09 Confidence-Lock Audit
+- **Production target:** align `UNI_CONFIDENT_PROMPT` with Python's shared `> 0.8` done-count gate so prestige and school-name self-report cannot be mistaken for a locked university decision.
+- **Prompt change:** the extractor now treats `0.7-0.8` as provisional, reserves `> 0.8` for lock-safe fields only, and explicitly says Python owns done counting.
+- **Replay commands:**
+  - `venv\Scripts\python eval/run_eval.py --mode multi --file eval/uni_attack.jsonl --graph uni`
+  - `venv\Scripts\python eval/run_eval.py --mode multi --file eval/uni_attack.jsonl --graph uni_eval`
+- **Audit findings:**
+  - All 8 replay runs succeeded.
+  - Every `university.done` stayed `False` in both the stage-local and `uni_eval` traces.
+  - `prestige_requirement` and `target_school` stayed at or below the self-report cap on every attack:
+    - Attack 1: `prestige_requirement=0.55`, `target_school=0.55`
+    - Attack 2: `prestige_requirement=0.55`, `target_school=0.55`
+    - Attack 3: `prestige_requirement=0.58`, `target_school=0.58`
+    - Attack 4: `prestige_requirement=0.45`, `target_school=0.60`
+  - `campus_format` rose to `0.85-0.95` across the suite, which is acceptable under the prompt contract because that field is allowed to resolve categorically from the named school. It did not flip `done=True`.
+- **Verdict:** the `uni` extractor now matches the Python gate on the fields that actually drive done counting risk. The one high-confidence field left in traces is the explicitly allowed categorical `campus_format`.
+- **Residual risk:** trace serialization still emits the same Pydantic serializer warnings.

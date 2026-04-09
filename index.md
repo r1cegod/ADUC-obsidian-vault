@@ -1,12 +1,17 @@
 # Index
 
-> Content routing table. Last updated: 2026-04-07 | Pages: 109 | Sources: 55
+> Content routing table. Last updated: 2026-04-09 | Pages: 129 | Sources: 56
 > Format: `- [[path|Display Name]] - one-liner (tags)`
 
 ---
 
 ## Entities
 <!-- People, tools, organizations, products -->
+
+## Learning
+<!-- Personal learning system: protocol, sessions, curriculum -->
+- [[learning/README|Learning Sessions]] - index of all Pre-Wire learning sessions, one per feature (learning, protocol)
+- [[wiki/pre-wire-protocol|Pre-Wire Learning Protocol]] - blueprint-first learning protocol: user drafts → agent audits → artifact challenges → user builds (learning, protocol, meta)
 
 ## Concepts
 <!-- Ideas, frameworks, methods, definitions -->
@@ -33,6 +38,8 @@
 ## Projects
 <!-- Format: - [[path|Name]] - status | one-liner -->
 - [[projects/pathfinder/README|PathFinder]] - active | vault workspace for repo docs, summaries, and project routing
+- [[projects/ielts-writing/README|IELTS Writing]] - active | 20-day band 4-5 → 7-8 protocol with schema docs (ielts, writing, learning)
+- [[projects/ielts-writing/sources/chart-generator|Task 1 Chart Generator]] - how to call gen_challenge(spec) to produce PNG charts for practice (ielts, tools)
 
 ## References
 <!-- Format: - [[references/path|Title]] - one-liner (tags) -->
@@ -144,6 +151,9 @@
 
 ### Domain
 <!-- #ai #productivity #finance #health #engineering ... -->
+- learning
+- protocol
+- meta
 - discord
 - moderation
 - memory
@@ -151,6 +161,10 @@
 - pathfinder
 - second-brain
 - ai
+- ielts
+- writing
+- schema
+- plan
 - engineering
 - architecture
 - evaluation

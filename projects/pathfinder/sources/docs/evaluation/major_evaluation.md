@@ -1,5 +1,9 @@
 # Major Agent Evaluation & Audit Log
 
+Updated: 2026-04-09
+
+> **TL;DR**: `major` already passed the current stage-local and Stage 4 wrapper seam on 2026-04-07, and the 2026-04-09 confidence-lock audit confirmed the extractor still keeps every done-driving field below Python's `> 0.8` gate on the current attack suite.
+
 ## 1. Architecture & Understanding
 - **Extractor (Nova):** Extracts `field`, `curriculum_style`, and `required_skills_coverage` from the `major_message` queue. It must enforce the verification cap so a named major stays `<= 0.6` until the student survives the curriculum / necessity squeeze.
 - **Planner / Researcher / Synthesizer (Riven):** Reads `thinking`, `purpose`, `goals`, `job`, `message_tag`, current `major` state, and `stage_reasoning.major`. It now owns search-trigger decisions, Vietnam-specific query formulation, evidence grounding, and the final `PROBE:` anchor.
@@ -108,3 +112,20 @@ Prompt changes for the draft:
 - [x] Did Nova keep unverified major claims under the self-report cap?
 - [x] Did Dreamer handling validate grit without skipping the execution-barrier search?
 - [x] Did compliance pivots stay weak instead of becoming proof?
+
+## 7. 2026-04-09 Confidence-Lock Audit
+- **Production target:** align `MAJOR_CONFIDENT_PROMPT` with Python's shared `> 0.8` done-count gate so provisional `0.7-0.8` bridge ownership cannot be mistaken for a locked major decision.
+- **Prompt change:** the extractor now treats `0.7-0.8` as provisional, reserves `> 0.8` for lock-safe fields only, and names Python as the owner of done counting.
+- **Replay commands:**
+  - `venv\Scripts\python eval/run_eval.py --mode multi --file eval/major_attack.jsonl --graph major`
+  - `venv\Scripts\python eval/run_eval.py --mode multi --file eval/major_attack.jsonl --graph major_eval`
+- **Audit findings:**
+  - All 8 replay runs succeeded.
+  - Every `major.done` stayed `False` in both the stage-local and `major_eval` traces.
+  - Fresh extractor outputs stayed below the lock gate on all done-driving fields:
+    - Attack 1: `field=0.58`, `curriculum_style=0.32`, `required_skills_coverage=0.22`
+    - Attack 2: `field=0.58`, `curriculum_style=0.56`, `required_skills_coverage=0.44`
+    - Attack 3: `field=0.60`, `curriculum_style=0.55`, `required_skills_coverage=0.45`
+    - Attack 4: `field=0.55`, `curriculum_style=0.45`, `required_skills_coverage=0.00`
+- **Verdict:** the `major` extractor now matches the Python gate cleanly. None of the audited attacks produced a lock-safe `> 0.8` score on a done-driving field.
+- **Residual risk:** trace serialization still emits the same cross-cutting Pydantic serializer warnings.

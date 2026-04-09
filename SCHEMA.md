@@ -50,14 +50,77 @@ Default for project work:
 - one targeted hub or note
 - raw sources only when precision requires it
 
-## Response Completion Rule
+## File Creation Gate
 
-Vault maintenance happens at the end of the agent's response, not only at an end-of-day or end-of-session boundary.
+**Two-phase contract: PRE-write resolve, POST-write register.**
+The most common failure mode is writing first and validating second — by then the damage (wrong type, unregistered tags, broken sync) is already in the file and requires a repair pass. Resolve before writing.
 
-Rule:
-- If the response ingested sources, changed wiki structure, clarified context, or created durable knowledge, update the vault before sending the response.
-- Do not rely on hidden session hooks or assumed compaction events to keep the vault current.
-- A user can still decide when a workstream is over, but the default assumption is: **finish response -> write back durable changes now**.
+### Phase 1 — Pre-Write (before calling the Write tool)
+
+Resolve these three questions against live vault state before writing a single character of frontmatter:
+
+```
+PRE-WRITE CHECKLIST (run before opening Write tool):
+
+A. type:
+   Open SCHEMA.md type list. Pick an existing type.
+   If none fits → add the new type to the list FIRST, then write.
+   Do NOT invent a type and register it later.
+
+B. tags:
+   Open index.md tag registry. Select from existing tags only.
+   If a genuinely new tag is needed → add it to the registry FIRST.
+   Do NOT use tags that aren't in the registry.
+   Avoid over-granular tags (e.g. task1, task2) — prefer reusable
+   domain tags (ielts, writing, schema).
+
+C. Project file?
+   If this file is a project README or adds a new project:
+   → You will need to add it to BOTH briefing.md Active Projects
+     AND context/now.md Active Projects in this same session.
+   These two lists must always match. The Session Start Protocol
+   checks for this mismatch on every session load.
+```
+
+### Phase 2 — Post-Write (immediately after Write, before any other action)
+
+```
+After every Write to the vault:
+
+1. index.md entry
+   File in wiki/, learning/, references/, or projects/?
+   → Add entry under the correct section. Bump page count.
+
+2. SCHEMA Directory Map
+   File is in a directory not listed in the Directory Map?
+   → Add the directory row now.
+
+3. SCHEMA type list
+   (Should already be registered from Phase 1 — verify only.)
+
+4. Tag registry
+   (Should already be registered from Phase 1 — verify only.)
+
+5. briefing.md Active Projects vs Navigation
+   File is a new project README?
+   → Add to briefing.md Active Projects AND context/now.md Active Projects.
+   → Do NOT add a separate Navigation entry for active projects.
+     Active Projects already routes to them. Navigation is for
+     utilities (SCHEMA, index, log, context), not active projects.
+   File is a global utility hub (protocol, schema, non-project reference)?
+   → Add to briefing.md Navigation only.
+
+6. context/now.md
+   File changes what agents should know on next session start?
+   → Update context/now.md Vault Status now.
+   If it's a new project → also update Active Projects section (not just Vault Status).
+```
+
+**Why this exists:** "write back durable changes at end of task" relies on the agent remembering — which is the failure mode. A gate that triggers per Write call cannot be forgotten.
+
+**Root cause of gate failures:** agents write first, validate second. By the time the post-write gate runs, the file has wrong types and unregistered tags that require a second edit pass. The pre-write phase eliminates this.
+
+**What is NOT covered by this gate:** edits to existing files. Those are covered by the Self-Healing Protocol below.
 
 ---
 
@@ -81,6 +144,10 @@ Tier 2: wiki/, projects/   — read only the pages relevant to the task
 
 **Anti-pattern to avoid:** opening multiple content files in parallel before completing Tier 0. Parallel reads are efficient but bypass the tiered stop-check. Read briefing.md alone first, then decide.
 
+**Note on agent tool defaults:** Claude Code defaults to parallel tool calls for efficiency. This creates a structural tension with the tiered stop-check. Resolution: parallel reads are acceptable *within* a tier (e.g., reading two Tier 1 files together is fine), but never *across* tiers (Tier 0 must complete before opening Tier 1 files). The stop-check happens between tiers, not between individual reads within a tier.
+
+**Stop-check applies to writes too:** The tiered stop-check is not just a reading rule. Creating vault files is a Tier 2+ action — it should only happen after you have completed at least Tier 0 + Tier 1 load. If you find yourself about to call the Write tool without having read briefing.md and context/now.md in this session, stop and load them first.
+
 ---
 
 ## Directory Map
@@ -89,15 +156,16 @@ Tier 2: wiki/, projects/   — read only the pages relevant to the task
 |------|----------|-------|
 | `briefing.md` | Vault orientation | Always read first. Keep under 500 tokens. |
 | `index.md` | Content routing table | Updated after every ingest. |
-| `log.md` | Activity + auto-fix log | Append-only. |
+| `log.md` | Activity log navigation | One line per day; real log blocks live under `sources/log/days/`. |
 | `context/` | User profile + active state | The "brain" layer. |
 | `pending/` | Drop zone for unsorted files | Agents sort and ingest. Check on every session. |
-| `sources/` | Raw source documents | Global sources. Use `articles/`, `docs/`, `transcripts/`, `misc/`, and `projects/` as the first filing layer. |
+| `sources/` | Raw source documents + vault activity-log source files | Global sources. Use `articles/`, `docs/`, `transcripts/`, `misc/`, `projects/`, and `log/` as the first filing layer. |
 | `images/` | Image sources (screenshots, diagrams, photos) | Treated as sources — agents read and reference. |
 | `references/` | Bookmarks, links, citations | External reference pages live here (not in wiki/). |
 | `wiki/` | Agent-generated knowledge pages | Core knowledge base — entities, concepts, synthesis. |
 | `projects/` | Project workspaces | Each project is self-contained with its own sources/notes. |
 | `journal/daily/` | Daily notes | YYYY-MM-DD.md format. |
+| `learning/` | Learning sessions | One file per feature attempt, following `wiki/pre-wire-protocol`. Index at `learning/README.md`. Session files live in `learning/sessions/`. |
 | `templates/` | Obsidian templates | User-managed. |
 | `assets/` | Obsidian attachments | Auto-managed by Obsidian when pasting/embedding into notes. |
 
@@ -108,6 +176,7 @@ All directories are read/write for agents.
 - **`images/` vs `assets/`**: `images/` holds curated source images the user or agent explicitly files (screenshots, diagrams, photos). `assets/` is Obsidian's automatic attachment folder — when you paste an image into a note in Obsidian, it lands here. Agents should file images in `images/`; leave `assets/` to Obsidian.
 - **`sources/projects/` vs `projects/<name>/sources/`**: `sources/projects/` holds raw materials that don't belong to a specific project workspace yet. `projects/<name>/sources/` holds sources scoped to a specific project. When a project exists in `projects/`, its sources go there. When in doubt, put it in `projects/<name>/sources/`.
 - **`sources/transcripts/`**: use this for local transcript exports of audio/video sources. Keep the transcript as the practical raw text layer, and keep the external URL separately in a `references/` page.
+- **`sources/log/`**: this is the source lane for the global vault activity log. `sources/log/days/YYYY-MM-DD.md` holds the real daily activity notes, while `log.md` stays as the navigation index.
 - **`references/`**: Holds reference pages (bookmarks, external links, bibliographies) — these are NOT wiki pages. They use the `tpl-reference` template and are indexed under `## References` in `index.md`.
 
 ### Project-Local vs Global Wiki Scope
@@ -125,12 +194,26 @@ When ingesting project sources, decide where wiki pages go:
 Treat the vault as two cooperating layers:
 
 - **Human-primary raw capture**: `journal/daily/`, meeting notes, rough reflections, and any note whose main value is the author's voice or unprocessed thinking
-- **Agent-maintained compiled layer**: `wiki/`, `projects/<name>/notes/`, `index.md`, and `log.md`
+- **Agent-maintained compiled layer**: `wiki/`, `projects/<name>/notes/`, `index.md`, and the `log.md` navigation layer plus `sources/log/`
 
 Default rule:
 - Agents should summarize *out of* human-primary notes into compiled pages rather than rewriting the original notes into agent voice.
 - If a daily note contains a durable idea, promote it into a concept, synthesis, project note, or task page instead of over-editing the day note.
 - Exception: `context/` files and daily notes may still be updated when the task explicitly asks for it or when the conversation-triggered context rule requires it.
+
+### Two-Layer Human Log Pattern
+
+For project-local human logs, mirrored project dev logs, and the global vault activity log, prefer a two-layer structure:
+
+- index file: short navigation only, one line per day
+- day files: the real note, one markdown file per day
+
+Rules:
+
+- update the existing day file if the same day changes again
+- keep human-written day files short and readable
+- do not turn the index into the real log
+- this pattern is preferred for project-local logs and the global vault activity log
 
 ### Daily Note Graduation
 
@@ -203,7 +286,7 @@ Required on every wiki page, project page, and reference page:
 
 ```yaml
 ---
-type: entity | concept | synthesis | source-summary | project | reference | context
+type: entity | concept | synthesis | source-summary | project | reference | context | learning-session | hub | note
 title: "Human-readable title"
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
@@ -548,7 +631,7 @@ Health-check the wiki. Run periodically (suggest every ~20 ingests or on request
 - `context/goals.md` older than 90 days → suggest review
 
 ### Step 7 — Report
-Append to `log.md`:
+Append to the current day file in `sources/log/days/`:
 ```markdown
 ## [YYYY-MM-DD] LINT
 
@@ -581,7 +664,7 @@ Agents learn facts from two sources: ingested documents and live conversation. I
 
 **Action:** Treat it as an implicit INGEST Step 6. Before the main task:
 1. Update the relevant `context/` file (`me.md`, `now.md`, or `goals.md`)
-2. Log as `## [YYYY-MM-DD] UPDATE | context` in `log.md`
+2. Log as `## [YYYY-MM-DD] UPDATE | context` in the current day file under `sources/log/days/`
 3. Then proceed with the task
 
 **What NOT to update from conversation:** architectural decisions, code behavior, file paths, specific implementation details — verify those in the actual files first.
@@ -606,18 +689,27 @@ Batch fixes at the end of your task into a single log entry.
 - Missing link between pages that clearly relate → add wikilink
 - Stub fillable from information already in context → expand
 
-### Flag Only (log to `## Data Holes` in `log.md`, don't modify):
+### Flag Only (log to `sources/log/DATA_HOLES.md`, don't modify):
 - Gap requiring a new source to fill
 - Contradictions needing user judgment
 - Probable duplicates the agent isn't sure about
 
 ### Logging Format
-At the end of your task, append one block to `log.md`:
+At the end of your task, append one block to the current day file in `sources/log/days/`:
 ```
 ## [YYYY-MM-DD] AUTO-FIX | <task description>
 - **AUTO-FIX** [[page]] — what was fixed
 - **FLAG** [[page]] — issue + suggested action
 ```
+
+After updating the day file, sync `log.md` directly with the Edit tool:
+- New day file? → insert a new line at the top of the entries block (newest-first)
+- Summary changed? → edit the matching line in `log.md`
+- Entry added, summary unchanged? → no `log.md` update needed
+
+Line format: `- YYYY-MM-DD | {Summary} | [entry](./sources/log/days/YYYY-MM-DD.md)`
+
+See `sources/log/HOW_TO_WRITE.md` for full rules.
 
 ### Stable Router Exception
 

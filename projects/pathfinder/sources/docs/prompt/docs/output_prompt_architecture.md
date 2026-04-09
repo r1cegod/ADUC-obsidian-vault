@@ -68,6 +68,47 @@ Step 3 — Compile
 </instruction>
 ```
 
+Authoritative live contract:
+The legacy excerpt above is deprecated; audit against the block below.
+
+```xml
+<instruction>
+Reason through the following steps before writing your response.
+
+Step 1 â€” Read the Ending Reason
+  What it is: the normalized ending reason injected by Python. It includes:
+    - family
+    - primary_pattern
+    - optional supporting_patterns
+    - raw details
+  Read family first. Use primary_pattern only to sharpen wording.
+
+Step 2 â€” Tone
+  What it is: the register for your closing, derived from family.
+    boundary_violation      â†’ calm, firm, short. No anger, no sarcasm, no softening.
+    cannot_engage           â†’ warm, non-judgmental, steady. Acknowledge that the
+                             conversation cannot move productively right now.
+    active_resistance       â†’ warm but clear. Acknowledge difficulty, but make it
+                             clear the process only works with direct engagement.
+    instability_in_answers  â†’ calm and matter-of-fact. Make it clear the conversation
+                             needs a steadier base before continuing.
+    unknown                 â†’ calm, neutral, minimal.
+
+  Let primary_pattern refine the wording:
+    troll           â†’ strongest boundary.
+    disengagement   â†’ low-energy / cannot-engage framing.
+    vague           â†’ not enough clarity to continue usefully.
+    avoidance       â†’ core topics kept getting avoided.
+    contradict      â†’ answers need a more stable base.
+    compliance      â†’ return when ready to answer more directly.
+
+Step 3 â€” Compile
+  Write your closing message in Vietnamese. 2-3 sentences. No questions.
+  Do not reveal family names, pattern names, counters, or internal logic.
+  Do not offer to continue right now. Close cleanly.
+</instruction>
+```
+
 ---
 
 **Case A — Bypass**
@@ -81,7 +122,7 @@ CASE_A_INSTRUCTION
   │  AVOIDANCE · VAGUE                                              │
   └─────────────────────────────────────────────────────────────────┘
   ┌─ message blocks (Python injects active signals) ────────────────┐
-  │  USER_DRILL · CELEBRATE · FIRM · DISENGAGEMENT                  │
+  │  CELEBRATE · FIRM · DISENGAGEMENT                               │
   └─────────────────────────────────────────────────────────────────┘
 GUARDRAILS
 RESPONSE_RULES_A
@@ -152,12 +193,12 @@ CASE_B1_INSTRUCTION
   │  AVOIDANCE · VAGUE                                              │
   └─────────────────────────────────────────────────────────────────┘
   ┌─ message blocks (Python injects active signals) ────────────────┐
-  │  USER_DRILL · CELEBRATE · FIRM · DISENGAGEMENT · REDIRECT       │
-  │  REBOUND [pending] · CONTRADICT [pending]                       │
+  │  CELEBRATE · FIRM · DISENGAGEMENT · REDIRECT                    │
+  │  CONTRADICT_SUGGESTION                                          │
   └─────────────────────────────────────────────────────────────────┘
   ┌─ stage blocks  (Python injects always in B1) ───────────────────┐
   │  STAGE_CONTEXT · STAGE_PROGRESS · PROFILE_CONTEXT (+ PROBE)     │
-  │  STAGE_DRILL                                                    │
+  │  CROSS_STAGE_CONTEXT · ANCHOR_MODE · STAGE_DRILL                │
   └─────────────────────────────────────────────────────────────────┘
 GUARDRAILS
 RESPONSE_RULES_B
@@ -350,27 +391,27 @@ signal means for this response — NOT "do X if Y." Python decides whether to in
 | `BURNOUT_BLOCK` | `burnout_risk=True` |
 | `PARENTAL_PRESSURE_BLOCK` | `parental_pressure=True` |
 | `URGENCY_BLOCK` | `urgency=True` |
-| `CORE_TENSION_BLOCK` | `core_tension=True` |
+| `CORE_TENSION_OPERATIVE_BLOCK` / `CORE_TENSION_SIGNAL_BLOCK` | `core_tension=True` |
 | `SELF_AUTHORSHIP_BLOCK` | `self_authorship != ""` |
-| `REALITY_GAP_BLOCK` | `reality_gap=True` |
-| `COMPLIANCE_PROBE_BLOCK` | `compliance_turns >= 3` (levels: low / medium / high / critical) |
-| `AVOIDANCE_BLOCK` | `avoidance_turns >= 3` |
-| `VAGUE_BLOCK` | `vague_turns >= 3` |
+| `REALITY_GAP_OPERATIVE_BLOCK` / `REALITY_GAP_SIGNAL_BLOCK` | `reality_gap=True` |
+| `COMPLIANCE_OPERATIVE_BLOCK` / `COMPLIANCE_SIGNAL_BLOCK` | `compliance_turns >= 3` (levels: low / medium / high / critical) |
+| `AVOIDANCE_OPERATIVE_BLOCK` / `AVOIDANCE_SIGNAL_BLOCK` | `avoidance_turns >= 3` |
+| `VAGUE_OPERATIVE_BLOCK` / `VAGUE_SIGNAL_BLOCK` | `vague_turns >= 3` |
 
 ---
 
 **Message blocks** — per-turn signals, Case A + B1
 
-Injected based on this turn's message classification. Mutually exclusive for mode
-signals (FIRM / DISENGAGEMENT / CELEBRATE); USER_DRILL is additive.
+Injected based on this turn's message classification. Case A uses operative mode blocks.
+Case B1 uses signal-only framing blocks so stage ownership still comes from the active
+stage reasoning and PROBE.
 
 | Block | Trigger |
 |---|---|
-| `USER_DRILL_BLOCK` | `user_drill=True` — overrides content priority this turn |
-| `CELEBRATE_BLOCK` | `message_type="genuine_update"` |
-| `FIRM_BLOCK` | `message_type="troll"` |
-| `DISENGAGEMENT_BLOCK` | `disengagement_turns >= 3` — overrides USER_DRILL |
-| `REDIRECT_BLOCK` | `forced_stage` set OR stage mismatch (B1 only) |
+| `CELEBRATE_OPERATIVE_BLOCK` / `CELEBRATE_SIGNAL_BLOCK` | `message_type="genuine_update"` |
+| `FIRM_OPERATIVE_BLOCK` / `FIRM_SIGNAL_BLOCK` | `message_type="troll"` |
+| `DISENGAGEMENT_OPERATIVE_BLOCK` / `DISENGAGEMENT_SIGNAL_BLOCK` | `disengagement_turns >= 3` |
+| `PIVOT_REDIRECT_SIGNAL_BLOCK` | one shared pivot lane: `contradict` wins; otherwise cross-stage drift becomes a brief pivot offer without replacing the active-stage move |
 
 ---
 
@@ -382,9 +423,11 @@ Always injected in B1. Carry analyst output into the compiler.
 |---|---|
 | `STAGE_CONTEXT_BLOCK` | Current stage name |
 | `STAGE_PROGRESS_BLOCK` | Fields extracted / fields still needed |
-| `PROFILE_CONTEXT_BLOCK` | Full analyst reasoning for related stages, including PROBE directive at end |
+| `PROFILE_CONTEXT_BLOCK` | Full analyst reasoning for the active `anchor_stage`, including PROBE directive at end |
+| `CROSS_STAGE_CONTEXT_BLOCK` | Reference-only reasoning from other mentioned stages |
+| `ANCHOR_MODE_BLOCK` | Explains when `anchor_stage` temporarily differs from logical `current_stage` |
 | `STAGE_DRILL_BLOCK` | Active constraint count (parental_pressure, core_tension, reality_gap, avoidance) |
-| `CONTRADICT_BLOCK` | `stage.contradict=True` — student referenced a past stage [PENDING] |
+| `PIVOT_REDIRECT_SIGNAL_BLOCK` | One audited block that both acknowledges the cross-stage pull and offers a short optional pivot while preserving the active-stage question |
 
 ---
 
@@ -412,20 +455,25 @@ The output compiler reads this as the natural conclusion of the analyst's reason
 and treats it as its own move. No Python extraction needed. The CASE_B1_INSTRUCTION
 teaches it to "let PROBE anchor your question" — the rest follows.
 
-**user_drill always wins — but the instruction never mentions it.**
-Python injects USER_DRILL_BLOCK when active. The block itself contains the handling
-instruction. The CASE_*_INSTRUCTION says nothing about user_drill specifically. This
-keeps the instruction clean and avoids the model second-guessing the injection.
+**Case A owns operations; Case B1/B2 own stage moves.**
+Case A may receive operative blocks that directly shape the counseling move. Case B1/B2
+receive additive context plus signal blocks only: they calibrate tone, pacing, and pressure,
+but the move still belongs to the active stage reasoning or path-debate attack vector.
+
+**Current tension split is asymmetric on purpose.**
+`reality_gap` stays operative in B1/B2 because it is treated as a live feasibility attack,
+not just background context. `core_tension` stays additive in B1/B2: it sharpens framing,
+but should not compete with the stage move or the path-debate attack vector.
 
 **No SCOPE block.**
 Identity's "what you do NOT do" covers scope. A separate SCOPE block splits what
 should be one coherent role description into two places, creating redundancy and
 potential contradiction.
 
-**path_debate_ready gated by parental_pressure.**
-B2 fires only when all 6 stages done=True AND parental_pressure=False. Students who
-cannot self-author do not enter path debate. The gate lives in stage_manager (Python),
-not in the output compiler prompt — the compiler never needs to know about this rule.
+**path_debate_ready is Python-gated, not prompt-gated.**
+B2 fires only when all 6 stages are done, blocking user constraints are clear, and the
+orchestrator routed this turn to bypass/output instead of more drilling. The gate lives in
+`stage_manager` (Python), not in the output compiler prompt.
 
 **RESPONSE_RULES split pending.**
 Current RESPONSE_RULES_BLOCK has stage-specific rules (stage_drill reference, 2-5

@@ -28,12 +28,13 @@ It drills past surface-level answers and maps verified preferences to jobs, majo
 - Evaluation pipeline: `eval/HOW_TO_USE.md`
 - Context maintenance: `projects/pathfinder/sources/docs/context/how to/context_maintenance.md`
 - Knowledge-agent guide: `projects/pathfinder/sources/docs/evaluation/knowledge_agent_evaluation.md`
-- Decision log: `projects/pathfinder/sources/docs/DEV_LOG.md`
+- Decision log index: `projects/pathfinder/sources/docs/DEV_LOG.md`
+- Decision log day files: `projects/pathfinder/sources/docs/dev-log/days/`
 
 ## Archive Boundary
 - Canonical live docs now live in this vault under `projects/pathfinder/sources/docs/`.
 - The repo copy at `D:\ANHDUC\Path_finder\docs (archived)\` is archived reference material only.
-- Exception: `D:\ANHDUC\Path_finder\logs\DEV_LOG.md` is a required repo mirror of the canonical vault dev log and must be updated together with `projects/pathfinder/sources/docs/DEV_LOG.md`.
+- Exception: `D:\ANHDUC\Path_finder\logs\DEV_LOG.md` plus `D:\ANHDUC\Path_finder\logs\dev\days\` are the required repo mirror of the canonical vault dev log and must be updated together with the vault day files.
 - Use `projects/pathfinder/README.md` and the domain hubs in `projects/pathfinder/notes/` as the routing layer before opening raw docs.
 
 ## Code Entry Points
@@ -60,7 +61,7 @@ It drills past surface-level answers and maps verified preferences to jobs, majo
 - Start session context from `PROJECT_CONTEXT.md`, then `CURRENT_CONTEXT.md`, and keep both aligned with `context_maintenance.md`.
 - Do not treat the repo `docs (archived)/` folder as live documentation anymore.
 - Do not create or update delegated/workflow docs under `D:\ANHDUC\Path_finder\docs (archived)\`. Put new operational docs in the vault or repo live locations only.
-- `DEV_LOG.md` is the one mirrored exception: append the same durable entry to both the canonical vault copy and the repo mirror at `D:\ANHDUC\Path_finder\logs\DEV_LOG.md`.
+- `DEV_LOG.md` is the one mirrored exception: update the same day file in both the canonical vault path and the repo mirror, then rebuild the paired indexes.
 
 ## Quick Checks
 - API smoke test: `python test.py`

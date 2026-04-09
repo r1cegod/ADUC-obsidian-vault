@@ -2,6 +2,8 @@
 
 > **TL;DR**: This guide defines how to evaluate PathFinder's pure reasoning stages: `thinking`, `purpose`, and `goals`. Their hardening seam is not retrieval quality but whether the extractor, analyst, and final compiler-output all preserve the intended contradiction and `PROBE:`.
 
+Last updated: 2026-04-09
+
 ## Purpose
 This document defines the evaluation model for PathFinder's knowledge agents:
 

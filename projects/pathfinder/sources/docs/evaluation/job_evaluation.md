@@ -1,5 +1,7 @@
 # Job Agent Evaluation & Audit Log
 
+Updated: 2026-04-09
+
 > **TL;DR**: `job` first exposed retrieval-stage failures around search and post-tool synthesis, and on 2026-04-07 it also passed the current Stage 4 `job_eval` seam: all 4 attacks kept populated research, a surviving `PROBE:`, and a sharp final Vietnamese contradiction.
 
 ## 1. Architecture & Understanding
@@ -142,3 +144,20 @@ Runtime result:
 - `job` now passes the current Stage 4 stage + compiler seam on `eval/job_attack.jsonl`.
 - This is still not full-system proof. The wrapper graph skips orchestrator routing, message-tag classification, and counter behavior.
 - Residual risk: trace-time Pydantic serializer warnings still fire around structured outputs. They did not break the run, but they should be cleaned before treating the same seam as settled for the remaining retrieval stages.
+
+## 8. 2026-04-09 Confidence-Lock Audit
+- **Production target:** align the `JOB_CONFIDENT_PROMPT` lock language with Python's shared `DONE_CONFIDENCE_THRESHOLD = 0.8` so `0.7-0.8` is explicitly provisional, not counted behavior.
+- **Prompt change:** the extractor now says `0.7-0.8` is still provisional, `> 0.8` is the only lock-safe band, and downstream Python is the owner of done counting.
+- **Replay commands:**
+  - `venv\Scripts\python eval/run_eval.py --mode multi --file eval/job_attack.jsonl --graph job`
+  - `venv\Scripts\python eval/run_eval.py --mode multi --file eval/job_attack.jsonl --graph job_eval`
+- **Audit findings:**
+  - All 8 replay runs succeeded.
+  - Every `job.done` stayed `False` in both the stage-local and `job_eval` traces.
+  - Fresh extractor outputs stayed below the lock gate on all done-driving fields:
+    - Attack 1: `role_category=0.60`, `company_stage=0.60`, `day_to_day=0.40`, `autonomy_level=0.50`
+    - Attack 2: `role_category=0.40`, `company_stage=0.00`, `day_to_day=0.40`, `autonomy_level=0.40`
+    - Attack 3: `role_category=0.55`, `company_stage=0.55`, `day_to_day=0.45`, `autonomy_level=0.55`
+    - Attack 4: `role_category=0.55`, `company_stage=0.00`, `day_to_day=0.48`, `autonomy_level=0.00`
+- **Verdict:** the prompt contract now matches the Python gate. No `job` attack crossed `> 0.8` on a done-driving field after the audit patch.
+- **Residual risk:** serializer-warning noise is still present in trace output.

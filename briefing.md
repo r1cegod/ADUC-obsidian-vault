@@ -10,9 +10,10 @@
 ## Active Projects
 <!-- Update this list as projects change -->
 - [[projects/pathfinder/README|PathFinder]] - repo docs mirrored into the vault with derived summaries
+- [[projects/ielts-writing/README|IELTS Writing]] - 20-day protocol: band 4-5 → 7-8, schema-based docs
 
 ## Current Focus
-PathFinder is in eval/hardening phase. All six stage wrappers now pass the current Stage 4 seam; the next decision is whether to clean serializer warnings first or open a broader orchestrator/full-path hardening pass. Read [[context/now]] for live blockers and next actions.
+PathFinder is in eval/hardening phase. The grouped Python-function check workflow is now in place and passing across shared utils, orchestrator policy, stage-helper parity, and output/evaluation seams; the next production move is the broader full eval pass. Read [[context/now]] for live blockers and next actions.
 
 ## Pending
 <!-- Check pending/ for unsorted files each session -->
@@ -25,6 +26,7 @@ _Nothing in the drop zone._
 - [[context/now]] - current priorities (read this for task context)
 - [[context/goals]] - longer-term direction
 - [[projects/pathfinder/README|PathFinder]] - active project router; start here for PathFinder work
-- [[log.md]] - activity history
+- [[learning/README]] - learning sessions index; start here for any Pre-Wire learning session
+- [[log.md]] - activity-history navigation
 
-**Last updated:** 2026-04-07
+**Last updated:** 2026-04-09

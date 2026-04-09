@@ -87,7 +87,7 @@ graph TD
 
 | Component | Technology | Why this, not the alternative |
 |-----------|-----------|-------------------------------|
-| **Orchestration** | LangGraph | Graph-based state machine with built-in checkpointing and conditional routing. Needed for multi-stage advisory flow with rebound/contradiction handling. Alternative (raw LangChain) lacks state persistence and graph visualization. |
+| **Orchestration** | LangGraph | Graph-based state machine with built-in checkpointing and conditional routing. Needed for multi-stage advisory flow with anchor-stage detours, contradiction handling, and compiler case switching. Alternative (raw LangChain) lacks state persistence and graph visualization. |
 | **LLM (orchestrator)** | GPT-5.4 | Needs to classify 7 message types + write 13 UserTag fields + detect multi-turn patterns in a single structured output call. Mini model misclassifies edge cases (compliance vs. genuine vagueness). |
 | **LLM (agents + output)** | GPT-5.4-mini | Scoring, chatbot, and output compilation are simpler tasks — extract fields, ask one question, format response. 10x cheaper than full model. |
 | **Validation** | Pydantic v2 | `ConfigDict(extra="forbid")` on all structured output classes prevents the LLM from hallucinating extra fields. `.model_dump()` enforces TypedDict compatibility at every state boundary. |
@@ -105,7 +105,7 @@ graph TD
 | **check_node** | Token counting, route to summarizer | None (Python) | `messages` | `limit_hit` |
 | **summarizer_node** | Compress conversation history | gpt-5.4-mini | `messages`, `summary`, `user_tag` | `messages` (removals), `summary` |
 | **input_parser** | Classify message, tag user, detect patterns | gpt-5.4 | `messages`, `user_tag`, `stage` | `message_tag`, `user_tag`, `bypass_stage`, `stage` (partial) |
-| **stage_manager** | Route to correct stage, detect contradictions | None (Python) | `stage`, `contradict_count`, `rebound_count` | `stage` (full), `contradict_count`, `rebound_count` |
+| **stage_manager** | Own live stage routing, detours, and contradiction handling | None (Python) | `stage`, profiles, `contradict_count` | `stage` (full), `contradict_count`, `path_debate_ready`, `stage_transitioned` |
 | **counter_manager** | Manage all 6 decay counters + 10-turn window | None (Python) | `message_tag`, all counters, `trigger_window` | All counters, `trigger_window`, `escalation_pending` |
 | **scoring_node** | Extract FieldEntry values; set `profile.done` when complete | gpt-5.4-mini | `{stage}_message`, current profile | Current profile fields |
 | **analyst_node** | Write per-turn analysis to `stage_reasoning.{stage}` | gpt-5.4-mini | `{stage}_message`, current profile, `stage_reasoning` | `stage_reasoning.{stage}` |
@@ -149,8 +149,6 @@ class MessageTag(BaseModel):
     # "true" | "vague" | "troll" | "genuine_update"
     # | "disengaged" | "avoidance" | "compliance"
 
-    user_drill: bool = False        # answer needs more depth
-    user_drill_reason: str = ""     # WHY — injected into output prompt
     response_tone: str = "socratic" # "socratic" | "firm" | "redirect"
 ```
 
@@ -231,7 +229,7 @@ class UserTag(BaseModel):
 
 **Context**: The output LLM needs different instructions depending on the student's state: bypass mode (greeting), normal counseling, or escalation (session end). Within normal counseling, 0-6 optional blocks can stack (compliance probe, parental pressure, core tension, etc.).
 
-**Decision**: The `context_compiler` assembles a system prompt from **static base blocks** (always present, ~200 tokens) plus **volatile blocks** selected by Python logic. Three mutually exclusive cases (bypass ~400tok, stage ~600-1200tok, escalation ~300tok). Within stage mode, USER blocks are additive — multiple can stack.
+**Decision**: The `context_compiler` assembles a system prompt from **static base blocks** (always present, ~200 tokens) plus **volatile blocks** selected by Python logic. Three mutually exclusive cases (bypass ~400tok, stage ~600-1200tok, escalation ~300tok). Case A uses operative blocks; Case B1/B2 use signal blocks so stage ownership still stays with the active analyst move.
 
 **Consequences**: Token budget is predictable per case. Adding a new behavioral signal means adding one new block template and one condition in the compiler — no prompt rewrite needed. The output LLM never receives irrelevant instructions.
 
@@ -283,18 +281,17 @@ class UserTag(BaseModel):
 
 ## Reliability: Counter System
 
-Seven decay counters protect against adversarial or disengaged behavior:
+Six decay counters protect against adversarial or disengaged behavior:
 
 ```
-COUNTER              TRIGGER                 DECAY       WARN    ESCALATE
+COUNTER              TRIGGER                    DECAY       WARN    ESCALATE
 ────────────────     ────────────────────    ─────────   ─────   ────────
-troll_warnings       message_type="troll"    max(0,-1)   —       direct
-compliance_turns     message_type="compliance" max(0,-1) —       at 10
-disengagement_turns  message_type="disengaged" max(0,-1) >= 3    >= 4
-avoidance_turns      message_type="avoidance" max(0,-1)  >= 3    >= 4
-vague_turns          message_type="vague"    max(0,-1)   >= 3    >= 4
-contradict_count     stage.contradict=True   max(0,-1)   —       direct
-rebound_count        stage.rebound=True      max(0,-1)   —       direct
+troll_warnings       message_type="troll"      max(0,-1)   —       direct
+compliance_turns     message_type="compliance" max(0,-1)   —       at 10
+disengagement_turns  message_type="disengaged" max(0,-1)   >= 3    >= 4
+avoidance_turns      message_type="avoidance"  max(0,-1)   >= 3    >= 4
+vague_turns          message_type="vague"      max(0,-1)   >= 3    >= 4
+contradict_count     stage.contradict=True     max(0,-1)   —       direct
 ```
 
 **10-turn silent window**: Every 10 turns, `trigger_window` checks if any counter triggered >= 5 times (50%). Compliance gets forced to 9 (one more chance). All others trigger `escalation_pending = True` directly. Window resets after each check.
@@ -325,3 +322,4 @@ rebound_count        stage.rebound=True      max(0,-1)   —       direct
 > **File map**: State contract → [`state_architecture.md`](state_architecture.md) · Output compiler challenge → [`CHALLENGE.md`](CHALLENGE.md) · Pydantic models → [`backend/data/state.py`](backend/data/state.py) · Orchestrator → [`backend/orchestrator_graph.py`](backend/orchestrator_graph.py)
 
 *Built by Anh Duc — FPT University SE Scholarship portfolio piece.*
+

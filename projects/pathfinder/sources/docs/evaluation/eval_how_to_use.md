@@ -1,6 +1,8 @@
 # PathFinder Evaluation Pipeline
 
-`eval/HOW_TO_USE.md` is the single official workflow for creating, running, and closing evaluation work in this repo.
+Last updated: 2026-04-09
+
+This doc is the official replay-evaluation workflow for creating, running, and closing higher-cost evaluation work in PathFinder.
 
 Use this file for:
 - the evaluation workflow
@@ -8,13 +10,16 @@ Use this file for:
 - runner commands and trace locations
 - the context docs required before starting
 
-Other docs may hold evaluation context or stage-specific findings, but they should point back here for the actual pipeline.
+Companion deterministic backend checks now live in:
+- `projects/pathfinder/sources/docs/evaluation/python_function_check_how_to_use.md`
+
+Other docs may hold evaluation context or stage-specific findings, but replay-oriented docs should point back here for the actual replay pipeline.
 
 ---
 
 ## Purpose
 
-PathFinder evaluations are not just runner commands. They are a production-hardening workflow.
+PathFinder replay evaluations are not just runner commands. They are a production-hardening workflow.
 
 An evaluation cycle is only complete when it:
 - starts from an explicit production behavior target
@@ -42,6 +47,7 @@ Read these before non-trivial evaluation work:
 - Output prompt rules: `D:\ANHDUC\ADUC_vault\ADUC\projects\pathfinder\sources\docs\prompt\docs\output_prompt_architecture.md`
 - Prompt implementation guide: `D:\ANHDUC\ADUC_vault\ADUC\projects\pathfinder\sources\docs\prompt\how to\production_system_prompts.md`
 - Knowledge-agent guide: `D:\ANHDUC\ADUC_vault\ADUC\projects\pathfinder\sources\docs\evaluation\knowledge_agent_evaluation.md`
+- Deterministic backend seam guide: `D:\ANHDUC\ADUC_vault\ADUC\projects\pathfinder\sources\docs\evaluation\python_function_check_how_to_use.md`
 
 Use stage-specific evaluation logs when relevant:
 
@@ -196,8 +202,9 @@ This is required when the hardened behavior could alter the product's tone, aggr
 When the cycle is complete:
 - update the stage-specific evaluation log
 - update `D:\ANHDUC\ADUC_vault\ADUC\projects\pathfinder\sources\docs\context\docs\CURRENT_CONTEXT.md`
-- update `D:\ANHDUC\ADUC_vault\ADUC\projects\pathfinder\sources\docs\DEV_LOG.md` if the decision should persist
-- mirror the same dev-log entry into `D:\ANHDUC\Path_finder\logs\DEV_LOG.md`
+- update the current canonical dev-log day file under `D:\ANHDUC\ADUC_vault\ADUC\projects\pathfinder\sources\docs\dev-log\days\` if the decision should persist
+- mirror the same day-file update into `D:\ANHDUC\Path_finder\logs\dev\days\`
+- rebuild both `DEV_LOG.md` indexes after the day-file update
 - update canonical architecture or state docs in the vault if contracts changed
 
 Production-ready requires all 3 rounds to be complete for the target stage:

@@ -28,7 +28,8 @@ User message
 │                                    WRITES:     │              │
 │                                    stage (full)│              │
 │                                    contradict_count           │
-│                                    rebound_count              │
+│                                    path_debate_ready          │
+│                                    stage_transitioned         │
 │                                                │              │
 │                                                ▼              │
 │                                         counter_manager       │
@@ -82,10 +83,11 @@ User message
 | Field | Type | Writer | Reader | Lifecycle | Exit |
 |---|---|---|---|---|---|
 | `stage` | `StageCheck` | input_parser (partial), stage_manager (full) | stage_manager, counter_manager, output compiler | Updated each turn | N/A |
-| `stage.current_stage` | `str` | stage_manager | All downstream | Advances on profile.done | N/A |
-| `stage.stage_related` | `list[str]` | input_parser (LLM) | stage_manager | Per-turn | N/A |
-| `stage.forced_stage` | `str` | input_parser (LLM) | stage_manager | Per-turn, clears after use | Clears to "" |
-| `stage.rebound` | `bool` | input_parser (LLM) | stage_manager | Per-turn | N/A |
+| `stage.current_stage` | `str` | stage_manager | stage_manager, output compiler | Funnel progression only. Advances on profile.done | N/A |
+| `stage.anchor_stage` | `str` | stage_manager | stage agents, output compiler | Live turn owner. May temporarily differ from `current_stage` | Returns to `current_stage` after detour resolves |
+| `stage.anchor_mode` | `str` | stage_manager | output compiler | Per-turn routing mode (`normal`, `revisit`, `forced`) | Resets to `normal` after detour resolves |
+| `stage.stage_related` | `list[str]` | input_parser (LLM) | stage_manager, output compiler | Per-turn | N/A |
+| `stage.requested_anchor_stage` | `str` | input_parser (LLM) | stage_manager | Per-turn request only | Clears after stage_manager consumes it |
 | `stage.contradict` | `bool` | stage_manager | counter_manager, output compiler | Per-turn | N/A |
 | `stage.contradict_target` | `list[str]` | stage_manager | output compiler | Per-turn | N/A |
 | `bypass_stage` | `bool` | input_parser (LLM) | Graph router (skip stage agents) | Per-turn | N/A |
@@ -164,8 +166,6 @@ Fields: `field`, `curriculum_style`, `required_skills_coverage`
 |---|---|---|---|---|
 | `message_tag` | `MessageTag \| None` | input_parser (LLM) | counter_manager, output compiler | Overwritten next turn |
 | `.message_type` | `str` | LLM | counter_manager (6 counters), output compiler | `"true"\|"vague"\|"troll"\|"genuine_update"\|"disengaged"\|"avoidance"\|"compliance"` |
-| `.user_drill` | `bool` | LLM | output compiler (USER_DRILL_BLOCK) | Overwritten next turn |
-| `.user_drill_reason` | `str` | LLM | output compiler (USER_DRILL_BLOCK) | Overwritten next turn |
 | `.response_tone` | `str` | LLM | output compiler (MODE selection) | `"socratic"\|"firm"\|"redirect"` |
 
 #### UserTag (persistent — reasoning lock, ALL fields written EVERY turn)
@@ -199,7 +199,6 @@ Fields: `field`, `curriculum_style`, `required_skills_coverage`
 | `avoidance_turns` | `int` | counter_manager | `message_type=="avoidance"` | max(0,-1) | >= 3 | >= 4 |
 | `vague_turns` | `int` | counter_manager | `message_type=="vague"` | max(0,-1) | >= 3 (VAGUE_BLOCK) | window >= 5/10 |
 | `contradict_count` | `int` | stage_manager | `stage.contradict==True` | max(0,-1) | — | direct (window) |
-| `rebound_count` | `int` | stage_manager | `stage.rebound==True` | max(0,-1) | — | direct (window) |
 | `turn_count` | `int` | counter_manager | Every turn | Monotonic +1 | — | Window check at %10 |
 | `trigger_window` | `dict` | counter_manager | Per-counter per turn | Resets every 10 turns | — | Any >= 5/10 → escalate |
 
@@ -229,7 +228,6 @@ disengagement_turns  message_type="disengaged"  max(0,-1)    >= 3: WARNING BLOCK
 avoidance_turns      message_type="avoidance"   max(0,-1)    >= 3: WARNING BLOCK   >= 4: escalate
 vague_turns          message_type="vague"       max(0,-1)    >= 3: VAGUE_BLOCK     window >= 5/10
 contradict_count     stage.contradict=True      max(0,-1)    (stage routing)       window >= 5/10
-rebound_count        stage.rebound=True         max(0,-1)    (stage routing)       window >= 5/10
 trigger_window.*     per-counter per turn       resets/10    —                     any >= 5 (50%)
 ```
 

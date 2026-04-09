@@ -60,7 +60,7 @@ ADUC/
 |-- SCHEMA.md                <- wiki operations manual
 |-- CLAUDE.md                <- agent behavior rules
 |-- AGENTS.md                <- Codex entry rules
-|-- log.md                   <- activity history
+|-- log.md                   <- activity history navigation
 |
 |-- context/
 |   |-- me.md                <- owner profile
@@ -75,7 +75,7 @@ ADUC/
 |
 |-- wiki/                    <- general knowledge notes
 |-- references/              <- external links and source anchors
-|-- sources/                 <- raw source files (`articles/`, `docs/`, `transcripts/`, ...)
+|-- sources/                 <- raw source files + activity-log source files (`articles/`, `docs/`, `transcripts/`, `log/`, ...)
 |-- templates/               <- page templates
 |-- journal/                 <- time-stamped raw capture (`daily/` is the reflection lane)
 `-- pending/                 <- unsorted drop zone
@@ -92,7 +92,7 @@ ADUC/
 | [context/goals.md](context/goals.md) | Scholarship goals and engineering direction |
 | [index.md](index.md) | Full content routing table with tags |
 | [SCHEMA.md](SCHEMA.md) | How the vault is operated (ingest, lint, self-healing) |
-| [log.md](log.md) | Chronological activity log |
+| [log.md](log.md) | Activity log navigation |
 
 ---
 
@@ -100,7 +100,7 @@ ADUC/
 
 - **Tiered loading:** agents read `briefing -> context -> project README` before opening any source file. This keeps session startup fast and avoids context waste.
 - **Source-of-truth separation:** raw docs live in `sources/`, derived summaries live in `notes/`. Never overwrite sources with opinions.
-- **Human vs agent boundary:** daily notes and other raw reflections stay human-primary; durable synthesis belongs in `wiki/`, project notes, `index.md`, and `log.md`.
+- **Human vs agent boundary:** daily notes and other raw reflections stay human-primary; durable synthesis belongs in `wiki/`, project notes, `index.md`, and the vault log layer (`log.md` + `sources/log/`).
 - **Graduation over rewriting:** recurring daily-note signals should be promoted into durable pages, not folded back into the raw note until the author's voice disappears.
 - **Response-completion writeback:** if a response creates durable knowledge, the vault should be updated before that response ends.
 - **Self-healing:** every page touched in a session gets a health check (TL;DR present, updated date current, obvious wikilinks added).
