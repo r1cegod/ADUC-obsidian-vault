@@ -13,6 +13,9 @@ Use this file for:
 Companion deterministic backend checks now live in:
 - `projects/pathfinder/sources/docs/evaluation/python_function_check_how_to_use.md`
 
+Sub-orchestrator-only prompt and memory maintenance now live in:
+- `projects/pathfinder/sources/docs/evaluation/sub_orchestrator_focus_eval_how_to_use.md`
+
 Other docs may hold evaluation context or stage-specific findings, but replay-oriented docs should point back here for the actual replay pipeline.
 
 ---

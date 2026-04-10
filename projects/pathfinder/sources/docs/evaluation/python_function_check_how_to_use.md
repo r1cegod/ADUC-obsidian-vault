@@ -1,8 +1,8 @@
 # PathFinder Python Function Check
 
-> **TL;DR**: This is the canonical low-cost backend hardening workflow for PathFinder's pure Python seams. Run it before broader replay when routing, reopen invalidation, done normalization, or stage-to-output glue changed.
+> **TL;DR**: This is the canonical low-cost backend hardening workflow for PathFinder's pure Python seams. Run it before broader replay when routing, reopen invalidation, done normalization, sub-orchestrator maintenance, or stage-to-output glue changed. The current five groups are the baseline, not a frozen limit; broader cheap seam coverage is now official policy.
 
-Last updated: 2026-04-09
+Last updated: 2026-04-10
 
 `python_function_check` is the deterministic counterpart to the replay-heavy `eval/` workflow.
 
@@ -11,6 +11,8 @@ Use it when the target is Python-owned behavior, not model output:
 - counter escalation
 - reopen invalidation
 - done normalization
+- `routing_memory` prune planning
+- sub-orchestrator maintenance routing
 - stage-helper parity
 - evaluation/output seam assembly
 
@@ -40,14 +42,17 @@ Typical triggers:
 
 ## Groups
 
-This workflow is split into 4 report docs:
+This workflow is currently split into 5 report docs:
 
 1. `python_function_check_shared_stage_profile_utils.md`
 2. `python_function_check_orchestrator_policy.md`
 3. `python_function_check_stage_helper_matrix.md`
 4. `python_function_check_output_and_evaluation_seams.md`
+5. `python_function_check_sub_orchestrator_and_memory_lane.md`
 
 Each group owns one deterministic seam family and records the latest command, outcome, and findings.
+
+The grouping is not meant to stay fixed forever. When a new cheap Python-owned seam is important enough to prove separately, broaden this workflow rather than forcing everything back into replay.
 
 ---
 
@@ -61,6 +66,7 @@ venv\Scripts\python -m unittest test_stage_profile_utils_contract.py
 venv\Scripts\python -m unittest test_orchestrator_graph_contract.py
 venv\Scripts\python -m unittest test_stage_graph_helper_contract.py test_thinking_graph_contract.py test_uni_graph_contract.py
 venv\Scripts\python -m unittest test_evaluation_graph_contract.py test_output_graph_contract.py test_output_prompt_contract.py test_stage_contract.py test_main_contract.py
+venv\Scripts\python -m unittest test_message_window_contract.py test_sub_orchestrator_graph_contract.py test_sub_orchestrator_focus_eval_contract.py
 ```
 
 The contract files above are all `unittest`-compatible. This matters because the original helper tests for Thinking and Uni had been written as bare pytest-style functions, which meant `python -m unittest ...` silently skipped them until they were converted.
@@ -81,7 +87,7 @@ Use replay first only when the seam is already trusted and the question is about
 ## Completion Rule
 
 A Python-function-check pass is complete only when:
-- all 4 group commands ran
+- all 5 group commands ran
 - each report doc records the exact command and outcome
 - any surfaced backend bug is either fixed or left explicitly open in the matching report
 - live context and dev logs are updated if the result changes the next production move

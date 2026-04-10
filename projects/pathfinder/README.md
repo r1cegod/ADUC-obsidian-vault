@@ -2,7 +2,7 @@
 type: project
 title: "PathFinder"
 created: 2026-04-06
-updated: 2026-04-09
+updated: 2026-04-10
 tags:
   - project/pathfinder
   - ai
@@ -43,7 +43,7 @@ For the current evaluation cycle, these are the highest-value pages:
 Build a durable project workspace that lets any agent start from a compressed, structured knowledge layer before drilling into the canonical PathFinder docs inside this vault.
 
 ## Current Status
-Core `docs/` content has been ingested into project-local sources and summarized into note pages. This vault now holds the canonical operational contract, while the repo `docs/` folder is archived.
+Core `docs/` content has been ingested into project-local sources and summarized into note pages. This vault now holds the canonical operational contract, while the repo `docs/` folder is archived. The current hardening queue is now official: full eval first, token optimization inside the sub-orchestrator lane, broader cheap seam coverage, and explicit sync routines for any maintained repo mirror.
 
 ## Task Routes
 - Architecture and graph shape: [[projects/pathfinder/notes/pathfinder-architecture-hub|PathFinder Architecture Hub]]
@@ -68,14 +68,14 @@ Core `docs/` content has been ingested into project-local sources and summarized
 - Repo dev-log mirror: `D:\ANHDUC\Path_finder\logs\DEV_LOG.md`
 - Canonical dev-log day files: `projects/pathfinder/sources/docs/dev-log/days/`
 - Repo dev-log day files: `D:\ANHDUC\Path_finder\logs\dev\days\`
-- Rule: this vault now holds the live PathFinder documentation set; the repo `docs (archived)/` folder is archive-only, while the paired `DEV_LOG.md` index + day-file mirror is the one maintained repo logging exception
+- Rule: this vault now holds the live PathFinder documentation set; the repo `docs (archived)/` folder is archive-only, while the paired `DEV_LOG.md` index + day-file mirror is the one maintained repo logging exception and the baseline example of an explicit sync routine
 
 ## Tasks
 - [x] Mirror `docs/` into project-local sources, excluding `DEV_LOG.md`
 - [x] Create one derived summary page per ingested doc
 - [x] Add project routing to the vault index and context layer
-- [x] Establish a manual-by-default repo/vault sync policy with `logs/DEV_LOG.md` as the tracked repo mirror
-- [ ] Decide whether future repo doc updates should be mirrored manually forever or through an explicit sync routine
+- [x] Establish the dev-log repo/vault mirror with `logs/DEV_LOG.md` as the tracked repo index plus paired day-file sync
+- [x] Decide that maintained repo mirrors should use explicit sync routines rather than manual-by-default mirroring
 
 ## Notes
 This project workspace is now both the routing layer and the live documentation home for PathFinder. The repo `docs/` folder is kept only as archived reference material.
