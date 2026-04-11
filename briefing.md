@@ -13,7 +13,7 @@
 - [[projects/ielts-writing/README|IELTS Writing]] - 20-day protocol: band 4-5 → 7-8, schema-based docs
 
 ## Current Focus
-PathFinder is in eval/hardening phase. The grouped Python-function check workflow now passes across shared utils, orchestrator policy, stage-helper parity, output/evaluation seams, and the sub-orchestrator memory lane; the next production move is the broader full eval pass. Read [[context/now]] for live blockers and next actions.
+PathFinder is in eval/hardening phase. The grouped Python-function check workflow passes across the current backend seams, and the first live trace-to-Goals audit patched streamed-output sanitization. The latest prompt-only pass makes Goals a planning-ready handoff layer, with Job owning market/client realism and Major owning curriculum/qualification realism. Read [[context/now]] for live blockers and next actions.
 
 ## Pending
 <!-- Check pending/ for unsorted files each session -->
@@ -29,4 +29,4 @@ _Nothing in the drop zone._
 - [[learning/README]] - learning sessions index; start here for any Pre-Wire learning session
 - [[log.md]] - activity-history navigation
 
-**Last updated:** 2026-04-09
+**Last updated:** 2026-04-11

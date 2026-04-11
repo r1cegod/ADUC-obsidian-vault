@@ -161,3 +161,33 @@ Runtime result:
     - Attack 4: `role_category=0.55`, `company_stage=0.00`, `day_to_day=0.48`, `autonomy_level=0.00`
 - **Verdict:** the prompt contract now matches the Python gate. No `job` attack crossed `> 0.8` on a done-driving field after the audit patch.
 - **Residual risk:** serializer-warning noise is still present in trace output.
+
+## 9. 2026-04-11 Live Trace Goals-Handoff Replay
+**Production target:** when Goals hands off a concrete autonomy/client path, Job must dig out the correct market and work-reality information instead of asking Goals-style questions again.
+
+**Prompt-only contract change:**
+- Job reads Goals as directional context.
+- Job converts the long-goal assumptions into target customer, role/service category, company stage, recurring grind, pricing/discovery obligation, and autonomy constraints.
+- Concrete job/client evidence can cross `> 0.8` even if the market path is not fully proven.
+
+**Dataset:** `eval/live_trace_job_rounds.jsonl`
+- Round 1: target customer type.
+- Round 2: repetitive painful problem and time-saved value proxy.
+- Round 3: SOP/time audit, agent requirements, buyer psychology, clarify-before-price constraint.
+
+**Command:**
+- `venv\Scripts\python eval\run_eval.py --mode multi --file eval\live_trace_job_rounds.jsonl --graph job_eval --workers 1`
+
+**Final verified traces:**
+- Round 1: `eval/threads/967c260d-5e52-4d3a-8f25-a975036f5d32/traces/run_0001.json`
+- Round 2: `eval/threads/e3dc98db-3c22-423c-8c4e-9e51276d5776/traces/run_0002.json`
+- Round 3: `eval/threads/bd9a3312-dee1-44d6-ba5a-10ce27c27412/traces/run_0003.json`
+
+**Round 3 result:** **PASS at the stage-wrapper seam.**
+- `job.done=true`
+- `role_category = "AI workflow automation for B2B clients"`, `0.82`
+- `company_stage = "startups lacking technical capacity or customer-ops-heavy companies"`, `0.83`
+- `day_to_day = "qualify repetitive, boring client problems; estimate hours saved; map SOPs..."`, `0.85`
+- `autonomy_level = "self-directed client work with client scope/pricing constraints"`, `0.82`
+
+**Residual risk:** early rounds correctly stay provisional. Full orchestrator replay is still needed because `job_eval` skips routing and counter behavior.

@@ -198,3 +198,37 @@ It is still not a full production-ready signoff:
 - the 3-round evaluation gate still applies for Goals
 - full orchestrator replay remains a later seam for routing and classification behavior
 - broader dataset growth is still useful even though the current Stage 4 seam is now clean
+
+## 9. 2026-04-11 Live Trace Handoff Replay
+**Production target:** stop Goals from holding the conversation hostage once the student has supplied enough directional evidence for Job and Major to test.
+
+**Prompt-only contract change:**
+- Goals is now framed as a handoff checkpoint, not the final proof court.
+- Job owns long-goal market realism: client type, role, company stage, recurring grind, autonomy constraints.
+- Major owns short-goal qualification realism: skill stack, curriculum bridge, credential/portfolio necessity.
+- The extractor may use `> 0.8` to mean "handoff-stable", not "the market path is proven".
+
+**Dataset:** `eval/live_trace_goals_rounds.jsonl`
+- Round 1: income target and autonomy pressure from the live trace.
+- Round 2: skill stack, agent researcher, public artifact, first paid customer.
+- Round 3: target customer, repetitive painful problem, SOP/time audit, pricing proxy.
+
+**Command:**
+- `venv\Scripts\python eval\run_eval.py --mode multi --file eval\live_trace_goals_rounds.jsonl --graph goals_eval --workers 1`
+
+**Final verified traces:**
+- Round 1: `eval/threads/28583b3b-4393-4f7a-a47c-bda061b69673/traces/run_0001.json`
+- Round 2: `eval/threads/0fac1a79-4805-4d20-9bd3-1e52d1491d44/traces/run_0002.json`
+- Round 3: `eval/threads/533d64c9-bbb4-4972-bed2-7cc1e20ae078/traces/run_0003.json`
+
+**Round 3 result:** **PASS at the stage-wrapper seam.**
+- `goals.done=true`
+- `long.income_target = "$10k/month required safety level..."`, `0.92`
+- `long.autonomy_level = "autonomy over a 9-hour-a-day employee path"`, `0.90`
+- `long.ownership_model = "self-directed AI-agent business/client-work path"`, `0.84`
+- `long.team_size = "solo-first/small"`, `0.83`
+- `short.skill_targets = "AI agents, Python, SQL, basic frontend, and system design..."`, `0.91`
+- `short.portfolio_goal = "a market-reading agent researcher plus a real paying customer"`, `0.88`
+- `short.credential_needed = "portfolio-first"`, `0.85`
+
+**Residual risk:** this proves `goals_eval`, not full orchestrator behavior. Routing, counters, and message classification still need a broader replay.

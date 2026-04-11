@@ -129,3 +129,32 @@ Prompt changes for the draft:
     - Attack 4: `field=0.55`, `curriculum_style=0.45`, `required_skills_coverage=0.00`
 - **Verdict:** the `major` extractor now matches the Python gate cleanly. None of the audited attacks produced a lock-safe `> 0.8` score on a done-driving field.
 - **Residual risk:** trace serialization still emits the same cross-cutting Pydantic serializer warnings.
+
+## 8. 2026-04-11 Live Trace Goals-Handoff Replay
+**Production target:** when Goals hands off concrete skills and portfolio proof, Major must dig out the correct qualification route instead of asking Goals-style planning questions again.
+
+**Prompt-only contract change:**
+- Major reads Goals as directional context.
+- Major converts short-goal assumptions into academic vehicle, curriculum style, self-study/project bridge, and credential/portfolio necessity.
+- Concrete qualification evidence can cross `> 0.8` without requiring university-specific research in the extractor.
+
+**Dataset:** `eval/live_trace_major_rounds.jsonl`
+- Round 1: CS/software-data path for AI agents, Python, SQL, system design, light frontend.
+- Round 2: project-heavy learning mode versus theory-only curriculum risk.
+- Round 3: degree not primary; foundation plus paid product/contract proof.
+
+**Command:**
+- `venv\Scripts\python eval\run_eval.py --mode multi --file eval\live_trace_major_rounds.jsonl --graph major_eval --workers 1`
+
+**Final verified traces:**
+- Round 1: `eval/threads/49084a82-2617-40a6-8004-06254582b1f0/traces/run_0001.json`
+- Round 2: `eval/threads/fb718102-c275-4ab3-87ef-9eb906e861ce/traces/run_0002.json`
+- Round 3: `eval/threads/a17469d2-83dd-45d5-9828-73624a66867f/traces/run_0003.json`
+
+**Round 3 result:** **PASS at the stage-wrapper seam.**
+- `major.done=true`
+- `field = "Computer Science"`, `0.90`
+- `curriculum_style = "project-based execution"`, `0.89`
+- `required_skills_coverage = "aligned with backend/data foundations for databases, search tools, graph-based agents, Python, SQL, and system design, with a portfolio-to-paid-work bridge"`, `0.84`
+
+**Residual risk:** `major_eval` used web research on the curriculum reality seam, but the current claim still excludes full orchestrator routing.
