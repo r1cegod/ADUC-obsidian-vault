@@ -10,6 +10,8 @@ tags:
   - synthesis
 status: active
 lang: en
+feeds_into:
+  - projects/pathfinder/README.md
 ---
 
 > **TL;DR**: The PathFinder docs corpus now exists in the vault as a project-local source mirror plus a compressed note layer covering architecture, state, prompts, context, evaluation, and workflow docs.

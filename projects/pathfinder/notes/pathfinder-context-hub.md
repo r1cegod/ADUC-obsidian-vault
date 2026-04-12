@@ -10,6 +10,8 @@ tags:
   - synthesis
 status: active
 lang: en
+feeds_into:
+  - projects/pathfinder/README.md
 ---
 
 > **TL;DR**: This hub routes all live and stable context for PathFinder, from the compact project briefing down to maintenance rules for keeping context current.

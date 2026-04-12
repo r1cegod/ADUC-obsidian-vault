@@ -232,3 +232,13 @@ It is still not a full production-ready signoff:
 - `short.credential_needed = "portfolio-first"`, `0.85`
 
 **Residual risk:** this proves `goals_eval`, not full orchestrator behavior. Routing, counters, and message classification still need a broader replay.
+
+## 10. 2026-04-12 Live Frontend Fix — Nested Done Flags
+
+**Trigger:** During the 2026-04-12 live frontend evaluation run, Goals structured output was missing the nested `long.done` and `short.done` boolean flags.
+
+**Root cause:** The Goals Pydantic model did not include `done` fields inside the `long` and `short` sub-models. The orchestrator's stage-completion check reads these flags directly, so their absence silently prevented `goals.done` from resolving correctly.
+
+**Fix:** Added `done` fields to the `GoalsLong` and `GoalsShort` Pydantic sub-models in `backend/data/state.py`. The Goals extractor now populates these flags from the structured output.
+
+**Impact:** This was a schema gap, not a prompt or evaluation contract failure. The Stage 2 extractor confidence caps and the deterministic trailing `PROBE:` contract are unchanged. The Stage 4 `goals_eval` replay result also stands — the replay was passing the compiler seam correctly; the done-flag gap only manifested in live frontend state resolution.

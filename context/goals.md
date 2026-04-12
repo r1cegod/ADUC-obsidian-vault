@@ -6,6 +6,7 @@ updated: 2026-04-07
 tags: [context, auto-fixed]
 status: active
 lang: en
+feeds_into: []
 ---
 
 > **TL;DR**: FPT SE Scholarship result still pending. Now: harden PathFinder into a production-grade eval'd system, while refining the vault into a real markdown-native memory layer for agents. Build reusable AI agent portfolio. Operate with a personal knowledge system that makes agent restarts cheap.

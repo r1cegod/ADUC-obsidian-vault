@@ -10,6 +10,8 @@ tags:
   - synthesis
 status: active
 lang: en
+feeds_into:
+  - projects/pathfinder/README.md
 ---
 
 > **TL;DR**: This hub is the default entrypoint for PathFinder architecture work, routing from high-level system shape down to the exact state and documentation contracts.

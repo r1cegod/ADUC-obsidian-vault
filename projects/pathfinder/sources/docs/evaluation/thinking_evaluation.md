@@ -131,3 +131,25 @@ The current Stage 0 suite is still short, but the visible-response seam is now a
 - the same Stage 4 replay standard on `purpose_eval` and `goals_eval`
 
 Full orchestrator replay remains a later seam for routing and classification behavior, not the cheapest next proof of handoff preservation.
+
+## 10. 2026-04-12 Live Frontend Fixes
+
+Two Thinking-related bugs surfaced during the 2026-04-12 live frontend evaluation run.
+
+### Fix 1 — Quiz-seeded ThinkingProfile state crash
+**Trigger:** `/test/{session_id}` was injecting quiz results (`brain_type`, `riasec_top`) as partial ThinkingProfile state overlays. When the first post-test chat turn ran, the Thinking graph received a partially initialized state that crashed with `InvalidUpdateError: Ambiguous update, specify as_node`.
+
+**Root cause:** `aupdate_state()` was called without `as_node`, causing LangGraph checkpointer ambiguity after the manual state write.
+
+**Fix:** `/test/{session_id}` and `/debug/state/{session_id}` now call `aupdate_state(..., as_node="__start__")`.
+
+**Regression test added:** submits `brain_type` then `riasec_top` to the same session and verifies merged `thinking` state.
+
+### Fix 2 — Empty `brain_type: []` from mixed Brain Test
+**Trigger:** During the uncertainty attack run, a student who answers both left and right Brain Test buttons produces `brain_type: []`. The frontend left the Brain Test card incomplete.
+
+**Root cause:** `/test/{session_id}` was not treating empty lists as valid submitted state; it filtered them out, leaving the test card unresolved.
+
+**Fix:** `/test/{session_id}` now treats provided empty lists as a valid submitted test result (the student has no dominant brain type). Frontend test completion now uses `testStatus` with sticky-true merge behavior so subsequent state updates cannot un-complete a card that was already completed.
+
+These are runtime correctness bugs, not prompt or evaluation contract changes. The Stage 4 seam contract is unchanged.

@@ -737,3 +737,50 @@ then do not force a page-by-page repair pass again. A single log note like "stab
 4. **Archival**: `status: stub` pages not updated in 60+ days → set `status: archived`, move to "Archived" section in index
 5. **No deep nesting**: never add subdirectories beyond what's defined in this schema. Use tags and links instead.
 6. **Index splitting at scale (300+ pages)**: split into `index-entities.md`, `index-concepts.md`, etc. Root `index.md` becomes meta-router.
+
+---
+
+## Propagation Sync Matrix
+
+> Agent lookup table: if you write or edit file X, these downstream targets must also be checked.
+> The PostToolUse hook (`scripts/check_propagation.py`) surfaces this automatically after every Write/Edit.
+> Update this matrix whenever a new structural node is added to the vault.
+
+### Exact-Path Rules
+
+| File edited | Must check | Why |
+|-------------|-----------|-----|
+| `briefing.md` | `context/now.md` | Active Projects list must match between both files |
+| `context/now.md` | `briefing.md` | Active Projects list must match between both files |
+| `context/now.md` | `index.md` | Vault Status changes may require index header update |
+| `SCHEMA.md` | `CLAUDE.md`, `AGENTS.md` | Rule changes in SCHEMA must be reflected in both wrapper files |
+| `CLAUDE.md` | `AGENTS.md` | Behavioral rule changes must be consistent across agent entry points |
+| `AGENTS.md` | `CLAUDE.md` | Behavioral rule changes must be consistent across agent entry points |
+| `context/hot.md` | _(terminal)_ | Nothing feeds from the hot cache |
+| `index.md` | _(terminal)_ | Routing table — nothing reads index to update itself |
+| `log.md` | _(terminal)_ | Navigation index — content lives in day files |
+| `briefing.md` | _(terminal)_ | Entry point — nothing reads briefing to update itself |
+
+### Pattern Rules
+
+| File pattern | Must check | Why |
+|-------------|-----------|-----|
+| `projects/*/README.md` | `briefing.md`, `context/now.md` | Project status changes propagate to Active Projects lists |
+| `projects/*/notes/*-hub.md` | `projects/*/README.md` (same project) | Hub routing changes may require README task-router update |
+| `sources/log/days/YYYY-MM-DD.md` | `log.md` | Day file write requires navigation line sync in log.md |
+| `projects/*/notes/docs-*.md` | `index.md` | Verify index entry exists and parent hub TL;DR is current |
+| `wiki/**/*.md` | `index.md` | Verify index entry exists and is current |
+| `references/*.md` | `index.md` | Verify index entry exists and is current |
+
+### Adding a New Structural Node
+
+When you add a new project README, hub, or vault-root operational doc:
+1. Add an exact-path row to this matrix for the new file
+2. Add `feeds_into:` to the new file's frontmatter (if it has frontmatter)
+3. Add the inverse relationship — what feeds INTO the new file
+4. Update `scripts/check_propagation.py` `EXACT_RULES` dict with the new entry
+
+### Reference Documents
+- Full implementation: `vault_propagation.md` (vault root)
+- Hook script: `scripts/check_propagation.py`
+- Hot cache: `context/hot.md`

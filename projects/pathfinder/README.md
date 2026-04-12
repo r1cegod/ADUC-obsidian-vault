@@ -2,7 +2,7 @@
 type: project
 title: "PathFinder"
 created: 2026-04-06
-updated: 2026-04-10
+updated: 2026-04-12
 tags:
   - project/pathfinder
   - ai
@@ -10,6 +10,9 @@ tags:
 status: active
 priority: high
 lang: en
+feeds_into:
+  - briefing.md
+  - context/now.md
 ---
 
 > **TL;DR**: PathFinder is a Vietnamese multi-agent career counselor project now mirrored into the vault with local raw docs plus derived summary notes.

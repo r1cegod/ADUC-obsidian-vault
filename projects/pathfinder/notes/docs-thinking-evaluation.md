@@ -2,7 +2,7 @@
 type: source-summary
 title: "Thinking Agent Evaluation And Audit Log"
 created: 2026-04-06
-updated: 2026-04-07
+updated: 2026-04-12
 tags:
   - project/pathfinder
   - pathfinder
@@ -13,7 +13,7 @@ lang: en
 source: "[[projects/pathfinder/sources/docs/evaluation/thinking_evaluation.md]]"
 ---
 
-> **TL;DR**: This audit log records the hardening of the thinking stage and now shows that Stage 4 `thinking_eval -> output_compiler` replay passes on the current Thinking datasets.
+> **TL;DR**: Thinking passes Stage 4 `thinking_eval -> output_compiler` replay on both datasets. 2026-04-12 live frontend run found and fixed `/test/{session_id}` seeding partial ThinkingProfile state (quiz results crashing first chat turn) and empty `brain_type: []` from a mixed Brain Test leaving the card incomplete.
 
 ## Summary
 The thinking evaluation doc is the stage-specific audit record for Stage 0. It documents the vulnerabilities the stage exhibited, the attack plan designed to expose them, the expected behavior under stress, the replay results after patches, and the Stage 4 compiler-output audit that now passes on the current datasets.
@@ -27,7 +27,10 @@ This makes the note a useful reference whenever someone is touching Stage 0 prom
 - The audit emphasizes real verification over attractive surface coherence.
 - It is both a historical record and a behavioral contract for future changes.
 - It now separates stage-local success from visible-response readiness at the `output_compiler` seam.
-- It records that Thinking currently passes the stage + compiler seam, while full-system signoff remains separate.
+- Thinking passes the stage + compiler seam on both `thinking_attack.jsonl` and `thinking_attack_v2.jsonl`.
+- 2026-04-12 live frontend run: `/test/{session_id}` was seeding partial ThinkingProfile state (quiz results injected without full initialization), causing the first post-test chat turn to crash. Fixed.
+- 2026-04-12 uncertainty attack: `brain_type: []` from a mixed Brain Test left the Brain Test card incomplete; `/test/{session_id}` now treats empty lists as valid submitted state. Fixed.
+- Full-system orchestrator signoff remains a separate seam.
 
 ## Details
 ### Practical Use

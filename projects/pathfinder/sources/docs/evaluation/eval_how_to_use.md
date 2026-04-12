@@ -1,6 +1,6 @@
 # PathFinder Evaluation Pipeline
 
-Last updated: 2026-04-09
+Last updated: 2026-04-12
 
 This doc is the official replay-evaluation workflow for creating, running, and closing higher-cost evaluation work in PathFinder.
 
@@ -35,6 +35,14 @@ An evaluation cycle is only complete when it:
 
 Manual spot checks in LangGraph Studio are not enough.
 
+For live user-like or identity-continuation sessions, use the focused live-session helper instead of hand-written one-off API snippets:
+
+```powershell
+python eval\live_session_probe.py --help
+```
+
+It supports restoring a saved trace state, starting/stopping trace capture, sending one chat turn, and printing compact stage state. For Vietnamese input, prefer `--message-file` with a UTF-8 file; embedding non-ASCII text inside a PowerShell here-string piped to Python can corrupt accents before the backend receives the message.
+
 ---
 
 ## Available Context
@@ -58,8 +66,13 @@ Use stage-specific evaluation logs when relevant:
 - `D:\ANHDUC\ADUC_vault\ADUC\projects\pathfinder\sources\docs\evaluation\purpose_evaluation.md`
 - `D:\ANHDUC\ADUC_vault\ADUC\projects\pathfinder\sources\docs\evaluation\goals_evaluation.md`
 - `D:\ANHDUC\ADUC_vault\ADUC\projects\pathfinder\sources\docs\evaluation\job_evaluation.md`
+- `D:\ANHDUC\ADUC_vault\ADUC\projects\pathfinder\sources\docs\evaluation\major_evaluation.md`
+- `D:\ANHDUC\ADUC_vault\ADUC\projects\pathfinder\sources\docs\evaluation\uni_evaluation.md`
 - `D:\ANHDUC\ADUC_vault\ADUC\projects\pathfinder\sources\docs\evaluation\data_agent_evaluation.md`
 - `D:\ANHDUC\ADUC_vault\ADUC\projects\pathfinder\sources\docs\evaluation\research_sources.md`
+- `D:\ANHDUC\ADUC_vault\ADUC\projects\pathfinder\sources\docs\evaluation\sub_orchestrator_evaluation.md`
+- `D:\ANHDUC\ADUC_vault\ADUC\projects\pathfinder\sources\docs\evaluation\sub_orchestrator_focus_eval_how_to_use.md`
+- `D:\ANHDUC\ADUC_vault\ADUC\projects\pathfinder\sources\docs\evaluation\frontend_evaluation_how_to_use.md`
 
 ---
 

@@ -1,6 +1,6 @@
 # Index
 
-> Content routing table. Last updated: 2026-04-09 | Pages: 129 | Sources: 56
+> Content routing table. Last updated: 2026-04-12 | Pages: 140 | Sources: 67
 > Format: `- [[path|Display Name]] - one-liner (tags)`
 
 ---
@@ -131,6 +131,8 @@
 - 2026-04-06: [[projects/pathfinder/notes/docs-context-maintenance|Context Maintenance]] <- [[projects/pathfinder/sources/docs/context/how to/context_maintenance.md|raw]] (pathfinder, workflow)
 - 2026-04-07: [[projects/pathfinder/notes/docs-eval-how-to-use|PathFinder Evaluation Pipeline]] <- [[projects/pathfinder/sources/docs/evaluation/eval_how_to_use.md|raw]] (pathfinder, evaluation)
 - 2026-04-07: [[projects/pathfinder/notes/docs-knowledge-agent-evaluation|Knowledge Agent Evaluation Guide]] <- [[projects/pathfinder/sources/docs/evaluation/knowledge_agent_evaluation.md|raw]] (pathfinder, evaluation)
+- 2026-04-07: [[projects/pathfinder/notes/docs-major-evaluation|Major Agent Evaluation And Audit Log]] <- [[projects/pathfinder/sources/docs/evaluation/major_evaluation.md|raw]] (pathfinder, evaluation)
+- 2026-04-07: [[projects/pathfinder/notes/docs-uni-evaluation|University Agent Evaluation And Audit Log]] <- [[projects/pathfinder/sources/docs/evaluation/uni_evaluation.md|raw]] (pathfinder, evaluation)
 - 2026-04-06: [[projects/pathfinder/notes/docs-eval-run-eval|eval/run_eval.py - How To Use]] <- [[projects/pathfinder/sources/docs/delegated/eval_run_eval.md|raw]] (pathfinder, evaluation)
 - 2026-04-07: [[projects/pathfinder/notes/docs-evaluation-graph|Evaluation Graph]] <- [[projects/pathfinder/sources/docs/delegated/evaluation_graph.md|raw]] (pathfinder, evaluation)
 - 2026-04-06: [[projects/pathfinder/notes/docs-data-agent-evaluation|Data Agent Evaluation Guide]] <- [[projects/pathfinder/sources/docs/evaluation/data_agent_evaluation.md|raw]] (pathfinder, retrieval)
@@ -143,6 +145,15 @@
 - 2026-04-06: [[projects/pathfinder/notes/docs-stage-prompt-audit|Stage Prompt Audit Guide]] <- [[projects/pathfinder/sources/docs/prompt/docs/stage_prompt.md|raw]] (pathfinder, prompts)
 - 2026-04-06: [[projects/pathfinder/notes/docs-production-system-prompts|The Complete Guide To Production-Grade System Prompts]] <- [[projects/pathfinder/sources/docs/prompt/how to/production_system_prompts.md|raw]] (pathfinder, prompts)
 - 2026-04-06: [[projects/pathfinder/notes/docs-delegated-feature-how-to|Delegated Feature How-To Protocol]] <- [[projects/pathfinder/sources/docs/workflows/delegated_feature_how_to.md|raw]] (pathfinder, workflow)
+- 2026-04-09: [[projects/pathfinder/notes/docs-python-function-check-how-to-use|PathFinder Python Function Check]] <- [[projects/pathfinder/sources/docs/evaluation/python_function_check_how_to_use.md|raw]] (pathfinder, evaluation, workflow)
+- 2026-04-09: [[projects/pathfinder/notes/docs-python-function-check-orchestrator-policy|Python Function Check - Orchestrator Policy]] <- [[projects/pathfinder/sources/docs/evaluation/python_function_check_orchestrator_policy.md|raw]] (pathfinder, evaluation)
+- 2026-04-09: [[projects/pathfinder/notes/docs-python-function-check-output-and-evaluation-seams|Python Function Check - Output And Evaluation Seams]] <- [[projects/pathfinder/sources/docs/evaluation/python_function_check_output_and_evaluation_seams.md|raw]] (pathfinder, evaluation)
+- 2026-04-09: [[projects/pathfinder/notes/docs-python-function-check-shared-stage-profile-utils|Python Function Check - Shared Stage Profile Utils]] <- [[projects/pathfinder/sources/docs/evaluation/python_function_check_shared_stage_profile_utils.md|raw]] (pathfinder, evaluation)
+- 2026-04-09: [[projects/pathfinder/notes/docs-python-function-check-stage-helper-matrix|Python Function Check - Stage Helper Matrix]] <- [[projects/pathfinder/sources/docs/evaluation/python_function_check_stage_helper_matrix.md|raw]] (pathfinder, evaluation)
+- 2026-04-10: [[projects/pathfinder/notes/docs-sub-orchestrator-evaluation|Sub-Orchestrator Evaluation And Audit Log]] <- [[projects/pathfinder/sources/docs/evaluation/sub_orchestrator_evaluation.md|raw]] (pathfinder, evaluation)
+- 2026-04-10: [[projects/pathfinder/notes/docs-sub-orchestrator-focus-eval-how-to-use|Sub-Orchestrator Focus Eval]] <- [[projects/pathfinder/sources/docs/evaluation/sub_orchestrator_focus_eval_how_to_use.md|raw]] (pathfinder, evaluation, workflow)
+- 2026-04-10: [[projects/pathfinder/notes/docs-python-function-check-sub-orchestrator-and-memory-lane|Python Function Check - Sub-Orchestrator And Memory Lane]] <- [[projects/pathfinder/sources/docs/evaluation/python_function_check_sub_orchestrator_and_memory_lane.md|raw]] (pathfinder, evaluation)
+- 2026-04-12: [[projects/pathfinder/notes/docs-frontend-evaluation-how-to-use|PathFinder Frontend Evaluation Workflow]] <- [[projects/pathfinder/sources/docs/evaluation/frontend_evaluation_how_to_use.md|raw]] (pathfinder, evaluation, workflow)
 
 ---
 

@@ -1,6 +1,8 @@
 # PathFinder Frontend Evaluation Workflow
 
-Last updated: 2026-04-11
+> **TL;DR**: Use fixtures first for UI states, then use the optimized live-user workflow for traced product conversations; verify stage completion from raw backend state, not from assistant wording alone.
+
+Last updated: 2026-04-12
 
 ## Purpose
 
@@ -159,6 +161,169 @@ Then inspect:
 ```powershell
 Get-ChildItem eval\threads\<session_id>\traces
 Get-Content eval\threads\<session_id>\live_session.json
+```
+
+7. Live user-like frontend run:
+
+Use this when the goal is to behave like a real student, starting with the tests and then chatting until a target stage is actually complete.
+
+Human profile rule:
+
+- Create one coherent student profile before the run.
+- Keep answers consistent with that profile.
+- Prefer concise but information-dense replies after turn 5 so the run tests stage movement instead of endless small talk.
+
+Optimized interaction rule:
+
+- Batch-click quiz answers with one `agent-browser eval` command instead of manually clicking 150 buttons.
+- Use `window.__PF_DEBUG__.newSession()` for every fresh run.
+- Use `window.__PF_DEBUG__.startTrace()` before the first test submission.
+- Use the UI buttons, not direct backend patching, for the quiz path unless the run is explicitly a fixture-only recovery.
+- After each chat turn, inspect only the latest assistant message plus state summary.
+- Every 5 turns, check Profile and Stage tabs for overlay, horizontal overflow, and stage-card status.
+
+Completion rule:
+
+Do not trust user-facing wording like "Goals is locked" by itself. A stage is complete only when raw/debug state agrees.
+
+For Goals completion, verify:
+
+```javascript
+const payload = await window.__PF_DEBUG__.getBackendState()
+payload.rawState.goals?.done === true
+payload.frontendState.completedStages.includes("goals")
+// or currentStage has advanced to job/major/uni with goals done in raw state
+```
+
+If the assistant response claims a later stage while raw state is still earlier, record it as a runtime flaw.
+
+8. Uncertainty attack run:
+
+Use this when the target is a normal student who does not have a stable view yet.
+
+Mission:
+
+- Attack with uncertainty.
+- Test whether PathFinder can work with sincere indecision without soft-locking, over-drilling, premature stage claims, or false escalation.
+
+Human profile rule:
+
+- The student is cooperative but not self-authored yet.
+- The student should not already know their final career/major direction.
+- Answers should contain mixed preferences, family pressure, salary concern, fear of choosing wrong, and shallow exposure.
+- Do not troll. Do not stonewall. The uncertainty must be normal and realistic.
+
+Success criteria:
+
+- The system separates genuine uncertainty from avoidance or compliance.
+- The system extracts usable weak signals without forcing fake certainty.
+- The system asks concrete tradeoff questions.
+- The system advances when enough direction exists for handoff.
+- Raw backend state agrees with any claimed stage completion.
+
+Failure criteria:
+
+- Repeatedly asks the same tradeoff after the student gives reasonable partial answers.
+- Treats "I don't know" as bad faith.
+- Escalates normal uncertainty.
+- Claims later-stage progress while raw state remains earlier.
+- Crashes or returns validation errors.
+
+Report location:
+
+- Repo report: `eval/UNCERTAINTY_ATTACK_REPORT_YYYY-MM-DD.md`
+- Link the focused report from `eval/FRONTEND_EVALUATION_REPORT.md`.
+
+Minimum report sections:
+
+- Mission
+- Production target
+- Human profile
+- Run protocol
+- Completion verification
+- Turn log
+- 5-turn checkpoints
+- Findings
+- Fixes made
+- Evidence
+- Residual risk
+
+Representative optimized quiz click pattern:
+
+```javascript
+const qButtons = Array.from(document.querySelectorAll("button[aria-label]"))
+  .filter((button) => / - [1-5]$/.test(button.getAttribute("aria-label") || ""))
+
+// RIASEC buttons are rendered in question order, five buttons per question:
+// 5, 4, 3, 2, 1.
+const offsetByScore = { 5: 0, 4: 1, 3: 2, 2: 3, 1: 4 }
+qButtons[questionIndex * 5 + offsetByScore[score]].click()
+```
+
+9. Identity-continuation debug run:
+
+Use this when the target is not a fresh UI journey, but a continuation from a prior real-user trace. This is the right lane for prompt/stage behavior after a long conversation, especially when replaying all previous turns would waste time and tokens.
+
+Mission:
+
+- Restore the previous raw backend state.
+- Continue as the same human identity.
+- Check only the latest response and compact state flags each turn.
+- Stop when the target stage is complete in raw/debug state.
+
+Use the repo helper:
+
+```powershell
+python eval\live_session_probe.py restore <new_session_id> --trace eval\threads\<source_session>\traces\live_0051.json --state-key output
+python eval\live_session_probe.py trace <new_session_id> start
+python eval\live_session_probe.py send <new_session_id> --message-file eval\scratch\next_message.txt
+python eval\live_session_probe.py state <new_session_id>
+python eval\live_session_probe.py trace <new_session_id> stop
+```
+
+Rules:
+
+- Restore from trace `output`, not `frontend_state`, when testing backend graph continuation.
+- Use `--message-file` for Vietnamese or other non-ASCII text. Do not embed Vietnamese literals inside a PowerShell here-string piped into Python; it can corrupt accents in saved trace input.
+- Inspect compact state each turn. Do not read the full trace unless there is a crash, stage contradiction, or token/context issue.
+- Verify target completion from raw/debug state, not assistant wording.
+- If `done === true` but `currentStage` has not advanced, send one transition-confirming answer and record the lag. This can happen because stage routing runs before same-turn extraction.
+
+Focused report location:
+
+- Repo report: `eval/IDENTITY_CONTINUATION_<TARGET>_REPORT_YYYY-MM-DD.md`
+- Link the focused report from `eval/FRONTEND_EVALUATION_REPORT.md`.
+
+Representative latest-response-only check:
+
+```javascript
+const messages = window.__PF_DEBUG__.getMessages()
+const latest = messages.at(-1)
+const state = window.__PF_DEBUG__.getAppState()
+JSON.stringify({
+  latest: latest?.content,
+  currentStage: state.currentStage,
+  completedStages: state.completedStages,
+})
+```
+
+Representative 5-turn tab checkpoint:
+
+```javascript
+const noOverlay = document.querySelector(
+  ".vite-error-overlay, #webpack-dev-server-client-overlay, [data-nextjs-dialog]"
+) ? "ERROR_OVERLAY" : "OK"
+
+const noOverflow =
+  document.body.scrollWidth <= document.documentElement.clientWidth
+    ? "NO_HORIZONTAL_OVERFLOW"
+    : "HORIZONTAL_OVERFLOW"
+
+const stageCards = Array.from(document.querySelectorAll("[data-stage-card]"))
+  .map((el) => ({
+    title: el.innerText.split("\n")[0],
+    state: el.dataset.stageStatus,
+  }))
 ```
 
 ## Report Template

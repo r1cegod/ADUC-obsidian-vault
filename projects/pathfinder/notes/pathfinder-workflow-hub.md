@@ -10,6 +10,8 @@ tags:
   - synthesis
 status: active
 lang: en
+feeds_into:
+  - projects/pathfinder/README.md
 ---
 
 > **TL;DR**: This hub routes the maintenance and handoff workflows that keep PathFinder documentation, delegated work, and durable memory usable over time.

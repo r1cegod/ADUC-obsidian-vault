@@ -8,7 +8,8 @@ Last updated: 2026-04-09
 
 **Read in order. Do not open any content file before completing Step 1.**
 
-1. Read `briefing.md` - vault orientation. Do this before anything else, including `context/` files.
+0. Read `context/hot.md` - session hot cache. Read this FIRST, before briefing.md. Files listed under "Stable Since Last Session" can skip their repair pass. Update at task end.
+1. Read `briefing.md` - vault orientation. Do this before anything else except hot.md.
 2. Read `context/now.md` - current priorities. Do this before reading project or wiki files.
 3. Use `SCHEMA.md -> Canonical Startup Matrix` to choose the next page only if the next step is not obvious from the task.
 4. If the task touches an active or named project, open `projects/<name>/README.md` before reading project notes or raw sources.

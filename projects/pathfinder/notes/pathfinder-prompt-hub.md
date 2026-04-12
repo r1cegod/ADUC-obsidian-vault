@@ -10,6 +10,8 @@ tags:
   - synthesis
 status: active
 lang: en
+feeds_into:
+  - projects/pathfinder/README.md
 ---
 
 > **TL;DR**: This hub is the routing page for PathFinder prompt work, covering stage-agent prompt contracts, output-compiler prompt assembly, and the broader production prompt playbook.

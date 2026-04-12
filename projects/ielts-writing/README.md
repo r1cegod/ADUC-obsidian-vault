@@ -6,6 +6,9 @@ updated: 2026-04-08
 tags: [ielts, writing, learning, project]
 status: active
 lang: en
+feeds_into:
+  - briefing.md
+  - context/now.md
 ---
 
 > **TL;DR**: 20-day protocol to move IELTS Writing from band 4-5 to 7-8. Gap is structural (schema + wording), not linguistic. Two docs, two phases: Build (week 1) + Max (week 2), with 6 days buffer.

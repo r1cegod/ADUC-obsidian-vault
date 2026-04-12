@@ -6,6 +6,7 @@ updated: 2026-04-08
 tags: [context]
 status: active
 lang: en
+feeds_into: []
 ---
 
 > **TL;DR**: Grade 12 student in Thanh Hoa, Vietnam. FPT SE Scholarship interview pending — not yet confirmed. Solo builder. PathFinder is first real project. 5-year target: Singapore, MVP team, millions in AI agent revenue.

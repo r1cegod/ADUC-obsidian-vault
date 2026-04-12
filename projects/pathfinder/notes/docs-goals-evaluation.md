@@ -2,7 +2,7 @@
 type: source-summary
 title: "Goals Agent Evaluation And Audit Log"
 created: 2026-04-06
-updated: 2026-04-07
+updated: 2026-04-12
 tags:
   - project/pathfinder
   - pathfinder
@@ -13,7 +13,7 @@ lang: en
 source: "[[projects/pathfinder/sources/docs/evaluation/goals_evaluation.md]]"
 ---
 
-> **TL;DR**: This audit log records the goals-stage hardening work from Stage 2 through the current Stage 4 compiler-seam pass, including the output-compiler fixes needed to keep contradictions sharp in the final Vietnamese reply.
+> **TL;DR**: This audit log records goals-stage hardening from Stage 2 through Stage 4 compiler-seam, the 2026-04-11 live-trace 3-round planning-ready handoff replay (PASS), and the 2026-04-12 live frontend run that patched nested `long.done` and `short.done` flags missing from structured output.
 
 ## Summary
 The goals evaluation doc is a stage-specific audit record for the `goals` agent. It documents how the stage was analyzed, what weaknesses were found, what attacks were designed, and what behavior the evaluator expected before and after patches.
@@ -24,8 +24,10 @@ For the vault, it is best read as a case study in PathFinder's attack-driven pro
 
 ## Key Points
 - The doc captures the actual vulnerabilities and attack design for the goals stage.
-- It now spans both stage-local and stage-plus-compiler hardening.
-- The note helps explain how production hardening is grounded in explicit replay evidence.
+- It now spans stage-local hardening, stage-plus-compiler hardening (Stage 4), and the 2026-04-11 live-trace 3-round handoff replay.
+- Section 9 (2026-04-11): 3-round live-trace replay through `goals_eval` proves the planning-ready handoff contract at the stage-wrapper seam. `goals.done=true` with all long/short fields above `0.83` at Round 3.
+- 2026-04-12 live frontend run: nested `long.done` and `short.done` flags were missing from Goals structured output; patched. This was a schema gap between the Python model and the serialized response, not a prompt failure.
+- Residual risk: the 3-round gate still applies; full orchestrator routing proof remains a separate seam.
 
 ## Details
 ### Best Use

@@ -13,6 +13,31 @@
 - Does `briefing.md` Active Projects match `context/now.md` Active Projects? -> If not, reconcile before proceeding.
 - Files in `pending/`? -> Flag and offer to sort before starting task.
 - Did user reveal new personal info or project status in conversation? -> Update `context/` now, before the task.
+- Index drift? Glob a project's notes directory and compare against `index.md` → if pages on disk are missing from the index, flag and add before starting the task.
+
+---
+
+## Tiered Loading Quick Reference
+
+Load context in tiers. Stop after each tier — only descend if the task genuinely needs more. **Full rules in `SCHEMA.md → Tiered Loading Protocol`.**
+
+```
+Pre     context/hot.md                 ← ALWAYS first. Lists stable routers that
+                                          skip repair pass. Update at task end.
+Tier 0  briefing.md                    ← ALWAYS. Stop if the task is simple.
+Tier 1  context/now.md + SCHEMA.md     ← add for wiki ops or live priorities
+Tier 2  projects/<name>/README.md      ← add for any project task
+Tier 3  hub notes or leaf notes        ← only the one matching the task domain
+Tier 4  raw sources                    ← only when exact wording/precision matters
+```
+
+**Hot Cache Rule:** Read `context/hot.md` before any other file. If a structural router (briefing.md, context/now.md, a project README) is listed under "Stable Since Last Session", skip its repair pass. Update `context/hot.md` at the end of every task.
+
+**Stable Router Exception:** `briefing.md`, `context/now.md`, and project READMEs already validated earlier the same session do not need a second repair pass — they were not edited and showed no structural issue on read. A single log note is enough: "stable router pages checked, no repair needed."
+
+**Two-Layer Mirror Rule:** The PathFinder dev-log and the global vault activity log both use the two-layer pattern: an index file (navigation only, one line per day) plus a `days/YYYY-MM-DD.md` file (the real note). Always update the day file first, then sync the index. Never write content directly into the index.
+
+**Propagation Rule:** After every Write or Edit, check `SCHEMA.md → Propagation Sync Matrix` for the file you just touched. Update downstream targets before ending your response. The PostToolUse hook (`scripts/check_propagation.py`) surfaces this automatically.
 
 ---
 
@@ -76,5 +101,7 @@ See `SCHEMA.md → File Creation Gate` for the full contract with rationale.
    - Format: `## [YYYY-MM-DD] ACTION | Subject` - see `SCHEMA.md -> Self-Healing Protocol`
    - Then sync `log.md` directly with the Edit tool — see `sources/log/HOW_TO_WRITE.md -> Syncing log.md`
 3. If user revealed new context in conversation (personal info, project status, priorities), update `context/me.md`, `context/now.md`, or `context/goals.md` as appropriate - log as `UPDATE | context`.
+
+**Write-back rule: complete all vault updates (index entry, log entry, context patch) before ending your response. Do not defer to a later session. The task is not done until the log is written.**
 
 See `SCHEMA.md -> Self-Healing Protocol` for full rules.
