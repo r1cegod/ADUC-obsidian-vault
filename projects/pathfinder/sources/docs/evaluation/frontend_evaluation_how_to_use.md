@@ -2,7 +2,7 @@
 
 > **TL;DR**: Use fixtures first for UI states, then use the optimized live-user workflow for traced product conversations; verify stage completion from raw backend state, not from assistant wording alone.
 
-Last updated: 2026-04-12
+Last updated: 2026-04-13
 
 ## Purpose
 
@@ -12,6 +12,9 @@ This is a dev/eval workflow. It depends on the debug harness added for local run
 
 ## Canonical Locations
 
+- Evaluation domain index: `D:\ANHDUC\ADUC_vault\ADUC\projects\pathfinder\sources\docs\evaluation\README.md`
+- Frontend evaluation workflow: `D:\ANHDUC\ADUC_vault\ADUC\projects\pathfinder\sources\docs\evaluation\frontend_evaluation_how_to_use.md`
+- Frontend evaluation reports: `D:\ANHDUC\ADUC_vault\ADUC\projects\pathfinder\sources\docs\evaluation\`
 - Frontend app: `frontend/`
 - Backend app: `main.py`
 - Debug trace utilities: `backend/debug_trace.py`
@@ -19,7 +22,8 @@ This is a dev/eval workflow. It depends on the debug harness added for local run
 - Debug fixtures: `frontend/src/data/debugFixtures.js`
 - Live traces: `eval/threads/<session_id>/traces/live_*.json`
 - Live manifest: `eval/threads/<session_id>/live_session.json`
-- Frontend evaluation reports: `eval/FRONTEND_EVALUATION_REPORT.md`
+
+Repo `eval/` is for executable assets and raw evidence only. Write reports, audit logs, workflow changes, and run retrospectives in the vault evaluation directory. The only mirrored documentation is the dev log.
 
 ## Required Startup
 
@@ -175,12 +179,26 @@ Human profile rule:
 
 Optimized interaction rule:
 
+- Define the target boundary before the first live turn: one stage completion, one stage transition, or one named blocker.
+- Stop at that boundary. If the next stage exposes new bugs, record them as next-cycle debt instead of patching them inside the same live run.
+- A live operation may patch and rerun the same boundary, but it should not harden multiple stages in one pass unless the user explicitly expands the mission.
+- Default stop condition after a fix: two runs only, one reproduction run and one verification run. Add extra `-rN` runs only when the first verification exposes a bug in the same boundary.
+- When a patch proves the target boundary but reveals the next stage is weak, write the report and stop.
 - Batch-click quiz answers with one `agent-browser eval` command instead of manually clicking 150 buttons.
+- Use `agent-browser batch --bail` for short sequential UI actions like click, fill, and Enter.
 - Use `window.__PF_DEBUG__.newSession()` for every fresh run.
 - Use `window.__PF_DEBUG__.startTrace()` before the first test submission.
 - Use the UI buttons, not direct backend patching, for the quiz path unless the run is explicitly a fixture-only recovery.
 - After each chat turn, inspect only the latest assistant message plus state summary.
 - Every 5 turns, check Profile and Stage tabs for overlay, horizontal overflow, and stage-card status.
+- If the run is long or data-heavy, spawn one data-auditor worker. Give it write ownership of one vault audit/report file. The auditor summarizes raw trace evidence; the main agent keeps running the frontend session and fixing blockers. Repo files should hold only raw traces, datasets, manifests, or temporary scratch needed for reproduction.
+- Stop the active trace before every patch/restart. Restore the last known-good trace into a new `-rN` session after restart so pre-patch and post-patch evidence stay separate.
+
+Budget split:
+
+- `frontend UX run`: real browser, minimal patching, stop at target boundary.
+- `prompt/data-agent hardening`: restored trace with `eval/live_session_probe.py`, no browser except final smoke.
+- `data auditor`: compact trace evidence and flaw ledger only; no code/prompt edits.
 
 Completion rule:
 
@@ -231,8 +249,8 @@ Failure criteria:
 
 Report location:
 
-- Repo report: `eval/UNCERTAINTY_ATTACK_REPORT_YYYY-MM-DD.md`
-- Link the focused report from `eval/FRONTEND_EVALUATION_REPORT.md`.
+- Vault report: `D:\ANHDUC\ADUC_vault\ADUC\projects\pathfinder\sources\docs\evaluation\uncertainty_attack_report_YYYY-MM-DD.md`
+- Register the focused report in `D:\ANHDUC\ADUC_vault\ADUC\projects\pathfinder\sources\docs\evaluation\README.md`.
 
 Minimum report sections:
 
@@ -291,8 +309,8 @@ Rules:
 
 Focused report location:
 
-- Repo report: `eval/IDENTITY_CONTINUATION_<TARGET>_REPORT_YYYY-MM-DD.md`
-- Link the focused report from `eval/FRONTEND_EVALUATION_REPORT.md`.
+- Vault report: `D:\ANHDUC\ADUC_vault\ADUC\projects\pathfinder\sources\docs\evaluation\identity_continuation_<target>_report_YYYY-MM-DD.md`
+- Register the focused report in `D:\ANHDUC\ADUC_vault\ADUC\projects\pathfinder\sources\docs\evaluation\README.md`.
 
 Representative latest-response-only check:
 
@@ -328,7 +346,11 @@ const stageCards = Array.from(document.querySelectorAll("[data-stage-card]"))
 
 ## Report Template
 
-Write the report to `eval/FRONTEND_EVALUATION_REPORT.md`.
+Write the report in the vault evaluation directory:
+
+```text
+D:\ANHDUC\ADUC_vault\ADUC\projects\pathfinder\sources\docs\evaluation\
+```
 
 Required sections:
 
@@ -348,4 +370,6 @@ The frontend evaluation is done when:
 - `window.__PF_DEBUG__` is available in Vite dev mode.
 - Fixture and forced-stage sweeps can be run without console/runtime errors.
 - Any concrete bug found during the sweep is fixed or explicitly recorded.
-- The repo report exists and the vault/repo dev logs are updated.
+- The vault report exists.
+- Repo trace, dataset, or manifest evidence exists when needed for reproduction.
+- The vault dev-log day file is updated and only the dev-log day file is mirrored into repo `logs/dev/days/`.

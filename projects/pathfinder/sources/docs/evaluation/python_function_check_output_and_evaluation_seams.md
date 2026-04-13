@@ -16,7 +16,7 @@ Last updated: 2026-04-09
 ## Command
 
 ```powershell
-venv\Scripts\python -m unittest test_evaluation_graph_contract.py test_output_graph_contract.py test_output_prompt_contract.py test_stage_contract.py test_main_contract.py
+venv\Scripts\python -m unittest backend.test.test_evaluation_graph_contract backend.test.test_output_graph_contract backend.test.test_output_prompt_contract backend.test.test_stage_contract backend.test.test_main_contract
 ```
 
 ## Expected Proof

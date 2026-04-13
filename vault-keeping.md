@@ -2,7 +2,7 @@
 type: hub
 title: "Vault Keeping"
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-13
 tags: [vault, meta, operations, hub]
 status: active
 lang: en
@@ -35,18 +35,20 @@ Fires on every Write or Edit. Not optional.
 
 | Rule | Trigger | Source |
 |------|---------|--------|
-| Self-Healing Pass | After touching any file | [[SCHEMA.md]] → Self-Healing Protocol |
-| Two-Layer Mirror Sync | After writing a day log file | [[CLAUDE.md]] → Two-Layer Mirror Rule |
+| Self-Healing Pass | After editing/creating a vault file, or when a read-only page shows a task-affecting defect | [[SCHEMA.md]] → Self-Healing Protocol |
+| Two-Layer Mirror Sync | After writing a day log file, only when the index needs a new day or changed summary | [[CLAUDE.md]] → Two-Layer Mirror Rule |
 | Propagation Check | After every Write/Edit (automatic via hook) | [[vault_propagation]] → Wire 4 |
 
-**Self-Healing Pass — three checks, always in this order:**
+**Self-Healing Pass — three checks, always in this order when the pass is triggered:**
 1. Missing `updated` date? Add today's date.
 2. Missing `> TL;DR`? Generate one from the content.
 3. Obvious missing wikilinks (mentioned page names without `[[]]`)? Add them.
 
+Evidence-only reads for repo/eval work do not trigger page-by-page repair. If no structural defect or stale routing affects the task, summarize those reads once in the day log and move on.
+
 **Two-Layer Mirror Sync — which files have mirrors:**
-- `sources/log/days/YYYY-MM-DD.md` → sync `log.md`
-- `logs/dev/days/YYYY-MM-DD.md` → sync `logs/DEV_LOG.md` + vault canonical `projects/pathfinder/sources/docs/DEV_LOG.md`
+- `sources/log/days/YYYY-MM-DD.md` → sync `log.md` only for a new day or changed daily summary
+- `logs/dev/days/YYYY-MM-DD.md` → sync `logs/DEV_LOG.md` + vault canonical `projects/pathfinder/sources/docs/DEV_LOG.md` only for a new day or changed daily summary
 
 **Propagation Check — what the hook prints:**
 The PostToolUse hook reads the file you just wrote, looks up the Propagation Sync Matrix, and prints downstream targets. Act on every target before ending the response.
@@ -68,13 +70,13 @@ Fires at the start and end of every session.
 | 5 | Index drift? Glob a project's notes dir, compare to `index.md`. Add missing. | [[CLAUDE.md]] → Session start check |
 | 6 | User revealed new context? → Update `context/` before starting task | [[SCHEMA.md]] → Conversation-Triggered Context Update |
 
-**At session end (all mandatory before ending response):**
+**At session end (run the applicable mandatory checks before ending response):**
 
 | Step | Action | Source |
 |------|--------|--------|
-| 1 | Write day log entry | [[SCHEMA.md]] → Self-Healing Protocol → Logging Format |
-| 2 | Sync the log index | [[CLAUDE.md]] → Two-Layer Mirror Rule |
-| 3 | Update `context/hot.md` (stable routers, last session summary, flagged items) | [[context/hot]] |
+| 1 | Write day log entry for durable work | [[SCHEMA.md]] → Self-Healing Protocol → Logging Format |
+| 2 | Sync the log index only for a new day or changed daily summary | [[sources/log/HOW_TO_WRITE.md]] |
+| 3 | Delta-update `context/hot.md` only when continuity, stable-router status, or next action changed | [[context/hot]] |
 | 4 | Patch `context/` if user revealed new info | [[SCHEMA.md]] → Conversation-Triggered Context Update |
 
 ---

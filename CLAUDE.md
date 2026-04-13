@@ -2,9 +2,10 @@
 
 ## Quick Start
 
-**Read in order. Do not open any content file before completing Step 1.**
+**Read in order. Do not open any content file before completing Step 0-2.**
 
-1. Read `briefing.md` - vault orientation. Do this before anything else, including `context/` files.
+0. Read `context/hot.md` - wrapper cache. This is the only allowed pre-read before `briefing.md`.
+1. Read `briefing.md` - vault orientation.
 2. Read `context/now.md` - current priorities. Do this before reading project files.
 3. Read `SCHEMA.md` - only if performing a wiki operation (ingest, query, lint, sort).
 
@@ -23,7 +24,8 @@ Load context in tiers. Stop after each tier — only descend if the task genuine
 
 ```
 Pre     context/hot.md                 ← ALWAYS first. Lists stable routers that
-                                          skip repair pass. Update at task end.
+                                          skip repair pass. Delta-update only
+                                          when continuity changed.
 Tier 0  briefing.md                    ← ALWAYS. Stop if the task is simple.
 Tier 1  context/now.md + SCHEMA.md     ← add for wiki ops or live priorities
 Tier 2  projects/<name>/README.md      ← add for any project task
@@ -31,11 +33,11 @@ Tier 3  hub notes or leaf notes        ← only the one matching the task domain
 Tier 4  raw sources                    ← only when exact wording/precision matters
 ```
 
-**Hot Cache Rule:** Read `context/hot.md` before any other file. If a structural router (briefing.md, context/now.md, a project README) is listed under "Stable Since Last Session", skip its repair pass. Update `context/hot.md` at the end of every task.
+**Hot Cache Rule:** Read `context/hot.md` before any other file. If a structural router (briefing.md, context/now.md, a project README) is listed under "Stable Since Last Session", skip its repair pass. Update `context/hot.md` at the end only when continuity, stable-router status, or next action changed.
 
 **Stable Router Exception:** `briefing.md`, `context/now.md`, and project READMEs already validated earlier the same session do not need a second repair pass — they were not edited and showed no structural issue on read. A single log note is enough: "stable router pages checked, no repair needed."
 
-**Two-Layer Mirror Rule:** The PathFinder dev-log and the global vault activity log both use the two-layer pattern: an index file (navigation only, one line per day) plus a `days/YYYY-MM-DD.md` file (the real note). Always update the day file first, then sync the index. Never write content directly into the index.
+**Two-Layer Mirror Rule:** The PathFinder dev-log and the global vault activity log both use the two-layer pattern: an index file (navigation only, one line per day) plus a `days/YYYY-MM-DD.md` file (the real note). Always update the day file first, then sync the index only when the day is new or the daily summary changed. Never write content directly into the index.
 
 **Propagation Rule:** After every Write or Edit, check `SCHEMA.md → Propagation Sync Matrix` for the file you just touched. Update downstream targets before ending your response. The PostToolUse hook (`scripts/check_propagation.py`) surfaces this automatically.
 
@@ -93,13 +95,14 @@ See `SCHEMA.md → File Creation Gate` for the full contract with rationale.
 
 **This is mandatory, not optional.** Before ending your response:
 
-1. Self-healing pass on every page you touched or read:
+1. Self-healing pass on every page you edited or created, plus read-only pages only when they show a visible structural defect or stale routing that would affect this task:
    - Missing `updated` date? Add today's date.
    - Missing `> TL;DR`? Generate one.
    - Obvious missing wikilinks? Add them.
+   - Evidence-only reads for repo/eval work do not require page-by-page repair; summarize them in one log line if useful.
 2. Log to the current day file in `sources/log/days/`. Even if nothing was fixed, log what you did. No exceptions.
    - Format: `## [YYYY-MM-DD] ACTION | Subject` - see `SCHEMA.md -> Self-Healing Protocol`
-   - Then sync `log.md` directly with the Edit tool — see `sources/log/HOW_TO_WRITE.md -> Syncing log.md`
+   - Then sync `log.md` only when the day is new or the daily summary changed — see `sources/log/HOW_TO_WRITE.md -> Syncing log.md`
 3. If user revealed new context in conversation (personal info, project status, priorities), update `context/me.md`, `context/now.md`, or `context/goals.md` as appropriate - log as `UPDATE | context`.
 
 **Write-back rule: complete all vault updates (index entry, log entry, context patch) before ending your response. Do not defer to a later session. The task is not done until the log is written.**

@@ -15,7 +15,7 @@ Last updated: 2026-04-10
 ## Command
 
 ```powershell
-venv\Scripts\python -m unittest test_message_window_contract.py test_sub_orchestrator_graph_contract.py test_sub_orchestrator_focus_eval_contract.py
+venv\Scripts\python -m unittest backend.test.test_message_window_contract backend.test.test_sub_orchestrator_graph_contract backend.test.test_sub_orchestrator_focus_eval_contract
 ```
 
 ## Expected Proof

@@ -2,7 +2,7 @@
 type: source-summary
 title: "PathFinder Frontend Evaluation Workflow"
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-13
 tags:
   - project/pathfinder
   - pathfinder
@@ -13,12 +13,12 @@ lang: en
 source: "[[projects/pathfinder/sources/docs/evaluation/frontend_evaluation_how_to_use.md]]"
 ---
 
-> **TL;DR**: Use fixtures first for UI states, then the optimized live-user or identity-continuation workflow for traced product conversations; verify stage completion from raw backend state (`goals.done === true`), not from assistant wording alone.
+> **TL;DR**: Use fixtures first for UI states, then the optimized live-user or identity-continuation workflow for traced product conversations; write reports in the vault and verify stage completion from raw backend state, not assistant wording.
 
 ## Summary
 The frontend evaluation workflow is the third evaluation layer, sitting after the Python-function-check deterministic gate and replay eval. It tests the UI/product surface that replay cannot reach: fixture sweeps across 13 states, forced-stage transitions, overflow/overlay safety, and real student-like traced conversations.
 
-Its strongest rule: do not count assistant wording as stage completion. The workflow requires verifying stage completion from raw `getBackendState()` before calling any stage done. The 2026-04-12 live frontend run expanded this doc with an optimized batch quiz-click pattern, a latest-response-only check, a new "uncertainty attack run" mode for testing sincere cooperative-but-undecided students, and an identity-continuation lane for restoring prior raw trace state instead of replaying long conversations.
+Its strongest runtime rule: do not count assistant wording as stage completion. The workflow requires verifying stage completion from raw `getBackendState()` before calling any stage done. The 2026-04-13 update also made report ownership explicit: frontend evaluation reports live in the vault evaluation directory, while repo `eval/` keeps raw traces, datasets, manifests, and scratch inputs needed to reproduce findings.
 
 ## Key Points
 - Fixture sweep and forced-stage sweep come before any live chat turns.
@@ -26,7 +26,7 @@ Its strongest rule: do not count assistant wording as stage completion. The work
 - Stage completion requires raw backend state agreement: `payload.rawState.goals?.done === true`, not assistant text.
 - The uncertainty attack run is a distinct eval mode (added 2026-04-12): cooperative student with mixed preferences, family pressure, and shallow direction — tests that PathFinder separates genuine uncertainty from avoidance without soft-locking or false escalation.
 - The identity-continuation run is a distinct eval mode (added 2026-04-12): restore trace `output` into a fresh debug session, continue as the same human, and use `eval/live_session_probe.py send --message-file` for UTF-8-safe turns with compact state checks.
-- The main report lives at `eval/FRONTEND_EVALUATION_REPORT.md`; focused attack/continuation reports get their own dated files under `eval/`.
+- Reports live in `projects/pathfinder/sources/docs/evaluation/`; repo `eval/` is evidence only.
 
 ## Details
 
@@ -49,6 +49,7 @@ Backend must start in debug mode (`PATHFINDER_DEBUG=1`) for `window.__PF_DEBUG__
 
 ## Related
 - [[projects/pathfinder/notes/docs-eval-how-to-use]]
+- [[projects/pathfinder/notes/docs-evaluation-domain]]
 - [[projects/pathfinder/notes/pathfinder-evaluation-hub]]
 - [[projects/pathfinder/notes/docs-python-function-check-how-to-use]]
 - [[projects/pathfinder/notes/docs-goals-evaluation]]

@@ -1,14 +1,22 @@
 # University Agent Evaluation & Audit Log
 
-Updated: 2026-04-09
+Updated: 2026-04-13
 
-> TL;DR: Round 1 moved `uni` onto the explicit retrieval seam on 2026-04-07, and the 2026-04-09 confidence-lock audit confirmed that the extractor still keeps school and prestige claims below Python's `> 0.8` done gate while allowing `campus_format` to resolve categorically.
+> TL;DR: Round 1 moved `uni` onto the explicit retrieval seam on 2026-04-07, the 2026-04-09 confidence-lock audit confirmed the extractor cap, and the 2026-04-13 frontend run opened a Round 2 comparison/ranking target: after UEH evidence is weak and the student orders artifact first, University must compare FPT/RMIT/UEL without asking another meta-threshold question.
 
 ## Round 1 Production Target
 - Stage: `university`
 - Round: `1`
 - This round must prove that a new school claim triggers one narrow research step, the researcher returns usable evidence, the synthesizer embeds the contradiction into `PROBE:`, and the extractor keeps school/prestige confidence capped until the student defends the path.
 - User-facing behavior change to surface after the round: the university stage should become stricter about school math and status claims, with fewer generic school follow-ups and more explicit ROI or admissions squeezes.
+
+## Round 2 Production Target - Frontend Comparison Loop
+- Stage: `university`
+- Round: `2`
+- Trigger: the 2026-04-13 university-finding frontend run reached University after Major completed, then found that University could search UEH and FPT but still asked the student meta-threshold questions such as which page type or how many evidence layers should count as stronger.
+- This round must prove that once the student has already provided the comparison order, University uses available school evidence to make a provisional ranking move. For the seeded Product BA/UX student, the priority order is artifact strength first, then internship/network, international exposure, and ROI.
+- Required behavior: after UEH evidence is only conditional and the student asks to compare FPT next, the `uni` stage should search or use official FPT curriculum/project/internship evidence, then either provisionally rank FPT versus UEH or ask for the next named school to compare. It must not ask the student to choose the page type, column, or number of evidence layers again.
+- User-facing behavior change to surface after the round: the University stage becomes more decisive in named-school comparison. The tradeoff is that it may give a provisional ranking from imperfect evidence instead of waiting for the student to define every evaluation threshold.
 
 ## 1. Architecture & Understanding
 - **Extractor (Iris):** Extracts `prestige_requirement`, `target_school`, `campus_format`, and `is_domestic` from the `uni_message` queue. It must enforce the verification cap so a named school or prestige claim stays `<= 0.6` until the student survives an ROI, admissions, or prestige squeeze.
@@ -131,3 +139,22 @@ Runtime result:
   - `campus_format` rose to `0.85-0.95` across the suite, which is acceptable under the prompt contract because that field is allowed to resolve categorically from the named school. It did not flip `done=True`.
 - **Verdict:** the `uni` extractor now matches the Python gate on the fields that actually drive done counting risk. The one high-confidence field left in traces is the explicitly allowed categorical `campus_format`.
 - **Residual risk:** trace serialization still emits the same Pydantic serializer warnings.
+
+## 8. 2026-04-13 Round 2 Frontend Comparison Replay
+- **Production target:** carry the R7 frontend finding into a replayable data-agent eval. Once the Product BA/UX student has already set artifact strength as the first criterion and asked to compare UEH/FPT/RMIT/UEL, University must stop asking page-type, column, or threshold questions.
+- **Dataset:** `eval/uni_comparison_frontend_2026-04-13.jsonl`
+- **Implementation changes:**
+  - Added `official_program` as a University research domain bucket.
+  - Narrowed University official-domain allowlists when the query names a school such as FPT, UEH, UEL, RMIT, USTH, HCMUT, or VNU.
+  - Tightened `UNI_RESEARCH_PLAN_PROMPT` around named-school curriculum/project/internship comparison.
+  - Tightened `UNI_SYNTHESIS_PROMPT` so an already-run FPT research packet yields a verdict rather than another request to inspect FPT.
+  - Tightened `output.py` so named-school comparison probes do not become new source-choice questions.
+- **Replay commands:**
+  - `venv\Scripts\python eval\run_eval.py --mode multi --file eval\uni_comparison_frontend_2026-04-13.jsonl --graph uni --workers 1`
+  - `venv\Scripts\python eval\run_eval.py --mode multi --file eval\uni_comparison_frontend_2026-04-13.jsonl --graph uni_eval --workers 1`
+- **Final trace audited:** `eval\threads\15538960-2966-4916-8f67-4a3a7cb9f433\traces\run_0001.json`
+- **Audit finding:** PASS at the focused stage + compiler seam. The final trace keeps UEH conditional, says FPT is not strong enough to outrank UEH on the current official evidence, and asks to compare RMIT next. It no longer asks how many evidence layers count, which page type to inspect, or whether to choose curriculum vs course outline vs project/internship.
+- **Verification:**
+  - `venv\Scripts\python -m unittest backend.test.test_uni_graph_contract backend.test.test_output_prompt_contract`
+  - `venv\Scripts\python -m py_compile backend\uni_graph.py backend\data\prompts\uni.py backend\data\prompts\output.py`
+- **Residual risk:** this proves the focused restored-trace stage + compiler seam only. It does not prove a full frontend/browser path through RMIT and UEL, nor broader orchestrator routing behavior.

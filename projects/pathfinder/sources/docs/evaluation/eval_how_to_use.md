@@ -1,6 +1,6 @@
 # PathFinder Evaluation Pipeline
 
-Last updated: 2026-04-12
+Last updated: 2026-04-13
 
 This doc is the official replay-evaluation workflow for creating, running, and closing higher-cost evaluation work in PathFinder.
 
@@ -17,6 +17,29 @@ Sub-orchestrator-only prompt and memory maintenance now live in:
 - `projects/pathfinder/sources/docs/evaluation/sub_orchestrator_focus_eval_how_to_use.md`
 
 Other docs may hold evaluation context or stage-specific findings, but replay-oriented docs should point back here for the actual replay pipeline.
+
+---
+
+## Evaluation Domain Ownership
+
+Canonical evaluation documentation lives in:
+
+```text
+D:\ANHDUC\ADUC_vault\ADUC\projects\pathfinder\sources\docs\evaluation\
+```
+
+The repo `eval/` directory is not a mirrored documentation tree. It is an executable and evidence workspace for:
+
+- runner scripts
+- JSONL datasets
+- raw traces
+- live-session manifests
+- scratch message files
+- temporary reproduction artifacts
+
+Write evaluation reports, audit logs, run retrospectives, workflow guides, and stage findings in the vault evaluation directory. The only project documentation intentionally mirrored between vault and repo is the dev log.
+
+If a repo-side evaluation report already exists, treat it as legacy evidence or convert it to a pointer during cleanup. Do not create new repo mirrors for vault evaluation reports.
 
 ---
 
@@ -49,6 +72,7 @@ It supports restoring a saved trace state, starting/stopping trace capture, send
 
 Read these before non-trivial evaluation work:
 
+- Evaluation domain index: `D:\ANHDUC\ADUC_vault\ADUC\projects\pathfinder\sources\docs\evaluation\README.md`
 - Project router: `D:\ANHDUC\ADUC_vault\ADUC\projects\pathfinder\README.md`
 - Stable project facts: `D:\ANHDUC\ADUC_vault\ADUC\projects\pathfinder\sources\docs\context\docs\PROJECT_CONTEXT.md`
 - Live work and blockers: `D:\ANHDUC\ADUC_vault\ADUC\projects\pathfinder\sources\docs\context\docs\CURRENT_CONTEXT.md`

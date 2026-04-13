@@ -16,7 +16,7 @@ Last updated: 2026-04-09
 ## Command
 
 ```powershell
-venv\Scripts\python -m unittest test_stage_profile_utils_contract.py
+venv\Scripts\python -m unittest backend.test.test_stage_profile_utils_contract
 ```
 
 ## Expected Proof

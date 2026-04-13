@@ -2,7 +2,7 @@
 type: project
 title: "PathFinder"
 created: 2026-04-06
-updated: 2026-04-12
+updated: 2026-04-13
 tags:
   - project/pathfinder
   - ai
@@ -27,7 +27,7 @@ If exact wording or contract precision matters, drill into `projects/pathfinder/
 
 ## Task Fast Paths
 - Code bug, repo review, or implementation resume: [[projects/pathfinder/notes/docs-current-context|Current Context]]
-- Evaluation replay or trace audit: [[projects/pathfinder/notes/docs-eval-how-to-use|PathFinder Evaluation Pipeline]]
+- Evaluation replay, trace audit, or report routing: [[projects/pathfinder/notes/pathfinder-evaluation-hub|PathFinder Evaluation Hub]], [[projects/pathfinder/notes/docs-evaluation-domain|PathFinder Evaluation Domain]]
 - Cheap deterministic backend seam checks: [[projects/pathfinder/notes/docs-python-function-check-how-to-use|PathFinder Python Function Check]]
 - Prompt or student-facing behavior change: [[projects/pathfinder/notes/pathfinder-prompt-hub|PathFinder Prompt Hub]]
 - Architecture, state, or graph routing question: [[projects/pathfinder/notes/pathfinder-architecture-hub|PathFinder Architecture Hub]]
@@ -36,6 +36,7 @@ If exact wording or contract precision matters, drill into `projects/pathfinder/
 ## Hot Paths Now
 For the current evaluation cycle, these are the highest-value pages:
 - Live workstream: [[projects/pathfinder/notes/docs-current-context|Current Context]]
+- Evaluation domain ownership: [[projects/pathfinder/notes/docs-evaluation-domain|PathFinder Evaluation Domain]]
 - Evaluation workflow: [[projects/pathfinder/notes/docs-eval-how-to-use|PathFinder Evaluation Pipeline]]
 - Python seam gate: [[projects/pathfinder/notes/docs-python-function-check-how-to-use|PathFinder Python Function Check]]
 - Knowledge-agent eval contract: [[projects/pathfinder/notes/docs-knowledge-agent-evaluation|Knowledge Agent Evaluation Guide]]
@@ -46,7 +47,10 @@ For the current evaluation cycle, these are the highest-value pages:
 Build a durable project workspace that lets any agent start from a compressed, structured knowledge layer before drilling into the canonical PathFinder docs inside this vault.
 
 ## Current Status
-Core `docs/` content has been ingested into project-local sources and summarized into note pages. This vault now holds the canonical operational contract, while the repo `docs/` folder is archived. The current hardening queue is now official: full eval first, token optimization inside the sub-orchestrator lane, broader cheap seam coverage, and explicit sync routines for any maintained repo mirror.
+Core `docs/` content has been ingested into project-local sources and summarized into note pages. This vault now holds the canonical operational contract, while the repo `docs/` folder is archived. Evaluation docs and reports are vault-only under `projects/pathfinder/sources/docs/evaluation/`; repo `eval/` is an executable/evidence workspace. The current hardening queue is University comparison/ranking after the 2026-04-13 university-finding frontend run fixed the Major handoff into University.
+
+## Testing Rule
+All Python contract/regression tests live under `D:\ANHDUC\Path_finder\backend\test\`. New tests should use `test_*.py` names inside that folder and be run as `backend.test.<module>` with `python -m unittest`. Do not add root-level `test_*.py` files or scatter tests beside implementation modules.
 
 ## Task Routes
 - Architecture and graph shape: [[projects/pathfinder/notes/pathfinder-architecture-hub|PathFinder Architecture Hub]]
@@ -60,6 +64,7 @@ Core `docs/` content has been ingested into project-local sources and summarized
 - [[projects/pathfinder/notes/docs-project-context|PathFinder Project Context]]
 - [[projects/pathfinder/notes/docs-architecture|PathFinder Architecture]]
 - [[projects/pathfinder/notes/docs-stage-prompt-audit|Stage Prompt Audit Guide]]
+- [[projects/pathfinder/notes/docs-evaluation-domain|PathFinder Evaluation Domain]]
 - [[projects/pathfinder/notes/pathfinder-architecture-hub|PathFinder Architecture Hub]]
 - [[projects/pathfinder/notes/pathfinder-evaluation-hub|PathFinder Evaluation Hub]]
 - [[projects/pathfinder/notes/docs-repo-vault-sync-policy|Repo Vault Sync Policy]]
@@ -71,7 +76,9 @@ Core `docs/` content has been ingested into project-local sources and summarized
 - Repo dev-log mirror: `D:\ANHDUC\Path_finder\logs\DEV_LOG.md`
 - Canonical dev-log day files: `projects/pathfinder/sources/docs/dev-log/days/`
 - Repo dev-log day files: `D:\ANHDUC\Path_finder\logs\dev\days\`
-- Rule: this vault now holds the live PathFinder documentation set; the repo `docs (archived)/` folder is archive-only, while the paired `DEV_LOG.md` index + day-file mirror is the one maintained repo logging exception and the baseline example of an explicit sync routine
+- Evaluation domain: `projects/pathfinder/sources/docs/evaluation/`
+- Repo eval evidence workspace: `D:\ANHDUC\Path_finder\eval\`
+- Rule: this vault now holds the live PathFinder documentation set; the repo `docs (archived)/` folder is archive-only, evaluation reports stay vault-only, repo `eval/` keeps executable evidence only, and the paired `DEV_LOG.md` index + day-file mirror is the one maintained repo logging exception and the baseline example of an explicit sync routine
 
 ## Tasks
 - [x] Mirror `docs/` into project-local sources, excluding `DEV_LOG.md`

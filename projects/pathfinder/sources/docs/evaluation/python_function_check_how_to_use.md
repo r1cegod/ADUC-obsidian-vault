@@ -2,9 +2,11 @@
 
 > **TL;DR**: This is the canonical low-cost backend hardening workflow for PathFinder's pure Python seams. Run it before broader replay when routing, reopen invalidation, done normalization, sub-orchestrator maintenance, or stage-to-output glue changed. The current five groups are the baseline, not a frozen limit; broader cheap seam coverage is now official policy.
 
-Last updated: 2026-04-10
+Last updated: 2026-04-13
 
 `python_function_check` is the deterministic counterpart to the replay-heavy `eval/` workflow.
+
+Test-location rule: all Python contract/regression tests live under `backend/test/`. New tests should be added there and invoked as `backend.test.<module>` with `python -m unittest`; do not add root-level `test_*.py` files.
 
 Use it when the target is Python-owned behavior, not model output:
 - stage routing
@@ -62,11 +64,11 @@ Run from repo root after activating the virtual environment:
 
 ```powershell
 venv\Scripts\activate
-venv\Scripts\python -m unittest test_stage_profile_utils_contract.py
-venv\Scripts\python -m unittest test_orchestrator_graph_contract.py
-venv\Scripts\python -m unittest test_stage_graph_helper_contract.py test_thinking_graph_contract.py test_uni_graph_contract.py
-venv\Scripts\python -m unittest test_evaluation_graph_contract.py test_output_graph_contract.py test_output_prompt_contract.py test_stage_contract.py test_main_contract.py
-venv\Scripts\python -m unittest test_message_window_contract.py test_sub_orchestrator_graph_contract.py test_sub_orchestrator_focus_eval_contract.py
+venv\Scripts\python -m unittest backend.test.test_stage_profile_utils_contract
+venv\Scripts\python -m unittest backend.test.test_orchestrator_graph_contract
+venv\Scripts\python -m unittest backend.test.test_stage_graph_helper_contract backend.test.test_thinking_graph_contract backend.test.test_uni_graph_contract
+venv\Scripts\python -m unittest backend.test.test_evaluation_graph_contract backend.test.test_output_graph_contract backend.test.test_output_prompt_contract backend.test.test_stage_contract backend.test.test_main_contract
+venv\Scripts\python -m unittest backend.test.test_message_window_contract backend.test.test_sub_orchestrator_graph_contract backend.test.test_sub_orchestrator_focus_eval_contract
 ```
 
 The contract files above are all `unittest`-compatible. This matters because the original helper tests for Thinking and Uni had been written as bare pytest-style functions, which meant `python -m unittest ...` silently skipped them until they were converted.

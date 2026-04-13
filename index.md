@@ -1,6 +1,6 @@
 # Index
 
-> Content routing table. Last updated: 2026-04-12 | Pages: 140 | Sources: 67
+> Content routing table. Last updated: 2026-04-13 | Pages: 141 | Sources: 68
 > Format: `- [[path|Display Name]] - one-liner (tags)`
 
 ---
@@ -122,6 +122,7 @@
 - 2026-04-07: [[wiki/synthesis/nate-herk-karpathy-claude-code-obsidian|Nate Herk Karpathy Obsidian Setup]] <- [[sources/transcripts/nate-herk-karpathy-claude-code-obsidian.md|raw]] (obsidian, memory)
 
 ### PathFinder
+- 2026-04-13: [[projects/pathfinder/notes/docs-evaluation-domain|PathFinder Evaluation Domain]] <- [[projects/pathfinder/sources/docs/evaluation/README.md|raw]] (pathfinder, evaluation, workflow, docs)
 - 2026-04-06: [[projects/pathfinder/notes/docs-dev-log-system-prompt|Dev Log Generator - System Prompt]] <- [[projects/pathfinder/sources/docs/DEV_LOG_SYSTEM_PROMPT.md|raw]] (pathfinder, workflow)
 - 2026-04-06: [[projects/pathfinder/notes/docs-architecture|PathFinder Architecture]] <- [[projects/pathfinder/sources/docs/architecture/docs/ARCHITECTURE.md|raw]] (pathfinder, architecture)
 - 2026-04-06: [[projects/pathfinder/notes/docs-state-architecture|PathFinder State Architecture]] <- [[projects/pathfinder/sources/docs/architecture/docs/state_architecture.md|raw]] (pathfinder, state)

@@ -2,7 +2,7 @@
 type: synthesis
 title: "PathFinder Evaluation Hub"
 created: 2026-04-06
-updated: 2026-04-12
+updated: 2026-04-13
 tags:
   - project/pathfinder
   - pathfinder
@@ -14,15 +14,16 @@ feeds_into:
   - projects/pathfinder/README.md
 ---
 
-> **TL;DR**: This hub is the default entrypoint for PathFinder evaluation work, routing across replay eval, the five-group Python-function-check workflow, and the sub-orchestrator focus-eval lane.
+> **TL;DR**: This hub is the default entrypoint for PathFinder evaluation work, routing across the vault-only evaluation-domain index, replay eval, Python-function checks, frontend live sessions, and sub-orchestrator focus eval.
 
 ## Summary
-Use this hub when the task is about attack datasets, replay execution, deterministic backend seam checks, evaluation policy, or stage hardening status. It connects the top-level evaluation router to both the replay guide and the newer Python-function-check workflow, plus the stage-specific audit logs.
+Use this hub when the task is about attack datasets, replay execution, deterministic backend seam checks, evaluation policy, frontend user-like sessions, or stage hardening status. It connects the vault-only evaluation-domain index to the replay guide, Python-function-check workflow, frontend live-session workflow, and stage-specific audit logs.
 
 This domain is already large enough that hub-based navigation is better than opening individual eval notes one by one from the README.
 
 ## Suggested Entry Points
 - Need the official evaluation workflow and signoff rules: [[projects/pathfinder/notes/docs-eval-how-to-use|PathFinder Evaluation Pipeline]]
+- Need the source-of-truth boundary for evaluation docs/reports vs repo evidence: [[projects/pathfinder/notes/docs-evaluation-domain|PathFinder Evaluation Domain]]
 - Need the cheap deterministic backend gate before replay: [[projects/pathfinder/notes/docs-python-function-check-how-to-use|PathFinder Python Function Check]]
 - Need the frontend evaluation workflow (fixture sweep, live user run, uncertainty attack): [[projects/pathfinder/notes/docs-frontend-evaluation-how-to-use|PathFinder Frontend Evaluation Workflow]]
 - Need the deterministic sub-orchestrator + `routing_memory` bucket inside that gate: [[projects/pathfinder/notes/docs-python-function-check-sub-orchestrator-and-memory-lane|Python Function Check - Sub-Orchestrator And Memory Lane]]
@@ -44,6 +45,7 @@ This domain is already large enough that hub-based navigation is better than ope
 ## Related
 - [[projects/pathfinder/README]]
 - [[projects/pathfinder/notes/docs-eval-how-to-use]]
+- [[projects/pathfinder/notes/docs-evaluation-domain]]
 - [[projects/pathfinder/notes/docs-python-function-check-how-to-use]]
 - [[projects/pathfinder/notes/docs-frontend-evaluation-how-to-use]]
 - [[projects/pathfinder/notes/docs-python-function-check-sub-orchestrator-and-memory-lane]]

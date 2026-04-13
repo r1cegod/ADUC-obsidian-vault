@@ -21,7 +21,7 @@ Last updated: 2026-04-09
 ## Command
 
 ```powershell
-venv\Scripts\python -m unittest test_stage_graph_helper_contract.py test_thinking_graph_contract.py test_uni_graph_contract.py
+venv\Scripts\python -m unittest backend.test.test_stage_graph_helper_contract backend.test.test_thinking_graph_contract backend.test.test_uni_graph_contract
 ```
 
 ## Expected Proof

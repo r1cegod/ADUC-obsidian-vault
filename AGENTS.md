@@ -1,14 +1,14 @@
 # AGENTS.md - Codex Vault Entry Point
 
-> **TL;DR**: Start every session with [[briefing.md]], then [[context/now]], then route through [[SCHEMA.md]] and the relevant project README before touching deeper vault or repo content.
+> **TL;DR**: Start every session with [[context/hot]] as the wrapper cache, then [[briefing.md]], then [[context/now]], then route through [[SCHEMA.md]] and the relevant project README only when needed.
 
-Last updated: 2026-04-09
+Last updated: 2026-04-13
 
 ## Quick Start
 
-**Read in order. Do not open any content file before completing Step 1.**
+**Read in order. Do not open any content file before completing Step 0-2.**
 
-0. Read `context/hot.md` - session hot cache. Read this FIRST, before briefing.md. Files listed under "Stable Since Last Session" can skip their repair pass. Update at task end.
+0. Read `context/hot.md` - session hot cache. Read this FIRST, before briefing.md. Files listed under "Stable Since Last Session" can skip their repair pass. Update at task end only when continuity, stable-router status, or next action changed.
 1. Read `briefing.md` - vault orientation. Do this before anything else except hot.md.
 2. Read `context/now.md` - current priorities. Do this before reading project or wiki files.
 3. Use `SCHEMA.md -> Canonical Startup Matrix` to choose the next page only if the next step is not obvious from the task.
@@ -52,15 +52,16 @@ See `SCHEMA.md` for the full operations manual.
 
 **This is mandatory, not optional.** Before ending your response:
 
-1. Self-healing pass on every page you touched or read:
+1. Self-healing pass on every page you edited or created, plus read-only pages only when they show a visible structural defect or stale routing that would affect this task:
    - Missing `updated` date? Add today's date.
    - Missing `> TL;DR`? Generate one.
    - Obvious missing wikilinks? Add them.
+   - Evidence-only reads for repo/eval work do not require page-by-page repair; summarize them in one log line if useful.
 2. Log to the current day file in `sources/log/days/`. Even if nothing was fixed, log what you did. No exceptions.
    - Format: `## [YYYY-MM-DD] ACTION | Subject` - see `SCHEMA.md -> Self-Healing Protocol`
-   - Then sync `log.md` directly with the Edit tool — see `sources/log/HOW_TO_WRITE.md -> Syncing log.md`
-1. If user revealed new context in conversation (personal info, project status, priorities), update `context/me.md`, `context/now.md`, or `context/goals.md` as appropriate - log as `UPDATE | context`.
-2. If the response created durable knowledge, changed the wiki structure, or ingested sources, write those updates before sending the response. Do not wait for a special session-end signal.
+   - Then sync `log.md` only when the day is new or the daily summary changed — see `sources/log/HOW_TO_WRITE.md -> Syncing log.md`
+3. If user revealed new context in conversation (personal info, project status, priorities), update `context/me.md`, `context/now.md`, or `context/goals.md` as appropriate - log as `UPDATE | context`.
+4. If the response created durable knowledge, changed the wiki structure, or ingested sources, write those updates before sending the response. Do not wait for a special session-end signal.
 
 See `SCHEMA.md -> Self-Healing Protocol` for full rules.
 

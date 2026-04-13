@@ -13,7 +13,7 @@
 - [[projects/ielts-writing/README|IELTS Writing]] - 20-day protocol: band 4-5 → 7-8, schema-based docs
 
 ## Current Focus
-PathFinder is in eval/hardening phase. The grouped Python-function check workflow passes across the current backend seams. The 2026-04-12 live frontend work patched quiz/test and Goals schema blockers, locked output wording to raw stage completion state, reconciled the lock with same-turn stage intro, added Purpose handoff sufficiency, capped sub-orchestrator worker token fanout, added same-turn post-stage transition, and left a fresh uncertainty/full-path run as the next proof. Read [[context/now]] for live blockers and next actions.
+PathFinder is in eval/hardening phase. The grouped Python-function check workflow passes across the current backend seams. The 2026-04-13 university-finding frontend run fixed the Major MIS handoff into University, left University comparison/ranking as the next hardening target, and made evaluation docs/reports vault-only while repo `eval/` keeps executable evidence. Read [[context/now]] for live blockers and next actions.
 
 ## Pending
 <!-- Check pending/ for unsorted files each session -->
@@ -30,4 +30,4 @@ _Nothing in the drop zone._
 - [[vault-keeping]] - vault maintenance routing hub (micro → structural scale ladder)
 - [[log.md]] - activity-history navigation
 
-**Last updated:** 2026-04-12
+**Last updated:** 2026-04-13

@@ -2,7 +2,7 @@
 type: context
 title: "About Me"
 created: 2026-04-06
-updated: 2026-04-08
+updated: 2026-04-13
 tags: [context]
 status: active
 lang: en
@@ -58,6 +58,7 @@ feeds_into: []
 
 ## Preferences
 - **Communication:** Direct, no filler. Challenge vague answers. No performative helpfulness.
+- **PathFinder test layout:** Python contract/regression tests belong under `backend/test/`; do not scatter root-level `test_*.py` files around the repo.
 - **Language split:** Vietnamese for chatbot/agent outputs; English for code, comments, docs, and all technical explanations.
 - **Teaching style:** SEAM method — build to the junction, learn what's needed, cross it. One wire at a time. Socratic questions + live challenges lock it in. Full protocol: [[wiki/pre-wire-protocol]]
 - **Code style:** Fresh Rule — official-style generic examples first; adapt to codebase yourself. X-Ray annotations inside code blocks, not below them.

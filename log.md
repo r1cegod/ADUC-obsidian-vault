@@ -6,7 +6,8 @@
 - Guide | [sources/log/HOW_TO_WRITE.md](./sources/log/HOW_TO_WRITE.md)
 - Data holes | [sources/log/DATA_HOLES.md](./sources/log/DATA_HOLES.md)
 
-- 2026-04-12 | Vault architecture + propagation system, evaluation-domain cleanup, PathFinder frontend/live eval fixes, output stage-state lock, Purpose handoff audit, token fanout cap, same-turn stage transition, vault-keeping domain hub | [entry](./sources/log/days/2026-04-12.md)
+- 2026-04-13 | PathFinder university-finding frontend eval fixed Major MIS handoff, hardened the first University comparison replay seam, made evaluation docs vault-only, centralized Python tests under backend/test, and optimized vault write-back rules | [entry](./sources/log/days/2026-04-13.md)
+- 2026-04-12 | Vault architecture, evaluation-domain cleanup, PathFinder frontend/live eval fixes, output stage-state lock, token fanout cap, and same-turn stage transition | [entry](./sources/log/days/2026-04-12.md)
 - 2026-04-11 | PathFinder main message cutoff, live trace harness, first product conversation captured, trace-to-Goals sanitizer audit, and Goals handoff prompt replay | [entry](./sources/log/days/2026-04-11.md)
 - 2026-04-10 | PathFinder queue lookup, frontend audit/fixes, and log self-healing | [entry](./sources/log/days/2026-04-10.md)
 - 2026-04-09 | IELTS Writing samples plus PathFinder confidence lock audit and serializer debt cleanup | [entry](./sources/log/days/2026-04-09.md)

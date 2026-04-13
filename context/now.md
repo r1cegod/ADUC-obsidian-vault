@@ -2,7 +2,7 @@
 type: context
 title: "Current Focus"
 created: 2026-04-06
-updated: 2026-04-12
+updated: 2026-04-13
 tags: [context]
 status: active
 lang: en
@@ -10,7 +10,7 @@ feeds_into:
   - briefing.md
 ---
 
-> **TL;DR**: PathFinder scholarship demo shipped 2026-03-30. Now in eval/hardening phase: grouped Python checks are green, both message-memory lanes have token controls, the frontend fixture pass is documented, the 2026-04-12 live runs patched quiz/test and Goals schema blockers, output wording now locks to raw stage state without fighting stage intro, Purpose has a handoff-sufficiency policy, and the real-Duc identity continuation completed Goals into Job; the one-turn stage transition lag is now patched with a post-stage manager before output.
+> **TL;DR**: PathFinder is in eval/hardening phase: the 2026-04-13 university-finding frontend run fixed the Major MIS handoff into University, left University comparison/ranking as the next hardening target, and made evaluation docs/reports vault-only while repo `eval/` keeps executable evidence.
 
 ## Active Decisions
 - Default next technical follow-up for PathFinder: treat Goals as a planning-ready handoff layer in prompts; next replay should exercise the full orchestrator path so routing/counter behavior is tested beyond the stage + compiler wrapper
@@ -27,12 +27,15 @@ feeds_into:
 - The sub-orchestrator `summarizer` and `worker` families now have their own focus-eval lane and separate 3-round production gates
 - Maintained repo mirrors should use explicit sync routines rather than manual-by-default content mirroring
 - PathFinder docs are vault-canonical by default; repo documentation mirrors are explicit exceptions, not a general sync rule
+- PathFinder evaluation docs, reports, audits, and run retrospectives now live in `projects/pathfinder/sources/docs/evaluation/`; repo `eval/` is executable evidence only
+- PathFinder Python contract/regression tests now live under `D:\ANHDUC\Path_finder\backend\test\`; new tests should be invoked as `backend.test.<module>` and not added at repo root
 - PathFinder project dev log now uses a two-layer mirror: `D:\ANHDUC\Path_finder\logs\DEV_LOG.md` as the repo index plus mirrored daily files under `logs/dev/days/`; other repo logs stay local unless explicitly promoted
 - The vault global activity log now uses the same two-layer rule: `log.md` is navigation only, while the actual daily activity log lives under `sources/log/days/`
 - Stable router pages may be treated as already validated for the day if they were not edited and no structural issue was found on read
 
 ## This Week's Focus
-- Exercise the new output stage-state lock and Goals handoff contract through the full orchestrator path, using the live-trace replay rows as the seed
+- Harden University comparison/ranking behavior for the UEH/FPT/RMIT/UEL lane exposed by the 2026-04-13 university-finding frontend run
+- Exercise the output stage-state lock and Goals handoff contract through the full orchestrator path when the next full-path replay cycle resumes
 - Use the completed real-Duc Goals continuation as a seed for Job/Major handoff evaluation, not as proof that the full fresh UI path is complete
 - Use the completed frontend fixture report as the UI baseline, then only reopen frontend testing for new UI changes or mobile/visual polish
 - Keep the cheaper stage-to-output seam and broaden the vault-canonical grouped `python_function_check` workflow as the pre-replay gate
@@ -41,13 +44,14 @@ feeds_into:
 - Move maintained repo mirrors toward explicit sync routines instead of leaving mirror updates manual by default
 
 ## Active Projects
-- [[projects/pathfinder/README|PathFinder]] - post-scholarship, eval/hardening phase. Thinking, Purpose, Goals, Job, Major, and Uni now pass the current Stage 4 `evaluation_graph` seam; the grouped Python-function checks are green across five buckets; the live frontend trace-to-Goals audit patched streamed-output sanitization and the follow-up prompt pass made Goals a planning-ready handoff into Job/Major.
+- [[projects/pathfinder/README|PathFinder]] - post-scholarship, eval/hardening phase. The 2026-04-13 university-finding frontend run fixed Major's MIS handoff into University, documented remaining University comparison-loop debt, and made the evaluation domain vault-only while repo `eval/` remains an executable evidence workspace.
 - [[projects/ielts-writing/README|IELTS Writing]] - active, parallel track. 20-day band 4-5 → 7-8 protocol. Two schema docs (Task 1 + Task 2) and 14-day mastery plan created. Gap is structural, not linguistic. Day 1 starts 2026-04-09.
 
 ## Blockers / Open Questions
 - Whether the prompt-only Goals handoff contract holds under a fresh live uncertainty frontend run after the quiz-seeded Thinking state, empty-MI completion, sticky testStatus, and nested Goals done fixes
 - Whether the same-turn stage transition patch holds in a fresh live run after backend restart
 - Whether frontend fixture testing should be broadened into automated Playwright coverage after the current eval/dataset pass
+- Whether University needs a comparison-state contract or prompt-only hardening to rank named schools after evidence appears
 
 ## Vault Status
 - Bootstrapped 2026-04-06. PathFinder is the first fully ingested project corpus.
@@ -60,6 +64,7 @@ feeds_into:
 - Daily notes are now being treated more explicitly as raw capture to be graduated into durable pages, not overwritten by agent synthesis.
 
 ## Upcoming
+- Run a dedicated University comparison/ranking evaluation cycle using the UEH/FPT/RMIT/UEL findings from the 2026-04-13 frontend run
 - Run the live-trace Goals/Job/Major handoff replay through the broader orchestrator path after the stage-wrapper pass
 - Use `eval/FRONTEND_EVALUATION_REPORT.md` and the vault frontend-evaluation how-to as the baseline for future UI state checks
 - Keep the main `messages` prune window, sub-orchestrator `routing_memory` 5k summarizer lane, and 2.5k worker read tail under full-eval observation
@@ -73,3 +78,4 @@ feeds_into:
 - [[context/goals]]
 - [[briefing.md]]
 - [[projects/pathfinder/README]]
+- [[projects/pathfinder/notes/docs-evaluation-domain]]

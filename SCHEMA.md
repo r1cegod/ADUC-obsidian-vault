@@ -18,8 +18,11 @@ Run this before every task. It is not optional.
 
 This section is the canonical startup rule. Wrapper files like `AGENTS.md` should point here instead of restating a second competing sequence.
 
+Wrapper exception: `context/hot.md` may be read before `briefing.md` when the wrapper requires the hot cache. That read is a startup cache read, not content descent, and it does not create a page-level repair obligation by itself.
+
 ```
-1. Read briefing.md                  ← always, no exceptions
+0. Optional wrapper cache: context/hot.md
+1. Read briefing.md                  ← always, except optional hot cache pre-read
 2. Read context/now.md               ← always, before any content file
 3. Check context/now.md updated date ← if > 7 days ago, flag before proceeding
 4. Check briefing.md Active Projects ← must match context/now.md Active Projects
@@ -29,11 +32,11 @@ This section is the canonical startup rule. Wrapper files like `AGENTS.md` shoul
 
 **Enforcement:** If you find yourself opening a wiki page, project note, or source file before completing steps 1-2, stop and go back. Skipping the tiered load is the most common failure mode.
 
-**Canonical startup rule:** every task starts `briefing.md -> context/now.md`. Only after that may the path branch into `SCHEMA.md`, `index.md`, or a project README.
+**Canonical startup rule:** every task starts `briefing.md -> context/now.md`, with only the optional `context/hot.md` wrapper cache before it. Only after that may the path branch into `SCHEMA.md`, `index.md`, or a project README.
 
 ### Canonical Startup Matrix
 
-After `briefing.md -> context/now.md`, choose the smallest next step that fits the task:
+After optional `context/hot.md` and required `briefing.md -> context/now.md`, choose the smallest next step that fits the task:
 
 | Task type | Next page |
 |-----------|-----------|
@@ -44,6 +47,7 @@ After `briefing.md -> context/now.md`, choose the smallest next step that fits t
 | Exact contract wording / source precision | relevant project note first, then raw source only if still needed |
 
 Default for project work:
+- `context/hot.md` only if required by the wrapper
 - `briefing.md`
 - `context/now.md`
 - `projects/<name>/README.md`
@@ -673,9 +677,25 @@ Agents learn facts from two sources: ingested documents and live conversation. I
 
 ## Self-Healing Protocol
 
-Every agent applies this whenever it reads vault pages — even for non-wiki tasks.
+Every agent applies this to vault pages it edits or creates, plus read-only pages only when a visible structural defect or stale routing issue would affect the current task or the next session.
 Batch fixes at the end of your task into a single log entry.
-**Logging is mandatory — even if nothing was fixed, log what you did.**
+**Logging is mandatory for durable work. Evidence-only reads can be summarized in one batch log line instead of producing page-by-page repair work.**
+
+### Evidence-Only Read Exception
+
+If a vault page was read only to gather context or evidence for a repo/eval task, and the page already has the required routing shape or is a raw source/dev-log page, do not run a repair pass just because it was read.
+
+Use this exception when all are true:
+- The page was not edited or created in the current task.
+- No missing frontmatter/TLDR, broken routing link, stale active-project state, or obvious contradiction would mislead the next agent.
+- The task result does not require that page to become the canonical summary.
+
+Allowed write-back under this exception:
+- Add one day-log line such as `READ | evidence pages checked; no repair needed`.
+- Update `context/hot.md` only as a compact delta when continuity or next action changed.
+- Leave derived notes alone unless the stale derived note would misroute the next run.
+
+Do not update `log.md` just because a same-day day-log entry was appended and the existing daily summary still remains accurate.
 
 ### Auto-Fix (no approval needed):
 - Missing `updated` date → add today's date
@@ -702,7 +722,7 @@ At the end of your task, append one block to the current day file in `sources/lo
 - **FLAG** [[page]] — issue + suggested action
 ```
 
-After updating the day file, sync `log.md` directly with the Edit tool:
+After updating the day file, check whether `log.md` needs a navigation sync:
 - New day file? → insert a new line at the top of the entries block (newest-first)
 - Summary changed? → edit the matching line in `log.md`
 - Entry added, summary unchanged? → no `log.md` update needed
