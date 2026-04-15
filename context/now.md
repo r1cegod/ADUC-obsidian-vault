@@ -2,7 +2,7 @@
 type: context
 title: "Current Focus"
 created: 2026-04-06
-updated: 2026-04-13
+updated: 2026-04-15
 tags: [context]
 status: active
 lang: en
@@ -10,7 +10,7 @@ feeds_into:
   - briefing.md
 ---
 
-> **TL;DR**: PathFinder is in eval/hardening phase: the 2026-04-13 university-finding frontend run fixed the Major MIS handoff into University, left University comparison/ranking as the next hardening target, and made evaluation docs/reports vault-only while repo `eval/` keeps executable evidence.
+> **TL;DR**: PathFinder is being treated as reviewable/portfolio-ready unless a specific blocker appears. Current strategic focus is choosing the next high-leverage project: a reusable AI-agent scaffold that proves Duc's specialty in stateful, evaluable agent systems and supports inbound distribution.
 
 ## Active Decisions
 - Default next technical follow-up for PathFinder: treat Goals as a planning-ready handoff layer in prompts; next replay should exercise the full orchestrator path so routing/counter behavior is tested beyond the stage + compiler wrapper
@@ -34,7 +34,9 @@ feeds_into:
 - Stable router pages may be treated as already validated for the day if they were not edited and no structural issue was found on read
 
 ## This Week's Focus
-- Harden University comparison/ranking behavior for the UEH/FPT/RMIT/UEL lane exposed by the 2026-04-13 university-finding frontend run
+- Decide whether to freeze PathFinder as reviewable portfolio evidence, with only critical blockers fixed rather than continued feature pushing
+- Choose and scaffold the next project around reusable AI-agent infrastructure, evaluation, memory, and distribution leverage; current candidate is [[projects/raven/README|Raven]], a Knowledge Signal Engine for filtering YouTube/Reddit noise into sourced insight, vault memory, and public synthesis artifacts by formalizing Duc's internal bullshit detector
+- Harden University comparison/ranking behavior for the UEH/FPT/RMIT/UEL lane exposed by the 2026-04-13 university-finding frontend run only if needed for review/demo confidence
 - Exercise the output stage-state lock and Goals handoff contract through the full orchestrator path when the next full-path replay cycle resumes
 - Use the completed real-Duc Goals continuation as a seed for Job/Major handoff evaluation, not as proof that the full fresh UI path is complete
 - Use the completed frontend fixture report as the UI baseline, then only reopen frontend testing for new UI changes or mobile/visual polish

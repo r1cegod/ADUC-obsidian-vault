@@ -2,7 +2,7 @@
 type: context
 title: "Session Hot Cache"
 created: 2026-04-12
-updated: 2026-04-13
+updated: 2026-04-15
 tags: [context, session]
 status: active
 lang: en
@@ -29,6 +29,35 @@ feeds_into: []
 - `projects/pathfinder/notes/pathfinder-workflow-hub.md` - verified 2026-04-13, routes the sync/evaluation boundary.
 
 ## Last Session Summary
+
+- **Date:** 2026-04-15
+- **Files changed:**
+  - WSL: `/home/r1ceg/Path_finder_wsl` clean working copy created and validated.
+  - WSL: `/home/r1ceg/.zprofile` and `/home/r1ceg/.zshenv` updated with local binary paths.
+  - WSL: `/home/r1ceg/.codex/AGENTS.md` and `/home/r1ceg/.codex/RTK.md` created by `rtk init -g --codex`.
+  - Windows Codex MCP config: added `obsidian`.
+  - WSL Codex MCP config: added `obsidian`.
+  - `sources/log/days/2026-04-15.md`
+  - `log.md`
+  - `context/hot.md`
+- **Open threads:**
+  - Use `/home/r1ceg/Path_finder_wsl` as the clean WSL PathFinder repo. The earlier `/home/r1ceg/Path_finder` clone was dirtied by broad rsync and removed.
+  - rtk v0.36.0 is installed in WSL and configured for WSL Codex global instructions.
+  - Filesystem Obsidian MCP uses `@bitbonsai/mcpvault` and is configured for both Windows Codex and native WSL Codex.
+  - Native WSL Codex CLI is installed under `/home/r1ceg/.npm-global/bin/codex`.
+  - Focused WSL backend verification passed: output/University contract tests reported `15 passed, 4 subtests passed`.
+  - User is now considering [[projects/raven/README|Raven]] as the next scaffold: a Knowledge Signal Engine that formalizes Duc's internal bullshit detector, then routes YouTube/Reddit source filtering -> insight extraction -> vault memory -> public synthesis/distribution.
+  - Major stage user-like university-finding soft lock is fixed and live-verified through R5.
+  - First University comparison replay seam is fixed at stage + compiler level: UEH stays conditional, weak FPT does not outrank UEH, and the response moves to RMIT.
+  - Broader University RMIT/UEL comparison coverage and full frontend/browser continuation are not proven yet.
+  - Evaluation docs and reports are now vault-only; repo `eval/` keeps executable evidence only.
+  - Python contract/regression tests now belong under `backend/test/`; root-level `test_*.py` files are not allowed.
+  - Vault write-back protocol is optimized: evidence-only reads do not require page-level repair, `log.md` sync happens only on new day or changed summary, and `context/hot.md` uses compact delta updates.
+  - Default tool posture changed 2026-04-15: use `rtk` for shell/repo commands where practical and Obsidian MCP for vault reads/writes instead of raw filesystem access.
+  - RTK is now available in non-login zsh command runners via `/home/r1ceg/.zshenv`, so plain `rtk ...` works from `/home/r1ceg/Path_finder_wsl`.
+- **Next action:** treat PathFinder as reviewable unless a demo/review blocker appears; plan the next high-leverage scaffold project around reusable AI-agent infrastructure, evaluation/replay, memory, and inbound distribution.
+
+## Previous Session Summary
 
 - **Date:** 2026-04-13
 - **Files changed:**
@@ -57,27 +86,6 @@ feeds_into: []
   - Python contract/regression tests now belong under `backend/test/`; root-level `test_*.py` files are not allowed.
   - Vault write-back protocol is optimized: evidence-only reads do not require page-level repair, `log.md` sync happens only on new day or changed summary, and `context/hot.md` uses compact delta updates.
 - **Next action:** broaden University comparison/ranking replay to RMIT and UEL, or run a full frontend continuation if browser-level proof is needed.
-
-## Previous Session Summary
-
-- **Date:** 2026-04-12
-- **Files changed:**
-  - `vault_architecture.md` (created - full vault system map)
-  - `vault_propagation.md` (created - propagation system doc)
-  - `context/hot.md` (created - this file)
-  - `scripts/check_propagation.py` (created - PostToolUse hook script)
-  - `SCHEMA.md` (sync matrix section added)
-  - `CLAUDE.md` (hot cache + propagation rules added)
-  - `AGENTS.md` (hot cache rule added)
-  - `context/now.md`, `context/me.md`, `context/goals.md` (feeds_into: added)
-  - `projects/pathfinder/README.md`, `projects/ielts-writing/README.md` (feeds_into: added)
-  - all 6 PathFinder hub notes (feeds_into: added)
-  - `sources/log/days/2026-04-12.md` (WIRE log entry added)
-- **Open threads:**
-  - Uncertainty attack full chat run still paused - pre-chat bugs fixed, full run not done.
-  - Orchestrator eval not started - next major PathFinder eval task.
-  - IELTS Writing daily practice sessions not yet running (protocol started 2026-04-09).
-- **Next action:** orchestrator replay through the full path, or continue uncertainty attack chat.
 
 ## Flagged For This Session
 

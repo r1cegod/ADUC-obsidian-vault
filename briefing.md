@@ -13,7 +13,7 @@
 - [[projects/ielts-writing/README|IELTS Writing]] - 20-day protocol: band 4-5 → 7-8, schema-based docs
 
 ## Current Focus
-PathFinder is in eval/hardening phase. The grouped Python-function check workflow passes across the current backend seams. The 2026-04-13 university-finding frontend run fixed the Major MIS handoff into University, left University comparison/ranking as the next hardening target, and made evaluation docs/reports vault-only while repo `eval/` keeps executable evidence. Read [[context/now]] for live blockers and next actions.
+PathFinder is reviewable unless a demo blocker appears. The next scaffold candidate is [[projects/raven/README|Raven]]: a Knowledge Signal Engine that formalizes Duc's bullshit detector into source scoring, insight filtering, vault memory, and public synthesis. Read [[context/now]] for live blockers and next actions.
 
 ## Pending
 <!-- Check pending/ for unsorted files each session -->
@@ -30,4 +30,4 @@ _Nothing in the drop zone._
 - [[vault-keeping]] - vault maintenance routing hub (micro → structural scale ladder)
 - [[log.md]] - activity-history navigation
 
-**Last updated:** 2026-04-13
+**Last updated:** 2026-04-15

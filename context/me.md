@@ -2,20 +2,23 @@
 type: context
 title: "About Me"
 created: 2026-04-06
-updated: 2026-04-13
+updated: 2026-04-15
 tags: [context]
 status: active
 lang: en
 feeds_into: []
 ---
 
-> **TL;DR**: Grade 12 student in Thanh Hoa, Vietnam. FPT SE Scholarship interview pending — not yet confirmed. Solo builder. PathFinder is first real project. 5-year target: Singapore, MVP team, millions in AI agent revenue.
+> **TL;DR**: Founder-in-training, age 18, Vietnam-based, planning escape velocity to Singapore post-graduation. Visual/spatial English-thinker who learns by building systems. Core drive: "to build, to become, to be free."
 
 ## Identity
 - **Name:** Duc (Anh Duc)
+- **Age:** 18
 - **Current status:** Grade 12 high school, Thanh Hoa, Vietnam
+- **Identity:** Founder-in-training, Vietnam-based, planning escape velocity to Singapore post-graduation
 - **Target:** FPT SE Scholarship — interview pending, no confirmed date yet
 - **Phase:** Transitioning from Thinker (over-planner) → Doer (ship first, refine after)
+- **Core drive:** "To build, to become, to be free" — protecting future happiness through current capability
 - **Family context:** Not involved in projects or scholarship pursuit — fully self-driven
 
 ## Work & Projects
@@ -66,9 +69,13 @@ feeds_into: []
 - **The Ownership Test:** if unable to defend every line, stop and explain before moving forward.
 
 ## Mental Model
-- Visual-spatial learner: ASCII diagrams > prose. Chronological data flow blocks > walls of text.
-- Absorbs knowledge when interested — Socratic Q + live challenge is required to lock it in durably.
+- Visual-spatial thinker: systems, architectures, patterns, ASCII diagrams, spatial metaphors, and flowcharts over prose.
+- English-thinker for technical and future concepts; no translation layer needed.
+- Learns by building; absorbs knowledge when interested — Socratic Q + live challenge is required to lock it in durably.
 - Physical analogies > abstract explanations.
+- Personality: intense, binary/all-or-nothing, structurally self-confident; rejects pity and soft comfort.
+- Responds best to ruthless empathy, honesty over comfort, deep psychological analysis, and founder-frame resource allocation.
+- Intimacy architecture: does not do casual connection; total depth or nothing — next real connection is expected to be best friend for life or lover.
 
 ## Related
 - [[context/now]]

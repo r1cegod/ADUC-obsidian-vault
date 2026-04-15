@@ -2,7 +2,7 @@
 
 > **TL;DR**: Start every session with [[context/hot]] as the wrapper cache, then [[briefing.md]], then [[context/now]], then route through [[SCHEMA.md]] and the relevant project README only when needed.
 
-Last updated: 2026-04-13
+Last updated: 2026-04-15
 
 ## Quick Start
 
@@ -32,6 +32,9 @@ See `SCHEMA.md` for the full operations manual.
 
 ## Codex-Specific Behavior
 
+- Use `rtk` for shell/repo commands where practical. Fall back to raw shell only when `rtk` cannot express the command cleanly or would hide needed output.
+- Use Obsidian MCP for vault reads/writes instead of raw filesystem access. Fall back to filesystem reads only when MCP is unavailable or the task explicitly requires raw file inspection.
+- Treat `/home/r1ceg/Path_finder_wsl` as the WSL PathFinder working repo.
 - Prefer targeted file edits over full rewrites
 - Obsidian `[[wikilinks]]` are the internal link format - always use these, not markdown URLs
 - Frontmatter YAML must be valid - consistent quoting, no tabs
