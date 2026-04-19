@@ -2,7 +2,7 @@
 
 > **TL;DR**: Start every session with [[context/hot]] as the wrapper cache, then [[briefing.md]], then [[context/now]], then route through [[SCHEMA.md]] and the relevant project README only when needed.
 
-Last updated: 2026-04-15
+Last updated: 2026-04-18
 
 ## Quick Start
 
@@ -29,6 +29,37 @@ Personal master vault: second brain + project docs. You read and write everythin
 See `SCHEMA.md` for the full operations manual.
 
 ---
+
+## Universal Help / Learning Gate
+
+For any technical-help, docs, debugging, or implementation request, start from [[wiki/learning-protocol-hub]] and run [[wiki/help-protocol]] before giving docs or implementation guidance.
+
+```text
+1. Classify the gap.
+2. Secretly verify the mechanism/doc path when practical.
+3. If the gap is small, use [[wiki/vibe-docing]] or official docs plus a narrow task.
+4. If the skill should compound, use [[wiki/build-first-learning]] as the primary method: Duc builds usable artifacts; agent audits.
+5. If the gap is large, make Duc explain the architecture first.
+6. If the task is a full feature/core wire, escalate to [[wiki/pre-wire-protocol]].
+```
+
+Before doing implementation work for the user, check:
+
+```text
+1. Does Duc pass the ownership evidence standard?
+   - files/modules involved
+   - input/output at each seam
+   - rough implementation steps
+   - main failure modes
+   - verification path
+
+2. If yes: review/delegation may be allowed.
+3. If no: decide whether the missing skill should compound.
+   - yes: use [[wiki/pre-wire-protocol]] instead of writing it for him
+   - no: label ONE_TIME_UTILITY and execute without deep teaching
+```
+
+This gate prevents three failures: handing docs before the architecture exists, writing code Duc should learn, and forcing deep learning for one-time utility work.
 
 ## Codex-Specific Behavior
 

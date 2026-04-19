@@ -1,5 +1,7 @@
 # SCHEMA.md — Wiki Operations Manual
 
+> **TL;DR**: Canonical operations manual for vault startup, file creation, ingest, sort, query, lint, propagation, and self-healing rules.
+
 > Shared schema for all agents operating on this vault.
 > CLAUDE.md and AGENTS.md are thin wrappers that reference this file.
 
@@ -290,7 +292,7 @@ Required on every wiki page, project page, and reference page:
 
 ```yaml
 ---
-type: entity | concept | synthesis | source-summary | project | reference | context | learning-session | hub | note
+type: entity | concept | synthesis | source-summary | project | reference | context | learning-session | hub | protocol | note
 title: "Human-readable title"
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
@@ -337,6 +339,7 @@ lang: en
 | `project` | `templates/tpl-project` | `projects/<name>/README.md` |
 | `reference` | `templates/tpl-reference` | `references/` |
 | `daily` | `templates/tpl-daily` | `journal/daily/` |
+| `protocol` | `templates/learning-session` or local protocol page format | `wiki/` or `projects/<name>/notes/` |
 
 ### Specialized Ingest Templates
 

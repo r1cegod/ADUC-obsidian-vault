@@ -1,9 +1,11 @@
 ---
 type: context
-title: "Session Hot Cache"
-created: 2026-04-12
-updated: 2026-04-15
-tags: [context, session]
+title: Session Hot Cache
+created: 2026-04-12T00:00:00.000Z
+updated: '2026-04-19'
+tags:
+  - context
+  - session
 status: active
 lang: en
 feeds_into: []
@@ -17,6 +19,14 @@ feeds_into: []
 2. Files listed under "Stable Since Last Session" were verified clean and not edited. Skip their repair pass.
 3. Files listed under "Flagged For This Session" need attention before starting work.
 4. At end of a task: update only the sections whose continuity, stable-router status, or next action changed.
+
+## Current Raven Continuity
+
+- Active repo: `/home/r1ceg/Raven`.
+- Use repo venv for backend commands: `./.venv/bin/python`, not system `python3`.
+- Current backend state: SQLite foundation in `src/backend/db.py`; YouTube `search.list` + first normalization pass in `src/backend/search/youtube_search.py` is live-smoke verified.
+- Next Raven seam: commit one YouTube search result into SQLite, then read it back through the joined DB view.
+- Hygiene flag: root `test/` currently exists but violates Raven's backend test folder rule; do not bless root-level tests.
 
 ## Stable Since Last Session
 
@@ -46,7 +56,8 @@ feeds_into: []
   - Filesystem Obsidian MCP uses `@bitbonsai/mcpvault` and is configured for both Windows Codex and native WSL Codex.
   - Native WSL Codex CLI is installed under `/home/r1ceg/.npm-global/bin/codex`.
   - Focused WSL backend verification passed: output/University contract tests reported `15 passed, 4 subtests passed`.
-  - User is now considering [[projects/raven/README|Raven]] as the next scaffold: a Knowledge Signal Engine that formalizes Duc's internal bullshit detector, then routes YouTube/Reddit source filtering -> insight extraction -> vault memory -> public synthesis/distribution.
+  - Universal technical-help behavior now routes through [[wiki/learning-protocol-hub]] and [[wiki/help-protocol]] before docs/implementation guidance; full feature ownership uses [[wiki/pre-wire-protocol]].
+  - [[projects/raven/README|Raven]] is scaffolded at `/home/r1ceg/Raven`; remote `main` was force-pushed from old CLI/rubric commit `94632ee` to clean scaffold commit `128ff88 Project initialized`. Working tree tracks `origin/main`; only `.env` and `.venv/` are ignored local files. Raven now has [[projects/raven/notes/raven-ownership-delegation-protocol|ownership-first delegation]]: delegate only work Duc can already write, explain, test, and repair.
   - Major stage user-like university-finding soft lock is fixed and live-verified through R5.
   - First University comparison replay seam is fixed at stage + compiler level: UEH stays conditional, weak FPT does not outrank UEH, and the response moves to RMIT.
   - Broader University RMIT/UEL comparison coverage and full frontend/browser continuation are not proven yet.
@@ -55,7 +66,7 @@ feeds_into: []
   - Vault write-back protocol is optimized: evidence-only reads do not require page-level repair, `log.md` sync happens only on new day or changed summary, and `context/hot.md` uses compact delta updates.
   - Default tool posture changed 2026-04-15: use `rtk` for shell/repo commands where practical and Obsidian MCP for vault reads/writes instead of raw filesystem access.
   - RTK is now available in non-login zsh command runners via `/home/r1ceg/.zshenv`, so plain `rtk ...` works from `/home/r1ceg/Path_finder_wsl`.
-- **Next action:** treat PathFinder as reviewable unless a demo/review blocker appears; plan the next high-leverage scaffold project around reusable AI-agent infrastructure, evaluation/replay, memory, and inbound distribution.
+- **Next action:** treat PathFinder as reviewable unless a demo/review blocker appears; continue Raven through [[wiki/build-first-learning]] with `learning/sessions/raven-api-sqlite-ingest-wire-2026-04-16.md` as the active record. The product sequence remains Reddit/YouTube search function -> query enricher -> rater -> evolver placeholder, with vault as primary memory and SQLite as agent workbench. For mechanism gaps, use [[wiki/vibe-docing]] rather than full docs or spoonfeeding.
 
 ## Previous Session Summary
 

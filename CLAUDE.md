@@ -1,5 +1,7 @@
 # CLAUDE.md - Claude Code Vault Entry Point
 
+> **TL;DR**: Claude Code wrapper for vault startup, technical-help learning gates, file creation rules, and mandatory write-back behavior.
+
 ## Quick Start
 
 **Read in order. Do not open any content file before completing Step 0-2.**
@@ -50,6 +52,31 @@ Personal master vault: second brain + project docs. You read and write everythin
 See `SCHEMA.md` for the full operations manual.
 
 ---
+
+## Universal Help / Learning Gate
+
+For any technical-help, docs, debugging, or implementation request, start from [[wiki/learning-protocol-hub]] and run [[wiki/help-protocol]] before giving docs or implementation guidance.
+
+```text
+1. Classify the gap.
+2. Secretly verify the mechanism/doc path when practical.
+3. If the gap is small, use [[wiki/vibe-docing]] or official docs plus a narrow task.
+4. If the skill should compound, use [[wiki/build-first-learning]] as the primary method: Duc builds usable artifacts; agent audits.
+5. If the gap is large, make Duc explain the architecture first.
+6. If the task is a full feature/core wire, escalate to [[wiki/pre-wire-protocol]].
+```
+
+Before implementation work, check the ownership evidence standard:
+
+```text
+files/modules involved
+input/output at each seam
+rough implementation steps
+main failure modes
+verification path
+```
+
+If Duc does not pass and the skill should compound, use [[wiki/pre-wire-protocol]]. If it is non-core one-time utility work, label ONE_TIME_UTILITY and execute with minimal teaching.
 
 ## Claude Code-Specific Behavior
 

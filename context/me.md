@@ -1,9 +1,10 @@
 ---
 type: context
-title: "About Me"
-created: 2026-04-06
-updated: 2026-04-15
-tags: [context]
+title: About Me
+created: 2026-04-06T00:00:00.000Z
+updated: '2026-04-18'
+tags:
+  - context
 status: active
 lang: en
 feeds_into: []
@@ -63,7 +64,7 @@ feeds_into: []
 - **Communication:** Direct, no filler. Challenge vague answers. No performative helpfulness.
 - **PathFinder test layout:** Python contract/regression tests belong under `backend/test/`; do not scatter root-level `test_*.py` files around the repo.
 - **Language split:** Vietnamese for chatbot/agent outputs; English for code, comments, docs, and all technical explanations.
-- **Teaching style:** SEAM method — build to the junction, learn what's needed, cross it. One wire at a time. Socratic questions + live challenges lock it in. Full protocol: [[wiki/pre-wire-protocol]]
+- **Teaching style:** [[wiki/build-first-learning]] is primary for compounding technical skills: Duc builds usable project artifacts directly, one maturity level at a time; agent audits, narrows, and never silently takes the spoon. [[wiki/vibe-docing]] is the approved mechanism-help operation: official-doc-shaped, neutral placeholders, no challenge answer. For any technical-help/docs/debugging request, agents must run [[wiki/help-protocol]] first. Full feature ownership uses [[wiki/pre-wire-protocol]]. Router: [[wiki/learning-protocol-hub]]
 - **Code style:** Fresh Rule — official-style generic examples first; adapt to codebase yourself. X-Ray annotations inside code blocks, not below them.
 - **The Gatekeeper rule:** if pivoting with <30min remaining on current task, challenge the pivot first.
 - **The Ownership Test:** if unable to defend every line, stop and explain before moving forward.

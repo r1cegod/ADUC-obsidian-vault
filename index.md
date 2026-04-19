@@ -1,6 +1,8 @@
 # Index
 
-> Content routing table. Last updated: 2026-04-13 | Pages: 141 | Sources: 68
+> **TL;DR**: Vault routing table for entities, learning protocols, concepts, synthesis pages, projects, references, sources, and canonical tags.
+
+> Content routing table. Last updated: 2026-04-18 | Pages: 145 | Sources: 68
 > Format: `- [[path|Display Name]] - one-liner (tags)`
 
 ---
@@ -10,8 +12,12 @@
 
 ## Learning
 <!-- Personal learning system: protocol, sessions, curriculum -->
+- [[wiki/learning-protocol-hub|Learning Protocol Hub]] - router for help, pre-wire learning, Raven ownership, and session records (learning, protocol, meta)
+- [[wiki/help-protocol|Help Protocol]] - mandatory anti-spoonfeeding gate for technical help, docs, debugging, and implementation guidance (learning, protocol, meta)
+- [[wiki/build-first-learning|Build-First Learning]] - primary technical-learning method: usable project artifacts, maturity levels, agent audits, and vibe docing for missing mechanisms (learning, protocol, meta)
+- [[wiki/vibe-docing|Vibe Docing]] - official-doc-shaped mechanism slices with neutral placeholders, used when full docs are too broad and direct answers would spoonfeed (learning, protocol, meta)
 - [[learning/README|Learning Sessions]] - index of all Pre-Wire learning sessions, one per feature (learning, protocol)
-- [[wiki/pre-wire-protocol|Pre-Wire Learning Protocol]] - blueprint-first learning protocol: user drafts → agent audits → artifact challenges → user builds (learning, protocol, meta)
+- [[wiki/pre-wire-protocol|Pre-Wire Learning Protocol]] - blueprint-first feature ownership protocol with semantic gap labels and artifact challenges (learning, protocol, meta)
 
 ## Concepts
 <!-- Ideas, frameworks, methods, definitions -->

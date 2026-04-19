@@ -6,6 +6,10 @@
 - Guide | [sources/log/HOW_TO_WRITE.md](./sources/log/HOW_TO_WRITE.md)
 - Data holes | [sources/log/DATA_HOLES.md](./sources/log/DATA_HOLES.md)
 
+- 2026-04-19 | Audited Raven DB contract test and identified remaining assert/failure-case gaps before API adapter work | [entry](./sources/log/days/2026-04-19.md)
+- 2026-04-18 | Clarified Raven database learning flow and promoted Build-First Learning plus VIBE_DOCING into the general learning/help protocol stack | [entry](./sources/log/days/2026-04-18.md)
+- 2026-04-17 | Continued Raven API + SQLite learning session, passed the first data-shape artifact challenge, and promoted VIBE_DOCING into the general learning/help flow | [entry](./sources/log/days/2026-04-17.md)
+- 2026-04-16 | Raven local VS Code setup, Phase 1 plan, ownership-first delegation, and mandatory help/pre-wire learning protocols hardened | [entry](./sources/log/days/2026-04-16.md)
 - 2026-04-15 | WSL execution, rtk, and filesystem Obsidian MCP setup completed for PathFinder | [entry](./sources/log/days/2026-04-15.md)
 - 2026-04-14 | PathFinder setup review for adopting rtk, Obsidian MCP, and WSL-based agent execution | [entry](./sources/log/days/2026-04-14.md)
 - 2026-04-13 | PathFinder university-finding frontend eval fixed Major MIS handoff, hardened the first University comparison replay seam, made evaluation docs vault-only, centralized Python tests under backend/test, and optimized vault write-back rules | [entry](./sources/log/days/2026-04-13.md)

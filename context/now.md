@@ -1,9 +1,10 @@
 ---
 type: context
-title: "Current Focus"
-created: 2026-04-06
-updated: 2026-04-15
-tags: [context]
+title: Current Focus
+created: 2026-04-06T00:00:00.000Z
+updated: '2026-04-19'
+tags:
+  - context
 status: active
 lang: en
 feeds_into:
@@ -13,6 +14,7 @@ feeds_into:
 > **TL;DR**: PathFinder is being treated as reviewable/portfolio-ready unless a specific blocker appears. Current strategic focus is choosing the next high-leverage project: a reusable AI-agent scaffold that proves Duc's specialty in stateful, evaluable agent systems and supports inbound distribution.
 
 ## Active Decisions
+- Universal technical-help behavior now routes through [[wiki/learning-protocol-hub]]: use [[wiki/help-protocol]] before giving docs/implementation guidance, [[wiki/build-first-learning]] as the primary compounding-skill method, [[wiki/vibe-docing]] for scoped mechanism help, and [[wiki/pre-wire-protocol]] for full feature ownership.
 - Default next technical follow-up for PathFinder: treat Goals as a planning-ready handoff layer in prompts; next replay should exercise the full orchestrator path so routing/counter behavior is tested beyond the stage + compiler wrapper
 - After the 2026-04-12 live frontend run, do not count assistant wording as stage completion; verify Goals completion from raw `getBackendState()` (`goals.done === true` plus frontend completed stage/current-stage agreement)
 - The uncertainty attack is now documented in `eval/UNCERTAINTY_ATTACK_REPORT_2026-04-12.md`; full chat is paused until the next session, but pre-chat test-path bugs are fixed
@@ -46,7 +48,8 @@ feeds_into:
 - Move maintained repo mirrors toward explicit sync routines instead of leaving mirror updates manual by default
 
 ## Active Projects
-- [[projects/pathfinder/README|PathFinder]] - post-scholarship, eval/hardening phase. The 2026-04-13 university-finding frontend run fixed Major's MIS handoff into University, documented remaining University comparison-loop debt, and made the evaluation domain vault-only while repo `eval/` remains an executable evidence workspace.
+- [[projects/pathfinder/README|PathFinder]] - reviewable/portfolio-ready unless a specific blocker threatens demo or review confidence.
+- [[projects/raven/README|Raven]] - active next scaffold. Current repo has SQLite foundation plus a live-smoke verified YouTube `search.list` + first normalization pass. Next seam is committing one YouTube search result into SQLite. Raven uses [[projects/raven/notes/raven-ownership-delegation-protocol|ownership-first delegation]]: delegate only work Duc can already write, explain, test, and repair.
 - [[projects/ielts-writing/README|IELTS Writing]] - active, parallel track. 20-day band 4-5 → 7-8 protocol. Two schema docs (Task 1 + Task 2) and 14-day mastery plan created. Gap is structural, not linguistic. Day 1 starts 2026-04-09.
 
 ## Blockers / Open Questions

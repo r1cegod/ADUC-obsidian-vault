@@ -1,65 +1,94 @@
 ---
 type: learning-session
-title: "[Feature Name] — Learning Session"
+title: '[Feature Name] - Learning Session'
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
-tags: [learning-session, pathfinder]
+tags:
+  - learning-session
+  - project/<project-name>
 status: active
 lang: en
 ---
+> **TL;DR**: [One line: feature, main gap, outcome]
 
-> **TL;DR**: [One line: what feature, what was the main gap, outcome]
+## Protocol Route
+
+- Hub: [[wiki/learning-protocol-hub]]
+- Help gate: [[wiki/help-protocol]]
+- Feature protocol: [[wiki/pre-wire-protocol]]
 
 ## Blueprint (user-written)
 
 > Write how this feature works and how you think it should be implemented.
 > No help from agent at this stage.
+> End with `READY FOR AUDIT` when complete.
 
-[user writes here]
+```text
+Task:
+What the feature does:
+Files/modules involved:
+Inputs:
+Outputs:
+Failure modes:
+Verification:
+What I do not understand yet:
+
+READY FOR AUDIT
+```
 
 ---
 
-## Phase 1 — Audit Result
+## Audit Result
 
-- [ ] Case A: System clear, technical detail missing → Learning Path
-- [ ] Case B: System unclear → Needs revision (see notes below)
-- [ ] Case C: No gap → Delegate
+- [ ] OWNABLE - review/delegation may be allowed
+- [ ] MECHANISM_GAP - run artifact challenges
+- [ ] SYSTEM_GAP - revise blueprint first
+- [ ] ONE_TIME_UTILITY - agent may execute lightly
 
 **Notes:**
-[agent writes what's missing in system terms if Case B]
+[agent writes missing wire/mechanism in system terms]
 
 ---
 
-## Phase 2 — Working Implementation
+## Safe Reference
 
-> Built by agent after blueprint passes audit. Exists as reference — not shown until Phase 5.
+> Reference must teach the mechanism, not secretly build the product.
 
-Status: [ ] built [ ] tested
+Type:
+- [ ] toy/sandbox
+- [ ] pseudocode
+- [ ] minimal seam example
+- [ ] fixture-only
+- [ ] private reproduction
 
----
-
-## Phase 3 — Technical Gap Inventory
-
-| # | Gap description | Status |
-|---|----------------|--------|
-| 1 | | pending |
-| 2 | | pending |
-| 3 | | pending |
+Status: [ ] built [ ] tested [ ] not needed
 
 ---
 
-## Phase 4 — Artifact Challenges
+## Technical Gap Inventory
+
+> Ordered by dependency, not convenience.
+
+| # | Gap description | Depends on | Status |
+|---|-----------------|------------|--------|
+| 1 | | none | pending |
+| 2 | | | pending |
+| 3 | | | pending |
+
+---
+
+## Artifact Challenges
 
 ### Gap 1: [name]
 
 **System view:**
-```
+```text
 [ASCII diagram here]
 ```
 
 **Problem statement:** [what this seam needs to do]
 
-**Your answer (before concept):**
+**Your answer before concept:**
 [user writes here]
 
 **Minimum viable concept:**
@@ -68,11 +97,11 @@ Status: [ ] built [ ] tested
 **Artifact challenge:** Write [specific piece]
 
 **Your attempt:**
-```python
-# user writes here
+```text
+[user writes here]
 ```
 
-**Contrast:** [3 differences between attempt and reference]
+**Contrast:** Find 3 differences between your attempt and the reference piece.
 1.
 2.
 3.
@@ -84,29 +113,32 @@ Status: [ ] built [ ] tested
 
 ---
 
-### Gap 2: [name]
+## Final Blueprint (user rewrites)
 
-[repeat structure]
-
----
-
-## Phase 5 — Final Blueprint (user rewrites)
-
-> Rewrite the original blueprint with all technical implementation detail filled in.
-> This is not a copy. This is your system understanding + the HOW.
+> Rewrite the original blueprint with technical implementation detail filled in.
+> This is not copying the reference. This is your system understanding plus the HOW.
 
 [user writes here]
 
-**Logic check:** [ ] no gaps → build it yourself [ ] gap found → return to Phase 1
+**Logic check:** [ ] no gaps -> build it yourself [ ] gap found -> return to that seam
 
 ---
 
 ## Build Log
 
-[ ] Built by user without agent writing code
+[ ] Built by user without agent writing product code
 
 Notes:
 [what broke, what you figured out, how long it took]
+
+## Debugging Ladder Used
+
+- [ ] expected behavior stated
+- [ ] actual behavior stated
+- [ ] data path traced
+- [ ] failing seam identified
+- [ ] error class explained
+- [ ] next inspection target chosen
 
 ---
 
@@ -118,10 +150,15 @@ Notes:
 
 **Breakpoints that fired (B1/B2/B3):**
 
+**Rules derived:**
+
 **Protocol changes to consider:**
 
 ---
 
 ## Related
+
+- [[wiki/learning-protocol-hub]]
+- [[wiki/help-protocol]]
 - [[wiki/pre-wire-protocol]]
 - [[learning/README]]

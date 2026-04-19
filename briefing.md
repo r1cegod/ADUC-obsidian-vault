@@ -10,6 +10,7 @@
 ## Active Projects
 <!-- Update this list as projects change -->
 - [[projects/pathfinder/README|PathFinder]] - repo docs mirrored into the vault with derived summaries
+- [[projects/raven/README|Raven]] - incubating Knowledge Signal Engine and bullshit-detector scaffold
 - [[projects/ielts-writing/README|IELTS Writing]] - 20-day protocol: band 4-5 → 7-8, schema-based docs
 
 ## Current Focus
@@ -21,6 +22,7 @@ _Nothing in the drop zone._
 
 ## Navigation
 - [[SCHEMA.md]] - wiki operations (ingest, lint, query, self-healing)
+- [[wiki/learning-protocol-hub]] - help, pre-wire learning, delegation, and session-routing rules
 - [[index.md]] - content routing table
 - [[context/me]] - user profile
 - [[context/now]] - current priorities (read this for task context)
@@ -30,4 +32,4 @@ _Nothing in the drop zone._
 - [[vault-keeping]] - vault maintenance routing hub (micro → structural scale ladder)
 - [[log.md]] - activity-history navigation
 
-**Last updated:** 2026-04-15
+**Last updated:** 2026-04-16
