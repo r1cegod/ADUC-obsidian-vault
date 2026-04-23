@@ -2,7 +2,7 @@
 type: context
 title: Current Focus
 created: 2026-04-06T00:00:00.000Z
-updated: '2026-04-19'
+updated: '2026-04-21'
 tags:
   - context
 status: active
@@ -15,6 +15,7 @@ feeds_into:
 
 ## Active Decisions
 - Universal technical-help behavior now routes through [[wiki/learning-protocol-hub]]: use [[wiki/help-protocol]] before giving docs/implementation guidance, [[wiki/build-first-learning]] as the primary compounding-skill method, [[wiki/vibe-docing]] for scoped mechanism help, and [[wiki/pre-wire-protocol]] for full feature ownership.
+- Build-First mode rules are mainstream: AUDIT is default for check/clean/debug on active learning artifacts; PATCH requires explicit permission; STEAL creates reference-only artifacts outside active code; ABSORPTION is deep artifact study after interest appears; VIBE_DOCING must not reuse live build values.
 - Default next technical follow-up for PathFinder: treat Goals as a planning-ready handoff layer in prompts; next replay should exercise the full orchestrator path so routing/counter behavior is tested beyond the stage + compiler wrapper
 - After the 2026-04-12 live frontend run, do not count assistant wording as stage completion; verify Goals completion from raw `getBackendState()` (`goals.done === true` plus frontend completed stage/current-stage agreement)
 - The uncertainty attack is now documented in `eval/UNCERTAINTY_ATTACK_REPORT_2026-04-12.md`; full chat is paused until the next session, but pre-chat test-path bugs are fixed
@@ -30,6 +31,7 @@ feeds_into:
 - Maintained repo mirrors should use explicit sync routines rather than manual-by-default content mirroring
 - PathFinder docs are vault-canonical by default; repo documentation mirrors are explicit exceptions, not a general sync rule
 - PathFinder evaluation docs, reports, audits, and run retrospectives now live in `projects/pathfinder/sources/docs/evaluation/`; repo `eval/` is executable evidence only
+- Raven evaluation docs, reports, audit logs, and production-readiness decisions are vault-canonical under `projects/raven/notes/`; repo `eval/` is executable evidence only. Router: [[projects/raven/notes/raven-evaluation-domain]]
 - PathFinder Python contract/regression tests now live under `D:\ANHDUC\Path_finder\backend\test\`; new tests should be invoked as `backend.test.<module>` and not added at repo root
 - PathFinder project dev log now uses a two-layer mirror: `D:\ANHDUC\Path_finder\logs\DEV_LOG.md` as the repo index plus mirrored daily files under `logs/dev/days/`; other repo logs stay local unless explicitly promoted
 - The vault global activity log now uses the same two-layer rule: `log.md` is navigation only, while the actual daily activity log lives under `sources/log/days/`
@@ -38,6 +40,7 @@ feeds_into:
 ## This Week's Focus
 - Decide whether to freeze PathFinder as reviewable portfolio evidence, with only critical blockers fixed rather than continued feature pushing
 - Choose and scaffold the next project around reusable AI-agent infrastructure, evaluation, memory, and distribution leverage; current candidate is [[projects/raven/README|Raven]], a Knowledge Signal Engine for filtering YouTube/Reddit noise into sourced insight, vault memory, and public synthesis artifacts by formalizing Duc's internal bullshit detector
+- Explore an AI-assisted YouTube journey-recording workflow that can compound into public proof and interested leads; current interest is strong motion typography, animated block editing, and fast founder-documentation loops
 - Harden University comparison/ranking behavior for the UEH/FPT/RMIT/UEL lane exposed by the 2026-04-13 university-finding frontend run only if needed for review/demo confidence
 - Exercise the output stage-state lock and Goals handoff contract through the full orchestrator path when the next full-path replay cycle resumes
 - Use the completed real-Duc Goals continuation as a seed for Job/Major handoff evaluation, not as proof that the full fresh UI path is complete
@@ -49,7 +52,7 @@ feeds_into:
 
 ## Active Projects
 - [[projects/pathfinder/README|PathFinder]] - reviewable/portfolio-ready unless a specific blocker threatens demo or review confidence.
-- [[projects/raven/README|Raven]] - active next scaffold. Current repo has SQLite foundation plus a live-smoke verified YouTube `search.list` + first normalization pass. Next seam is committing one YouTube search result into SQLite. Raven uses [[projects/raven/notes/raven-ownership-delegation-protocol|ownership-first delegation]]: delegate only work Duc can already write, explain, test, and repair.
+- [[projects/raven/README|Raven]] - active next scaffold. Current repo has SQLite foundation, a live-smoke verified YouTube `search.list` + first normalization pass, and a one-node `gpt-5.4-mini` query enricher prompt/graph seam that passed 15/15 live eval cases across 3 rounds. Raven now also has a vault-canonical visual planning domain at [[projects/raven/notes/raven-architecture-hub]], grounded in the reusable [[wiki/synthesis/obsidian-d2-canvas-architecture-method]]. In the current architecture scope, system-level decisions now go through Canvas first while function-local code planning stays out of Canvas. Next architecture thread: [[projects/raven/notes/raven-vault-keeper-harness-architecture]] for vault ingestion, promotion, and retrieval shape. Next implementation seam still remains connecting enriched queries into YouTube search -> SQLite write/readback. Raven uses [[projects/raven/notes/raven-ownership-delegation-protocol|ownership-first delegation]]: delegate only work Duc can already write, explain, test, and repair.
 - [[projects/ielts-writing/README|IELTS Writing]] - active, parallel track. 20-day band 4-5 → 7-8 protocol. Two schema docs (Task 1 + Task 2) and 14-day mastery plan created. Gap is structural, not linguistic. Day 1 starts 2026-04-09.
 
 ## Blockers / Open Questions

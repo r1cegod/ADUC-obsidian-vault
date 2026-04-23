@@ -2,7 +2,7 @@
 type: protocol
 title: Vibe Docing
 created: '2026-04-17'
-updated: '2026-04-19'
+updated: '2026-04-20'
 tags:
   - learning
   - protocol
@@ -107,6 +107,28 @@ Official source:
 ```
 
 This example teaches the mechanism without solving a Raven-specific artifact.
+
+## Value Isolation Rule
+
+VIBE_DOCING must not reuse live values from the current build. This includes current query strings, API keys, table rows, active filenames under construction, candidate data, or exact Raven challenge values.
+
+Use neutral placeholders instead:
+
+```text
+Allowed:
+  "example topic"
+  "example_id_123"
+  "path/to/example.sqlite"
+  "Example title"
+
+Forbidden:
+  Duc's current search query
+  current API response values
+  current DB row values
+  active artifact answers
+```
+
+If a previous answer leaked live values into a doc slice, correct the protocol and switch back to neutral examples immediately.
 
 ## Relationship To Other Protocols
 

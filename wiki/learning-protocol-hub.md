@@ -2,7 +2,7 @@
 type: hub
 title: Learning Protocol Hub
 created: '2026-04-16'
-updated: '2026-04-18'
+updated: '2026-04-20'
 tags:
   - learning
   - protocol
@@ -84,9 +84,29 @@ help/pre-wire/manual build first
 3. If architecture gap -> Duc explains the seam first
 4. If tiny mechanism gap with visible seam -> [[wiki/vibe-docing]] or official docs + narrow challenge
 5. If artifact ownership should compound -> [[wiki/build-first-learning]]
-6. If full feature ownership gap -> start [[wiki/pre-wire-protocol]]
-7. If ownable -> review/delegation allowed
-8. If session creates durable learning -> record in [[learning/README]]
+6. Choose Build-First mode when named or implied: BUILD / AUDIT / PATCH / STEAL / ABSORPTION
+7. If full feature ownership gap -> start [[wiki/pre-wire-protocol]]
+8. If ownable -> review/delegation allowed
+9. If session creates durable learning -> record in [[learning/README]]
+```
+
+## Named Learning Modes
+
+```text
+BUILD
+  active usable artifact in project path
+
+AUDIT
+  inspect, run, explain, no edits by default
+
+PATCH
+  edit only after explicit permission/delegation or ONE_TIME_UTILITY
+
+STEAL
+  finished reference artifact outside active path for inspection
+
+ABSORPTION
+  deep disassembly of a selected artifact after interest appears
 ```
 
 ## Related

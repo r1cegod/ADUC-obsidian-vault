@@ -1,9 +1,9 @@
-# SCHEMA.md — Wiki Operations Manual
+# SCHEMA.md — Wiki Constitution
 
-> **TL;DR**: Canonical operations manual for vault startup, file creation, ingest, sort, query, lint, propagation, and self-healing rules.
+> **TL;DR**: Constitutional rules for vault startup, page schema, routing law, propagation, and official-operation governance. Use hubs and operation leaves for execution.
 
 > Shared schema for all agents operating on this vault.
-> CLAUDE.md and AGENTS.md are thin wrappers that reference this file.
+> CLAUDE.md, AGENTS.md, family hubs, and operation leaves reference this file for canonical law.
 
 ---
 
@@ -44,7 +44,7 @@ After optional `context/hot.md` and required `briefing.md -> context/now.md`, ch
 |-----------|-----------|
 | Simple repo task or direct question | Stop if Tier 0+1 is already enough |
 | Active project repo work | `projects/<name>/README.md` |
-| Wiki operation (ingest, sort, lint, query, archive) | stay in `SCHEMA.md`, then open `index.md` only if needed |
+| Wiki operation (ingest, sort, lint, query, archive, draft, self-healing) | `wiki/operations-hub`, then the canonical leaf |
 | Project workflow / docs / handoff question | `projects/<name>/README.md`, then the relevant hub |
 | Exact contract wording / source precision | relevant project note first, then raw source only if still needed |
 
@@ -55,6 +55,65 @@ Default for project work:
 - `projects/<name>/README.md`
 - one targeted hub or note
 - raw sources only when precision requires it
+
+## Fast Route
+
+Use this when you need the smallest next page instead of scanning the whole manual:
+
+| Need | Next page |
+|------|-----------|
+| Vault maintenance, drift, logging, or workflow audit | `vault-keeping.md` |
+| Official operation family or canonical workflow leaf | `wiki/operations-hub` |
+| Exact constitutional rule, schema, or propagation law | `SCHEMA.md` |
+| Project work | `projects/<name>/README.md` |
+| Architecture planning | `projects/<name>/README.md` -> relevant architecture hub -> active `.canvas` |
+| Collaborative feature drafting | `wiki/operations-hub` -> `wiki/operations/draft-operation` |
+| Technical-help ownership gate | `wiki/learning-protocol-hub` |
+
+## Official Operation Evolution Law
+
+This is mandatory.
+
+Any operation that is officially documented in the vault is a **living contract**, not a frozen ritual.
+
+```text
+officially documented
+  -> must be used in real work
+  -> must be reviewed after use
+  -> must evolve when friction is found
+```
+
+Hard rule:
+
+```text
+If an official operation is used,
+and that use reveals drift, friction, missing routing, repeated confusion,
+or wasted tokens,
+the operation must be updated in the vault in the same session when cheap.
+If the fix is not cheap, log the gap explicitly that same day.
+```
+
+Do not treat "officially documented" as permission to fossilize a workflow.
+
+The vault evolves by:
+- use
+- audit
+- patch
+- reuse
+
+Operations that do not evolve after use become dead weight and mislead later sessions.
+
+Minimum after-use audit for any official operation:
+- Was the next page obvious?
+- Was the route too long?
+- Did two docs repeat the same thing?
+- Did the operation depend on memory instead of routing?
+- Did it burn more tokens than needed?
+- Should the operation wording, order, or closeout be tightened?
+
+Closeout rule:
+- cheap fix -> patch the official docs now
+- not-cheap fix -> log a named operation gap in the day file now
 
 ## File Creation Gate
 
@@ -276,6 +335,42 @@ Hub rules:
 - Agents should open the relevant hub before reading multiple leaf notes in the same domain, but should stop there if the hub already answers the routing need.
 - Hubs are preferred once a project area has 3+ related notes or is expected to keep growing.
 
+### Canvas-First Architecture Work
+
+Use this when the task is architecture-heavy rather than code-local.
+
+Route:
+
+```text
+briefing.md
+  -> context/now.md
+  -> projects/<name>/README.md
+  -> relevant architecture hub
+  -> active .canvas board
+```
+
+Canvas-first applies when the decision changes:
+- system shape
+- loop boundaries
+- storage boundaries
+- promotion rules
+- routing/ownership
+- ingestion structure
+
+Do not force Canvas into:
+- one-function logic
+- local refactor mechanics
+- helper implementation details
+- signature-level code planning
+
+Optimization rules:
+- One active canvas board per architecture domain. Do not spread one decision across many boards.
+- Stable points on the canvas must be mirrored into markdown notes the same session.
+- Architecture tasks should finish vault work first: canvas -> note mirror -> router/context update -> day log -> response.
+- If a canvas file changes, the relevant architecture hub or project README must still route to that board clearly.
+
+When the architecture task is also collaborative drafting, pair Canvas-first with [[wiki/operations/draft-operation]] instead of creating a second architecture-specific draft loop.
+
 ---
 
 ## Page Conventions
@@ -292,7 +387,7 @@ Required on every wiki page, project page, and reference page:
 
 ```yaml
 ---
-type: entity | concept | synthesis | source-summary | project | reference | context | learning-session | hub | protocol | note
+type: entity | concept | synthesis | source-summary | project | reference | context | learning-session | hub | protocol | operation | note
 title: "Human-readable title"
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
@@ -340,6 +435,7 @@ lang: en
 | `reference` | `templates/tpl-reference` | `references/` |
 | `daily` | `templates/tpl-daily` | `journal/daily/` |
 | `protocol` | `templates/learning-session` or local protocol page format | `wiki/` or `projects/<name>/notes/` |
+| `operation` | local operation page format | `wiki/operations/` |
 
 ### Specialized Ingest Templates
 
@@ -386,353 +482,121 @@ Every wiki page must have, in order:
 
 ## INGEST Operation
 
-Primary operation. Triggered when user asks to process source(s).
+Canonical leaf: [[wiki/operations/ingest-operation]]
 
-### Pre-Check — Deduplication
-
-Before creating any wiki page:
-1. Search `index.md` for the source path or title
-2. `Grep` wiki pages for the source filename
-3. If a wiki page already exists for this source:
-   - **Same source, no changes**: skip, inform user
-   - **Updated source**: update the existing wiki page(s), bump `updated` date, log as `RE-INGEST`
-   - **Different source, same topic**: update existing pages with new information, add second source reference
-
-### Step 1 — Read & Analyze Source
-
-- Read the source fully
-- Identify: main topic, entities mentioned, concepts introduced, claims made
-- Determine content language → sets `lang` field on all generated pages
-- If source has images: read text first, then view key images for additional context
-
-**File-type handling:**
-
-| File type | How to process |
-|-----------|---------------|
-| Markdown (.md) | Read directly, standard ingest |
-| PDF (.pdf) | Read with PDF tool, extract text + structure |
-| Subtitle/transcript (.vtt, .srt, transcript markdown) | Normalize into markdown under `sources/transcripts/` when useful, then ingest from the normalized transcript |
-| Images (.png, .jpg, .svg) | View image, describe content, extract any text |
-| Video / YouTube | Capture metadata, create a `references/` page for the URL, extract a local transcript when possible, then ingest from the transcript plus video metadata |
-| GitHub repo / issue / PR / gist | Summarize the purpose, architecture, workflows, and caveats. Distinguish repo-level facts from marketing copy or comments |
-| Reddit post / comment thread | Capture the main claim, the strongest replies, disagreement pattern, and a reliability caveat. Treat anecdote and consensus separately |
-| Code files (.py, .js, .ts, etc.) | Summarize purpose, key functions/classes, architecture patterns. Focus on *what it does and why*, not line-by-line |
-| JSON/YAML/config | Extract schema structure, key settings, what it configures |
-| Data files (.csv, .xlsx) | Summarize columns, row count, data shape, key patterns |
-| Other/binary | Flag as unsupported, ask user how to handle |
-
-### Step 2 — Discuss (optional)
-
-- Summarize key takeaways to user
-- Ask if there's anything to emphasize, skip, or connect to existing work
-- User can say "just process it" to skip this step
-
-### Step 3 — Create/Update Wiki Pages
-
-**Primary page** (always create one):
-- Source summary in the appropriate `wiki/` subfolder
-- Sections: TL;DR, Summary (3-5 sentences), Key Points (bullets), Details (organized subsections), Related
-- Frontmatter: `type: source-summary`, `source: [[path]]`, all required fields
-
-**Secondary pages** (create or update as needed):
-- New entities/concepts introduced → create stubs or full pages
-- Existing entities/concepts with new information → update those pages
-
-**Decision guide:**
-- Entity/concept mentioned once → include in source summary Key Points, no separate page
-- Entity/concept that is a main subject OR appears in 2+ sources → own page
-- Entity/concept already has a page → update it, never duplicate
-
-### Step 4 — Cross-Reference
-
-- Add wikilinks between new pages and existing related pages
-- Update `## Related` sections on both new and existing pages
-- Every new page links to at least 2 existing pages (if available)
-
-### Step 5 — Update Index
-
-- Add entries under the appropriate section in `index.md`
-- Format: `- [[wiki/path|Display Name]] — TL;DR one-liner (tags)`
-- For sources section: `- YYYY-MM-DD: [[wiki/path|Title]] ← [[sources/path|raw]] (tags)`
-- Bump page/source counts in the index header
-
-### Step 6 — Update Context (if relevant)
-
-- Source relates to active project → update `context/now.md` if priorities shifted
-- Source reveals user info → update `context/me.md`
-- Source affects direction → update `context/goals.md`
-- Update `briefing.md` if active projects or focus changed
-
-### Step 7 — Log
-
-```
-## [YYYY-MM-DD] INGEST | Source Title
-- Source: [[sources/path/file]]
-- Created: [[wiki/path/primary-page]] + N stubs
-- Updated: [[page1]], [[page2]]
-- Tags: #tag1, #tag2
-```
-
-### Folder Ingest
-
-When user asks to ingest an entire directory (e.g., "ingest all docs in `sources/docs/`" or "ingest `projects/myapp/sources/`"):
-
-1. **Scan**: list all files in the directory (recursive)
-2. **Order**: process files in logical order:
-   - README/overview files first (they provide context for everything else)
-   - Then by dependency: foundational docs before specialized ones
-   - If no clear order: alphabetical
-3. **Process each**: run full INGEST Steps 1-7 per file
-4. **Cross-reference pass**: after all files processed, check for links between the newly created wiki pages
-5. **Synthesis**: if 5+ sources were ingested, create a synthesis page summarizing the batch
-6. **Project-level synthesis**: if all files belong to one project, create or update the project README with an overview
-
-### Batch Ingest
-
-When processing multiple unrelated sources at once:
-- Process each source through Steps 1-7 individually
-- After all: mini-lint pass to check cross-references between newly ingested sources
-- If 2+ sources clearly belong to one topic: create or update a human-readable synthesis page so the owner can understand the topic without rereading every raw source
-- If 5+ sources: create or update a synthesis page summarizing the batch
-- Complete the writeback before sending the response; do not defer the digest or index/log updates to a later "session close"
-
-### Image Ingest
-
-- Agent views the image and creates a wiki page describing what it shows
-- If related to existing entity/concept → link the pages
-- Diagrams/screenshots with text → extract text into wiki page
-- Wiki page includes: `![[images/path/file.png]]` for inline preview
+Constitutional role:
+- INGEST turns raw source material into compiled vault knowledge.
+- Dedup must be resolved before creating or updating summary pages.
+- INGEST is not complete until cross-links, index updates, relevant context patches, and logging are finished.
+- Use the leaf page for file-type handling and the full execution sequence.
 
 ---
 
 ## SORT Operation (Pending Folder)
 
-Triggered when user asks to process `pending/` or as part of ingest.
+Canonical leaf: [[wiki/operations/sort-operation]]
 
-1. Scan `pending/` for files (including subdirectories)
-2. Determine destination for each:
-   - Markdown article/note → `sources/articles/`
-   - PDF/technical doc → `sources/docs/`
-   - Video/audio transcript or subtitle export → `sources/transcripts/`
-   - Project material → `sources/projects/` or `projects/<name>/sources/` if project exists
-   - Image (png, jpg, svg, etc.) → `images/screenshots/`, `images/diagrams/`, or `images/photos/`
-   - Reference/link/citation → `references/`
-   - Entire subdirectory → keep structure, move to appropriate parent
-   - Unknown → `sources/misc/`
-3. Move file to destination
-4. Ask user if destination is ambiguous
-5. Offer to ingest the moved files
-6. Log the sort action
-
-User shortcut: "sort and ingest pending" does both in one pass.
+Constitutional role:
+- SORT is the official lane for moving `pending/` material into the right source or reference location.
+- Ambiguous destination means ask, not guess.
+- `sort and ingest` is valid, but each operation still owes its own writeback.
+- Use the leaf page for destination rules and execution order.
 
 ---
 
 ## QUERY Operation
 
-Triggered when user asks a question against the wiki.
+Canonical leaf: [[wiki/operations/query-operation]]
 
-### Step 1 — Search
-- Read `index.md` to identify relevant pages
-- If the question is project-specific, open `projects/<name>/README.md` before searching deeply
-- For project-specific questions, prefer `projects/<name>/notes/` over raw project sources
-- Grep wiki pages for key terms if index is insufficient
-- Read relevant wiki pages (prefer wiki over raw sources — the wiki is the compiled knowledge)
+Constitutional role:
+- QUERY answers against compiled vault knowledge first, not raw sources by default.
+- Good query answers can be promoted into durable pages when the user asks to file them.
+- Project-specific queries should route through the project README before deep reads.
+- Use the leaf page for the full search, synthesis, and file-back sequence.
 
-### Step 2 — Synthesize Answer
-- Answer the question using information from wiki pages
-- Cite sources with `[[wikilinks]]` inline
-- If wiki lacks information: say so explicitly, suggest what sources to add
+---
 
-### Step 3 — Choose Output Format
+## DRAFT Operation
 
-Match format to the question type:
+Canonical leaf: [[wiki/operations/draft-operation]]
 
-| Question type | Suggested format |
-|---------------|-----------------|
-| Factual lookup | Direct answer with citations |
-| Comparison | Markdown table |
-| Explanation | Structured prose with headers |
-| Overview/survey | Bullet summary with links |
-| Timeline | Chronological list |
-
-### Step 4 — File Back (optional)
-
-Good answers can become wiki pages — ask the user:
-- Analysis or comparison → `wiki/synthesis/` page
-- New entity/concept discovered → `wiki/entities/` or `wiki/concepts/` page
-- If user says "file it": create the page, update index, log as `QUERY → INGEST`
+Constitutional role:
+- DRAFT is the official iterative drafting loop when the artifact is meant to improve through feedback.
+- The loop must optimize for reaction, not premature completeness.
+- DRAFT keeps one live artifact path and mirrors stable decisions into the vault layer that should remember them.
+- Use the leaf page for the drafting sequence.
 
 ---
 
 ## PROJECT INIT Operation
 
-Triggered when user starts a new project or asks to set one up.
+Canonical leaf: [[wiki/operations/project-init-operation]]
 
-1. **Create structure**:
-   ```
-   projects/<project-name>/
-   ├── README.md        (from tpl-project template)
-   ├── sources/         (project-specific raw sources)
-   └── notes/           (working notes)
-   ```
-2. **Fill README.md**: use `tpl-project` template, fill in what's known
-   - README must include a clear `Start Here` section
-   - README must route by task type when possible (architecture, coding, eval, prompts, sources)
-   - README must state the source-of-truth boundary if raw sources come from an external repo
-3. **Update index.md**: add entry under `## Projects`
-4. **Update briefing.md**: add to Active Projects list
-5. **Update context/now.md**: add to Active Projects if it's a current priority
-6. **Log**: `## [YYYY-MM-DD] PROJECT INIT | Project Name`
+Constitutional role:
+- PROJECT INIT creates a new project workspace with a real router, not just an empty folder.
+- New projects must sync `briefing.md`, `context/now.md`, and `index.md` in the same session.
+- README pages are routing hubs, not passive descriptions.
+- Use the leaf page for exact structure and sync steps.
 
 ---
 
 ## ARCHIVE Operation
 
-Triggered when a page, project, or source is no longer active.
+Canonical leaf: [[wiki/operations/archive-operation]]
 
-1. Set `status: archived` in frontmatter
-2. Set `updated` to today's date
-3. In `index.md`: move entry to an `## Archived` section (create if needed)
-4. In `briefing.md`: remove from Active Projects if it was listed
-5. Do NOT delete the page — archived pages are kept for reference and link integrity
-6. Log: `## [YYYY-MM-DD] ARCHIVE | Page/Project Name`
+Constitutional role:
+- ARCHIVE retires pages without breaking routing or link integrity.
+- Archived pages are kept, not deleted, unless the user explicitly wants destructive cleanup.
+- Archive changes must update the router layer that still points to the item.
+- Use the leaf page for the exact archive sequence.
 
 ---
 
 ## LINT Operation
 
-Health-check the wiki. Run periodically (suggest every ~20 ingests or on request).
+Canonical leaf: [[wiki/operations/lint-operation]]
 
-### Step 1 — Structural Checks
-- **Orphan pages**: zero incoming links → add links from related pages or flag
-- **Dead links**: wikilinks to non-existent pages → create stubs or fix the link
-- **Index drift**: pages on disk not in `index.md` → add them; stale index entries → remove
-- **Filename violations**: uppercase, spaces, too long → flag (don't auto-rename, breaks links)
-- **Missing frontmatter**: add required YAML fields
-- **Missing TL;DR**: generate and add `> **TL;DR**:` line
-
-### Step 2 — Content Quality
-- **Stale stubs**: `status: stub` older than 30 days → flag for expansion or archival
-- **Contradictions**: conflicting claims between pages → flag with both pages and the conflict
-- **Superseded claims**: newer sources invalidate older wiki pages → update older pages
-- **Thin pages**: `status: active` or `mature` with <100 words → expand or downgrade to stub
-
-### Step 3 — Knowledge Gaps
-- **Mentioned but missing**: entities/concepts mentioned across pages but lacking their own page → suggest creating them
-- **Missing cross-references**: related pages not linked to each other → add links
-- **Data gaps**: thin coverage on topics → suggest sources to find (web search, specific docs)
-- **Suggested questions**: based on current wiki state, what should be investigated next?
-
-### Step 4 — Tag Health
-- **Tag typos/near-duplicates** → standardize to tag registry entries
-- **Unused tags** (1 page only) → flag as possible typo
-- **Missing tags** → add where clearly applicable
-
-### Step 5 — Pending Check
-- Files in `pending/` → flag and offer to sort
-
-### Step 6 — Context Freshness
-- `context/now.md` updated more than 7 days ago → flag
-- `briefing.md` doesn't match active projects → update it
-- `context/goals.md` older than 90 days → suggest review
-
-### Step 7 — Report
-Append to the current day file in `sources/log/days/`:
-```markdown
-## [YYYY-MM-DD] LINT
-
-### Fixed (auto)
-- [[page]] — what was fixed
-
-### Fixed (flagged)
-- [[page]] — what was fixed + #auto-fixed tag added
-
-### Needs Attention
-- issue — suggested action
-
-### Knowledge Gaps
-- topic — why it matters + suggested source/action
-
-### Stats
-- Total pages: N | Stubs: N | Orphans: N | Dead links: N
-```
+Constitutional role:
+- LINT is the official structural audit lane for drift, routing health, and stale knowledge surfaces.
+- LINT may repair cheap structural defects, but it should log gaps that require judgment or new sources.
+- Maintenance-family routing should prefer [[vault-keeping]] first when the task is obviously maintenance-scoped.
+- Use the leaf page for the audit sequence and report format.
 
 ---
 
 ## Conversation-Triggered Context Update
 
-Agents learn facts from two sources: ingested documents and live conversation. INGEST Step 6 covers documents. This rule covers conversation.
+Canonical leaf: [[wiki/operations/context-update-operation]]
 
-**Trigger:** User reveals any of the following in conversation (not from a source doc):
-- Personal info (role, background, preferences, constraints)
-- Project status change (shipped, blocked, pivoted, deadline moved)
-- New priorities or goals
-
-**Action:** Treat it as an implicit INGEST Step 6. Before the main task:
-1. Update the relevant `context/` file (`me.md`, `now.md`, or `goals.md`)
-2. Log as `## [YYYY-MM-DD] UPDATE | context` in the current day file under `sources/log/days/`
-3. Then proceed with the task
-
-**What NOT to update from conversation:** architectural decisions, code behavior, file paths, specific implementation details — verify those in the actual files first.
+Constitutional role:
+- Conversation can change vault context even when no source document was ingested.
+- Personal info, project-state changes, and priority changes must update the right `context/` file before the main task when they matter for future routing.
+- Architectural decisions, code behavior, and file paths do not get patched from conversation alone; verify them in the actual files first.
+- Use the leaf page for trigger and closeout steps.
 
 ---
 
 ## Self-Healing Protocol
 
-Every agent applies this to vault pages it edits or creates, plus read-only pages only when a visible structural defect or stale routing issue would affect the current task or the next session.
-Batch fixes at the end of your task into a single log entry.
-**Logging is mandatory for durable work. Evidence-only reads can be summarized in one batch log line instead of producing page-by-page repair work.**
+Canonical leaf: [[wiki/operations/self-healing-operation]]
+
+Constitutional role:
+- Self-healing is mandatory after durable vault edits and task-affecting structural defects.
+- Evidence-only reads do not trigger repair just because a page was read.
+- Logging is mandatory for durable work; `log.md` sync happens only for a new day or changed daily summary.
+- Use the leaf page for the execution sequence and closeout checklist.
 
 ### Evidence-Only Read Exception
-
-If a vault page was read only to gather context or evidence for a repo/eval task, and the page already has the required routing shape or is a raw source/dev-log page, do not run a repair pass just because it was read.
 
 Use this exception when all are true:
 - The page was not edited or created in the current task.
 - No missing frontmatter/TLDR, broken routing link, stale active-project state, or obvious contradiction would mislead the next agent.
 - The task result does not require that page to become the canonical summary.
 
-Allowed write-back under this exception:
-- Add one day-log line such as `READ | evidence pages checked; no repair needed`.
-- Update `context/hot.md` only as a compact delta when continuity or next action changed.
-- Leave derived notes alone unless the stale derived note would misroute the next run.
-
-Do not update `log.md` just because a same-day day-log entry was appended and the existing daily summary still remains accurate.
-
-### Auto-Fix (no approval needed):
-- Missing `updated` date → add today's date
-- Missing `> TL;DR` line → generate from page content
-- Page on disk missing from `index.md` → add entry + bump counts
-- Tag typo matching tag registry → standardize
-- Broken wikilink where target exists under a slightly different name → fix the link
-
-### Flag + Fix (fix + add `#auto-fixed` tag + log):
-- Outdated factual information agent knows is wrong → update
-- Missing link between pages that clearly relate → add wikilink
-- Stub fillable from information already in context → expand
-
-### Flag Only (log to `sources/log/DATA_HOLES.md`, don't modify):
-- Gap requiring a new source to fill
-- Contradictions needing user judgment
-- Probable duplicates the agent isn't sure about
-
-### Logging Format
-At the end of your task, append one block to the current day file in `sources/log/days/`:
-```
-## [YYYY-MM-DD] AUTO-FIX | <task description>
-- **AUTO-FIX** [[page]] — what was fixed
-- **FLAG** [[page]] — issue + suggested action
-```
-
-After updating the day file, check whether `log.md` needs a navigation sync:
-- New day file? → insert a new line at the top of the entries block (newest-first)
-- Summary changed? → edit the matching line in `log.md`
-- Entry added, summary unchanged? → no `log.md` update needed
-
-Line format: `- YYYY-MM-DD | {Summary} | [entry](./sources/log/days/YYYY-MM-DD.md)`
-
-See `sources/log/HOW_TO_WRITE.md` for full rules.
+Allowed write-back:
+- one day-log line for evidence reads
+- compact `context/hot.md` delta only when continuity changed
+- no forced `log.md` sync when the summary line still holds
 
 ### Stable Router Exception
 
@@ -790,6 +654,7 @@ then do not force a page-by-page repair pass again. A single log note like "stab
 |-------------|-----------|-----|
 | `projects/*/README.md` | `briefing.md`, `context/now.md` | Project status changes propagate to Active Projects lists |
 | `projects/*/notes/*-hub.md` | `projects/*/README.md` (same project) | Hub routing changes may require README task-router update |
+| `projects/*/notes/*.canvas` | `projects/*/notes/<project>-architecture-hub.md`, `projects/*/README.md` (same project) | Canvas routing changes must stay explicit and discoverable from the project docs layer |
 | `sources/log/days/YYYY-MM-DD.md` | `log.md` | Day file write requires navigation line sync in log.md |
 | `projects/*/notes/docs-*.md` | `index.md` | Verify index entry exists and parent hub TL;DR is current |
 | `wiki/**/*.md` | `index.md` | Verify index entry exists and is current |

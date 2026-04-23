@@ -1,9 +1,12 @@
 ---
 type: note
-title: "Task 2 Essay — All 5 Types Schema"
-created: 2026-04-08
-updated: 2026-04-08
-tags: [ielts, writing, schema]
+title: Task 2 Essay — All 5 Types Schema
+created: 2026-04-08T00:00:00.000Z
+updated: '2026-04-22T00:00:00.000Z'
+tags:
+  - ielts
+  - writing
+  - schema
 status: active
 lang: en
 ---
@@ -384,5 +387,6 @@ Grammatical Range    │ mix of simple + complex        │ VARIETY of complex s
 ## Related
 
 - [[projects/ielts-writing/README]]
+- [[projects/ielts-writing/notes/task2-write-on-top-cheat-sheet]]
 - [[projects/ielts-writing/notes/task1-academic]]
 - [[projects/ielts-writing/notes/mastery-plan]]

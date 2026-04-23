@@ -2,7 +2,7 @@
 type: hub
 title: Learning Sessions
 created: '2026-04-08'
-updated: '2026-04-18'
+updated: '2026-04-20'
 tags:
   - learning
   - hub
@@ -24,8 +24,8 @@ Start here:
 Main protocols:
 
 - [[wiki/help-protocol]] - mandatory first gate for technical help/docs/debugging
-- [[wiki/build-first-learning]] - primary technical-learning method: usable artifacts, maturity levels, agent audit
-- [[wiki/vibe-docing]] - official-doc-shaped mechanism slices with neutral placeholders
+- [[wiki/build-first-learning]] - primary technical-learning method: usable artifacts, maturity levels, agent audit, plus BUILD/AUDIT/PATCH/STEAL/ABSORPTION modes
+- [[wiki/vibe-docing]] - official-doc-shaped mechanism slices with neutral placeholders and strict live-value isolation
 - [[wiki/pre-wire-protocol]] - full feature-ownership learning path
 - [[projects/raven/notes/raven-ownership-delegation-protocol]] - stricter Raven overlay
 

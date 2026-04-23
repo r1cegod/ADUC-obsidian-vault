@@ -2,7 +2,7 @@
 type: learning-session
 title: Raven API + SQLite Ingest Wire - Learning Session
 created: '2026-04-16'
-updated: '2026-04-19'
+updated: '2026-04-20'
 tags:
   - learning-session
   - project/raven
@@ -275,6 +275,7 @@ YT2: One real YouTube search into DB
 RD1: Reddit response shape
   Duc studies one official/listing response and maps it to `source_candidates`.
   Exit: can name post id, title, selftext/preview, permalink/link, subreddit/author, score, created time.
+  Status 2026-04-20: STEAL reference artifact created at local repo path `docs/reference/reddit_search_clean.py`. It compiles and fake-listing normalization passes. Live Reddit smoke is blocked by missing local Reddit credentials, so active `src/backend/search/reddit_search.py` is still not production-complete.
 
 RD2: One real Reddit search into DB
   Duc wires one Reddit result into the same DB shape.

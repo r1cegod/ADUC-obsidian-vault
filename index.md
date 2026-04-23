@@ -1,11 +1,30 @@
 # Index
 
-> **TL;DR**: Vault routing table for entities, learning protocols, concepts, synthesis pages, projects, references, sources, and canonical tags.
+> **TL;DR**: Vault routing table for official operations, entities, learning protocols, concepts, synthesis pages, projects, references, sources, and canonical tags.
 
-> Content routing table. Last updated: 2026-04-18 | Pages: 145 | Sources: 68
+> Content routing table. Last updated: 2026-04-22 | Pages: 169 | Sources: 68
 > Format: `- [[path|Display Name]] - one-liner (tags)`
 
 ---
+
+## Operations
+<!-- Canonical operation entrypoints and operation leaves -->
+- [[wiki/operations-hub|Operations Hub]] - global registry for all official vault operations and their family routes (workflow, docs, meta)
+- [[vault-keeping|Vault Keeping]] - top-tier maintenance-family hub for drift control, logging, self-healing, propagation, and operation audits (workflow, docs, meta)
+- [[wiki/learning-protocol-hub|Learning Protocol Hub]] - top-tier learning/help hub for ownership gates, build-first modes, and delegation rules (learning, protocol, meta)
+- [[wiki/synthesis/obsidian-d2-canvas-architecture-method|Canvas Architecture Method]] - top-tier architecture workflow for Canvas-first system drafting and stable markdown mirroring (obsidian, architecture, workflow, docs)
+- [[wiki/operations/session-start-operation|Session Start Operation]] - startup route for loading the right context before any task (workflow, docs, meta)
+- [[wiki/operations/file-creation-gate|File Creation Gate]] - pre-write and post-write contract for creating vault files cleanly (workflow, docs, meta)
+- [[wiki/operations/ingest-operation|Ingest Operation]] - canonical workflow for turning raw sources into vault knowledge (workflow, docs, meta)
+- [[wiki/operations/sort-operation|Sort Operation]] - canonical workflow for moving unsorted files into the right vault lane (workflow, docs, meta)
+- [[wiki/operations/query-operation|Query Operation]] - canonical workflow for answering questions against compiled vault knowledge (workflow, docs, meta)
+- [[wiki/operations/draft-operation|Draft Operation]] - canonical iterative drafting workflow for features, workflows, and artifacts (workflow, docs, meta)
+- [[wiki/operations/project-init-operation|Project Init Operation]] - canonical workflow for creating a new project workspace and router (workflow, docs, meta)
+- [[wiki/operations/archive-operation|Archive Operation]] - canonical workflow for retiring vault pages without breaking routing (workflow, docs, meta)
+- [[wiki/operations/lint-operation|Lint Operation]] - canonical workflow for structural audits, drift checks, and flow-check passes (workflow, docs, meta)
+- [[wiki/operations/context-update-operation|Context Update Operation]] - canonical workflow for updating context from live conversation or task shifts (workflow, docs, meta)
+- [[wiki/operations/self-healing-operation|Self-Healing Operation]] - canonical closeout workflow for page repair, logging, and propagation follow-through (workflow, docs, meta)
+- [[wiki/operations/canvas-architecture-operation|Canvas Architecture Operation]] - canonical workflow for Canvas-first architecture drafting and markdown mirroring (workflow, docs, meta)
 
 ## Entities
 <!-- People, tools, organizations, products -->
@@ -30,6 +49,8 @@
 <!-- Cross-cutting analysis, comparisons, overviews -->
 - [[wiki/synthesis/obsidian-agent-vault-change-report|Obsidian Agent Vault Change Report]] - inventory of the contract, template, and ingest changes made in the current Obsidian vault pass (obsidian, memory, report)
 - [[wiki/synthesis/obsidian-agent-vault-architecture|Obsidian Agent Vault Architecture]] - human-readable digest of the current Obsidian plus agent-memory source cluster (obsidian, memory)
+- [[wiki/synthesis/obsidian-d2-canvas-architecture-method|Obsidian D2 Canvas Architecture Method]] - vault method for Canvas-first exploration, D2-backed system maps, and durable architecture routing (obsidian, architecture, workflow, docs)
+- [[wiki/synthesis/vault-routing-renovation-report|Vault Routing Renovation Report]] - compiled report of the hub-and-branch routing renovation, current branch architecture, and remaining router debt (workflow, docs, meta)
 - [[wiki/synthesis/discord-ai-agent-connection-patterns|Discord AI Agent Connection Patterns]] - architecture-level guide for wiring an existing Discord app into an AI moderation backend (discord, ai, moderation)
 - [[wiki/synthesis/discord-moderation-domain|Discord Moderation Domain]] - initial knowledge router for permission design, staff controls, and moderation gaps (discord, moderation)
 - [[wiki/synthesis/discord-moderation-source-map|Discord Moderation Source Map]] - next-ingest source map across docs, GitHub, Reddit, and YouTube for the missing moderation areas (discord, moderation)
@@ -40,10 +61,19 @@
 - [[projects/pathfinder/notes/pathfinder-evaluation-hub|PathFinder Evaluation Hub]] - domain hub for replay workflow, stage audits, and retrieval evaluation (pathfinder, synthesis)
 - [[projects/pathfinder/notes/pathfinder-workflow-hub|PathFinder Workflow Hub]] - domain hub for maintenance, handoff, and durable-memory workflow docs (pathfinder, synthesis)
 - [[projects/pathfinder/notes/docs-repo-vault-sync-policy|Repo Vault Sync Policy]] - current write boundary between vault-canonical docs and the repo mirror layer (pathfinder, workflow, docs)
+- [[projects/raven/notes/raven-architecture-hub|Raven Architecture Hub]] - domain hub for Raven system maps, loop boundaries, and D2 plus Canvas planning workflow (raven, architecture, workflow, docs)
+- [[projects/raven/notes/raven-architecture-demo|Raven Architecture Demo]] - fast rendered walkthrough of the Raven D2 plus Canvas planning stack (raven, architecture, workflow, docs)
+- [[projects/raven/notes/raven-canvas-build-plan|Raven Canvas Build Plan]] - canvas-first plan for collaborative system drafting with markdown mirroring rules (raven, architecture, workflow, docs)
+- [[projects/raven/notes/raven-evaluation-domain|Raven Evaluation Domain]] - source-of-truth rule for Raven eval reports in the vault, self-evolving evaluation-domain shape, and repo `eval/` as executable evidence only (raven, evaluation, workflow, docs)
+- [[projects/raven/notes/raven-eval-how-to-use|Raven Evaluation Workflow]] - official how-to for running, auditing, and compounding Raven evaluation work (raven, evaluation, workflow, docs)
+- [[projects/raven/notes/raven-evaluation-insights|Raven Evaluation Insights]] - rolling cross-run evaluation knowledge that should keep growing with the vault (raven, evaluation, prompts)
+- [[projects/raven/notes/raven-prompt-hub|Raven Prompt Hub]] - official router for Raven prompt contracts, prompt audits, and prompt evolution work (raven, prompts, workflow, docs)
+- [[projects/raven/notes/raven-enricher-evaluation|Raven Enricher Evaluation]] - production gate report for the one-node `gpt-5.4-mini` query enricher seam (raven, evaluation, prompts)
 
 ## Projects
 <!-- Format: - [[path|Name]] - status | one-liner -->
 - [[projects/pathfinder/README|PathFinder]] - active | vault workspace for repo docs, summaries, and project routing
+- [[projects/raven/README|Raven]] - active | Knowledge Signal Engine scaffold with vault-canonical evaluation and repo executable evidence
 - [[projects/ielts-writing/README|IELTS Writing]] - active | 20-day band 4-5 → 7-8 protocol with schema docs (ielts, writing, learning)
 - [[projects/ielts-writing/sources/chart-generator|Task 1 Chart Generator]] - how to call gen_challenge(spec) to produce PNG charts for practice (ielts, tools)
 
@@ -195,6 +225,7 @@
 ### Type
 <!-- #person #tool #framework #concept #project -->
 - project/pathfinder
+- project/raven
 - report
 - synthesis
 - source-summary

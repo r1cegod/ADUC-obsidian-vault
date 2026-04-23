@@ -1,9 +1,13 @@
 ---
 type: hub
-title: "IELTS Writing 7.5+ in 20 Days"
-created: 2026-04-08
-updated: 2026-04-08
-tags: [ielts, writing, learning, project]
+title: IELTS Writing 7.5+ in 20 Days
+created: 2026-04-08T00:00:00.000Z
+updated: '2026-04-22T00:00:00.000Z'
+tags:
+  - ielts
+  - writing
+  - learning
+  - project
 status: active
 lang: en
 feeds_into:
@@ -12,6 +16,22 @@ feeds_into:
 ---
 
 > **TL;DR**: 20-day protocol to move IELTS Writing from band 4-5 to 7-8. Gap is structural (schema + wording), not linguistic. Two docs, two phases: Build (week 1) + Max (week 2), with 6 days buffer.
+
+## Start Here
+
+Use the smallest sufficient route:
+- Need the full plan first: [[projects/ielts-writing/notes/mastery-plan|14-Day Mastery Plan]]
+- Need Task 1 schema, mutation table, and wording bank: [[projects/ielts-writing/notes/task1-academic|Task 1 Academic]]
+- Need a write-on-top execution sheet for line graphs: [[projects/ielts-writing/notes/task1-line-write-on-top-cheat-sheet|Task 1 Line Graph Write-On-Top Cheat Sheet]]
+- Need Task 2 schema, mutation table, and wording bank: [[projects/ielts-writing/notes/task2-essay|Task 2 Essay]]
+- Need a write-on-top execution sheet for live practice: [[projects/ielts-writing/notes/task2-write-on-top-cheat-sheet|Task 2 Write-On-Top Cheat Sheet]]
+
+## Task Routes
+
+- Planning and daily sequencing: [[projects/ielts-writing/notes/mastery-plan|14-Day Mastery Plan]]
+- Academic graph/report writing: [[projects/ielts-writing/notes/task1-academic|Task 1 Academic]]
+- Essay writing: [[projects/ielts-writing/notes/task2-essay|Task 2 Essay]]
+- Personal motivation and long-term direction: [[context/goals]], [[context/me]]
 
 ## The Gap
 

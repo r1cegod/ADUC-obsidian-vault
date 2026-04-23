@@ -2,7 +2,7 @@
 type: note
 title: Raven Phase 1 Build Plan
 created: '2026-04-16'
-updated: '2026-04-16'
+updated: '2026-04-22'
 tags:
   - project/raven
   - planning
@@ -14,23 +14,19 @@ lang: en
 feeds_into:
   - projects/raven/README.md
   - projects/raven/notes/raven-phase-1-ingest-rating-plan.md
+  - projects/raven/notes/raven-architecture-hub.md
 ---
-> **TL;DR**: Build Raven Phase 1 as four connected working slices: Reddit/YouTube search -> query enricher -> rater -> evolver placeholder. Let persistence/schema details grow from the working loop, but keep each slice's input/output contract explicit.
+> **TL;DR**: Build Raven Phase 1 as four connected working slices: Reddit/YouTube search -> query enricher -> Tier 1 ranker -> evolver placeholder. Let persistence/schema details grow from the working loop, but keep each slice's input/output contract explicit.
 
 ## Build Shape
 
 ```text
 User target
-  ↓
-1. Reddit + YouTube search function
-  ↓
-2. Query enricher
-  ↓
-3. Rater
-  ↓
-4. Evolver placeholder
-  ↓
-Vault synthesis later
+  -> 1. Reddit + YouTube search function
+  -> 2. Query enricher
+  -> 3. Tier 1 ranker
+  -> 4. Evolver placeholder
+  -> Vault synthesis later
 ```
 
 Phase 1 is not a full research agent. It is a source discovery and judgment loop.
@@ -39,12 +35,12 @@ Phase 1 is not a full research agent. It is a source discovery and judgment loop
 
 ```text
 Vault
-  ↓
-primary memory, final synthesis, detector evolution notes
+  -> primary memory
+  -> final synthesis
+  -> prompt/eval insight
 
 SQLite
-  ↓
-agent workbench for runs, candidates, ratings, audits
+  -> agent workbench for runs, candidates, Tier 1 outputs, audits
 ```
 
 Do not over-design the database first. Add tables when a working slice needs persistence.
@@ -76,12 +72,9 @@ Build order:
 
 ```text
 fake searcher
-  ↓
-normalizer
-  ↓
-real YouTube search
-  ↓
-real Reddit search
+  -> normalizer
+  -> real YouTube search
+  -> real Reddit search
 ```
 
 Acceptance:
@@ -110,12 +103,9 @@ Then wire it:
 
 ```text
 target
-  ↓
-expand_query
-  ↓
-search_sources for each query
-  ↓
-deduped candidates
+  -> expand_query
+  -> search_sources for each query
+  -> deduped candidates
 ```
 
 Acceptance:
@@ -125,65 +115,59 @@ Acceptance:
 - duplicate links collapse
 - output still fits the same candidate schema
 
-## Phase 3 - Rater
+## Phase 3 - Tier 1 Ranker
 
-Goal: score metadata candidates before reading full content.
+Goal: filter metadata candidates before reading full content.
 
 ```text
-rate_candidate(candidate)
-  -> CandidateRating
+rank_candidate_tier1(candidate)
+  -> Tier1Rating
 ```
 
-Rating output:
+Tier 1 output:
 
 ```text
 candidate_id
-score
-label
-reason_codes
-one_sentence_reason
-uncertainty
+sexy_label
+positive_pull[]
+negative_push[]
+title_pull
+preview_pull
+final_verdict
+tier_version
 ```
 
-Initial labels:
+Tier 1 label set:
 
 ```text
-bullshit
-weak
-useful
-high_signal
+skip
+maybe
+click
+must_click
 ```
 
-Initial reason codes:
+Prompt law:
 
 ```text
-specific_mechanism
-operational_detail
-named_tools_or_numbers
-clear_failure_mode
-vague_abstraction
-guru_fluff
-recycled_consensus
-low_build_relevance
+would Duc click this?
 ```
 
 Acceptance:
 
-- every candidate gets a rating
-- ratings sort into a review packet
-- reasons are inspectable by Duc
-- human audit can disagree with Raven
+- every candidate gets a Tier 1 output
+- outputs sort cleanly into one audit markdown file per eval run
+- Raven output stays inspectable by Duc
+- human audit can disagree in plain language
+- no numeric scoring contract is required here
 
 ## Phase 4 - Evolver Placeholder
 
 Goal: connect the self-upgrade graph without pretending Raven can improve itself yet.
 
 ```text
-ratings + human audits
-  ↓
-evolver_placeholder
-  ↓
-disagreement summary
+audit files + human audits
+  -> evolver_placeholder
+  -> disagreement summary
 ```
 
 Allowed output:
@@ -191,8 +175,8 @@ Allowed output:
 ```text
 audited_count
 disagreement_patterns
-missing_criteria
-enough_data_to_evolve
+missing_prompt_criteria
+enough_data_to_propose_change
 ```
 
 Forbidden in Phase 1:
@@ -205,7 +189,7 @@ automatic code rewrite
 
 Acceptance:
 
-- evolver consumes real audit data
+- evolver consumes real audit evidence
 - evolver summarizes disagreement
 - evolver makes no autonomous changes
 
@@ -218,8 +202,8 @@ Input:
 Output:
   expanded queries
   Reddit + YouTube candidates
-  Raven ratings
-  sorted review packet
+  Raven Tier 1 outputs
+  markdown audit file
   placeholder evolver summary
 ```
 
@@ -239,5 +223,7 @@ This is the first working Raven loop.
 ## Related
 
 - [[projects/raven/README]]
+- [[projects/raven/notes/raven-architecture-hub]]
 - [[projects/raven/notes/raven-phase-1-ingest-rating-plan]]
+- [[projects/raven/notes/raven-source-ranker-draft]]
 - [[projects/raven/notes/raven-ownership-delegation-protocol]]

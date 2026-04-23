@@ -14,6 +14,24 @@ This vault is two things at once:
 
 The primary active project is **PathFinder**, a multi-agent AI career counselor for Vietnamese students, built as a portfolio piece for the FPT Software Engineering Scholarship.
 
+## Agent Routing
+
+This file is a human-facing overview, not the runtime startup router.
+
+Use the vault branch stack instead:
+
+```text
+briefing.md
+  -> operations-hub / vault-keeping / learning-protocol-hub
+  -> project README
+  -> project hub if needed
+  -> leaf
+```
+
+For official operations, start from `wiki/operations-hub.md`.
+For maintenance-family work, start from `vault-keeping.md`.
+For project work, start from the project `README.md`.
+
 ---
 
 ## Start Here (Scholarship Reviewer)
@@ -57,7 +75,7 @@ ADUC/
 |-- README.md                <- you are here
 |-- briefing.md              <- vault orientation (read first)
 |-- index.md                 <- full content routing table
-|-- SCHEMA.md                <- wiki operations manual
+|-- SCHEMA.md                <- vault constitution for routing, schema, and propagation law
 |-- CLAUDE.md                <- agent behavior rules
 |-- AGENTS.md                <- Codex entry rules
 |-- log.md                   <- activity history navigation
@@ -91,7 +109,9 @@ ADUC/
 | [context/now.md](context/now.md) | Current week's focus and open blockers |
 | [context/goals.md](context/goals.md) | Scholarship goals and engineering direction |
 | [index.md](index.md) | Full content routing table with tags |
-| [SCHEMA.md](SCHEMA.md) | How the vault is operated (ingest, lint, self-healing) |
+| [wiki/operations-hub.md](wiki/operations-hub.md) | Global registry for official vault operations |
+| [vault-keeping.md](vault-keeping.md) | Maintenance-family hub for drift, logging, and self-healing |
+| [SCHEMA.md](SCHEMA.md) | Constitutional rules for routing, schema, propagation, and operation governance |
 | [log.md](log.md) | Activity log navigation |
 
 ---

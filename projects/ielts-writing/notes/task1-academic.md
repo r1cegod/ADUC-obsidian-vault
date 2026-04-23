@@ -1,9 +1,12 @@
 ---
 type: note
-title: "Task 1 Academic — Report Schema"
-created: 2026-04-08
-updated: 2026-04-08
-tags: [ielts, writing, schema]
+title: Task 1 Academic — Report Schema
+created: 2026-04-08T00:00:00.000Z
+updated: '2026-04-22T00:00:00.000Z'
+tags:
+  - ielts
+  - writing
+  - schema
 status: active
 lang: en
 ---
@@ -284,4 +287,5 @@ Grammatical Range    │ complex sentences used         │ frequent ERROR-FREE 
 ## Related
 
 - [[projects/ielts-writing/README]]
+- [[projects/ielts-writing/notes/task1-line-write-on-top-cheat-sheet]]
 - [[projects/ielts-writing/notes/mastery-plan]]

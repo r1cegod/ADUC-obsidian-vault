@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"group-runtime","type":"group","x":-600,"y":500,"width":2640,"height":1020,"color":"2","label":"Runtime And Memory"},
+		{"id":"group-planning","type":"group","x":-240,"y":-80,"width":1920,"height":490,"color":"4","label":"Planning Surface"},
+		{"id":"phase-order","type":"text","text":"# Phase order\n\ntarget\n  -> query enricher\n  -> source discovery\n  -> candidate persistence\n  -> video gate\n  -> judgment layer\n  -> channel memory\n  -> channel rank\n  -> report packet\n  -> evolve loop","x":300,"y":580,"width":470,"height":420,"color":"2"},
+		{"id":"memory-boundary","type":"text","text":"# Memory boundary\n\nSQLite workbench\n- runs\n- queries\n- candidates\n- ratings\n- audits\n- channel state\n\nVault canonical brain\n- architecture docs\n- evaluation reports\n- detector proposals\n- synthesis notes","x":1035,"y":580,"width":360,"height":430,"color":"2"},
+		{"id":"open-questions","type":"text","text":"# Open questions\n\n- What exact metrics belong in the video gate?\n- Which signals are metadata-only vs content judgment?\n- What causes S -> A -> B -> C -> D?\n- When can the evolve loop propose a detector change?\n- What evidence threshold is enough for manual promotion?","x":1680,"y":580,"width":280,"height":420,"color":"3"},
+		{"id":"runtime-loops","type":"text","text":"# Runtime loops\n\n1. Search loop\n2. Video gate loop\n3. Judgment loop\n4. Channel trust loop\n5. Evolve loop\n\nRule:\n- Search is recall\n- Video gate is noise reduction\n- Judgment is content evaluation\n- Channel rank is accumulated source trust","x":-520,"y":580,"width":400,"height":420,"color":"2"},
+		{"id":"implementation-warning","type":"text","text":"# Implementation warning\n\nDo not code from search results alone.\n\nTrust should migrate:\nsearch result\n  -> video evidence\n  -> channel memory\n  -> channel rank","x":325,"y":1200,"width":470,"height":260,"color":"1"},
+		{"id":"planning-law","type":"text","text":"# Canvas law\n\nObsidian is vault brain,\nnot human whiteboard.\n\nCanvas should hold:\n- loops\n- clusters\n- tensions\n- open questions\n\nCanvas should not hold:\n- pinned router notes\n- file cards as the main board","x":535,"y":-70,"width":400,"height":450,"color":"6"},
+		{"id":"planning-loop","type":"text","text":"# D2 loop\n\nCanvas exploration\n  -> D2 source map\n  -> render dark SVG\n  -> self audit\n  -> revise D2 if wrong\n\nRule:\n- Do not finish on first render\n- Audit the diagram before calling it done","x":-180,"y":-52,"width":480,"height":310,"color":"4"},
+		{"id":"dark-theme-note","type":"text","text":"# Render default\n\nTheme: Dark Flagship Terrastruct\nCode: 201\n\nCommand:\n~/.local/bin/d2 --theme 201 input.d2 output.svg","x":1180,"y":0,"width":430,"height":205,"color":"5"}
+	],
+	"edges":[
+		{"id":"edge-planning-law","fromNode":"planning-loop","fromSide":"right","toNode":"planning-law","toSide":"left","label":"board policy"},
+		{"id":"edge-planning-theme","fromNode":"planning-law","fromSide":"right","toNode":"dark-theme-note","toSide":"left","label":"render rule"},
+		{"id":"edge-runtime-phase","fromNode":"runtime-loops","fromSide":"right","toNode":"phase-order","toSide":"left","label":"runtime shape"},
+		{"id":"edge-phase-memory","fromNode":"phase-order","fromSide":"right","toNode":"memory-boundary","toSide":"left","label":"storage split"},
+		{"id":"edge-memory-open","fromNode":"memory-boundary","fromSide":"right","toNode":"open-questions","toSide":"left","label":"design pressure"},
+		{"id":"edge-phase-warning","fromNode":"phase-order","fromSide":"bottom","toNode":"implementation-warning","toSide":"top","label":"build law"}
+	]
+}

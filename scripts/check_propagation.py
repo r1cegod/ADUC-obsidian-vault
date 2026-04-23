@@ -78,6 +78,24 @@ PATTERN_RULES = [
         ],
     },
     {
+        # Canvas boards  →  project architecture hub + parent project README
+        "match": lambda p: (
+            p.startswith("projects/")
+            and "/notes/" in p
+            and p.endswith(".canvas")
+        ),
+        "targets_fn": lambda p: [
+            (
+                p.split("/notes/")[0] + "/notes/" + p.split("/")[1] + "-architecture-hub.md",
+                "Canvas routing changes should stay explicit through the project architecture hub",
+            ),
+            (
+                p.split("/notes/")[0] + "/README.md",
+                "Canvas work should remain discoverable from the project README router",
+            ),
+        ],
+    },
+    {
         # Day log files  →  log.md nav index
         "match": lambda p: p.startswith("sources/log/days/"),
         "targets": [

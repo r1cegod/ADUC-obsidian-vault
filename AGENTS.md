@@ -1,18 +1,19 @@
 # AGENTS.md - Codex Vault Entry Point
 
-> **TL;DR**: Start every session with [[context/hot]] as the wrapper cache, then [[briefing.md]], then [[context/now]], then route through [[SCHEMA.md]] and the relevant project README only when needed.
+> **TL;DR**: Read [[context/hot]] -> [[briefing.md]] -> [[context/now]], then choose the smallest next router: [[wiki/operations-hub]], [[vault-keeping]], [[wiki/learning-protocol-hub]], or a project README.
 
-Last updated: 2026-04-18
+Last updated: 2026-04-21
 
 ## Quick Start
 
-**Read in order. Do not open any content file before completing Step 0-2.**
+Read in order:
+0. `context/hot.md`
+1. `briefing.md`
+2. `context/now.md`
+3. then the smallest next router that fits the task
 
-0. Read `context/hot.md` - session hot cache. Read this FIRST, before briefing.md. Files listed under "Stable Since Last Session" can skip their repair pass. Update at task end only when continuity, stable-router status, or next action changed.
-1. Read `briefing.md` - vault orientation. Do this before anything else except hot.md.
-2. Read `context/now.md` - current priorities. Do this before reading project or wiki files.
-3. Use `SCHEMA.md -> Canonical Startup Matrix` to choose the next page only if the next step is not obvious from the task.
-4. If the task touches an active or named project, open `projects/<name>/README.md` before reading project notes or raw sources.
+Open `SCHEMA.md` only for exact constitutional rule, schema, or propagation law.
+Open `projects/<name>/README.md` before project notes or raw sources.
 
 **Session start check (run before every task):**
 - Is `context/now.md` `updated` date > 7 days ago? -> Flag it, do not act on stale context.
@@ -20,46 +21,34 @@ Last updated: 2026-04-18
 - Files in `pending/`? -> Flag and offer to sort before starting task.
 - Did user reveal new personal info or project status in conversation? -> Update `context/` now, before the task.
 
----
-
-## This Vault
-
-Personal master vault: second brain + project docs. You read and write everything here. The wiki compounds - every ingest makes it richer, every lint keeps it healthy.
-
-See `SCHEMA.md` for the full operations manual.
-
----
+## Operation Router
+- Official operations registry -> [[wiki/operations-hub]]
+- Vault maintenance, drift, logging, or workflow audit -> [[vault-keeping]]
+- Exact constitutional rule, schema, or propagation law -> [[SCHEMA.md]]
+- Project work -> `projects/<name>/README.md`
+- Architecture planning -> project README -> architecture hub -> active `.canvas`
+- Collaborative drafting -> [[wiki/operations-hub]] -> [[wiki/operations/draft-operation]]
+- Technical help / learning ownership -> [[wiki/learning-protocol-hub]]
 
 ## Universal Help / Learning Gate
 
-For any technical-help, docs, debugging, or implementation request, start from [[wiki/learning-protocol-hub]] and run [[wiki/help-protocol]] before giving docs or implementation guidance.
+For technical help, docs, debugging, or implementation guidance:
+1. Start from [[wiki/learning-protocol-hub]]
+2. Run [[wiki/help-protocol]]
+3. Use [[wiki/vibe-docing]] for narrow mechanism gaps
+4. Use [[wiki/build-first-learning]] when the skill should compound
+5. Escalate to [[wiki/pre-wire-protocol]] for full feature ownership
 
-```text
-1. Classify the gap.
-2. Secretly verify the mechanism/doc path when practical.
-3. If the gap is small, use [[wiki/vibe-docing]] or official docs plus a narrow task.
-4. If the skill should compound, use [[wiki/build-first-learning]] as the primary method: Duc builds usable artifacts; agent audits.
-5. If the gap is large, make Duc explain the architecture first.
-6. If the task is a full feature/core wire, escalate to [[wiki/pre-wire-protocol]].
-```
+Ownership rule before implementation help:
+- if Duc can name files, seams, steps, failure modes, and verification path, review/delegation may be allowed
+- if not, prefer learning flow unless the task is clear ONE_TIME_UTILITY
 
-Before doing implementation work for the user, check:
-
-```text
-1. Does Duc pass the ownership evidence standard?
-   - files/modules involved
-   - input/output at each seam
-   - rough implementation steps
-   - main failure modes
-   - verification path
-
-2. If yes: review/delegation may be allowed.
-3. If no: decide whether the missing skill should compound.
-   - yes: use [[wiki/pre-wire-protocol]] instead of writing it for him
-   - no: label ONE_TIME_UTILITY and execute without deep teaching
-```
-
-This gate prevents three failures: handing docs before the architecture exists, writing code Duc should learn, and forcing deep learning for one-time utility work.
+Default learning modes:
+- `AUDIT` for check/clean/debug on active learning artifacts
+- `PATCH` only after explicit patch/delegation request or for ONE_TIME_UTILITY
+- `STEAL` for reference-only finished code outside the active path
+- `ABSORPTION` only when Duc explicitly wants deep study
+- `VIBE_DOCING` uses neutral placeholders only
 
 ## Codex-Specific Behavior
 
@@ -76,27 +65,16 @@ This gate prevents three failures: handing docs before the architecture exists, 
 - If a project has domain hubs, use them as suggestion menus to find one likely next page; do not treat them as mandatory syllabi
 - Treat `journal/daily/` as human-primary raw capture. Do not rewrite it into agent voice unless the task explicitly calls for it.
 - Put durable synthesis into `wiki/`, `projects/<name>/notes/`, `index.md`, or the vault log layer (`log.md` + `sources/log/`) instead of back-writing it into raw notes.
-
-## Pending / Drop Zone
-
-- Check `pending/` at the start of each session - if files exist, offer to SORT them
-- See `SCHEMA.md -> SORT Operation` for the workflow
+- For architecture-heavy work, route `README.md -> architecture hub -> active .canvas` before repo code, and complete vault updates before ending the response.
+- Officially documented operations are living contracts: if use reveals friction, patch the docs the same session when cheap or log the gap that day.
+- Treat [[vault-keeping]] as the top-tier maintenance family hub, not as the global registry for all operations.
 
 ## After Every Task
 
-**This is mandatory, not optional.** Before ending your response:
+1. Run self-healing on edited/created pages, or on read-only pages only if a structural defect would affect this task.
+2. Log durable work in `sources/log/days/`.
+3. Sync `log.md` only for a new day or changed daily summary.
+4. Patch `context/` if conversation changed what future sessions should know.
+5. Finish all vault writeback before ending the response.
 
-1. Self-healing pass on every page you edited or created, plus read-only pages only when they show a visible structural defect or stale routing that would affect this task:
-   - Missing `updated` date? Add today's date.
-   - Missing `> TL;DR`? Generate one.
-   - Obvious missing wikilinks? Add them.
-   - Evidence-only reads for repo/eval work do not require page-by-page repair; summarize them in one log line if useful.
-2. Log to the current day file in `sources/log/days/`. Even if nothing was fixed, log what you did. No exceptions.
-   - Format: `## [YYYY-MM-DD] ACTION | Subject` - see `SCHEMA.md -> Self-Healing Protocol`
-   - Then sync `log.md` only when the day is new or the daily summary changed — see `sources/log/HOW_TO_WRITE.md -> Syncing log.md`
-3. If user revealed new context in conversation (personal info, project status, priorities), update `context/me.md`, `context/now.md`, or `context/goals.md` as appropriate - log as `UPDATE | context`.
-4. If the response created durable knowledge, changed the wiki structure, or ingested sources, write those updates before sending the response. Do not wait for a special session-end signal.
-
-See `SCHEMA.md -> Self-Healing Protocol` for full rules.
-
-Stable router pages already validated earlier the same day do not need repeated structural repair passes if they were not edited in the current task; follow `SCHEMA.md -> Stable Router Exception`.
+See `SCHEMA.md -> Self-Healing Protocol` for full rules and the Stable Router Exception.

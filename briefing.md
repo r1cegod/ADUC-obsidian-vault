@@ -20,9 +20,17 @@ PathFinder is reviewable unless a demo blocker appears. The next scaffold candid
 <!-- Check pending/ for unsorted files each session -->
 _Nothing in the drop zone._
 
+## Official Operations
+- [[wiki/operations-hub]] - global registry for all official vault operations; start here when the task is about workflow selection, not project content
+- [[vault-keeping]] - use this when the task is about keeping the vault reliable: maintenance, drift, logging, self-healing, propagation, or operation audits
+- [[wiki/learning-protocol-hub]] - use this for technical-help, learning ownership, pre-wire, delegation gates, and build-first mode routing
+- [[wiki/synthesis/obsidian-d2-canvas-architecture-method]] - use this for architecture drafting and Canvas-first system-shape work
+
 ## Navigation
-- [[SCHEMA.md]] - wiki operations (ingest, lint, query, self-healing)
+- [[SCHEMA.md]] - constitutional manual for vault rules, operation law, schema, and propagation
 - [[wiki/learning-protocol-hub]] - help, pre-wire learning, delegation, and session-routing rules
+- [[wiki/operations-hub]] - official operations registry and family router
+- [[wiki/synthesis/obsidian-d2-canvas-architecture-method]] - vault method for Canvas-first exploration and D2-backed architecture maps
 - [[index.md]] - content routing table
 - [[context/me]] - user profile
 - [[context/now]] - current priorities (read this for task context)
@@ -32,4 +40,4 @@ _Nothing in the drop zone._
 - [[vault-keeping]] - vault maintenance routing hub (micro → structural scale ladder)
 - [[log.md]] - activity-history navigation
 
-**Last updated:** 2026-04-16
+**Last updated:** 2026-04-21

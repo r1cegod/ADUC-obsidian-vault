@@ -1,0 +1,264 @@
+style: {
+  fill: "#0F172A"
+  stroke: "#334155"
+  stroke-width: 1
+}
+
+direction: down
+
+planning: {
+  label: "1. Diagram Loop"
+  grid-columns: 4
+  grid-gap: 28
+
+  canvas: {
+    shape: hexagon
+    label: "Canvas\nexploration"
+    style: {
+      font-size: 18
+    }
+  }
+
+  d2_source: {
+    shape: page
+    label: "D2\nsource map"
+    style: {
+      font-size: 18
+    }
+  }
+
+  render: {
+    shape: step
+    label: "Render\ndark SVG"
+    style: {
+      font-size: 18
+    }
+  }
+
+  audit: {
+    shape: page
+    label: "Self audit\nand revise"
+    style: {
+      font-size: 18
+    }
+  }
+
+  canvas -> d2_source: promote
+  d2_source -> render: compile
+  render -> audit: inspect
+  audit -> d2_source: fix if wrong
+}
+
+execution: {
+  label: "2. Runtime + State"
+  direction: right
+
+  pipeline: {
+    label: "Pipeline"
+    direction: down
+
+    discovery: {
+      label: "Discovery"
+      direction: right
+
+      target: {
+        shape: oval
+        label: "Target"
+        style: {
+          font-size: 18
+        }
+      }
+
+      query_enricher: {
+        label: "Query\nEnricher"
+        style: {
+          font-size: 18
+        }
+      }
+
+      source_discovery: {
+        label: "Source\nDiscovery"
+        style: {
+          font-size: 18
+        }
+      }
+
+      candidate_persistence: {
+        label: "Candidate\nPersistence"
+        style: {
+          font-size: 18
+        }
+      }
+
+      target -> query_enricher: expand
+      query_enricher -> source_discovery
+      source_discovery -> candidate_persistence
+    }
+
+    assessment: {
+      label: "Assessment"
+      direction: right
+
+      video_gate: {
+        label: "Video\nGate"
+        style: {
+          font-size: 18
+        }
+      }
+
+      judgment_layer: {
+        label: "Judgment\nLayer"
+        style: {
+          font-size: 18
+        }
+      }
+
+      channel_memory: {
+        label: "Channel\nMemory"
+        style: {
+          font-size: 18
+        }
+      }
+
+      channel_rank: {
+        label: "Channel\nRank"
+        style: {
+          font-size: 18
+        }
+      }
+
+      report_packet: {
+        label: "Report\nPacket"
+        style: {
+          font-size: 18
+        }
+      }
+
+      video_gate -> judgment_layer
+      judgment_layer -> channel_memory
+      channel_memory -> channel_rank
+      channel_rank -> report_packet
+    }
+
+    discovery.candidate_persistence -> assessment.video_gate
+  }
+
+  stores: {
+    label: "State Stores"
+    direction: down
+
+    sqlite: {
+      shape: rectangle
+      label: |md
+        ## SQLite workbench
+
+        - runs and queries
+        - candidates and ratings
+        - audits and channel state
+      |
+      style: {
+        font-size: 18
+      }
+    }
+
+    vault: {
+      shape: rectangle
+      label: |md
+        ## Vault canonical brain
+
+        - architecture docs
+        - evaluation reports
+        - detector proposals
+        - synthesis notes
+      |
+      style: {
+        font-size: 18
+      }
+    }
+  }
+}
+
+governance: {
+  label: "3. Audit + Policy"
+  direction: right
+
+  audit_packet: {
+    shape: rectangle
+    label: |md
+      ## Audit packet
+
+      - report output
+      - human review
+      - disagreement traces
+    |
+    style: {
+      font-size: 18
+    }
+  }
+
+  evolve_loop: {
+    label: "Evolve\nLoop"
+    style: {
+      font-size: 18
+    }
+  }
+
+  policy_pack: {
+    shape: hexagon
+    label: |md
+      **Policy pack**
+
+      query, gate,
+      judgment, rank
+    |
+    style: {
+      font-size: 18
+    }
+  }
+
+  audit_packet -> evolve_loop
+  evolve_loop -> policy_pack
+}
+
+laws: {
+  label: "4. Architecture Laws"
+  grid-columns: 2
+  grid-gap: 24
+
+  search_recall: {
+    shape: rectangle
+    label: "Search is recall"
+    style: {
+      font-size: 18
+    }
+  }
+
+  gate_noise: {
+    shape: rectangle
+    label: "Video gate is noise reduction"
+    style: {
+      font-size: 18
+    }
+  }
+
+  judgment_content: {
+    shape: rectangle
+    label: "Judgment is content evaluation"
+    style: {
+      font-size: 18
+    }
+  }
+
+  rank_trust: {
+    shape: rectangle
+    label: "Channel rank is accumulated trust"
+    style: {
+      font-size: 18
+    }
+  }
+}
+
+execution.pipeline.discovery.candidate_persistence -> execution.stores.sqlite: workbench write
+execution.pipeline.assessment.report_packet -> governance.audit_packet: human review
+execution.pipeline.assessment.report_packet -> execution.stores.vault: publish
+governance.policy_pack -> execution.pipeline: update rules

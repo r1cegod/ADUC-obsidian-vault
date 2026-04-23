@@ -6,6 +6,9 @@
 - Guide | [sources/log/HOW_TO_WRITE.md](./sources/log/HOW_TO_WRITE.md)
 - Data holes | [sources/log/DATA_HOLES.md](./sources/log/DATA_HOLES.md)
 
+- 2026-04-22 | Continued Raven Tier 1 drafting, simplified the evaluation loop, formalized Raven prompt/evaluation routing, and turned the evaluation domain into a self-evolving vault structure | [entry](./sources/log/days/2026-04-22.md)
+- 2026-04-21 | Reframed Raven as a vault keeper, built the Raven canvas domain, hardened the vault’s Canvas-first plus operation-evolution workflow, refactored official operation routing into hubs/leaves with a leaner SCHEMA, added an explicit branch law, and finished with compressed wrappers plus a real hot cache | [entry](./sources/log/days/2026-04-21.md)
+- 2026-04-20 | Promoted Build-First session modes, created Raven Reddit search STEAL reference, production-gated the one-node Raven enricher, and reinforced Raven's vault-canonical evaluation domain | [entry](./sources/log/days/2026-04-20.md)
 - 2026-04-19 | Audited Raven DB contract test and identified remaining assert/failure-case gaps before API adapter work | [entry](./sources/log/days/2026-04-19.md)
 - 2026-04-18 | Clarified Raven database learning flow and promoted Build-First Learning plus VIBE_DOCING into the general learning/help protocol stack | [entry](./sources/log/days/2026-04-18.md)
 - 2026-04-17 | Continued Raven API + SQLite learning session, passed the first data-shape artifact challenge, and promoted VIBE_DOCING into the general learning/help flow | [entry](./sources/log/days/2026-04-17.md)

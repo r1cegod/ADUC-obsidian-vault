@@ -2,7 +2,7 @@
 type: protocol
 title: Help Protocol
 created: '2026-04-16'
-updated: '2026-04-18'
+updated: '2026-04-20'
 tags:
   - learning
   - protocol
@@ -38,6 +38,15 @@ Spoonfeeding is not.
 The agent's job is to move Duc one step closer to implementation ownership, not to replace the thinking step.
 
 Primary technical-learning posture: use [[wiki/build-first-learning]] when the task should compound into skill. Duc builds the usable artifact; the agent audits, narrows, and uses [[wiki/vibe-docing]] for one missing mechanism at a time.
+
+Respect Build-First session modes:
+
+```text
+AUDIT by default for check/clean/debug requests on active learning artifacts.
+PATCH only when Duc explicitly asks for patching/delegation or when the task is ONE_TIME_UTILITY.
+STEAL when Duc asks to inspect finished reference code; park it outside the active implementation path.
+ABSORPTION when Duc asks to deeply study a selected artifact.
+```
 
 ## Mandatory Flow
 
@@ -176,6 +185,8 @@ Agent may review:
 - missing verification
 
 Agent may not silently complete the missing code.
+
+For active learning artifacts, `clean`, `check`, and `audit` are review verbs, not edit permission. If a cleanup requires file edits, state the intended patch and wait for explicit PATCH/delegation unless the task is clearly ONE_TIME_UTILITY.
 
 ## Debugging Support Ladder
 
