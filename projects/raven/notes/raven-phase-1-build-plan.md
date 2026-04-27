@@ -2,7 +2,7 @@
 type: note
 title: Raven Phase 1 Build Plan
 created: '2026-04-16'
-updated: '2026-04-22'
+updated: '2026-04-24'
 tags:
   - project/raven
   - planning
@@ -49,6 +49,8 @@ Do not over-design the database first. Add tables when a working slice needs per
 
 Goal: one callable function that accepts a query and returns normalized metadata candidates from both platforms.
 
+Current YouTube status as of 2026-04-24: `src/backend/search/youtube_search.py` has moved past bare `search.list` into `search.list -> videos.list` enrichment, ID-keyed merge, a first view-count filter, and normalized candidate output. `src/backend/data/search_base.py` writes query/API/candidate logs and candidate rows into SQLite.
+
 ```text
 search_sources(query, limit)
   -> list[SourceCandidate]
@@ -73,7 +75,8 @@ Build order:
 ```text
 fake searcher
   -> normalizer
-  -> real YouTube search
+  -> real YouTube search/list + videos enrichment
+  -> SQLite query/API/candidate logging writeback
   -> real Reddit search
 ```
 

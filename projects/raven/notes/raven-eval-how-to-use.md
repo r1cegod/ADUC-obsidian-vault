@@ -2,7 +2,7 @@
 type: note
 title: Raven Evaluation Workflow
 created: '2026-04-22'
-updated: '2026-04-22'
+updated: '2026-04-26'
 tags:
   - project/raven
   - evaluation
@@ -11,10 +11,17 @@ tags:
 status: active
 lang: en
 feeds_into:
-  - projects/raven/notes/raven-evaluation-domain.md
-  - projects/raven/README.md
+  - projects/raven/notes/raven-evaluation-hub.md
 ---
 > **TL;DR**: This is the official how-to for Raven evaluation work. Use it to run, audit, write back, and evolve Raven evaluation loops so the domain compounds instead of resetting each run.
+
+## Growth Contract
+- Parent branch: [[projects/raven/notes/raven-evaluation-hub]]
+- Node role: workflow leaf
+- First parent link: [[projects/raven/notes/raven-evaluation-hub]]
+- Growth trigger: update when Raven evaluation workflow changes; split only if a recurring eval family needs its own workflow leaf.
+- Forbidden contents: raw traces, runner scripts, datasets, per-run reports, and prompt contracts.
+- Source/evidence boundary: workflow lives here; executable evidence remains in repo `eval/`, with human-readable reports linked through the evaluation hub.
 
 ## Purpose
 
@@ -87,9 +94,12 @@ ranker runs
   -> Duc audit line(s)
   -> Codex reads audit file
   -> dataset creation/update
+  -> focused eval/rerank on that audited dataset
   -> prompt audit / upgrade
   -> rerun
 ```
+
+After Duc audits a markdown file, do not run the full graph again by default. Full graph runs are only for collecting more/fresh candidates. Normal evolution uses the audited artifact and focused eval loop.
 
 No separate complexity theater is required if this loop stays disciplined.
 
@@ -107,6 +117,7 @@ run result
 
 ## Related
 
+- [[projects/raven/notes/raven-evaluation-hub]]
 - [[projects/raven/notes/raven-evaluation-domain]]
 - [[projects/raven/notes/raven-evaluation-insights]]
 - [[projects/raven/notes/raven-source-ranker-draft]]

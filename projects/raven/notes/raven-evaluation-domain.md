@@ -2,7 +2,7 @@
 type: note
 title: Raven Evaluation Domain
 created: '2026-04-20'
-updated: '2026-04-22'
+updated: '2026-04-26'
 tags:
   - project/raven
   - evaluation
@@ -11,13 +11,21 @@ tags:
 status: active
 lang: en
 feeds_into:
-  - projects/raven/README.md
+  - projects/raven/notes/raven-evaluation-hub.md
 ---
-> **TL;DR**: Raven evaluation docs, reports, audit logs, and production-readiness decisions are vault-canonical under `projects/raven/notes/`; repo `eval/` is only executable evidence.
+> **TL;DR**: Raven evaluation docs, reports, audit logs, and production-readiness decisions are vault-canonical under `projects/raven/notes/`; repo `eval/` is only executable evidence. General evaluation and production-prompt method lives in [[wiki/synthesis/evaluation-production-prompt-domain]].
+
+## Growth Contract
+- Parent branch: [[projects/raven/notes/raven-evaluation-hub]]
+- Node role: leaf
+- First parent link: [[projects/raven/notes/raven-evaluation-hub]]
+- Growth trigger: update when Raven's evaluation boundary changes; split only if a new boundary family needs its own rule leaf.
+- Forbidden contents: per-run reports, raw traces, runner scripts, JSONL datasets, and prompt contracts.
+- Source/evidence boundary: this page defines the vault-vs-repo boundary; executable evidence remains in repo `eval/` or the Raven source lane.
 
 ## Rule
 
-Raven follows the same evaluation-source boundary as [[projects/pathfinder/notes/docs-evaluation-domain|PathFinder Evaluation Domain]], but the rule is project-local here so agents do not have to infer it from PathFinder.
+Raven follows the same project-evidence boundary as [[projects/pathfinder/notes/docs-evaluation-domain|PathFinder Evaluation Domain]], but the rule is project-local here so agents do not have to infer it from PathFinder. Reusable evaluation design and production-prompt law belong in [[wiki/synthesis/evaluation-production-prompt-domain]], not in this Raven-specific boundary leaf.
 
 ```text
 Vault
@@ -53,6 +61,7 @@ Required leaves:
 Prompt work in this domain routes through:
 
 - [[projects/raven/notes/raven-prompt-hub]]
+- [[wiki/synthesis/evaluation-production-prompt-domain]] for reusable production-prompt method
 
 ## Required Closeout For Raven Eval Work
 
@@ -62,11 +71,13 @@ When a Raven eval run happens, close it like this:
 2. Audit traces before treating a green command as success.
 3. Write or update the human-readable report in `projects/raven/notes/`.
 4. Write/update [[projects/raven/notes/raven-evaluation-insights]] if the run produced durable learning.
-5. Link the report from this domain note and [[projects/raven/README]].
+5. Link the report from [[projects/raven/notes/raven-evaluation-hub]], not directly from [[projects/raven/README]] unless it changes project-level status.
 6. Update `context/hot.md` or `context/now.md` only when continuity, next action, or production status changed.
 7. Log the work in `sources/log/days/YYYY-MM-DD.md`.
 
 ## Current Reports And Leaves
+
+Route through [[projects/raven/notes/raven-evaluation-hub]] first when creating or finding Raven evaluation work.
 
 - [[projects/raven/notes/raven-enricher-evaluation]] - one-node `gpt-5.4-mini` query enricher prompt/graph gate; passed 15/15 live cases across 3 rounds on 2026-04-20.
 - [[projects/raven/notes/raven-eval-how-to-use]] - official evaluation workflow leaf.
@@ -99,3 +110,4 @@ Not allowed as maintained repo docs:
 - [[projects/raven/notes/raven-phase-1-build-plan]]
 - [[projects/pathfinder/notes/docs-evaluation-domain]]
 - [[projects/pathfinder/notes/docs-eval-how-to-use]]
+- [[wiki/synthesis/evaluation-production-prompt-domain]]

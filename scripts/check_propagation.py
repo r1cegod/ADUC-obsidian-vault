@@ -16,9 +16,13 @@ See SCHEMA.md -> Propagation Sync Matrix for the full table.
 
 import json
 import sys
-from pathlib import PurePosixPath
+from pathlib import Path
 
 VAULT_ROOT = "D:/ANHDUC/ADUC_vault/ADUC"
+VAULT_ROOT_CANDIDATES = [
+    Path(VAULT_ROOT),
+    Path("/mnt/d/ANHDUC/ADUC_vault/ADUC"),
+]
 
 # Exact-path rules
 # Key: vault-relative path (forward slashes, no leading slash)
@@ -40,6 +44,20 @@ EXACT_RULES = {
     ],
     "AGENTS.md": [
         ("CLAUDE.md",  "Behavioral rules must be consistent across agent entry points"),
+    ],
+    "development.md": [
+        ("briefing.md", "Development-domain routing should stay visible from the vault entrypoint"),
+        ("AGENTS.md", "Codex wrapper must route technical help and delegation through Development"),
+        ("CLAUDE.md", "Claude wrapper must route technical help and delegation through Development"),
+        ("wiki/operations-hub.md", "Operation registry must expose the Development domain and leaves"),
+        ("index.md", "Index must list the Development domain and operation leaves"),
+    ],
+    "wiki/operations/branch-growth-operation.md": [
+        ("vault-keeping.md", "Maintenance router must expose Branch Growth before File Creation Gate"),
+        ("wiki/operations-hub.md", "Operation registry must expose Branch Growth"),
+        ("wiki/operations/file-creation-gate.md", "File Creation Gate must start after parent-branch selection"),
+        ("wiki/operations/project-init-operation.md", "Project Init must use Branch Growth for project roots and initial hubs"),
+        ("index.md", "Index must list the Branch Growth operation"),
     ],
     # Terminal nodes — nothing downstream, listed explicitly so agents know they're done
     "context/hot.md":  [],
@@ -111,7 +129,11 @@ PATTERN_RULES = [
     },
     {
         # Project leaf notes  →  index.md
-        "match": lambda p: p.startswith("projects/") and "/notes/docs-" in p,
+        "match": lambda p: (
+            p.startswith("projects/")
+            and "/notes/" in p
+            and p.endswith(".md")
+        ),
         "targets": [
             ("index.md", "Verify index.md entry exists and parent hub TL;DR is current"),
         ],
@@ -126,12 +148,75 @@ PATTERN_RULES = [
 ]
 
 
+def is_durable_entry(rel_path: str) -> bool:
+    """Return whether a path is a durable navigable vault entry."""
+    if not rel_path.endswith(".md"):
+        return False
+    if rel_path.startswith("sources/log/days/"):
+        return False
+    if rel_path.startswith("journal/daily/"):
+        return False
+    return rel_path.startswith(("wiki/", "projects/", "references/", "learning/"))
+
+
+def vault_path(rel_path: str) -> Path | None:
+    """Resolve a vault-relative path on Windows or WSL."""
+    for root in VAULT_ROOT_CANDIDATES:
+        candidate = root / rel_path
+        if candidate.exists():
+            return candidate
+    return None
+
+
+def has_growth_contract(rel_path: str) -> bool | None:
+    """Return whether the file contains a Growth Contract, if readable."""
+    path = vault_path(rel_path)
+    if path is None or not path.is_file():
+        return None
+    try:
+        in_fence = False
+        for line in path.read_text(encoding="utf-8", errors="ignore").splitlines():
+            stripped = line.strip()
+            if stripped.startswith("```"):
+                in_fence = not in_fence
+                continue
+            if not in_fence and stripped == "## Growth Contract":
+                return True
+        return False
+    except Exception:
+        return None
+
+
+def print_growth_contract_reminder(rel_path: str) -> None:
+    """Remind agents that new durable entries must be branch-aware."""
+    if not is_durable_entry(rel_path):
+        return
+
+    print("\nENTRY GROWTH CONTRACT")
+    growth_contract = has_growth_contract(rel_path)
+    if growth_contract is False:
+        print("  BLOCKER: no actual ## Growth Contract heading found in this file.")
+        print("  Add it before considering the write complete.")
+    elif growth_contract is None:
+        print("  CHECK: file could not be read; confirm the contract manually.")
+    else:
+        print("  OK: actual ## Growth Contract heading found.")
+    print("  Durable entries must carry:")
+    print("  → parent branch")
+    print("  → node role")
+    print("  → first parent link")
+    print("  → growth trigger")
+    print("  → forbidden contents")
+    print("  → expected child types or source/evidence boundary when relevant")
+
+
 def normalize(path_str: str) -> str:
     """Convert absolute or mixed-slash path to vault-relative forward-slash path."""
     p = path_str.replace("\\", "/")
-    vault = VAULT_ROOT.rstrip("/")
-    if p.startswith(vault):
-        return p[len(vault):].lstrip("/")
+    for root in VAULT_ROOT_CANDIDATES:
+        vault = str(root).replace("\\", "/").rstrip("/")
+        if p.startswith(vault):
+            return p[len(vault):].lstrip("/")
     # Already relative or unknown root — return as-is
     return p
 
@@ -154,12 +239,14 @@ def check(rel_path: str) -> None:
             print(f"\n✓ {rel_path} — terminal node. No propagation required.")
         else:
             print(f"\n✓ {rel_path} — leaf note. Confirm index.md entry exists.")
+        print_growth_contract_reminder(rel_path)
         return
 
     print(f"\n⚡ PROPAGATION REQUIRED after writing: {rel_path}")
     for target, reason in targets:
         print(f"  → {target}")
         print(f"     {reason}")
+    print_growth_contract_reminder(rel_path)
 
 
 def main() -> None:

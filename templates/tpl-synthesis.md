@@ -10,6 +10,14 @@ lang: en
 
 > **TL;DR**: 
 
+## Growth Contract
+- Parent branch:
+- Node role: synthesis leaf or hub
+- First parent link:
+- Growth trigger:
+- Forbidden contents:
+- Expected child types, if hub-like:
+
 ## Overview
 <!-- What this synthesis covers and why it exists -->
 

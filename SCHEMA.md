@@ -63,12 +63,13 @@ Use this when you need the smallest next page instead of scanning the whole manu
 | Need | Next page |
 |------|-----------|
 | Vault maintenance, drift, logging, or workflow audit | `vault-keeping.md` |
+| Decide where a new durable vault node should attach | `vault-keeping.md` -> `wiki/operations/branch-growth-operation` |
 | Official operation family or canonical workflow leaf | `wiki/operations-hub` |
 | Exact constitutional rule, schema, or propagation law | `SCHEMA.md` |
 | Project work | `projects/<name>/README.md` |
 | Architecture planning | `projects/<name>/README.md` -> relevant architecture hub -> active `.canvas` |
 | Collaborative feature drafting | `wiki/operations-hub` -> `wiki/operations/draft-operation` |
-| Technical-help ownership gate | `wiki/learning-protocol-hub` |
+| Technical-help / learning / delegation gate | `development.md` -> `wiki/operations/detect-operation` |
 
 ## Official Operation Evolution Law
 
@@ -117,12 +118,28 @@ Closeout rule:
 
 ## File Creation Gate
 
-**Two-phase contract: PRE-write resolve, POST-write register.**
-The most common failure mode is writing first and validating second — by then the damage (wrong type, unregistered tags, broken sync) is already in the file and requires a repair pass. Resolve before writing.
+**Branch Growth + two-phase contract: choose parent branch first, then PRE-write resolve, POST-write register.**
+The most common failure mode is writing first and validating second — by then the damage (wrong type, unregistered tags, broken sync, fake hierarchy) is already in the file and requires a repair pass. Resolve before writing.
+
+### Phase 0 — Branch Growth (before deciding to create the file)
+
+Run [[wiki/operations/branch-growth-operation]] for any durable vault node. Decide:
+
+```text
+1. Parent branch
+2. Node role: hub, leaf, source, sample, report, log, operation
+3. Real-depth reason
+4. Expected child types
+5. Forbidden contents
+6. First parent link
+7. Required propagation targets
+```
+
+If a proposed hub does not reduce future search cost, create or update a leaf under the nearest valid branch instead.
 
 ### Phase 1 — Pre-Write (before calling the Write tool)
 
-Resolve these three questions against live vault state before writing a single character of frontmatter:
+Resolve these questions against live vault state before writing a single character of frontmatter:
 
 ```
 PRE-WRITE CHECKLIST (run before opening Write tool):
@@ -139,7 +156,17 @@ B. tags:
    Avoid over-granular tags (e.g. task1, task2) — prefer reusable
    domain tags (ielts, writing, schema).
 
-C. Project file?
+C. routing:
+   Confirm the first parent link from Branch Growth.
+   Hub files link from their parent router first.
+   Leaf files link from the nearest valid hub or README, not every root router.
+
+D. Growth Contract:
+   Plan the `## Growth Contract` before writing.
+   Include parent branch, node role, first parent link, growth trigger,
+   forbidden contents, and expected child/source boundary when relevant.
+
+E. Project file?
    If this file is a project README or adds a new project:
    → You will need to add it to BOTH briefing.md Active Projects
      AND context/now.md Active Projects in this same session.
@@ -152,21 +179,25 @@ C. Project file?
 ```
 After every Write to the vault:
 
-1. index.md entry
+1. Growth Contract
+   New durable wiki/project/reference/learning page?
+   → Confirm `## Growth Contract` exists unless this is raw daily capture or pending material.
+
+2. index.md entry
    File in wiki/, learning/, references/, or projects/?
    → Add entry under the correct section. Bump page count.
 
-2. SCHEMA Directory Map
+3. SCHEMA Directory Map
    File is in a directory not listed in the Directory Map?
    → Add the directory row now.
 
-3. SCHEMA type list
+4. SCHEMA type list
    (Should already be registered from Phase 1 — verify only.)
 
-4. Tag registry
+5. Tag registry
    (Should already be registered from Phase 1 — verify only.)
 
-5. briefing.md Active Projects vs Navigation
+6. briefing.md Active Projects vs Navigation
    File is a new project README?
    → Add to briefing.md Active Projects AND context/now.md Active Projects.
    → Do NOT add a separate Navigation entry for active projects.
@@ -175,7 +206,7 @@ After every Write to the vault:
    File is a global utility hub (protocol, schema, non-project reference)?
    → Add to briefing.md Navigation only.
 
-6. context/now.md
+7. context/now.md
    File changes what agents should know on next session start?
    → Update context/now.md Vault Status now.
    If it's a new project → also update Active Projects section (not just Vault Status).
@@ -220,6 +251,7 @@ Tier 2: wiki/, projects/   — read only the pages relevant to the task
 | Path | Contents | Notes |
 |------|----------|-------|
 | `briefing.md` | Vault orientation | Always read first. Keep under 500 tokens. |
+| `development.md` | Top-tier development-domain router | Detect -> Learn/Delegate for technical help and code delegation. |
 | `index.md` | Content routing table | Updated after every ingest. |
 | `log.md` | Activity log navigation | One line per day; real log blocks live under `sources/log/days/`. |
 | `context/` | User profile + active state | The "brain" layer. |
@@ -454,11 +486,14 @@ Use these when they fit better than the generic templates:
 
 ### Page Structure
 
-Every wiki page must have, in order:
+Every durable wiki/project/reference page created after 2026-04-25 must have, in order:
 1. Frontmatter (YAML)
 2. `> **TL;DR**: One-sentence summary.` — mandatory, enables tiered loading
-3. Content sections (vary by type — follow the template)
-4. `## Related` section at bottom with `[[wikilinks]]` to related pages
+3. `## Growth Contract` — parent branch, node role, first parent link, growth trigger, forbidden contents, plus expected child/source boundary when relevant
+4. Content sections (vary by type — follow the template)
+5. `## Related` section at bottom with `[[wikilinks]]` to related pages
+
+Legacy pages may be upgraded opportunistically when edited, but do not burn a task rewriting the whole vault just for this section.
 
 **Page size targets:**
 - Source summaries: 200-500 words
@@ -528,14 +563,28 @@ Constitutional role:
 
 ---
 
+## BRANCH GROWTH Operation
+
+Canonical leaf: [[wiki/operations/branch-growth-operation]]
+
+Constitutional role:
+- BRANCH GROWTH runs before File Creation Gate for durable vault nodes.
+- It decides parent branch, node role, real-depth reason, expected child types, forbidden contents, first parent link, and propagation targets.
+- It requires new durable entries to carry a Growth Contract so the entry is born branch-aware and can grow without becoming a blob.
+- New hubs are allowed only when they reduce future search cost or prevent an overloaded parent branch.
+- Use the leaf page for the exact branch decision sequence.
+
+---
+
 ## PROJECT INIT Operation
 
 Canonical leaf: [[wiki/operations/project-init-operation]]
 
 Constitutional role:
 - PROJECT INIT creates a new project workspace with a real router, not just an empty folder.
+- Every project starts with a README router, `notes/` compiled-knowledge lane, and `sources/` raw/evidence lane.
 - New projects must sync `briefing.md`, `context/now.md`, and `index.md` in the same session.
-- README pages are routing hubs, not passive descriptions.
+- README pages are routing hubs, not passive descriptions; deeper hubs emerge from real branch pressure, not template worship.
 - Use the leaf page for exact structure and sync steps.
 
 ---
@@ -549,6 +598,19 @@ Constitutional role:
 - Archived pages are kept, not deleted, unless the user explicitly wants destructive cleanup.
 - Archive changes must update the router layer that still points to the item.
 - Use the leaf page for the exact archive sequence.
+
+---
+
+## DEVELOPMENT Operations
+
+Canonical hub: [[development]]
+Canonical leaves: [[wiki/operations/detect-operation]], [[wiki/operations/learn-operation]], [[wiki/operations/delegate-operation]]
+
+Constitutional role:
+- Development is the top-domain for technical help, ownership learning, and code delegation.
+- Detect always runs before Learn or Delegate.
+- Learn is the current user-facing manual for help/docs/mechanism/audit/Build-First/Pre-Wire/Vibe Docing behavior.
+- Delegate writes code only after ownership/pattern clarity and must not invent new feature surface unless necessary and justified.
 
 ---
 
@@ -644,6 +706,8 @@ then do not force a page-by-page repair pass again. A single log note like "stab
 | `CLAUDE.md` | `AGENTS.md` | Behavioral rule changes must be consistent across agent entry points |
 | `AGENTS.md` | `CLAUDE.md` | Behavioral rule changes must be consistent across agent entry points |
 | `context/hot.md` | _(terminal)_ | Nothing feeds from the hot cache |
+| `development.md` | `briefing.md`, `AGENTS.md`, `CLAUDE.md`, `wiki/operations-hub.md`, `index.md` | Top development-domain routing must stay visible from startup and both agent wrappers |
+| `wiki/operations/branch-growth-operation.md` | `vault-keeping.md`, `wiki/operations-hub.md`, `wiki/operations/file-creation-gate.md`, `wiki/operations/project-init-operation.md`, `index.md` | Branch Growth must stay visible from maintenance, operation routing, and creation gates |
 | `index.md` | _(terminal)_ | Routing table — nothing reads index to update itself |
 | `log.md` | _(terminal)_ | Navigation index — content lives in day files |
 | `briefing.md` | _(terminal)_ | Entry point — nothing reads briefing to update itself |
@@ -656,17 +720,18 @@ then do not force a page-by-page repair pass again. A single log note like "stab
 | `projects/*/notes/*-hub.md` | `projects/*/README.md` (same project) | Hub routing changes may require README task-router update |
 | `projects/*/notes/*.canvas` | `projects/*/notes/<project>-architecture-hub.md`, `projects/*/README.md` (same project) | Canvas routing changes must stay explicit and discoverable from the project docs layer |
 | `sources/log/days/YYYY-MM-DD.md` | `log.md` | Day file write requires navigation line sync in log.md |
-| `projects/*/notes/docs-*.md` | `index.md` | Verify index entry exists and parent hub TL;DR is current |
+| `projects/*/notes/*.md` | `index.md` | Verify index entry exists and parent hub TL;DR is current |
 | `wiki/**/*.md` | `index.md` | Verify index entry exists and is current |
 | `references/*.md` | `index.md` | Verify index entry exists and is current |
 
 ### Adding a New Structural Node
 
 When you add a new project README, hub, or vault-root operational doc:
-1. Add an exact-path row to this matrix for the new file
-2. Add `feeds_into:` to the new file's frontmatter (if it has frontmatter)
-3. Add the inverse relationship — what feeds INTO the new file
-4. Update `scripts/check_propagation.py` `EXACT_RULES` dict with the new entry
+1. Run Branch Growth and add the Growth Contract section
+2. Add an exact-path row to this matrix for the new file when pattern rules are not enough
+3. Add `feeds_into:` to the new file's frontmatter (if it has frontmatter)
+4. Add the inverse relationship — what feeds INTO the new file
+5. Update `scripts/check_propagation.py` `EXACT_RULES` dict with the new entry when custom downstream targets are required
 
 ### Reference Documents
 - Full implementation: `vault_propagation.md` (vault root)

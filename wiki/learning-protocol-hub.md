@@ -2,7 +2,7 @@
 type: hub
 title: Learning Protocol Hub
 created: '2026-04-16'
-updated: '2026-04-20'
+updated: '2026-04-25'
 tags:
   - learning
   - protocol
@@ -10,32 +10,41 @@ tags:
 status: active
 lang: en
 feeds_into:
-  - AGENTS.md
+  - wiki/operations/learn-operation.md
   - learning/README.md
 ---
-> **TL;DR**: Router for Duc's learning system: use Help Protocol first, Build-First Learning as the primary skill-compounding method, Vibe Docing for narrow mechanisms, Pre-Wire for full feature ownership, and learning sessions as the durable record.
+> **TL;DR**: Legacy learning-system router. For new technical help or code delegation, start at [[development]]; this page now acts as the reference layer behind [[wiki/operations/learn-operation]].
+
+> Current entrypoint: [[development]] -> [[wiki/operations/detect-operation]] -> [[wiki/operations/learn-operation]].
 
 ## Protocol Stack
 
 ```text
-User asks for help / implementation / docs
+User asks for technical help / implementation / docs / delegation
   ↓
-[[wiki/help-protocol]]
+[[development]]
   ↓
-if Duc should learn by building
+[[wiki/operations/detect-operation]]
   ↓
-[[wiki/build-first-learning]]
+[[wiki/operations/learn-operation]] or [[wiki/operations/delegate-operation]]
   ↓
-if full feature ownership is needed
+old learning protocols as references when needed:
+  [[wiki/help-protocol]]
+  [[wiki/build-first-learning]]
+  [[wiki/vibe-docing]]
+  [[wiki/pre-wire-protocol]]
+  [[projects/raven/notes/raven-ownership-delegation-protocol]]
   ↓
-[[wiki/pre-wire-protocol]]
-  ↓
-if Raven core product wire
-  ↓
-[[projects/raven/notes/raven-ownership-delegation-protocol]]
-  ↓
-record durable session in [[learning/README]]
+record durable session in [[learning/README]] when the learning should persist
 ```
+
+## Growth Contract
+- Parent branch: [[wiki/operations/learn-operation]]
+- Node role: legacy reference hub
+- First parent link: [[wiki/operations/learn-operation]]
+- Growth trigger: split only if old learning protocol references become too large to audit as one reference layer.
+- Forbidden contents: current top-level routing rules, code delegation procedure, and project-specific implementation walkthroughs.
+- Expected child types: legacy protocol references, learning-mode explanations, and migration notes into Learn.
 
 ## Which Protocol To Use
 
@@ -78,16 +87,19 @@ help/pre-wire/manual build first
 
 ## Operation Breakdown
 
+This page no longer owns live routing. New technical work routes through [[development]].
+
 ```text
 1. Request arrives
-2. Run [[wiki/help-protocol]]
-3. If architecture gap -> Duc explains the seam first
-4. If tiny mechanism gap with visible seam -> [[wiki/vibe-docing]] or official docs + narrow challenge
-5. If artifact ownership should compound -> [[wiki/build-first-learning]]
-6. Choose Build-First mode when named or implied: BUILD / AUDIT / PATCH / STEAL / ABSORPTION
-7. If full feature ownership gap -> start [[wiki/pre-wire-protocol]]
-8. If ownable -> review/delegation allowed
-9. If session creates durable learning -> record in [[learning/README]]
+2. Run [[wiki/operations/detect-operation]]
+3. If learning/help is needed -> [[wiki/operations/learn-operation]]
+4. Inside Learn, use old references only as needed:
+   - [[wiki/help-protocol]] for anti-spoonfeeding shape
+   - [[wiki/vibe-docing]] for one mechanism slice
+   - [[wiki/build-first-learning]] for artifact-first learning modes
+   - [[wiki/pre-wire-protocol]] for full feature ownership
+5. If ownable/delegatable -> return to [[wiki/operations/delegate-operation]] only after Detect allows it
+6. If session creates durable learning -> record in [[learning/README]]
 ```
 
 ## Named Learning Modes
@@ -111,6 +123,10 @@ ABSORPTION
 
 ## Related
 
+- [[development]]
+- [[wiki/operations/detect-operation]]
+- [[wiki/operations/learn-operation]]
+- [[wiki/operations/delegate-operation]]
 - [[wiki/help-protocol]]
 - [[wiki/build-first-learning]]
 - [[wiki/vibe-docing]]

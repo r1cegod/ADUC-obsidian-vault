@@ -2,7 +2,7 @@
 type: protocol
 title: Pre-Wire Learning Protocol
 created: '2026-04-08'
-updated: '2026-04-18'
+updated: '2026-04-25'
 tags:
   - protocol
   - learning
@@ -10,33 +10,41 @@ tags:
 status: active
 lang: en
 feeds_into:
-  - wiki/learning-protocol-hub.md
+  - wiki/operations/learn-operation.md
   - learning/README.md
 ---
-> **TL;DR**: Heavyweight feature-ownership protocol. Duc drafts the system blueprint, agent audits with semantic labels, missing mechanisms become artifact challenges, and Duc builds the final feature himself. Use [[wiki/help-protocol]] first for lightweight technical help.
+> **TL;DR**: Heavyweight feature-ownership reference inside [[wiki/operations/learn-operation]]. Duc drafts the system blueprint, agent audits with semantic labels, missing mechanisms become artifact challenges, and Duc builds the final feature himself.
+
+## Growth Contract
+- Parent branch: [[wiki/operations/learn-operation]]
+- Node role: protocol reference leaf
+- First parent link: [[wiki/operations/learn-operation]]
+- Growth trigger: split only if feature-ownership work develops separate recurring sub-protocols beyond blueprint, gap inventory, and artifact challenge flow.
+- Forbidden contents: current top-level routing, Delegate execution procedure, project-specific implementation patches, and raw learning-session logs.
+- Expected child types: feature-ownership phases, semantic labels, artifact challenge rules, and learning-session references.
 
 ## What This Is
 
 A session-by-session protocol for turning "I want a feature" into "I can build, test, and repair this wire myself."
 
-Default teaching method inside this protocol: [[wiki/build-first-learning]]. Pre-Wire owns the feature-ownership gate; Build-First owns the artifact-by-artifact learning motion.
+Default teaching method inside this protocol: [[wiki/build-first-learning]]. Pre-Wire owns the feature-ownership reference flow; Build-First owns the artifact-by-artifact learning motion.
 
-Use this when the task is a real feature or core system seam Duc should own. Use [[wiki/help-protocol]] for smaller doc/help/debugging requests.
+Use this inside [[wiki/operations/learn-operation]] when the task is a real feature or core system seam Duc should own. Smaller doc/help/debugging requests stay in Learn unless Detect routes them here.
 
-Router: [[wiki/learning-protocol-hub]]
+Router: [[development]] -> [[wiki/operations/detect-operation]] -> [[wiki/operations/learn-operation]] -> this reference
 
 ## Entry Gate
 
-Before implementation help, run [[wiki/help-protocol]]. Escalate here only when the task needs feature ownership.
+Before implementation help, run [[wiki/operations/detect-operation]]. Escalate here only when the task needs feature ownership.
 
 ```text
 Need help/docs/debugging only
   ↓
-[[wiki/help-protocol]]
+[[wiki/operations/learn-operation]]
 
 Need to own a feature wire
   ↓
-this protocol
+this protocol reference inside Learn
 ```
 
 ## Ownership Evidence Standard
@@ -415,6 +423,10 @@ protocol changes to consider
 
 ## Related
 
+- [[development]]
+- [[wiki/operations/detect-operation]]
+- [[wiki/operations/learn-operation]]
+- [[wiki/operations/delegate-operation]]
 - [[wiki/learning-protocol-hub]]
 - [[wiki/help-protocol]]
 - [[wiki/build-first-learning]]

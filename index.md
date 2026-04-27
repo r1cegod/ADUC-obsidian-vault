@@ -2,7 +2,7 @@
 
 > **TL;DR**: Vault routing table for official operations, entities, learning protocols, concepts, synthesis pages, projects, references, sources, and canonical tags.
 
-> Content routing table. Last updated: 2026-04-22 | Pages: 169 | Sources: 68
+> Content routing table. Last updated: 2026-04-26 | Pages: 188 | Sources: 68
 > Format: `- [[path|Display Name]] - one-liner (tags)`
 
 ---
@@ -11,10 +11,12 @@
 <!-- Canonical operation entrypoints and operation leaves -->
 - [[wiki/operations-hub|Operations Hub]] - global registry for all official vault operations and their family routes (workflow, docs, meta)
 - [[vault-keeping|Vault Keeping]] - top-tier maintenance-family hub for drift control, logging, self-healing, propagation, and operation audits (workflow, docs, meta)
-- [[wiki/learning-protocol-hub|Learning Protocol Hub]] - top-tier learning/help hub for ownership gates, build-first modes, and delegation rules (learning, protocol, meta)
+- [[development|Development Domain]] - top-tier technical-development hub for mandatory Detect, Learn, and Delegate routing (workflow, engineering, learning, protocol, meta)
+- [[wiki/learning-protocol-hub|Learning Protocol Hub]] - legacy learning/help hub now used as a reference layer under Development -> Learn (learning, protocol, meta)
 - [[wiki/synthesis/obsidian-d2-canvas-architecture-method|Canvas Architecture Method]] - top-tier architecture workflow for Canvas-first system drafting and stable markdown mirroring (obsidian, architecture, workflow, docs)
 - [[wiki/operations/session-start-operation|Session Start Operation]] - startup route for loading the right context before any task (workflow, docs, meta)
-- [[wiki/operations/file-creation-gate|File Creation Gate]] - pre-write and post-write contract for creating vault files cleanly (workflow, docs, meta)
+- [[wiki/operations/branch-growth-operation|Branch Growth Operation]] - pre-file-creation operation for deciding parent branch, node role, real-depth reason, Growth Contract, and propagation targets (workflow, docs, meta, architecture)
+- [[wiki/operations/file-creation-gate|File Creation Gate]] - pre-write and post-write contract for creating branch-aware vault entries after Branch Growth selects the parent branch (workflow, docs, meta)
 - [[wiki/operations/ingest-operation|Ingest Operation]] - canonical workflow for turning raw sources into vault knowledge (workflow, docs, meta)
 - [[wiki/operations/sort-operation|Sort Operation]] - canonical workflow for moving unsorted files into the right vault lane (workflow, docs, meta)
 - [[wiki/operations/query-operation|Query Operation]] - canonical workflow for answering questions against compiled vault knowledge (workflow, docs, meta)
@@ -25,18 +27,22 @@
 - [[wiki/operations/context-update-operation|Context Update Operation]] - canonical workflow for updating context from live conversation or task shifts (workflow, docs, meta)
 - [[wiki/operations/self-healing-operation|Self-Healing Operation]] - canonical closeout workflow for page repair, logging, and propagation follow-through (workflow, docs, meta)
 - [[wiki/operations/canvas-architecture-operation|Canvas Architecture Operation]] - canonical workflow for Canvas-first architecture drafting and markdown mirroring (workflow, docs, meta)
+- [[wiki/operations/detect-operation|Detect Operation]] - mandatory threshold operation before Learn or Delegate (workflow, engineering, learning, protocol, meta)
+- [[wiki/operations/learn-operation|Learn Operation]] - full development-domain learning manual covering help, docs, audits, Build-First, Pre-Wire, and Vibe Docing (workflow, engineering, learning, protocol, meta)
+- [[wiki/operations/delegate-operation|Delegate Operation]] - bounded pattern-copy code execution operation with anti-invention guardrails (workflow, engineering, learning, protocol, meta)
 
 ## Entities
 <!-- People, tools, organizations, products -->
 
 ## Learning
 <!-- Personal learning system: protocol, sessions, curriculum -->
-- [[wiki/learning-protocol-hub|Learning Protocol Hub]] - router for help, pre-wire learning, Raven ownership, and session records (learning, protocol, meta)
-- [[wiki/help-protocol|Help Protocol]] - mandatory anti-spoonfeeding gate for technical help, docs, debugging, and implementation guidance (learning, protocol, meta)
-- [[wiki/build-first-learning|Build-First Learning]] - primary technical-learning method: usable project artifacts, maturity levels, agent audits, and vibe docing for missing mechanisms (learning, protocol, meta)
-- [[wiki/vibe-docing|Vibe Docing]] - official-doc-shaped mechanism slices with neutral placeholders, used when full docs are too broad and direct answers would spoonfeed (learning, protocol, meta)
+- [[wiki/operations/learn-operation|Learn Operation]] - current user-facing learning manual under the Development domain (workflow, engineering, learning, protocol, meta)
+- [[wiki/learning-protocol-hub|Learning Protocol Hub]] - legacy router for help, pre-wire learning, Raven ownership, and session records (learning, protocol, meta)
+- [[wiki/help-protocol|Help Protocol]] - legacy anti-spoonfeeding reference now used inside Development -> Learn (learning, protocol, meta)
+- [[wiki/build-first-learning|Build-First Learning]] - artifact-first learning reference inside Development -> Learn (learning, protocol, meta)
+- [[wiki/vibe-docing|Vibe Docing]] - mechanism-slice reference inside Development -> Learn, with neutral placeholders and no live challenge answers (learning, protocol, meta)
 - [[learning/README|Learning Sessions]] - index of all Pre-Wire learning sessions, one per feature (learning, protocol)
-- [[wiki/pre-wire-protocol|Pre-Wire Learning Protocol]] - blueprint-first feature ownership protocol with semantic gap labels and artifact challenges (learning, protocol, meta)
+- [[wiki/pre-wire-protocol|Pre-Wire Learning Protocol]] - feature-ownership reference inside Development -> Learn, with semantic gap labels and artifact challenges (learning, protocol, meta)
 
 ## Concepts
 <!-- Ideas, frameworks, methods, definitions -->
@@ -50,7 +56,10 @@
 - [[wiki/synthesis/obsidian-agent-vault-change-report|Obsidian Agent Vault Change Report]] - inventory of the contract, template, and ingest changes made in the current Obsidian vault pass (obsidian, memory, report)
 - [[wiki/synthesis/obsidian-agent-vault-architecture|Obsidian Agent Vault Architecture]] - human-readable digest of the current Obsidian plus agent-memory source cluster (obsidian, memory)
 - [[wiki/synthesis/obsidian-d2-canvas-architecture-method|Obsidian D2 Canvas Architecture Method]] - vault method for Canvas-first exploration, D2-backed system maps, and durable architecture routing (obsidian, architecture, workflow, docs)
+- [[wiki/synthesis/evaluation-production-prompt-domain|Evaluation And Production Prompt Domain]] - reusable method for evaluation design, production prompt contracts, trace audit, and scoped signoff across projects (evaluation, prompts, workflow, docs)
 - [[wiki/synthesis/vault-routing-renovation-report|Vault Routing Renovation Report]] - compiled report of the hub-and-branch routing renovation, current branch architecture, and remaining router debt (workflow, docs, meta)
+- [[wiki/synthesis/vault-tree-growth-system-review|Vault Tree Growth System Review]] - structural review of vault tree-growth flaws, branch law gaps, Raven branch debt, and the proposed Branch Growth operation (workflow, docs, meta, obsidian, architecture)
+- [[wiki/synthesis/vault-target-tree-architecture|Vault Target Tree Architecture]] - branching rule set for healthy vault growth, real-depth guardrails, node roles, Raven examples, and context compression law (workflow, docs, meta, obsidian, architecture)
 - [[wiki/synthesis/discord-ai-agent-connection-patterns|Discord AI Agent Connection Patterns]] - architecture-level guide for wiring an existing Discord app into an AI moderation backend (discord, ai, moderation)
 - [[wiki/synthesis/discord-moderation-domain|Discord Moderation Domain]] - initial knowledge router for permission design, staff controls, and moderation gaps (discord, moderation)
 - [[wiki/synthesis/discord-moderation-source-map|Discord Moderation Source Map]] - next-ingest source map across docs, GitHub, Reddit, and YouTube for the missing moderation areas (discord, moderation)
@@ -61,19 +70,30 @@
 - [[projects/pathfinder/notes/pathfinder-evaluation-hub|PathFinder Evaluation Hub]] - domain hub for replay workflow, stage audits, and retrieval evaluation (pathfinder, synthesis)
 - [[projects/pathfinder/notes/pathfinder-workflow-hub|PathFinder Workflow Hub]] - domain hub for maintenance, handoff, and durable-memory workflow docs (pathfinder, synthesis)
 - [[projects/pathfinder/notes/docs-repo-vault-sync-policy|Repo Vault Sync Policy]] - current write boundary between vault-canonical docs and the repo mirror layer (pathfinder, workflow, docs)
+- [[projects/raven/notes/raven-context-hub|Raven Context Hub]] - context router for Raven live state, project orientation, and root-context compression (raven, context, workflow, docs)
+- [[projects/raven/notes/raven-current-context|Raven Current Context]] - live Raven implementation state, verified seams, next action, and branch status (raven, context, engineering, evaluation)
 - [[projects/raven/notes/raven-architecture-hub|Raven Architecture Hub]] - domain hub for Raven system maps, loop boundaries, and D2 plus Canvas planning workflow (raven, architecture, workflow, docs)
 - [[projects/raven/notes/raven-architecture-demo|Raven Architecture Demo]] - fast rendered walkthrough of the Raven D2 plus Canvas planning stack (raven, architecture, workflow, docs)
 - [[projects/raven/notes/raven-canvas-build-plan|Raven Canvas Build Plan]] - canvas-first plan for collaborative system drafting with markdown mirroring rules (raven, architecture, workflow, docs)
+- [[projects/raven/notes/raven-evaluation-hub|Raven Evaluation Hub]] - default router for Raven evaluation boundaries, workflows, reports, insights, prompt links, and repo evidence pointers (raven, evaluation, workflow, docs)
 - [[projects/raven/notes/raven-evaluation-domain|Raven Evaluation Domain]] - source-of-truth rule for Raven eval reports in the vault, self-evolving evaluation-domain shape, and repo `eval/` as executable evidence only (raven, evaluation, workflow, docs)
 - [[projects/raven/notes/raven-eval-how-to-use|Raven Evaluation Workflow]] - official how-to for running, auditing, and compounding Raven evaluation work (raven, evaluation, workflow, docs)
 - [[projects/raven/notes/raven-evaluation-insights|Raven Evaluation Insights]] - rolling cross-run evaluation knowledge that should keep growing with the vault (raven, evaluation, prompts)
 - [[projects/raven/notes/raven-prompt-hub|Raven Prompt Hub]] - official router for Raven prompt contracts, prompt audits, and prompt evolution work (raven, prompts, workflow, docs)
 - [[projects/raven/notes/raven-enricher-evaluation|Raven Enricher Evaluation]] - production gate report for the one-node `gpt-5.4-mini` query enricher seam (raven, evaluation, prompts)
+- [[projects/raven/notes/raven-tier-1-ranker-evaluation|Raven Tier 1 Ranker Evaluation]] - synthetic prompt-contract gate for the metadata-only Tier 1 source ranker (raven, evaluation, prompts)
+- [[projects/raven/notes/raven-workflow-hub|Raven Workflow Hub]] - workflow and rules router for Raven ownership, delegation, draft adoption, source promotion, and repo-vault boundaries (raven, workflow, docs, engineering)
 
 ## Projects
 <!-- Format: - [[path|Name]] - status | one-liner -->
 - [[projects/pathfinder/README|PathFinder]] - active | vault workspace for repo docs, summaries, and project routing
-- [[projects/raven/README|Raven]] - active | Knowledge Signal Engine scaffold with vault-canonical evaluation and repo executable evidence
+- [[projects/raven/README|Raven]] - active | Knowledge Signal Engine scaffold with hub-routed context, architecture, prompt, evaluation, workflow, and source/evidence branches
+- [[projects/raven/sources/README|Raven Sources And Evidence]] - project-local raw/evidence lane for Raven source pointers, references, datasets, traces, and repo eval evidence boundaries (raven, docs, workflow)
+- [[projects/wynncraft/README|Wynncraft Assistant]] - active low-priority | leisure-control project for Wynncraft source pulls, builds, and compact next-session strategy (wynncraft, project/wynncraft)
+- [[projects/wynncraft/notes/wynncraft-player-profile|Wynncraft Player Profile]] - project-local profile for Duc's solo-first optimizer preferences, Mage route choice, and assistant-led decision constraints (wynncraft, project/wynncraft, context)
+- [[projects/wynncraft/notes/wynncraft-search-operations|Wynncraft Search Operations]] - project-local research lanes for patch, build, solo Mage, leveling, economy, QoL, and drift-audit searches (wynncraft, project/wynncraft, workflow, docs)
+- [[projects/wynncraft/notes/wynncraft|Wynncraft Operating Sheet]] - compiled strategy sheet for class choice, leveling route, build policy, and time-boxed play loop (wynncraft, project/wynncraft, workflow)
+- [[projects/wynncraft/sources/README|Wynncraft Sources And Evidence]] - source lane for official wiki/API, forums, Reddit, and the local seed document boundary (wynncraft, project/wynncraft, docs)
 - [[projects/ielts-writing/README|IELTS Writing]] - active | 20-day band 4-5 → 7-8 protocol with schema docs (ielts, writing, learning)
 - [[projects/ielts-writing/sources/chart-generator|Task 1 Chart Generator]] - how to call gen_challenge(spec) to produce PNG charts for practice (ielts, tools)
 
@@ -221,11 +241,13 @@
 - context
 - workflow
 - docs
+- wynncraft
 
 ### Type
 <!-- #person #tool #framework #concept #project -->
 - project/pathfinder
 - project/raven
+- project/wynncraft
 - report
 - synthesis
 - source-summary

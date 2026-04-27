@@ -7,7 +7,7 @@ lang: en
 ---
 
 ## Focus
-<!-- What matters today -->
+<!-- What matters today. Daily notes are raw capture; promote durable entries through Branch Growth before creating permanent pages. -->
 - 
 
 ## Human Notes

@@ -2,7 +2,7 @@
 type: note
 title: Raven Phase 1 Ingest Rating Plan
 created: '2026-04-16'
-updated: '2026-04-22'
+updated: '2026-04-25'
 tags:
   - project/raven
   - planning
@@ -11,9 +11,8 @@ tags:
 status: active
 lang: en
 feeds_into:
-  - projects/raven/README.md
   - projects/raven/notes/raven-architecture-hub.md
-  - projects/raven/notes/raven-evaluation-domain.md
+  - projects/raven/notes/raven-evaluation-hub.md
 ---
 > **TL;DR**: Raven Phase 1 is now a metadata-only discovery and Tier 1 filtering loop: query enrichment -> YouTube/Reddit metadata fetch -> normalized candidates -> Tier 1 ranker -> markdown audit -> human audit -> prompt evolution. The evolver remains evidence-backed and human-gated.
 
@@ -153,6 +152,8 @@ canvas
 
 The vault is Raven's primary memory and durable knowledge layer. SQLite is the agent workbench for structured operational state, not the final brain.
 
+Current SQLite behavior as of 2026-04-24: YouTube discovery writes run/query/candidate state plus query/API/candidate logs. Query logs preserve attempted query text even when no query row exists, API logs record `search.list` and `videos.list` status/error fields, and candidate logs record actual inserted candidates while duplicate candidates are ignored by DB conflict handling.
+
 ```text
 Obsidian vault
   -> primary durable memory
@@ -161,7 +162,7 @@ Obsidian vault
   -> prompt/eval insight
 
 SQLite
-  -> local structured work state for runs, queries, candidates, Tier 1 outputs
+  -> local structured work state for runs, queries, API logs, candidates, candidate logs, Tier 1 outputs
 
 repo eval/
   -> executable evidence only
@@ -205,5 +206,6 @@ Output:
 - [[projects/raven/README]]
 - [[projects/raven/notes/raven-architecture-hub]]
 - [[projects/raven/notes/raven-source-ranker-draft]]
+- [[projects/raven/notes/raven-evaluation-hub]]
 - [[projects/raven/notes/raven-evaluation-domain]]
 - [[projects/raven/notes/raven-ownership-delegation-protocol]]

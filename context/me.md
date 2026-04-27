@@ -2,7 +2,7 @@
 type: context
 title: About Me
 created: 2026-04-06T00:00:00.000Z
-updated: '2026-04-18'
+updated: '2026-04-25'
 tags:
   - context
 status: active
@@ -64,7 +64,7 @@ feeds_into: []
 - **Communication:** Direct, no filler. Challenge vague answers. No performative helpfulness.
 - **PathFinder test layout:** Python contract/regression tests belong under `backend/test/`; do not scatter root-level `test_*.py` files around the repo.
 - **Language split:** Vietnamese for chatbot/agent outputs; English for code, comments, docs, and all technical explanations.
-- **Teaching style:** [[wiki/build-first-learning]] is primary for compounding technical skills: Duc builds usable project artifacts directly, one maturity level at a time; agent audits, narrows, and never silently takes the spoon. [[wiki/vibe-docing]] is the approved mechanism-help operation: official-doc-shaped, neutral placeholders, no challenge answer. For any technical-help/docs/debugging request, agents must run [[wiki/help-protocol]] first. Full feature ownership uses [[wiki/pre-wire-protocol]]. Router: [[wiki/learning-protocol-hub]]
+- **Teaching style:** Technical help and code delegation route through [[development]]: agents run [[wiki/operations/detect-operation]] first, then [[wiki/operations/learn-operation]] for learning/help/audit/mechanism gaps or [[wiki/operations/delegate-operation]] for bounded pattern-copy execution. [[wiki/build-first-learning]], [[wiki/vibe-docing]], and [[wiki/pre-wire-protocol]] are reference moves inside Learn, not the top router.
 - **Code style:** Fresh Rule — official-style generic examples first; adapt to codebase yourself. X-Ray annotations inside code blocks, not below them.
 - **The Gatekeeper rule:** if pivoting with <30min remaining on current task, challenge the pivot first.
 - **The Ownership Test:** if unable to defend every line, stop and explain before moving forward.
@@ -81,3 +81,6 @@ feeds_into: []
 ## Related
 - [[context/now]]
 - [[context/goals]]
+- [[development]]
+- [[wiki/operations/detect-operation]]
+- [[wiki/operations/learn-operation]]

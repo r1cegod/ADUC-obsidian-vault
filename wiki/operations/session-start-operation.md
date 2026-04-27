@@ -1,13 +1,29 @@
 ---
 type: operation
-title: "Session Start Operation"
-created: 2026-04-21
-updated: 2026-04-21
-tags: [workflow, docs, meta]
+title: Session Start Operation
+created: 2026-04-21T00:00:00.000Z
+updated: '2026-04-25'
+tags:
+  - workflow
+  - docs
+  - meta
 status: active
 lang: en
+feeds_into:
+  - wiki/operations-hub.md
+  - AGENTS.md
+  - CLAUDE.md
+  - SCHEMA.md
 ---
 > **TL;DR**: Load the vault in the correct order before doing any task so routing, context, and repair obligations start cleanly.
+
+## Growth Contract
+- Parent branch: [[wiki/operations-hub]] and wrapper entrypoints
+- Node role: operation
+- First parent link: [[wiki/operations-hub]]
+- Growth trigger: split only if startup develops separate recurring sub-operations beyond context load, route choice, and freshness checks.
+- Forbidden contents: project-specific state, full router inventories, and post-task closeout rules.
+- Expected child types: startup checks, route-selection rules, and wrapper handoff notes.
 
 ## When To Use
 Use at the start of every task.
@@ -25,8 +41,9 @@ Use at the start of every task.
 5. Only then branch into a project README, family hub, or operation leaf.
 
 ## Routing Out
+- Development / technical help / code delegation -> [[development]]
 - Maintenance work -> [[vault-keeping]]
-- Learning/help work -> [[wiki/learning-protocol-hub]]
+- New durable vault node placement -> [[wiki/operations/branch-growth-operation]]
 - Project work -> `projects/<name>/README.md`
 - Operation selection -> [[wiki/operations-hub]]
 

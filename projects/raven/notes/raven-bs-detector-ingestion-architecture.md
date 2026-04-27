@@ -2,7 +2,7 @@
 type: note
 title: Raven BS Detector Ingestion Architecture
 created: '2026-04-20'
-updated: '2026-04-22'
+updated: '2026-04-25'
 tags:
   - project/raven
   - architecture
@@ -11,10 +11,10 @@ tags:
 status: active
 lang: en
 feeds_into:
-  - projects/raven/README.md
-  - projects/raven/notes/raven-phase-1-build-plan.md
+  - projects/raven/notes/raven-architecture-hub.md
+  - projects/raven/notes/raven-prompt-hub.md
+  - projects/raven/notes/raven-evaluation-hub.md
   - projects/raven/notes/raven-phase-1-ingest-rating-plan.md
-  - projects/raven/notes/raven-source-ranker-draft.md
 ---
 > **TL;DR**: Raven should ingest Duc's detector as audit-backed judgment traces first, not as a self-updating prompt. In Phase 1 this starts with Tier 1 title/preview filtering and human audit evidence; deeper bullshit labels can harden later.
 
@@ -153,5 +153,6 @@ The first version can live as a prompt contract plus a small note trail. Do not 
 - [[projects/raven/notes/raven-phase-1-ingest-rating-plan]]
 - [[projects/raven/notes/raven-source-ranker-draft]]
 - [[projects/raven/notes/raven-prompt-hub]]
+- [[projects/raven/notes/raven-evaluation-hub]]
 - [[projects/raven/notes/raven-evaluation-domain]]
 - [[projects/raven/notes/raven-ownership-delegation-protocol]]

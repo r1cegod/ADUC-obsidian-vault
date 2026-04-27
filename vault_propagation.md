@@ -92,6 +92,18 @@ context/hot.md  ─────────────────────�
 index.md        ──────────────────────────────►  (terminal)
 log.md          ──────────────────────────────►  (terminal)
 
+development.md  ──────────────────────────────►  briefing.md
+                ──────────────────────────────►  AGENTS.md
+                ──────────────────────────────►  CLAUDE.md
+                ──────────────────────────────►  wiki/operations-hub.md
+                ──────────────────────────────►  index.md
+
+wiki/operations/branch-growth-operation.md ───►  vault-keeping.md
+                                             ─►  wiki/operations-hub.md
+                                             ─►  wiki/operations/file-creation-gate.md
+                                             ─►  wiki/operations/project-init-operation.md
+                                             ─►  index.md
+
 context/now.md  ──────────────────────────────►  briefing.md
 briefing.md     ──────────────────────────────►  context/now.md  (bidirectional: Active Projects)
 
@@ -105,7 +117,7 @@ SCHEMA.md  ───────────────────────
 
 sources/log/days/*.md  ───────────────────────►  log.md
 wiki/**/*.md  ────────────────────────────────►  index.md
-projects/*/notes/docs-*.md  ──────────────────►  index.md
+projects/*/notes/*.md  ───────────────────────►  index.md
 ```
 
 Max depth from any leaf to vault root: **4 hops**. No cycles except the
@@ -120,29 +132,37 @@ briefing ↔ context/now.md Active Projects bidirectional constraint.
 When you create a new project README, hub, or vault-root operational doc:
 
 ```
-1. Add exact-path row to SCHEMA.md → Propagation Sync Matrix
-2. Add feeds_into: to the new file's frontmatter
-3. Add the inverse — what structural nodes feed INTO the new file
-4. Update scripts/check_propagation.py EXACT_RULES dict
-5. Update context/hot.md → Last Session Summary (file changed)
+1. Run [[wiki/operations/branch-growth-operation]] before writing.
+2. Add the Growth Contract section so the new node declares parent branch, role, first parent link, growth trigger, and forbidden contents.
+3. Add exact-path row to SCHEMA.md → Propagation Sync Matrix when pattern rules are not enough.
+4. Add feeds_into: to the new file's frontmatter.
+5. Add the inverse — what structural nodes feed INTO the new file.
+6. Update scripts/check_propagation.py EXACT_RULES dict if this node has custom downstream targets.
+7. Update context/hot.md only if the new structural node changes continuity, stable-router status, flagged items, or next action.
 ```
 
 ### Adding a New Project
 
 ```
 1. Create projects/<name>/README.md with feeds_into: [briefing.md, context/now.md]
-2. Add EXACT_RULES entry: "projects/<name>/README.md" → [briefing.md, context/now.md]
+2. Include the project-root Growth Contract: parent branch, node role, first parent link, growth trigger, forbidden contents, expected child types
+3. Add EXACT_RULES entry: "projects/<name>/README.md" → [briefing.md, context/now.md]
    (pattern rule already covers this — verify the pattern_rule lambda matches)
-3. Update briefing.md Active Projects + context/now.md Active Projects
-4. PostToolUse hook will enforce downstream propagation from that point forward
+4. Update briefing.md Active Projects + context/now.md Active Projects
+5. PostToolUse hook will enforce downstream propagation from that point forward
 ```
 
 ### Updating context/hot.md
 
-At end of every task, update three sections:
-- **Stable Since Last Session**: add files you verified clean and did not edit
-- **Last Session Summary**: files changed, open threads, next action
-- **Flagged For This Session**: clear resolved items, add new ones
+At end of a task, delta-update `context/hot.md` only when continuity, stable-router status, flagged items, or the next likely action changed.
+
+Check these sections:
+- **Current Continuity**: patch only durable project/session state that future agents need.
+- **Stable Since Last Session**: add or preserve files verified stable and not edited.
+- **Next Action**: update when the next likely move changed.
+- **Flagged For This Session**: clear resolved items or add new blockers.
+
+Do not rewrite the hot cache as a full session summary. The real activity record lives in `sources/log/days/YYYY-MM-DD.md`, with `log.md` as the navigation index.
 
 ### Growing Structural Node Count
 
@@ -178,5 +198,4 @@ BFS is designed for graphs with cycles, cross-links, and non-obvious paths.
 | Useful when depth > 5 and cycles exist | Vault max depth: 4, no cycles |
 
 At 500+ structural nodes with cross-project dependencies, revisit BFS.
-At current scale (20 structural nodes, 2 projects, max 4 hops), this system
-covers the full blast radius with zero external tooling.
+At current scale, this system covers the full blast radius with zero external tooling.

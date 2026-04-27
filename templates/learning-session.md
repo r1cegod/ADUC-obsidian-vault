@@ -11,11 +11,19 @@ lang: en
 ---
 > **TL;DR**: [One line: feature, main gap, outcome]
 
+## Growth Contract
+- Parent branch: [[learning/README]] or project learning/workflow hub
+- Node role: learning-session leaf
+- First parent link:
+- Growth trigger: promote durable rules into [[wiki/operations/learn-operation]] or the project workflow hub after repeated use
+- Forbidden contents: finished product code, unrelated project status, raw chat transcript dumps
+
 ## Protocol Route
 
-- Hub: [[wiki/learning-protocol-hub]]
-- Help gate: [[wiki/help-protocol]]
-- Feature protocol: [[wiki/pre-wire-protocol]]
+- Domain: [[development]]
+- Threshold gate: [[wiki/operations/detect-operation]]
+- Learning manual: [[wiki/operations/learn-operation]]
+- Feature protocol reference: [[wiki/pre-wire-protocol]]
 
 ## Blueprint (user-written)
 
@@ -158,7 +166,8 @@ Notes:
 
 ## Related
 
-- [[wiki/learning-protocol-hub]]
-- [[wiki/help-protocol]]
+- [[development]]
+- [[wiki/operations/detect-operation]]
+- [[wiki/operations/learn-operation]]
 - [[wiki/pre-wire-protocol]]
 - [[learning/README]]

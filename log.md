@@ -6,6 +6,10 @@
 - Guide | [sources/log/HOW_TO_WRITE.md](./sources/log/HOW_TO_WRITE.md)
 - Data holes | [sources/log/DATA_HOLES.md](./sources/log/DATA_HOLES.md)
 
+- 2026-04-27 | Raven Tier 1 drift check, live architecture canvas sync, final-ranker metadata adoption, and YouTube growth audit seed | [entry](./sources/log/days/2026-04-27.md)
+- 2026-04-26 | Created the Wynncraft Assistant project and renovated Raven's evaluation/prompt domain, including the global evaluation-production prompt method, Tier 1 synthetic gate, and token-budgeted final selector architecture | [entry](./sources/log/days/2026-04-26.md)
+- 2026-04-25 | Promoted Development, created vault tree-growth references, implemented Branch Growth plus Raven proof-branch renovation, compressed root context residue, added Growth Contracts, and aligned Detect/Learn/Delegate routing with the renovated tree | [entry](./sources/log/days/2026-04-25.md)
+- 2026-04-24 | Hardened Raven YouTube search/list-to-videos enrichment, SQLite query/API/candidate logging, duplicate handling, VS Code Git SSH source-control setup, and vault-operation closeout discipline | [entry](./sources/log/days/2026-04-24.md)
 - 2026-04-22 | Continued Raven Tier 1 drafting, simplified the evaluation loop, formalized Raven prompt/evaluation routing, and turned the evaluation domain into a self-evolving vault structure | [entry](./sources/log/days/2026-04-22.md)
 - 2026-04-21 | Reframed Raven as a vault keeper, built the Raven canvas domain, hardened the vault’s Canvas-first plus operation-evolution workflow, refactored official operation routing into hubs/leaves with a leaner SCHEMA, added an explicit branch law, and finished with compressed wrappers plus a real hot cache | [entry](./sources/log/days/2026-04-21.md)
 - 2026-04-20 | Promoted Build-First session modes, created Raven Reddit search STEAL reference, production-gated the one-node Raven enricher, and reinforced Raven's vault-canonical evaluation domain | [entry](./sources/log/days/2026-04-20.md)

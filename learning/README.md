@@ -2,30 +2,40 @@
 type: hub
 title: Learning Sessions
 created: '2026-04-08'
-updated: '2026-04-20'
+updated: '2026-04-25'
 tags:
   - learning
   - hub
 status: active
 lang: en
 feeds_into:
-  - wiki/learning-protocol-hub.md
+  - wiki/operations/learn-operation.md
 ---
-> **TL;DR**: Index of feature-ownership learning sessions. Start from [[wiki/learning-protocol-hub]], use [[wiki/help-protocol]] for lightweight help, and create a session note for serious [[wiki/pre-wire-protocol]] runs.
+> **TL;DR**: Index of feature-ownership learning sessions. Start from [[development]] -> [[wiki/operations/learn-operation]]; this page records serious learning sessions, especially Pre-Wire runs.
+
+## Growth Contract
+- Parent branch: [[wiki/operations/learn-operation]]
+- Node role: hub / session index
+- First parent link: [[wiki/operations/learn-operation]]
+- Growth trigger: split only when learning sessions need separate project or skill indexes.
+- Forbidden contents: active technical-help routing rules, full protocol manuals, and project implementation detail not tied to a learning session.
+- Expected child types: learning-session leaves and session templates.
 
 ## Protocol Router
 
 Start here:
 
 ```text
-[[wiki/learning-protocol-hub]]
+[[development]]
+  -> [[wiki/operations/detect-operation]]
+  -> [[wiki/operations/learn-operation]]
 ```
 
-Main protocols:
+Reference protocols inside Learn:
 
-- [[wiki/help-protocol]] - mandatory first gate for technical help/docs/debugging
+- [[wiki/help-protocol]] - legacy mandatory gate for technical help/docs/debugging, now absorbed into Learn
 - [[wiki/build-first-learning]] - primary technical-learning method: usable artifacts, maturity levels, agent audit, plus BUILD/AUDIT/PATCH/STEAL/ABSORPTION modes
-- [[wiki/vibe-docing]] - official-doc-shaped mechanism slices with neutral placeholders and strict live-value isolation
+- [[wiki/vibe-docing]] - official-doc-shaped mechanism slices with neutral placeholders and strict live-value isolation; user no longer needs to name this manually
 - [[wiki/pre-wire-protocol]] - full feature-ownership learning path
 - [[projects/raven/notes/raven-ownership-delegation-protocol]] - stricter Raven overlay
 
@@ -51,6 +61,9 @@ Main protocols:
 
 ## Related
 
+- [[development]]
+- [[wiki/operations/detect-operation]]
+- [[wiki/operations/learn-operation]]
 - [[wiki/learning-protocol-hub]]
 - [[wiki/help-protocol]]
 - [[wiki/build-first-learning]]

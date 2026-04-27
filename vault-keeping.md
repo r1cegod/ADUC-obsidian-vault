@@ -1,9 +1,13 @@
 ---
 type: hub
-title: "Vault Keeping"
-created: 2026-04-12
-updated: 2026-04-21
-tags: [vault, meta, operations, hub]
+title: Vault Keeping
+created: 2026-04-12T00:00:00.000Z
+updated: '2026-04-25'
+tags:
+  - vault
+  - meta
+  - operations
+  - hub
 status: active
 lang: en
 feeds_into:
@@ -30,7 +34,9 @@ For all official operations, use [[wiki/operations-hub]].
 | Fix drift in one domain | [[wiki/operations/lint-operation]] |
 | Sort unsorted files from pending/ | [[wiki/operations/sort-operation]] |
 | Repair or close out vault edits | [[wiki/operations/self-healing-operation]] |
-| Add a new vault page correctly | [[wiki/operations/file-creation-gate]] |
+| Decide where a new vault node should attach | [[wiki/operations/branch-growth-operation]] |
+| Make a new entry ready to grow | [[wiki/operations/branch-growth-operation]] -> Growth Contract |
+| Add a new vault page correctly | [[wiki/operations/branch-growth-operation]] → [[wiki/operations/file-creation-gate]] |
 | Understand what to update after writing a file | [[vault_propagation]] → How They Interact + Wire 4 |
 
 ---
@@ -175,11 +181,38 @@ When vault topology changes: new project, new hub, new operational doc, new stru
 
 | Operation | When To Run | Source |
 |-----------|-------------|--------|
-| **File Creation Gate** | Every new vault file without exception | [[wiki/operations/file-creation-gate]] |
+| **Branch Growth** | Before creating or promoting any durable vault node | [[wiki/operations/branch-growth-operation]] |
+| **File Creation Gate** | Every new vault file after Branch Growth has selected the parent branch | [[wiki/operations/file-creation-gate]] |
 | **New Project** | Starting a new project namespace | [[vault_propagation]] → Maintenance → Adding a New Project |
 | **New Structural Node** | Adding a new hub, README, or vault-root operational doc | [[vault_propagation]] → Maintenance → Adding a New Structural Node |
+| **New Top Domain** | Adding a root family hub like [[development]] | checklist below + [[vault_propagation]] → Maintenance → Adding a New Structural Node |
 | **Propagation System** | Reference for how downstream targets are computed | [[vault_propagation]] |
 | **System Map** | Reference for directory layout, data flow, layer responsibilities | [[vault_architecture]] |
+
+**New Top Domain checklist:**
+```text
+1. Create the root hub with `type: hub`, TL;DR, Growth Contract, routing table, and `feeds_into:`.
+2. Create or update the operation leaves that the hub owns.
+3. Register the hub and leaves in [[index.md]].
+4. Add the hub to [[briefing.md]], wrapper entrypoints, and [[wiki/operations-hub]].
+5. Patch [[SCHEMA.md]] Fast Route, constitutional operation section, Directory Map if needed, and Propagation Sync Matrix.
+6. Patch [[vault_propagation]] graph shape and `scripts/check_propagation.py` EXACT_RULES for the new root hub.
+7. Update [[context/now]] and [[context/hot]] only when future sessions need the new route.
+8. Write the day-log entry and sync [[log.md]] if this is a new day or changed summary.
+```
+
+**Branch Growth — pre-gate decision:**
+```text
+Before creating a durable vault node, decide:
+  parent branch
+  node role
+  real-depth reason
+  expected child types
+  forbidden contents
+  first parent link
+  propagation targets
+Then write those decisions into the page's Growth Contract when the node becomes a durable entry.
+```
 
 **File Creation Gate — two-phase (never skip Phase 1):**
 ```
@@ -208,6 +241,9 @@ Phase 2 — Post-Write:
 
 ## Connections
 
+- [[wiki/synthesis/vault-tree-growth-system-review]] — structural review of the vault's tree-growth flaw, branch law gaps, Raven branch debt, and proposed Branch Growth operation
+- [[wiki/synthesis/vault-target-tree-architecture]] — branching rule set for healthy vault growth, real-depth guardrails, node roles, Raven examples, and context compression law
+- [[wiki/operations/branch-growth-operation]] — pre-file-creation operation for deciding parent branch, node role, real-depth reason, and propagation targets
 - [[vault_architecture]] — full directory map, data flow, layer responsibilities, optimization targets
 - [[vault_propagation]] — four-wire propagation system (sync matrix, feeds_into:, hot cache, PostToolUse)
 - [[SCHEMA.md]] — constitutional rules for routing, schema, propagation, and official-operation governance

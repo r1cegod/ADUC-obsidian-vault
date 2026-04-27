@@ -1,5 +1,7 @@
 # ADUC Vault
 
+> **TL;DR**: Human-facing overview of the ADUC vault; runtime agent routing starts from `briefing.md`, then branches into Development, operations, vault-keeping, or project READMEs.
+
 **Owner:** Duc (Anh Duc) - CS student, FPT University, Vietnam  
 **Purpose:** Personal knowledge vault and project workspace. Functions as a structured second brain and agent-readable documentation system.
 
@@ -12,7 +14,7 @@ This vault is two things at once:
 1. **A personal knowledge system** - notes, context, and goals organized for fast recall across sessions.
 2. **A project documentation hub** - canonical docs and derived summaries for active engineering projects.
 
-The primary active project is **PathFinder**, a multi-agent AI career counselor for Vietnamese students, built as a portfolio piece for the FPT Software Engineering Scholarship.
+Current active projects include **Raven** as the active next scaffold, **PathFinder** as reviewable portfolio evidence unless a blocker appears, and **IELTS Writing** as a parallel training track.
 
 ## Agent Routing
 
@@ -22,14 +24,14 @@ Use the vault branch stack instead:
 
 ```text
 briefing.md
-  -> operations-hub / vault-keeping / learning-protocol-hub
-  -> project README
-  -> project hub if needed
+  -> development / operations-hub / vault-keeping / project README
+  -> branch hub if needed
   -> leaf
 ```
 
+For technical help or code delegation, start from `development.md`.
 For official operations, start from `wiki/operations-hub.md`.
-For maintenance-family work, start from `vault-keeping.md`.
+For maintenance-family work or new branch placement, start from `vault-keeping.md`.
 For project work, start from the project `README.md`.
 
 ---
@@ -43,17 +45,18 @@ If you are here to evaluate the work, read in this order:
 | 1 | [briefing.md](briefing.md) | Vault orientation and active project list |
 | 2 | [context/me.md](context/me.md) | Who the owner is, background, goals |
 | 3 | [context/goals.md](context/goals.md) | Engineering direction and scholarship context |
-| 4 | [projects/pathfinder/README.md](projects/pathfinder/README.md) | PathFinder project - start here for the main work |
+| 4 | [projects/raven/README.md](projects/raven/README.md) | Raven project - current active scaffold |
+| 5 | [projects/pathfinder/README.md](projects/pathfinder/README.md) | PathFinder project - reviewable portfolio work |
 
 ---
 
-## PathFinder - Main Project
+## PathFinder - Reviewable Project
 
-**PathFinder** is a multi-agent career counselor designed to help Vietnamese students navigate university and career decisions. It is the primary portfolio project submitted for the FPT SE Scholarship.
+**PathFinder** is a multi-agent career counselor designed to help Vietnamese students navigate university and career decisions. It is reviewable portfolio evidence for the FPT SE Scholarship.
 
 **Stack:** LangGraph · FastAPI · React · Python · Pydantic
 
-**Status as of 2026-04-07:** Scholarship demo shipped 2026-03-30. Now in eval/hardening phase - auditing prompt stage quality and fixing known runtime issues.
+**Status as of 2026-04-25:** Scholarship demo shipped 2026-03-30. PathFinder is reviewable unless a concrete blocker threatens demo or review confidence.
 
 ### PathFinder Navigation
 
@@ -109,8 +112,9 @@ ADUC/
 | [context/now.md](context/now.md) | Current week's focus and open blockers |
 | [context/goals.md](context/goals.md) | Scholarship goals and engineering direction |
 | [index.md](index.md) | Full content routing table with tags |
+| [development.md](development.md) | Top development router for Detect, Learn, and Delegate |
 | [wiki/operations-hub.md](wiki/operations-hub.md) | Global registry for official vault operations |
-| [vault-keeping.md](vault-keeping.md) | Maintenance-family hub for drift, logging, and self-healing |
+| [vault-keeping.md](vault-keeping.md) | Maintenance-family hub for drift, logging, branch growth, and self-healing |
 | [SCHEMA.md](SCHEMA.md) | Constitutional rules for routing, schema, propagation, and operation governance |
 | [log.md](log.md) | Activity log navigation |
 

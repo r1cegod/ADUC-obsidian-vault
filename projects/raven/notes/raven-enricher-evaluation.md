@@ -2,7 +2,7 @@
 type: note
 title: Raven Enricher Evaluation
 created: '2026-04-20'
-updated: '2026-04-20'
+updated: '2026-04-26'
 tags:
   - project/raven
   - evaluation
@@ -11,10 +11,19 @@ tags:
 status: active
 lang: en
 feeds_into:
-  - projects/raven/README.md
+  - projects/raven/notes/raven-evaluation-hub.md
+  - projects/raven/notes/raven-architecture-hub.md
   - projects/raven/notes/raven-phase-1-build-plan.md
 ---
 > **TL;DR**: Raven's query enricher prompt/one-node graph seam passed a 3-round live production gate on 2026-04-20 using `gpt-5.4-mini`. This signoff applies only to the enricher contract, not the full Raven discovery/rating loop.
+
+## Growth Contract
+- Parent branch: [[projects/raven/notes/raven-evaluation-hub]]
+- Node role: report leaf
+- First parent link: [[projects/raven/notes/raven-evaluation-hub]]
+- Growth trigger: update only when the enricher gate, prompt contract, or production-readiness decision changes.
+- Forbidden contents: runner scripts, raw traces, JSONL datasets, and unrelated Tier 1 ranker results.
+- Source/evidence boundary: this page stores the human-readable signoff; executable traces remain under `/home/r1ceg/Raven/eval/`.
 
 ## Production Target
 
@@ -118,6 +127,7 @@ Earlier in the same work session, the graph had been over-constrained with code-
 ## Related
 
 - [[projects/raven/README]]
+- [[projects/raven/notes/raven-evaluation-hub]]
 - [[projects/raven/notes/raven-evaluation-domain]]
 - [[projects/raven/notes/raven-phase-1-build-plan]]
 - [[projects/raven/notes/raven-phase-1-ingest-rating-plan]]

@@ -2,7 +2,7 @@
 type: hub
 title: Raven Architecture Hub
 created: '2026-04-21'
-updated: '2026-04-22'
+updated: '2026-04-27'
 tags:
   - project/raven
   - architecture
@@ -15,6 +15,14 @@ feeds_into:
   - context/now.md
 ---
 > **TL;DR**: This hub is the default entrypoint for Raven architecture work, with Canvas-first policy for system-level decisions and markdown mirrors for stable structure.
+
+## Growth Contract
+- Parent branch: [[projects/raven/README]]
+- Node role: hub
+- First parent link: [[projects/raven/README]]
+- Growth trigger: create a sub-hub only when a flow or feature accumulates architecture, prompt, evaluation, and evidence children that need one route.
+- Forbidden contents: prompt contracts except route links, eval reports except route links, workflow law, raw evidence, and live status dumps.
+- Expected child types: architecture contracts, Canvas mirrors, feature/flow leaves, system-boundary decisions, and implementation-shape notes.
 
 ## Summary
 Raven has crossed the threshold where repo code alone is no longer enough to hold the architecture in working memory. This domain exists to externalize the system into a visual planning surface that lives inside the vault.
@@ -43,14 +51,14 @@ Primary artifacts:
 - Need the current live canvas first: `projects/raven/notes/raven-feature-web.canvas`
 - Need the next vault-ingestion thread: [[projects/raven/notes/raven-vault-keeper-harness-architecture]]
 - Need the current Tier 1 ranking draft: [[projects/raven/notes/raven-source-ranker-draft]]
-- Need the evaluation workflow for Tier 1 and future rankers: [[projects/raven/notes/raven-eval-how-to-use]]
+- Need the evaluation branch for Tier 1 and future rankers: [[projects/raven/notes/raven-evaluation-hub]]
 - Need the prompt-routing layer for ranker evolution: [[projects/raven/notes/raven-prompt-hub]]
 - Need the fastest walkthrough first: [[projects/raven/notes/raven-architecture-demo]]
 - Need the earlier system-map canvas: [[projects/raven/notes/raven-system-map.canvas]]
 - Need the current product loop and build order: [[projects/raven/notes/raven-phase-1-build-plan]]
 - Need the ingest and detector boundary: [[projects/raven/notes/raven-bs-detector-ingestion-architecture]]
-- Need the evaluation write boundary: [[projects/raven/notes/raven-evaluation-domain]]
-- Need the ownership rule before delegation or patching: [[projects/raven/notes/raven-ownership-delegation-protocol]]
+- Need the evaluation write boundary: [[projects/raven/notes/raven-evaluation-hub]] -> [[projects/raven/notes/raven-evaluation-domain]]
+- Need the ownership rule before delegation or patching: [[projects/raven/notes/raven-workflow-hub]] -> [[projects/raven/notes/raven-ownership-delegation-protocol]]
 
 ## What This Domain Owns
 - the live Raven skeleton as it actually exists in code
@@ -70,7 +78,10 @@ Primary artifacts:
 
 ## Current Active Board
 - Live board: `projects/raven/notes/raven-feature-web.canvas`
-- Current live skeleton: `enricher -> youtube_search`
+- Current live skeleton: `create_run -> enricher -> youtube_search -> Send(ranker_tier1) -> ranker_tier1_final`
+- Current search skeleton: medium + long YouTube `search.list`, ID dedupe, `videos.list` enrichment, `view_count >= 40000` Tier 0 filter, SQLite query/API/candidate logging.
+- Current ranking skeleton: persisted candidate rows feed parallel Tier 1 scoring; `ranker_tier1_results` joins completion flags; final high-model selector writes `keep` / `throw_out` plus reason back to `raven_candidates`.
+- Current model split: `LOW_LLM_KEY` runs enricher and Tier 1 on `gpt-5.4-mini`; `HIGH_LLM_KEY` runs final selection on `gpt-5.5`.
 - Detached growth zone: open questions plus intended / not discussed features
 - Next expansion threads: how Raven as vault keeper uses the vault for ingestion/promotion, and how Tier 1 ranking evolves through audit-backed prompt work
 
@@ -99,15 +110,17 @@ Open these in Obsidian:
 
 ```text
 target
+  -> run row
   -> query enricher
-  -> source discovery
+  -> YouTube duration fan-out
+  -> videos.list enrichment
+  -> view-count Tier 0 filter
+  -> query/API/candidate logging
   -> candidate persistence
-  -> video gate
-  -> judgment layer
-  -> channel memory
-  -> channel rank
-  -> report packet
-  -> evolve loop
+  -> parallel Tier 1 metadata scoring
+  -> high-model final selector
+  -> keep/throw_out writeback
+  -> audit / evolve loop later
 ```
 
 The architecture law is:
@@ -138,9 +151,8 @@ vault keeper Raven
 - [[projects/raven/notes/raven-phase-1-build-plan]]
 - [[projects/raven/notes/raven-phase-1-ingest-rating-plan]]
 - [[projects/raven/notes/raven-source-ranker-draft]]
-- [[projects/raven/notes/raven-eval-how-to-use]]
+- [[projects/raven/notes/raven-evaluation-hub]]
 - [[projects/raven/notes/raven-prompt-hub]]
 - [[projects/raven/notes/raven-bs-detector-ingestion-architecture]]
-- [[projects/raven/notes/raven-evaluation-domain]]
 - [[projects/raven/notes/raven-ownership-delegation-protocol]]
 - [[projects/raven/notes/raven-vault-keeper-harness-architecture]]

@@ -1,8 +1,8 @@
 ---
 type: source-summary
-title: "Current Context"
-created: 2026-04-06
-updated: 2026-04-13
+title: Current Context
+created: '2026-04-06T00:00:00.000Z'
+updated: '2026-04-25'
 tags:
   - project/pathfinder
   - pathfinder
@@ -10,32 +10,166 @@ tags:
   - live
 status: active
 lang: en
-source: "[[projects/pathfinder/sources/docs/context/docs/CURRENT_CONTEXT.md]]"
+source: '[[projects/pathfinder/sources/docs/context/docs/CURRENT_CONTEXT.md]]'
 ---
+> **TL;DR**: PathFinder is reviewable/portfolio-ready unless a concrete blocker appears. Its remaining live context is evaluation hardening, stage/state correctness, token-memory behavior, and explicit vault/repo sync discipline.
 
-> **TL;DR**: Live handoff file for the current build cycle: the 2026-04-13 university-finding frontend run fixed Major handoff into University, and the focused University replay now passes the first UEH -> FPT -> RMIT comparison seam while leaving broader RMIT/UEL or frontend continuation proof as the next target.
+## Role
 
-## Summary
-`CURRENT_CONTEXT.md` is the short-lived working scratchpad for active PathFinder work. Unlike stable architecture docs, it records what is happening now: the current goal, the files being changed, the open questions, risks, and the commands needed to resume work quickly.
+This is the project-local live context leaf for PathFinder.
 
-It currently records the shift from Major handoff repair to University comparison/ranking hardening. Major can now complete and hand off to University when MIS is selected and school-specific proof is the remaining uncertainty. The first focused University replay now captures the frontend R7 failure as executable evidence: UEH stays conditional, weak FPT evidence does not outrank UEH, and the compiler asks to compare RMIT next instead of asking another page-type or threshold question. It also records the new documentation boundary: evaluation reports live in the vault evaluation directory, while repo `eval/` keeps executable evidence.
+```text
+context/now.md
+  -> says PathFinder status and route only
 
-Any agent starting active implementation work should read this after `PROJECT_CONTEXT.md` to avoid operating on stale assumptions.
+PathFinder Context Hub
+  -> routes project-local live and stable context
 
-## Key Points
-- The file is explicitly volatile and should change with the active work cycle.
-- It is the canonical handoff note for live blockers, reruns, and next actions.
-- It currently centers on the 2026-04-13 university-finding frontend run, Major MIS handoff fix, the first University comparison replay, and vault-only evaluation-domain policy.
-- It now reflects that the next best PathFinder eval pass is broader University comparison/ranking coverage for RMIT and UEL, or a full frontend continuation if browser-level proof is needed.
+this note
+  -> carries PathFinder-specific live state
+```
 
-## Details
-### When To Use It
-Read this before resuming in-flight work, especially when the repo may have changed since the last session.
+Do not move PathFinder implementation detail back into root context unless it changes global priorities.
 
-### What It Should Not Hold
-Stable architecture facts and durable decisions should be moved elsewhere; this file is not long-term memory.
+## Current Status
+
+PathFinder should be treated as reviewable/portfolio-ready unless a specific blocker threatens demo or review confidence.
+
+Current posture:
+
+```text
+freeze by default
+  -> fix critical blockers only
+  -> avoid continued feature pushing without a named review/demo risk
+```
+
+The next high-leverage build focus has shifted toward Raven and reusable AI-agent infrastructure.
+
+## Active Hardening Lanes
+
+### Goals / Stage State
+
+- Treat Goals as a planning-ready handoff layer in prompts.
+- The next replay should exercise the full orchestrator path so routing and counter behavior are tested beyond the stage + compiler wrapper.
+- Do not count assistant wording as stage completion; verify from raw `getBackendState()`.
+- Goals completion requires `goals.done === true` plus frontend completed-stage/current-stage agreement.
+- Incomplete current stages must stay anchored to raw `done` state.
+
+### Frontend / Live Trace
+
+- Frontend trace output regression is documented in `eval/FRONTEND_EVALUATION_REPORT.md` and the vault frontend-evaluation workflow.
+- Use the completed frontend fixture report as the UI baseline.
+- Reopen frontend testing only for new UI changes, mobile/visual polish, or a named review risk.
+- The uncertainty attack and identity-continuation runs are distinct evaluation modes, not generic replay substitutes.
+
+### Stage Transition / Output
+
+- Stage transitions now have a post-stage manager before output.
+- If a stage marks itself done, the output prompt should see the newly active stage in the same turn.
+- Output lock and stage intro are complementary: stage intro may acknowledge the completed previous-stage handoff, while current-stage lock prevents moving beyond the newly active incomplete stage.
+- Purpose now mirrors Goals' handoff-sufficiency pattern; remaining execution realism belongs to Goals, Job, or Major rather than another repeated risk squeeze.
+
+### Replay Decision
+
+Do not pre-choose:
+
+```text
+orchestrator replay
+vs
+broader full-path audit
+```
+
+Make that call only after the full eval sweep lands or a named blocker appears.
+
+## Evaluation And Evidence Boundaries
+
+PathFinder evaluation docs, reports, audits, and run retrospectives are vault-canonical under:
+
+```text
+projects/pathfinder/sources/docs/evaluation/
+```
+
+Repo `eval/` is executable evidence only:
+
+```text
+runners
+JSONL datasets
+trace folders
+manifests
+scratch messages
+screenshots
+temporary reproduction artifacts
+```
+
+Route evaluation work through:
+
+```text
+[[projects/pathfinder/notes/pathfinder-evaluation-hub]]
+  -> [[projects/pathfinder/notes/docs-evaluation-domain]]
+  -> relevant workflow/report leaf
+```
+
+## Token And Memory Lanes
+
+Token optimization is active in both:
+
+```text
+main messages lane
+sub-orchestrator routing_memory lane
+```
+
+Current behavior:
+
+- workers read a capped recent tail
+- `routing_memory` keeps its summarizer lane
+- summarizer and worker families have separate focus-eval lanes and production gates
+- full eval remains the broader hardening gate
+
+## Testing And Mirror Rules
+
+- Python contract/regression tests live under `D:\ANHDUC\Path_finder\backend\test\`.
+- New tests should be invoked as `backend.test.<module>` and should not be added at repo root.
+- The vault docs are canonical by default.
+- Repo documentation mirrors are explicit exceptions, not a general sync rule.
+- The maintained dev-log mirror uses `D:\ANHDUC\Path_finder\logs\DEV_LOG.md` plus mirrored daily files under `logs/dev/days/`.
+- Maintained mirrors should use explicit sync routines rather than manual-by-default content copying.
+
+## Open Follow-Up
+
+Only reopen PathFinder if one of these becomes relevant:
+
+```text
+review/demo blocker
+broader University comparison/ranking proof
+fresh Goals/Job/Major handoff replay
+frontend continuation proof
+cheap Python seam coverage worth locking
+explicit repo mirror automation
+```
+
+Known University lane:
+
+- UEH/FPT/RMIT/UEL comparison behavior remains the named broader evaluation surface.
+- Harden this only if needed for review/demo confidence.
+
+## What Does Not Belong In Root Context
+
+```text
+PathFinder eval mechanics
+stage-specific hardening notes
+frontend/live-trace reproduction details
+token-memory implementation detail
+repo-vault mirror policy detail
+Python test-folder rules
+```
+
+Root context should only say PathFinder's status and point here.
 
 ## Related
-- [[projects/pathfinder/notes/docs-project-context]]
-- [[projects/pathfinder/notes/docs-context-maintenance]]
+
+- [[projects/pathfinder/notes/pathfinder-context-hub]]
 - [[projects/pathfinder/README]]
+- [[projects/pathfinder/notes/docs-project-context]]
+- [[projects/pathfinder/notes/pathfinder-evaluation-hub]]
+- [[projects/pathfinder/notes/docs-evaluation-domain]]
+- [[projects/pathfinder/notes/pathfinder-workflow-hub]]

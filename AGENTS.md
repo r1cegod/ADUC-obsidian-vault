@@ -1,8 +1,8 @@
 # AGENTS.md - Codex Vault Entry Point
 
-> **TL;DR**: Read [[context/hot]] -> [[briefing.md]] -> [[context/now]], then choose the smallest next router: [[wiki/operations-hub]], [[vault-keeping]], [[wiki/learning-protocol-hub]], or a project README.
+> **TL;DR**: Read [[context/hot]] -> [[briefing.md]] -> [[context/now]], then choose the smallest next router: [[development]], [[wiki/operations-hub]], [[vault-keeping]], or a project README.
 
-Last updated: 2026-04-21
+Last updated: 2026-04-25
 
 ## Quick Start
 
@@ -23,21 +23,21 @@ Open `projects/<name>/README.md` before project notes or raw sources.
 
 ## Operation Router
 - Official operations registry -> [[wiki/operations-hub]]
-- Vault maintenance, drift, logging, or workflow audit -> [[vault-keeping]]
+- Vault maintenance, drift, logging, workflow audit, or new branch placement -> [[vault-keeping]] -> [[wiki/operations/branch-growth-operation]] when creating durable nodes; new durable entries must keep a Growth Contract
 - Exact constitutional rule, schema, or propagation law -> [[SCHEMA.md]]
 - Project work -> `projects/<name>/README.md`
 - Architecture planning -> project README -> architecture hub -> active `.canvas`
 - Collaborative drafting -> [[wiki/operations-hub]] -> [[wiki/operations/draft-operation]]
-- Technical help / learning ownership -> [[wiki/learning-protocol-hub]]
+- Technical help / learning / code delegation -> [[development]] -> [[wiki/operations/detect-operation]]
 
-## Universal Help / Learning Gate
+## Universal Development Gate
 
-For technical help, docs, debugging, or implementation guidance:
-1. Start from [[wiki/learning-protocol-hub]]
-2. Run [[wiki/help-protocol]]
-3. Use [[wiki/vibe-docing]] for narrow mechanism gaps
-4. Use [[wiki/build-first-learning]] when the skill should compound
-5. Escalate to [[wiki/pre-wire-protocol]] for full feature ownership
+For technical help, docs, debugging, implementation guidance, or code delegation:
+1. Start from [[development]]
+2. Run [[wiki/operations/detect-operation]] first
+3. Route to [[wiki/operations/learn-operation]] for learning/help/audit/mechanism gaps
+4. Route to [[wiki/operations/delegate-operation]] only when Duc's pattern is clear enough to copy and audit
+5. Use the old learning protocol pages as references inside Learn, not as the top router
 
 Ownership rule before implementation help:
 - if Duc can name files, seams, steps, failure modes, and verification path, review/delegation may be allowed
@@ -65,6 +65,7 @@ Default learning modes:
 - If a project has domain hubs, use them as suggestion menus to find one likely next page; do not treat them as mandatory syllabi
 - Treat `journal/daily/` as human-primary raw capture. Do not rewrite it into agent voice unless the task explicitly calls for it.
 - Put durable synthesis into `wiki/`, `projects/<name>/notes/`, `index.md`, or the vault log layer (`log.md` + `sources/log/`) instead of back-writing it into raw notes.
+- For every new durable vault entry, include a `## Growth Contract` with parent branch, node role, first parent link, growth trigger, forbidden contents, and expected child/source boundary when relevant.
 - For architecture-heavy work, route `README.md -> architecture hub -> active .canvas` before repo code, and complete vault updates before ending the response.
 - Officially documented operations are living contracts: if use reveals friction, patch the docs the same session when cheap or log the gap that day.
 - Treat [[vault-keeping]] as the top-tier maintenance family hub, not as the global registry for all operations.

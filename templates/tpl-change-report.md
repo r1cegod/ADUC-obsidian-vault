@@ -10,6 +10,14 @@ lang: en
 
 > **TL;DR**: 
 
+## Growth Contract
+- Parent branch:
+- Node role: report leaf
+- First parent link:
+- Growth trigger:
+- Forbidden contents:
+- Source/evidence boundary:
+
 ## Scope
 <!-- What change window this report covers -->
 

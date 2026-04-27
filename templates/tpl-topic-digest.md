@@ -10,6 +10,14 @@ lang: en
 
 > **TL;DR**: 
 
+## Growth Contract
+- Parent branch:
+- Node role: topic digest synthesis leaf or hub
+- First parent link:
+- Growth trigger:
+- Forbidden contents:
+- Expected child/source types:
+
 ## Why This Exists
 <!-- Human-readable digest for a multi-source topic. The owner should be able to read this instead of rereading every source. -->
 

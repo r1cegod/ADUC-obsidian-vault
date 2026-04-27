@@ -2,7 +2,7 @@
 type: project
 title: Raven
 created: '2026-04-15'
-updated: '2026-04-22'
+updated: '2026-04-25'
 tags:
   - project/raven
   - ai
@@ -13,10 +13,34 @@ status: incubating
 priority: high
 lang: en
 feeds_into:
+  - briefing.md
   - context/now.md
   - context/goals.md
 ---
-> **TL;DR**: Raven is the candidate next scaffold after PathFinder: a Knowledge Signal Engine that formalizes Duc's internal bullshit detector into source scoring, claim extraction, insight filtering, vault memory, and public synthesis.
+> **TL;DR**: Raven is the active Knowledge Signal Engine scaffold: it turns Duc's tacit bullshit detector into source discovery, metadata triage, audit-backed evaluation, vault memory, and eventually public synthesis.
+
+## Growth Contract
+- Parent branch: [[briefing]] Active Projects and `projects/`
+- Node role: project root router
+- First parent link: [[briefing]]
+- Growth trigger: create or promote a Raven hub when the README would otherwise route 3+ same-family leaves or when a domain starts forcing cross-note scans.
+- Forbidden contents: raw repo traces, executable eval evidence, full implementation logs, and long current-context detail.
+- Expected child types: context, architecture, prompt, evaluation, workflow/rules hubs, and source/evidence lanes.
+
+## Start Here
+
+Use the smallest route that fits the task:
+
+| Need | Go to |
+|---|---|
+| Current live state, next seam, repo status | [[projects/raven/notes/raven-context-hub]] -> [[projects/raven/notes/raven-current-context]] |
+| System shape, Canvas, ingestion/promotion architecture | [[projects/raven/notes/raven-architecture-hub]] |
+| Prompt contracts, prompt audits, prompt evolution | [[projects/raven/notes/raven-prompt-hub]] |
+| Evaluation workflow, reports, readiness, audit insight | [[projects/raven/notes/raven-evaluation-hub]] |
+| Ownership, delegation, draft adoption, repo-vault rules | [[projects/raven/notes/raven-workflow-hub]] |
+| Raw evidence, references, source/eval pointers | [[projects/raven/sources/README]] |
+
+Do not jump to raw repo/eval/source material unless a compiled Raven note says exact reproduction or wording precision is needed.
 
 ## Core Thesis
 
@@ -24,166 +48,94 @@ Raven is not a passive knowledge absorber. It is a judgment engine.
 
 ```text
 public source
-   ↓
-claim extraction
-   ↓
-bullshit detection
-   ↓
-insight scoring
-   ↓
-vault memory
-   ↓
-public synthesis
+  -> source discovery
+  -> metadata triage
+  -> bullshit / signal judgment
+  -> audit-backed improvement
+  -> vault memory
+  -> public synthesis later
 ```
 
-The main asset to formalize is Duc's internal bullshit detector: currently fast, intuitive, and brain-native, but not inspectable, repeatable, or delegable to agents.
+The main asset to formalize is Duc's internal bullshit detector: fast and brain-native, but not yet inspectable, repeatable, or delegable.
 
-## Bullshit Detector Problem
-
-Duc can often sense when a source is fake, vague, guru-fluff, derivative, or non-actionable. The problem is that the detector is tacit.
-
-```text
-inside brain
-   ↓
-fast judgment
-   ↓
-no explicit labels
-   ↓
-agent cannot reproduce it
-```
-
-Raven's first job is to turn that tacit detector into explicit criteria.
-
-## First Detector Axes
+## Detector Direction
 
 Reject or penalize sources/claims with:
 
-- vague abstractions without concrete mechanism
-- no lived experience or operational detail
-- no cost, pain, risk, time, money, status, or tradeoff
-- advice that survives because it sounds good, not because it predicts reality
-- recycled consensus with no new angle
-- emotional certainty without evidence trail
-- claims that cannot change a build decision
+```text
+vague abstractions
+no operational mechanism
+no cost/risk/time/tradeoff
+recycled consensus
+emotional certainty without evidence trail
+claims that cannot change a build decision
+```
 
 Reward sources/claims with:
 
-- specific failure modes
-- concrete workflow details
-- named tools, constraints, numbers, or examples
-- repeated pain across independent sources
-- falsifiable claims
-- buildable implications within 7-14 days
-- public artifact potential
-
-## Product Shape
-
-Minimum useful loop:
-
 ```text
-source URL
-   ↓
-extract claims
-   ↓
-score each claim
-   ↓
-label bullshit / weak / useful / high-signal
-   ↓
-write vault note
-   ↓
-generate public artifact draft
+specific failure modes
+concrete workflow details
+named tools, constraints, numbers, examples
+falsifiable claims
+buildable implications within 7-14 days
+public artifact potential
 ```
 
-## Distribution Angle
+## Current Project State
 
-Raven should produce publishable artifacts from its own work:
+Read [[projects/raven/notes/raven-current-context]] for live implementation status.
 
-- signal briefs
-- failure analyses
-- build logs
-- pain maps
-- "what the internet is wrong about" posts
-
-The distribution proof is not that Duc consumes more content. The proof is that Raven makes Duc's taste visible.
-
-## Implementation Status
-
-- Local repo: `/home/r1ceg/Raven`
-- Remote repo: `git@github.com:r1cegod/Raven.git`
-- Current remote status: `main` was force-pushed from old CLI/rubric commit `94632ee` to clean scaffold commit `128ff88 Project initialized`.
-- Current repo shape: root `AGENTS.md`, root `README.md`, `logs/DEV_LOG.md`, `requirements.txt`, `docs/reference/`, and active backend files under `src/backend/`.
-- Active backend status 2026-04-20: SQLite foundation exists in `src/backend/db.py`; active YouTube `search.list` + first normalization pass exists in `src/backend/search/youtube_search.py`; production-ready one-node `gpt-5.4-mini` query enricher prompt/graph and eval gate exist in `src/backend/Raven_graph.py`, `src/backend/data/prompt/enricher.py`, and `eval/`.
-- Reference-only code: generated full-pipeline/API examples are parked under `docs/reference/` and must not be treated as production implementation.
-- Removed from active scaffold: old CLI, rubric, models, examples, uv project files, and generated smoke data.
-- Local ignored files: `.env`, `.venv/`, SQLite runtime files, and scratch/editor files remain untracked.
-
-## Next Action
-
-Phase 1 build order is now defined in [[projects/raven/notes/raven-phase-1-build-plan]], grounded in [[projects/raven/notes/raven-phase-1-ingest-rating-plan]]. Current immediate seam:
+Current near-term branch:
 
 ```text
 enriched query
-   -> YouTube search result
-   -> query log row
-   -> candidate row(s)
-   -> joined DB readback
+  -> YouTube search.list
+  -> videos.list enrichment
+  -> SQLite query/API/candidate logging
+  -> Tier 1 ranker
+  -> audit markdown
+  -> human audit
+  -> prompt/eval evolution later
 ```
 
-After that, continue to Reddit search, rater, then evolver placeholder. Keep the vault as primary memory and SQLite as the agent workbench. Let schema/persistence grow from the working loop instead of designing a large database upfront.
+## Branch Rules
 
-## Architecture Router
-
-Visual planning and architecture work now route through [[projects/raven/notes/raven-architecture-hub]], using the vault-wide [[wiki/synthesis/obsidian-d2-canvas-architecture-method]] as the operating method.
-
-Rule in this scope:
+Raven follows the vault branching rule set in [[wiki/synthesis/vault-target-tree-architecture]].
 
 ```text
-system-level Raven architecture decisions
-  -> go through Canvas first
-
-function-local code planning
-  -> stays out of Canvas unless it changes architecture shape
+README
+  -> domain hub
+    -> leaf
+      -> source/evidence only when needed
 ```
 
-Official structuring rule:
+Do not create `main-flow`, `search-feature`, `ranking-feature`, or other feature hubs until [[wiki/operations/branch-growth-operation]] proves real child pressure.
+
+## Boundaries
 
 ```text
-architecture change stabilizes
-  -> reflect it in Raven project routing
-  -> give it an official home
-  -> do not leave it only in chat or only on Canvas
+Vault notes
+  -> meaning, reports, decisions, prompt/eval insight, project memory
+
+Repo
+  -> code, tests, runnable eval evidence, temporary traces
+
+SQLite
+  -> operational workbench for runs, queries, candidates, ratings, logs
 ```
 
-Current active architecture threads:
-- [[projects/raven/notes/raven-vault-keeper-harness-architecture]] for how Raven as vault keeper uses the vault through ingestion, promotion, and retrieval
-- [[projects/raven/notes/raven-source-ranker-draft]] for the Tier 1 metadata-only filter, prompt contract, and evaluation loop that ingest Duc's taste through audit evidence
-
-## Evaluation Domain Rule
-
-Raven evaluation reports, audit logs, and production-readiness decisions are vault-canonical. Repo `eval/` is only for executable evidence: runner scripts, JSONL datasets, traces, and temporary reproduction artifacts.
-
-Router: [[projects/raven/notes/raven-evaluation-domain]]
-
-## Build Ownership Rule
-
-Raven uses an ownership-first delegation rule: Duc may delegate only work he can already write, explain, test, and repair. Anything below that threshold goes through learning/pre-wire first.
-
-Router: [[projects/raven/notes/raven-ownership-delegation-protocol]]
+Raven evaluation reports and production-readiness decisions are vault-canonical under [[projects/raven/notes/raven-evaluation-hub]]. Repo `eval/` is executable evidence only.
 
 ## Related
 
+- [[projects/raven/notes/raven-context-hub]]
+- [[projects/raven/notes/raven-current-context]]
 - [[projects/raven/notes/raven-architecture-hub]]
-- [[wiki/synthesis/obsidian-d2-canvas-architecture-method]]
-- [[projects/raven/notes/raven-phase-1-build-plan]]
-- [[projects/raven/notes/raven-phase-1-ingest-rating-plan]]
-- [[projects/raven/notes/raven-evaluation-domain]]
-- [[projects/raven/notes/raven-eval-how-to-use]]
-- [[projects/raven/notes/raven-evaluation-insights]]
 - [[projects/raven/notes/raven-prompt-hub]]
-- [[projects/raven/notes/raven-enricher-evaluation]]
-- [[projects/raven/notes/raven-bs-detector-ingestion-architecture]]
-- [[projects/raven/notes/raven-source-ranker-draft]]
-- [[projects/raven/notes/raven-vault-keeper-harness-architecture]]
-- [[projects/raven/notes/raven-ownership-delegation-protocol]]
-- [[context/goals]]
+- [[projects/raven/notes/raven-evaluation-hub]]
+- [[projects/raven/notes/raven-workflow-hub]]
+- [[projects/raven/sources/README]]
+- [[wiki/synthesis/vault-target-tree-architecture]]
 - [[context/now]]
+- [[context/goals]]

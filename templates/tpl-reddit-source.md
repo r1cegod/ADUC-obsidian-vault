@@ -11,6 +11,14 @@ source: "[[sources/]]"
 
 > **TL;DR**: 
 
+## Growth Contract
+- Parent branch:
+- Node role: source-summary leaf
+- First parent link:
+- Growth trigger:
+- Forbidden contents:
+- Source/evidence boundary: thread/raw source stays in `source:`; this page holds compiled signal only
+
 ## Summary
 <!-- Summarize the thread without flattening disagreement -->
 

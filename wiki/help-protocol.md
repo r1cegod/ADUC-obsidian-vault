@@ -2,7 +2,7 @@
 type: protocol
 title: Help Protocol
 created: '2026-04-16'
-updated: '2026-04-20'
+updated: '2026-04-25'
 tags:
   - learning
   - protocol
@@ -10,11 +10,17 @@ tags:
 status: active
 lang: en
 feeds_into:
-  - wiki/learning-protocol-hub.md
-  - AGENTS.md
-  - wiki/pre-wire-protocol.md
+  - wiki/operations/learn-operation.md
 ---
-> **TL;DR**: Mandatory anti-spoonfeeding protocol for technical help. Before giving docs or implementation guidance, the agent verifies the mechanism with a private check, tests the doc path when practical, and forces Duc to explain architecture first when the gap is too large.
+> **TL;DR**: Legacy anti-spoonfeeding reference inside [[wiki/operations/learn-operation]]. Current technical-help routing starts at [[development]] -> [[wiki/operations/detect-operation]] -> Learn.
+
+## Growth Contract
+- Parent branch: [[wiki/operations/learn-operation]]
+- Node role: protocol reference leaf
+- First parent link: [[wiki/operations/learn-operation]]
+- Growth trigger: split only if anti-spoonfeeding checks develop separate recurring sub-rules beyond Detect and Learn.
+- Forbidden contents: current top-level routing, code delegation procedure, project-specific patches, and broad tutorials.
+- Expected child types: doc-verification rules, anti-spoonfeeding checks, and debugging support ladder references.
 
 ## Trigger
 
@@ -232,6 +238,9 @@ Then the agent may execute with minimal explanation. This exception does not app
 
 ## Related
 
+- [[development]]
+- [[wiki/operations/detect-operation]]
+- [[wiki/operations/learn-operation]]
 - [[wiki/learning-protocol-hub]]
 - [[wiki/build-first-learning]]
 - [[wiki/vibe-docing]]

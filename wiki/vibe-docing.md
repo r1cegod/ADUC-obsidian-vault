@@ -2,7 +2,7 @@
 type: protocol
 title: Vibe Docing
 created: '2026-04-17'
-updated: '2026-04-20'
+updated: '2026-04-25'
 tags:
   - learning
   - protocol
@@ -10,11 +10,17 @@ tags:
 status: active
 lang: en
 feeds_into:
-  - wiki/help-protocol.md
-  - wiki/pre-wire-protocol.md
-  - wiki/learning-protocol-hub.md
+  - wiki/operations/learn-operation.md
 ---
-> **TL;DR**: VIBE_DOCING is a scoped mechanism-help operation: the agent mimics an official doc slice with neutral placeholders so Duc gets the missing mechanism without receiving the artifact answer.
+> **TL;DR**: VIBE_DOCING is a scoped mechanism-help reference inside [[wiki/operations/learn-operation]]: the agent mimics an official doc slice with neutral placeholders so Duc gets the missing mechanism without receiving the artifact answer.
+
+## Growth Contract
+- Parent branch: [[wiki/operations/learn-operation]]
+- Node role: protocol reference leaf
+- First parent link: [[wiki/operations/learn-operation]]
+- Growth trigger: split only if mechanism-help examples or official-doc patterns need their own child library.
+- Forbidden contents: live challenge answers, project-specific values, full feature implementations, and top-level routing rules.
+- Expected child types: mechanism-slice format rules, neutral placeholder rules, and example references.
 
 ## Definition
 
@@ -148,6 +154,9 @@ If a previous answer leaked live values into a doc slice, correct the protocol a
 
 ## Related
 
+- [[development]]
+- [[wiki/operations/detect-operation]]
+- [[wiki/operations/learn-operation]]
 - [[wiki/help-protocol]]
 - [[wiki/build-first-learning]]
 - [[wiki/pre-wire-protocol]]

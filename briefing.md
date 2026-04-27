@@ -1,3 +1,6 @@
+---
+updated: '2026-04-26'
+---
 # Vault Briefing
 
 > **TL;DR**: Global vault router for active work, current focus, and the smallest next page to open before touching project sources.
@@ -9,12 +12,13 @@
 
 ## Active Projects
 <!-- Update this list as projects change -->
-- [[projects/pathfinder/README|PathFinder]] - repo docs mirrored into the vault with derived summaries
-- [[projects/raven/README|Raven]] - incubating Knowledge Signal Engine and bullshit-detector scaffold
+- [[projects/pathfinder/README|PathFinder]] - reviewable unless a blocker appears; live route starts at [[projects/pathfinder/notes/pathfinder-context-hub]]
+- [[projects/raven/README|Raven]] - incubating Knowledge Signal Engine; live route starts at [[projects/raven/notes/raven-context-hub]]
 - [[projects/ielts-writing/README|IELTS Writing]] - 20-day protocol: band 4-5 → 7-8, schema-based docs
+- [[projects/wynncraft/README|Wynncraft Assistant]] - low-priority leisure assistant; live route starts at [[projects/wynncraft/notes/wynncraft]]
 
 ## Current Focus
-PathFinder is reviewable unless a demo blocker appears. The next scaffold candidate is [[projects/raven/README|Raven]]: a Knowledge Signal Engine that formalizes Duc's bullshit detector into source scoring, insight filtering, vault memory, and public synthesis. Read [[context/now]] for live blockers and next actions.
+PathFinder is reviewable unless a demo blocker appears. [[projects/raven/README|Raven]] is the active next scaffold; use [[projects/raven/notes/raven-context-hub]] for Raven state and [[context/now]] for global priorities. [[projects/wynncraft/README|Wynncraft Assistant]] is a low-priority leisure-control lane, not a strategic main project.
 
 ## Pending
 <!-- Check pending/ for unsorted files each session -->
@@ -22,13 +26,15 @@ _Nothing in the drop zone._
 
 ## Official Operations
 - [[wiki/operations-hub]] - global registry for all official vault operations; start here when the task is about workflow selection, not project content
-- [[vault-keeping]] - use this when the task is about keeping the vault reliable: maintenance, drift, logging, self-healing, propagation, or operation audits
-- [[wiki/learning-protocol-hub]] - use this for technical-help, learning ownership, pre-wire, delegation gates, and build-first mode routing
+- [[vault-keeping]] - use this for vault reliability: maintenance, drift, logging, self-healing, propagation, operation audits, or new branch placement
+- [[development]] - use this for technical-help, Learn/Delegate routing, ownership thresholds, and the mandatory Detect gate
+- [[wiki/learning-protocol-hub]] - legacy learning/help protocol hub, now mostly reached through [[development]] -> [[wiki/operations/learn-operation]]
 - [[wiki/synthesis/obsidian-d2-canvas-architecture-method]] - use this for architecture drafting and Canvas-first system-shape work
 
 ## Navigation
 - [[SCHEMA.md]] - constitutional manual for vault rules, operation law, schema, and propagation
-- [[wiki/learning-protocol-hub]] - help, pre-wire learning, delegation, and session-routing rules
+- [[development]] - development-domain router: Detect first, then Learn or Delegate
+- [[wiki/learning-protocol-hub]] - legacy learning protocol hub and reference layer under Development
 - [[wiki/operations-hub]] - official operations registry and family router
 - [[wiki/synthesis/obsidian-d2-canvas-architecture-method]] - vault method for Canvas-first exploration and D2-backed architecture maps
 - [[index.md]] - content routing table
@@ -40,4 +46,4 @@ _Nothing in the drop zone._
 - [[vault-keeping]] - vault maintenance routing hub (micro → structural scale ladder)
 - [[log.md]] - activity-history navigation
 
-**Last updated:** 2026-04-21
+**Last updated:** 2026-04-26

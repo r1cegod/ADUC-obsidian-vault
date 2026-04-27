@@ -2,7 +2,7 @@
 type: protocol
 title: Build-First Learning
 created: '2026-04-18'
-updated: '2026-04-20'
+updated: '2026-04-25'
 tags:
   - learning
   - protocol
@@ -10,12 +10,17 @@ tags:
 status: active
 lang: en
 feeds_into:
-  - wiki/learning-protocol-hub.md
-  - wiki/help-protocol.md
-  - wiki/pre-wire-protocol.md
-  - learning/README.md
+  - wiki/operations/learn-operation.md
 ---
-> **TL;DR**: Build-First Learning is the primary technical-learning method: Duc builds usable project artifacts directly, one maturity level at a time, while the agent audits, narrows, and uses [[wiki/vibe-docing]] only for missing mechanisms.
+> **TL;DR**: Build-First Learning is the artifact-first reference inside [[wiki/operations/learn-operation]]: Duc builds usable project artifacts directly while the agent audits, narrows, and uses [[wiki/vibe-docing]] only for missing mechanisms.
+
+## Growth Contract
+- Parent branch: [[wiki/operations/learn-operation]]
+- Node role: protocol reference leaf
+- First parent link: [[wiki/operations/learn-operation]]
+- Growth trigger: split only if a learning mode becomes a separate recurring operation with its own routing and closeout.
+- Forbidden contents: top-level technical-help routing, Delegate execution procedure, project-specific patch logs, and passive tutorial dumps.
+- Expected child types: learning modes, maturity levels, artifact rules, and audit/patch boundary references.
 
 ## Core Rule
 
@@ -303,6 +308,9 @@ Stop and reframe when:
 
 ## Related
 
+- [[development]]
+- [[wiki/operations/detect-operation]]
+- [[wiki/operations/learn-operation]]
 - [[wiki/learning-protocol-hub]]
 - [[wiki/help-protocol]]
 - [[wiki/vibe-docing]]

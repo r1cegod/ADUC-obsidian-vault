@@ -2,7 +2,7 @@
 type: note
 title: Raven Evaluation Insights
 created: '2026-04-22'
-updated: '2026-04-22'
+updated: '2026-04-26'
 tags:
   - project/raven
   - evaluation
@@ -11,10 +11,17 @@ tags:
 status: active
 lang: en
 feeds_into:
-  - projects/raven/notes/raven-evaluation-domain.md
-  - projects/raven/README.md
+  - projects/raven/notes/raven-evaluation-hub.md
 ---
 > **TL;DR**: Rolling compounding note for what Raven evaluation teaches over time. This page should grow with the vault: prompt insights, failure patterns, audit lessons, and domain-level evaluation strategy shifts.
+
+## Growth Contract
+- Parent branch: [[projects/raven/notes/raven-evaluation-hub]]
+- Node role: rolling insight leaf
+- First parent link: [[projects/raven/notes/raven-evaluation-hub]]
+- Growth trigger: update when an eval cycle produces a durable cross-run lesson, prompt law, stable failure pattern, or workflow correction.
+- Forbidden contents: raw run dumps, full trace summaries, temporary failures, and per-run report detail.
+- Source/evidence boundary: cross-run lessons live here; executable evidence and raw traces remain in repo `eval/`, and per-run truth belongs in report leaves.
 
 ## Purpose
 
@@ -41,6 +48,9 @@ This note tells you what now belongs to the system.
 - One markdown file per eval run is the preferred audit artifact shape.
 - The human audit surface should stay minimal: title, preview, Raven output, and one plain-language Duc audit line.
 - Prompt evolution should follow the evidence loop: run -> audit file -> human audit -> dataset -> prompt audit -> rerun.
+- Production-grade prompt shape matters: identity, scope, task, input contract, output contract, grounding, examples, evolution path, and guardrails should be explicit before calling a prompt production-like.
+- Evaluators must not let clickbait curiosity count as positive signal. For negative/hype cases, `positive_pull[]` should be empty unless there is a real useful signal being outweighed.
+- Control-leak markers must be context-aware. A broad marker like `schema` can create false failures when the candidate legitimately mentions a database schema.
 
 ## How To Use This Note
 
@@ -70,6 +80,7 @@ If this page stops growing, the evaluation domain is not compounding.
 
 ## Related
 
+- [[projects/raven/notes/raven-evaluation-hub]]
 - [[projects/raven/notes/raven-evaluation-domain]]
 - [[projects/raven/notes/raven-eval-how-to-use]]
 - [[projects/raven/notes/raven-source-ranker-draft]]
