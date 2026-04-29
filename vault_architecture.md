@@ -1,6 +1,8 @@
 # Vault Architecture
 
-> Optimization reference — read this to understand the full system before restructuring any layer.
+> **TL;DR**: Architecture reference for the vault's folders, data flow, startup route, write contract, and layer responsibilities; canonical runtime starts at [[duc-os]].
+
+> Optimization reference — read this to understand the full system before restructuring any layer. Canonical runtime starts at [[duc-os]], not the older briefing/context-first route.
 
 ---
 
@@ -9,17 +11,20 @@
 ```
 ADUC_vault/ADUC/
 │
-├── CLAUDE.md              ← Agent entry point. "Read this first." Thin wrapper → SCHEMA.md
-├── SCHEMA.md              ← Full operations manual. All rules live here.
-├── AGENTS.md              ← Non-Claude agent variant (same rules, different format)
-├── briefing.md            ← Tier 0: vault orientation (~200 tokens). Always read first.
+├── CLAUDE.md              ← Claude entry point. Thin wrapper -> context/hot.md -> duc-os.md
+├── AGENTS.md              ← Codex entry point. Thin wrapper -> context/hot.md -> duc-os.md
+├── SCHEMA.md              ← Full operations manual and constitutional law.
+├── duc-os.md              ← Root operating layer and meta-router.
+├── duc-os/                ← Identity, long arc, current state, KICKSTART, engines, session protocol.
+├── briefing.md            ← Active-project dashboard under Duc OS, not the root brain.
 ├── index.md               ← Content routing table. One entry per page. Tag registry.
 ├── log.md                 ← Activity log NAVIGATION only. One line per day.
 │
-├── context/               ← User brain layer. Loaded every session.
-│   ├── me.md              ← User profile, preferences, rules
-│   ├── now.md             ← Current priorities, active blockers, live state
-│   └── goals.md           ← Longer-term direction
+├── context/               ← Compatibility redirects + hot cache.
+│   ├── hot.md             ← Startup cache before Duc OS.
+│   ├── me.md              ← Redirect to duc-os/identity.md
+│   ├── now.md             ← Redirect to duc-os/current.md
+│   └── goals.md           ← Redirect to duc-os/long-arc.md
 │
 ├── sources/               ← Raw, unprocessed source material
 │   ├── articles/          ← Markdown articles
@@ -81,16 +86,19 @@ User / External Source
     synthesis)
         │                                              │
         ▼                                              ▼
-   index.md           ← navigation + routing table (pointers only, no content)
+   index.md           <- navigation + routing table (pointers only, no content)
         │
         ▼
-   briefing.md        ← summary of active work + navigation links
+   briefing.md        <- compact active-project dashboard
         │
         ▼
-   context/now.md     ← live priorities + blockers (agent reads every session)
+   duc-os/current.md  <- live priorities, active projects, blockers, and route state
+        │
+        ▼
+   duc-os.md          <- root operating layer chooses the next router
 ```
 
-Key rule: **content only moves upward**. Index points to wiki/notes. Briefing points to index.
+Key rule: **content only moves upward into the smallest durable authority**. Index points to wiki/notes. Briefing stays a dashboard. Duc OS owns stance, current route, and long-arc context.
 You never put real knowledge into briefing.md, index.md, or log.md — those are navigation only.
 
 ---
@@ -101,32 +109,34 @@ You never put real knowledge into briefing.md, index.md, or log.md — those are
 Session starts
       │
       ▼
-  Read briefing.md                  ← ALWAYS. Tier 0. Stop if task is simple.
+  Optional wrapper cache: context/hot.md
       │
       ▼
-  Read context/now.md               ← ALWAYS. Check updated date. If >7 days, flag.
+  Read duc-os.md                  <- ALWAYS. Root operating route.
       │
-      ├── Active Projects in briefing == Active Projects in context/now? → reconcile if not
-      ├── Files in pending/? → flag + offer to sort
-      ├── User revealed new info in conversation? → update context/ before task
-      └── Index drift? Glob notes dir, compare to index.md → add missing entries
+      ├── Need current state? -> read duc-os/current.md and check updated date.
+      ├── Need project dashboard? -> read briefing.md.
+      ├── Active Projects in briefing == Active Projects in duc-os/current? -> reconcile if not.
+      ├── Files in pending/? -> flag + offer to sort.
+      ├── User revealed new durable context? -> update owning Duc OS page before task.
+      └── Index drift? Glob notes dir, compare to index.md -> add missing entries.
       │
       ▼
   Choose smallest next tier
-  ┌────────────────────────────────────────────────────────┐
-  │ Tier 0  briefing.md             ~200 tokens  ALWAYS    │
-  │ Tier 1  context/now.md          ~200 tokens  ALWAYS    │
-  │         SCHEMA.md               (wiki ops only)        │
-  │         index.md                (routing needed only)  │
-  │ Tier 2  projects/<name>/README  (any project task)     │
-  │ Tier 3  hub notes / leaf notes  (domain-specific only) │
-  │ Tier 4  raw sources             (precision required)   │
-  └────────────────────────────────────────────────────────┘
+  ┌───────────────────────────────────────────────────────────────┐
+  │ Tier 0  duc-os.md                         ALWAYS              │
+  │ Tier 1  duc-os/current.md                 current routing      │
+  │         briefing.md                       project dashboard    │
+  │         SCHEMA.md                         wiki ops only        │
+  │         index.md                          routing needed only  │
+  │ Tier 2  projects/<name>/README            project task         │
+  │ Tier 3  hub notes / leaf notes            domain-specific      │
+  │ Tier 4  raw sources                       precision required   │
+  └───────────────────────────────────────────────────────────────┘
   Stop-check between each tier. Descend only if genuinely needed.
 ```
 
-**Stable Router Exception:** briefing.md, context/now.md, project READMEs validated earlier
-the same session do not need a second repair pass. Log "stable router checked, no repair needed."
+**Stable Router Exception:** duc-os.md, duc-os/current.md, briefing.md, project READMEs, and project hubs validated earlier the same session do not need a second repair pass. Log "stable router checked, no repair needed."
 
 ---
 
@@ -196,7 +206,7 @@ projects/pathfinder/
 
 **Reading path for PathFinder task:**
 ```
-briefing.md → context/now.md → projects/pathfinder/README.md → relevant hub → leaf note
+duc-os.md -> briefing.md if needed -> projects/pathfinder/README.md -> relevant hub -> leaf note
                                                                                ↓ only if precision needed
                                                                          sources/docs/
 ```
@@ -212,9 +222,9 @@ BEFORE calling Write:                   AFTER calling Write:
 ─────────────────────                   ────────────────────
 A. type: → check SCHEMA type list       1. index.md entry → add + bump count
 B. tags: → check index.md registry      2. SCHEMA Directory Map → add if new dir
-C. New project? → will need to sync     3. briefing.md Active Projects → sync if new project
-   briefing.md AND context/now.md       4. context/now.md Active Projects → sync
-                                        5. context/now.md Vault Status → update if context shift
+C. New project? -> will need to sync     3. briefing.md Active Projects -> sync if new project
+   briefing.md AND duc-os/current.md     4. duc-os/current.md Active Projects -> sync
+                                         5. duc-os/current.md Vault Status -> update if context shift
 ```
 
 Root cause of gate failures: agents write first, validate second.
@@ -263,7 +273,7 @@ projects/pathfinder/sources/docs/   ← canonical wording lives here
 projects/pathfinder/notes/          ← summaries, key points, audit logs
         │  routing
         ▼
-domain hubs → README.md → briefing.md → context/now.md
+domain hubs -> README.md -> briefing.md dashboard -> duc-os/current.md
 ```
 
 ---
@@ -288,15 +298,15 @@ domain hubs → README.md → briefing.md → context/now.md
 | File Creation without pre-write | Fast write → wrong type/tags | 2-phase gate in CLAUDE.md + SCHEMA |
 | Re-healing stable routers | Agent re-validates briefing.md it already read | Stable Router Exception in SCHEMA |
 | Missing log entry | Task "done" without write-back | Write-back rule + mandatory log section in CLAUDE.md |
-| context/now.md stale | User priorities shift, agent doesn't update | 7-day flag rule in Session Start Protocol |
+| duc-os/current.md stale | User priorities shift, agent doesn't update | 7-day flag rule in Session Start Protocol |
 
 ### Human Maintenance
 
 | File | Risk of Staleness | Trigger to Update |
 |------|------------------|-------------------|
-| briefing.md Active Projects | Medium — only updated on project init/archive | New project or project ships |
-| context/now.md | High — changes week to week | After every sprint update |
-| context/goals.md | Low — 90-day horizon | Review flag if >90 days old |
+| briefing.md Active Projects | Medium - only updated on project init/archive | New project or project ships |
+| duc-os/current.md | High - changes week to week | After every sprint update |
+| duc-os/long-arc.md | Low - 90-day horizon | Review flag if >90 days old |
 | index.md page count | Medium — manual bump required | Every ingest or note creation |
 | SCHEMA.md Directory Map | Low — only when new dirs added | New directory creation |
 
@@ -305,15 +315,20 @@ domain hubs → README.md → briefing.md → context/now.md
 ## 9. Layer Responsibility Summary
 
 ```
-briefing.md      ← What is active right now? (orientation, NOT details)
-context/now.md   ← What am I working on? What's blocked? (live priorities)
-index.md         ← Where is everything? (routing table, NOT content)
-log.md           ← What happened and when? (navigation to day files)
-sources/         ← The raw truth (canonical wording, exact content)
-notes/           ← The compiled truth (summaries, key points, decisions)
-wiki/            ← Reusable knowledge (crosses project boundaries)
-hubs             ← Domain routing (navigate within a project layer)
-README.md        ← Project routing (entry point for project work)
+duc-os.md        <- What operating route is this session in? (root meta-router)
+duc-os/current.md <- What is active now? What's blocked? (live priorities)
+briefing.md      <- Which projects are active? (dashboard, NOT deep context)
+index.md         <- Where is everything? (routing table, NOT content)
+log.md           <- What happened and when? (navigation to day files)
+sources/         <- The raw truth (canonical wording, exact content)
+notes/           <- The compiled truth (summaries, key points, decisions)
+wiki/            <- Reusable knowledge (crosses project boundaries)
+hubs             <- Domain routing (navigate within a project layer)
+README.md        <- Project routing (entry point for project work)
 ```
 
 **The rule:** each layer answers one question. When a layer starts doing two jobs, it breaks navigation.
+
+## Duc OS Migration Note
+
+This document is now an architecture reference, not the startup authority. If this file conflicts with [[duc-os]], [[SCHEMA.md]], [[AGENTS.md]], or [[CLAUDE.md]], the Duc OS-first route wins.

@@ -2,10 +2,23 @@
 
 > **TL;DR**: Vault routing table for official operations, entities, learning protocols, concepts, synthesis pages, projects, references, sources, and canonical tags.
 
-> Content routing table. Last updated: 2026-04-26 | Pages: 188 | Sources: 68
+> Content routing table. Last updated: 2026-04-29 | Pages: 202 | Sources: 68
 > Format: `- [[path|Display Name]] - one-liner (tags)`
 
 ---
+
+## Duc OS
+<!-- Root operating layer and personal meta-router -->
+- [[duc-os|Duc OS]] - root operating layer and meta-router above briefing, development, vault-keeping, projects, and operations (context, workflow, docs, meta)
+- [[duc-os/identity|Duc OS Identity]] - authoritative identity, communication protocol, working constraints, and cognitive profile (context, workflow, docs)
+- [[duc-os/escape-velocity-map|Duc OS Escape Velocity Map]] - life factory map for past proof, current leverage bottleneck, escape-distance gauges, and next strategic edge (context, plan, workflow)
+- [[duc-os/escape-route|Duc OS Escape Route]] - executable escape route through identity, room, money, and geography gates with phases, machines, anti-traps, and weekly review (context, plan, workflow)
+- [[duc-os/leverage-development-tree|Duc OS Leverage Development Tree]] - 3-month foundation-to-leverage tech tree for Raven, eval automation, proof packaging, distribution, feedback, and opportunity loops (context, plan, workflow)
+- [[duc-os/long-arc|Duc OS Long Arc]] - escape velocity, founder path, portfolio, distribution, and long-term leverage direction (context, plan, workflow)
+- [[duc-os/current|Duc OS Current State]] - current priorities, active project state, next route, and vault status (context, workflow, docs)
+- [[duc-os/kickstart|Duc OS Kickstart]] - live daily clarification/control surface and execution stack (context, plan, workflow)
+- [[duc-os/engines|Duc OS Engines]] - Raven, Codex, Vault, Social, and Learning engine map (context, workflow, ai, docs)
+- [[duc-os/session-protocol|Duc OS Session Protocol]] - behavior contract for clarification-first sessions and routing discipline (context, workflow, protocol, docs)
 
 ## Operations
 <!-- Canonical operation entrypoints and operation leaves -->
@@ -15,6 +28,7 @@
 - [[wiki/learning-protocol-hub|Learning Protocol Hub]] - legacy learning/help hub now used as a reference layer under Development -> Learn (learning, protocol, meta)
 - [[wiki/synthesis/obsidian-d2-canvas-architecture-method|Canvas Architecture Method]] - top-tier architecture workflow for Canvas-first system drafting and stable markdown mirroring (obsidian, architecture, workflow, docs)
 - [[wiki/operations/session-start-operation|Session Start Operation]] - startup route for loading the right context before any task (workflow, docs, meta)
+- [[wiki/operations/kickstart-operation|Kickstart Operation]] - anti-drift start block that turns today's desired outcomes into a written execution plan with Learn/Delegate labels and checkpoints (workflow, docs, meta, plan)
 - [[wiki/operations/branch-growth-operation|Branch Growth Operation]] - pre-file-creation operation for deciding parent branch, node role, real-depth reason, Growth Contract, and propagation targets (workflow, docs, meta, architecture)
 - [[wiki/operations/file-creation-gate|File Creation Gate]] - pre-write and post-write contract for creating branch-aware vault entries after Branch Growth selects the parent branch (workflow, docs, meta)
 - [[wiki/operations/ingest-operation|Ingest Operation]] - canonical workflow for turning raw sources into vault knowledge (workflow, docs, meta)
@@ -24,6 +38,7 @@
 - [[wiki/operations/project-init-operation|Project Init Operation]] - canonical workflow for creating a new project workspace and router (workflow, docs, meta)
 - [[wiki/operations/archive-operation|Archive Operation]] - canonical workflow for retiring vault pages without breaking routing (workflow, docs, meta)
 - [[wiki/operations/lint-operation|Lint Operation]] - canonical workflow for structural audits, drift checks, and flow-check passes (workflow, docs, meta)
+- [[wiki/operations/context-token-audit-operation|Context Token Audit Operation]] - canonical workflow for compressing startup/router context while preserving task performance and lower-branch detail (workflow, docs, meta, context)
 - [[wiki/operations/context-update-operation|Context Update Operation]] - canonical workflow for updating context from live conversation or task shifts (workflow, docs, meta)
 - [[wiki/operations/self-healing-operation|Self-Healing Operation]] - canonical closeout workflow for page repair, logging, and propagation follow-through (workflow, docs, meta)
 - [[wiki/operations/canvas-architecture-operation|Canvas Architecture Operation]] - canonical workflow for Canvas-first architecture drafting and markdown mirroring (workflow, docs, meta)
@@ -72,6 +87,7 @@
 - [[projects/pathfinder/notes/docs-repo-vault-sync-policy|Repo Vault Sync Policy]] - current write boundary between vault-canonical docs and the repo mirror layer (pathfinder, workflow, docs)
 - [[projects/raven/notes/raven-context-hub|Raven Context Hub]] - context router for Raven live state, project orientation, and root-context compression (raven, context, workflow, docs)
 - [[projects/raven/notes/raven-current-context|Raven Current Context]] - live Raven implementation state, verified seams, next action, and branch status (raven, context, engineering, evaluation)
+- [[projects/raven/notes/raven-progress-map|Raven Progress Map]] - compressed past map for completed Raven work, current edge, and unresolved next decision lanes (raven, context, workflow, docs)
 - [[projects/raven/notes/raven-architecture-hub|Raven Architecture Hub]] - domain hub for Raven system maps, loop boundaries, and D2 plus Canvas planning workflow (raven, architecture, workflow, docs)
 - [[projects/raven/notes/raven-architecture-demo|Raven Architecture Demo]] - fast rendered walkthrough of the Raven D2 plus Canvas planning stack (raven, architecture, workflow, docs)
 - [[projects/raven/notes/raven-canvas-build-plan|Raven Canvas Build Plan]] - canvas-first plan for collaborative system drafting with markdown mirroring rules (raven, architecture, workflow, docs)
@@ -89,6 +105,7 @@
 - [[projects/pathfinder/README|PathFinder]] - active | vault workspace for repo docs, summaries, and project routing
 - [[projects/raven/README|Raven]] - active | Knowledge Signal Engine scaffold with hub-routed context, architecture, prompt, evaluation, workflow, and source/evidence branches
 - [[projects/raven/sources/README|Raven Sources And Evidence]] - project-local raw/evidence lane for Raven source pointers, references, datasets, traces, and repo eval evidence boundaries (raven, docs, workflow)
+- [[projects/raven/sources/transcripts/README|Raven Transcript Sources]] - project-local lane for YouTube transcript-derived source cards and synthesis pointers without full raw transcript dumps (raven, source-summary, youtube, docs)
 - [[projects/wynncraft/README|Wynncraft Assistant]] - active low-priority | leisure-control project for Wynncraft source pulls, builds, and compact next-session strategy (wynncraft, project/wynncraft)
 - [[projects/wynncraft/notes/wynncraft-player-profile|Wynncraft Player Profile]] - project-local profile for Duc's solo-first optimizer preferences, Mage route choice, and assistant-led decision constraints (wynncraft, project/wynncraft, context)
 - [[projects/wynncraft/notes/wynncraft-search-operations|Wynncraft Search Operations]] - project-local research lanes for patch, build, solo Mage, leveling, economy, QoL, and drift-audit searches (wynncraft, project/wynncraft, workflow, docs)

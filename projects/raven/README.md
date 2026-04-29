@@ -2,7 +2,7 @@
 type: project
 title: Raven
 created: '2026-04-15'
-updated: '2026-04-25'
+updated: '2026-04-29'
 tags:
   - project/raven
   - ai
@@ -14,13 +14,13 @@ priority: high
 lang: en
 feeds_into:
   - briefing.md
-  - context/now.md
-  - context/goals.md
+  - duc-os/current.md
+  - duc-os/long-arc.md
 ---
 > **TL;DR**: Raven is the active Knowledge Signal Engine scaffold: it turns Duc's tacit bullshit detector into source discovery, metadata triage, audit-backed evaluation, vault memory, and eventually public synthesis.
 
 ## Growth Contract
-- Parent branch: [[briefing]] Active Projects and `projects/`
+- Parent branch: [[briefing]] Active Projects, [[duc-os/current]], and `projects/`
 - Node role: project root router
 - First parent link: [[briefing]]
 - Growth trigger: create or promote a Raven hub when the README would otherwise route 3+ same-family leaves or when a domain starts forcing cross-note scans.
@@ -34,6 +34,7 @@ Use the smallest route that fits the task:
 | Need | Go to |
 |---|---|
 | Current live state, next seam, repo status | [[projects/raven/notes/raven-context-hub]] -> [[projects/raven/notes/raven-current-context]] |
+| Progress map, completed work, unresolved next decision | [[projects/raven/notes/raven-context-hub]] -> [[projects/raven/notes/raven-progress-map]] |
 | System shape, Canvas, ingestion/promotion architecture | [[projects/raven/notes/raven-architecture-hub]] |
 | Prompt contracts, prompt audits, prompt evolution | [[projects/raven/notes/raven-prompt-hub]] |
 | Evaluation workflow, reports, readiness, audit insight | [[projects/raven/notes/raven-evaluation-hub]] |
@@ -137,5 +138,5 @@ Raven evaluation reports and production-readiness decisions are vault-canonical 
 - [[projects/raven/notes/raven-workflow-hub]]
 - [[projects/raven/sources/README]]
 - [[wiki/synthesis/vault-target-tree-architecture]]
-- [[context/now]]
-- [[context/goals]]
+- [[duc-os/current]]
+- [[duc-os/long-arc]]

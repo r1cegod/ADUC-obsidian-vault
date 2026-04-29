@@ -2,7 +2,7 @@
 type: source-summary
 title: Current Context
 created: '2026-04-06T00:00:00.000Z'
-updated: '2026-04-25'
+updated: '2026-04-29'
 tags:
   - project/pathfinder
   - pathfinder
@@ -19,7 +19,7 @@ source: '[[projects/pathfinder/sources/docs/context/docs/CURRENT_CONTEXT.md]]'
 This is the project-local live context leaf for PathFinder.
 
 ```text
-context/now.md
+duc-os/current.md
   -> says PathFinder status and route only
 
 PathFinder Context Hub
@@ -163,7 +163,7 @@ repo-vault mirror policy detail
 Python test-folder rules
 ```
 
-Root context should only say PathFinder's status and point here.
+Duc OS current state should only say PathFinder's status and point here.
 
 ## Related
 

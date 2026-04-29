@@ -20,38 +20,39 @@ Run this before every task. It is not optional.
 
 This section is the canonical startup rule. Wrapper files like `AGENTS.md` should point here instead of restating a second competing sequence.
 
-Wrapper exception: `context/hot.md` may be read before `briefing.md` when the wrapper requires the hot cache. That read is a startup cache read, not content descent, and it does not create a page-level repair obligation by itself.
+Wrapper exception: `context/hot.md` may be read before `duc-os.md` when the wrapper requires the hot cache. That read is a startup cache read, not content descent, and it does not create a page-level repair obligation by itself.
 
 ```
 0. Optional wrapper cache: context/hot.md
-1. Read briefing.md                  ← always, except optional hot cache pre-read
-2. Read context/now.md               ← always, before any content file
-3. Check context/now.md updated date ← if > 7 days ago, flag before proceeding
-4. Check briefing.md Active Projects ← must match context/now.md Active Projects
-5. Check pending/                    ← if files exist, flag and offer to sort
-6. Check if user revealed new info   ← update context/ before starting task
+1. Read duc-os.md                    <- root operating layer and meta-router
+2. Read duc-os/current.md            <- when current state affects routing
+3. Read briefing.md                  <- dashboard when project/status snapshot is needed
+4. Check duc-os/current.md updated date <- if > 7 days ago, flag before proceeding
+5. Check briefing.md Active Projects <- must match duc-os/current.md Active Projects
+6. Check pending/                    <- if files exist, flag and offer to sort
+7. Check if user revealed new info   <- update the owning Duc OS page before starting task
 ```
 
-**Enforcement:** If you find yourself opening a wiki page, project note, or source file before completing steps 1-2, stop and go back. Skipping the tiered load is the most common failure mode.
+**Enforcement:** If you find yourself opening a wiki page, project note, source file, or repo file before completing the Duc OS route decision, stop and go back. Skipping the operating layer is the most common failure mode.
 
-**Canonical startup rule:** every task starts `briefing.md -> context/now.md`, with only the optional `context/hot.md` wrapper cache before it. Only after that may the path branch into `SCHEMA.md`, `index.md`, or a project README.
+**Canonical startup rule:** every task starts `context/hot.md -> duc-os.md`, then Duc OS decides whether `duc-os/current.md`, `briefing.md`, `SCHEMA.md`, `index.md`, or a project README is needed.
 
 ### Canonical Startup Matrix
 
-After optional `context/hot.md` and required `briefing.md -> context/now.md`, choose the smallest next step that fits the task:
+After optional `context/hot.md` and required `duc-os.md`, choose the smallest next step that fits the task:
 
 | Task type | Next page |
 |-----------|-----------|
-| Simple repo task or direct question | Stop if Tier 0+1 is already enough |
-| Active project repo work | `projects/<name>/README.md` |
+| Simple repo task or direct question | Stop if Duc OS route decision is enough |
+| Active project repo work | `briefing.md` dashboard if needed, then `projects/<name>/README.md` |
 | Wiki operation (ingest, sort, lint, query, archive, draft, self-healing) | `wiki/operations-hub`, then the canonical leaf |
 | Project workflow / docs / handoff question | `projects/<name>/README.md`, then the relevant hub |
 | Exact contract wording / source precision | relevant project note first, then raw source only if still needed |
 
 Default for project work:
 - `context/hot.md` only if required by the wrapper
-- `briefing.md`
-- `context/now.md`
+- `duc-os.md`
+- `briefing.md` dashboard when project/status snapshot is needed
 - `projects/<name>/README.md`
 - one targeted hub or note
 - raw sources only when precision requires it
@@ -62,14 +63,16 @@ Use this when you need the smallest next page instead of scanning the whole manu
 
 | Need | Next page |
 |------|-----------|
-| Vault maintenance, drift, logging, or workflow audit | `vault-keeping.md` |
-| Decide where a new durable vault node should attach | `vault-keeping.md` -> `wiki/operations/branch-growth-operation` |
-| Official operation family or canonical workflow leaf | `wiki/operations-hub` |
+| Root operating route, KICKSTART, leverage, or current direction | `duc-os.md` |
+| Current state | `duc-os/current.md` |
+| Vault maintenance, drift, logging, or workflow audit | `duc-os.md` -> `vault-keeping.md` |
+| Decide where a new durable vault node should attach | `duc-os.md` -> `vault-keeping.md` -> `wiki/operations/branch-growth-operation` |
+| Official operation family or canonical workflow leaf | `duc-os.md` -> `wiki/operations-hub` |
 | Exact constitutional rule, schema, or propagation law | `SCHEMA.md` |
-| Project work | `projects/<name>/README.md` |
-| Architecture planning | `projects/<name>/README.md` -> relevant architecture hub -> active `.canvas` |
-| Collaborative feature drafting | `wiki/operations-hub` -> `wiki/operations/draft-operation` |
-| Technical-help / learning / delegation gate | `development.md` -> `wiki/operations/detect-operation` |
+| Project work | `duc-os.md` -> `briefing.md` if needed -> `projects/<name>/README.md` |
+| Architecture planning | `duc-os.md` -> project README -> relevant architecture hub -> active `.canvas` |
+| Collaborative feature drafting | `duc-os.md` -> `wiki/operations-hub` -> `wiki/operations/draft-operation` |
+| Technical-help / learning / delegation gate | `duc-os.md` -> `development.md` -> `wiki/operations/detect-operation` |
 
 ## Official Operation Evolution Law
 
@@ -168,8 +171,8 @@ D. Growth Contract:
 
 E. Project file?
    If this file is a project README or adds a new project:
-   → You will need to add it to BOTH briefing.md Active Projects
-     AND context/now.md Active Projects in this same session.
+   -> You will need to add it to BOTH briefing.md Active Projects
+     AND duc-os/current.md Active Projects in this same session.
    These two lists must always match. The Session Start Protocol
    checks for this mismatch on every session load.
 ```
@@ -199,17 +202,17 @@ After every Write to the vault:
 
 6. briefing.md Active Projects vs Navigation
    File is a new project README?
-   → Add to briefing.md Active Projects AND context/now.md Active Projects.
-   → Do NOT add a separate Navigation entry for active projects.
+   -> Add to briefing.md Active Projects AND duc-os/current.md Active Projects.
+   -> Do NOT add a separate Navigation entry for active projects.
      Active Projects already routes to them. Navigation is for
-     utilities (SCHEMA, index, log, context), not active projects.
+     utilities (SCHEMA, index, log, Duc OS), not active projects.
    File is a global utility hub (protocol, schema, non-project reference)?
-   → Add to briefing.md Navigation only.
+   -> Add to briefing.md Navigation only.
 
-7. context/now.md
+7. duc-os/current.md
    File changes what agents should know on next session start?
-   → Update context/now.md Vault Status now.
-   If it's a new project → also update Active Projects section (not just Vault Status).
+   -> Update duc-os/current.md Vault Status now.
+   If it's a new project -> also update Active Projects section (not just Vault Status).
 ```
 
 **Why this exists:** "write back durable changes at end of task" relies on the agent remembering — which is the failure mode. A gate that triggers per Write call cannot be forgotten.
@@ -225,24 +228,25 @@ After every Write to the vault:
 Load context in tiers. **Stop after each tier and ask: is this enough to complete the task?** Only descend if you genuinely need more.
 
 ```
-Tier 0: briefing.md        (~200 tokens)  — ALWAYS read first. Stop here if the task is simple.
+Tier 0: duc-os.md          (~root route) — ALWAYS read after optional hot cache. Stop here if the route is clear.
          ↓ only if you need more
-Tier 1: context/now.md     (~200 tokens)  — read for current priorities
+Tier 1: duc-os/current.md  — read when current priorities affect routing
+        briefing.md        — read when project/status dashboard is needed
         index.md           (~500-1500 tokens) — read to find specific pages
         SCHEMA.md          (this file) — read only when doing wiki operations
          ↓ only if you need more
 Tier 2: wiki/, projects/   — read only the pages relevant to the task
 ```
 
-**Simple task** (write code, answer a question): read `briefing.md` → stop if enough context.
-**Wiki operation** (ingest, query, lint): read `briefing.md` → `SCHEMA.md` → `index.md` → relevant pages.
-**Project task** (work on a specific active project): read `briefing.md` → identify project → open `projects/<name>/README.md` → read the relevant pages in `projects/<name>/notes/` → open raw project sources only when precision requires it.
+**Simple task** (write code, answer a question): read `duc-os.md` -> stop if route and context are enough.
+**Wiki operation** (ingest, query, lint): read `duc-os.md` -> `SCHEMA.md` -> `index.md` -> relevant pages.
+**Project task** (work on a specific active project): read `duc-os.md` -> `briefing.md` when dashboard is needed -> open `projects/<name>/README.md` -> read the relevant pages in `projects/<name>/notes/` -> open raw project sources only when precision requires it.
 
 **Anti-pattern to avoid:** opening multiple content files in parallel before completing Tier 0. Parallel reads are efficient but bypass the tiered stop-check. Read briefing.md alone first, then decide.
 
 **Note on agent tool defaults:** Claude Code defaults to parallel tool calls for efficiency. This creates a structural tension with the tiered stop-check. Resolution: parallel reads are acceptable *within* a tier (e.g., reading two Tier 1 files together is fine), but never *across* tiers (Tier 0 must complete before opening Tier 1 files). The stop-check happens between tiers, not between individual reads within a tier.
 
-**Stop-check applies to writes too:** The tiered stop-check is not just a reading rule. Creating vault files is a Tier 2+ action — it should only happen after you have completed at least Tier 0 + Tier 1 load. If you find yourself about to call the Write tool without having read briefing.md and context/now.md in this session, stop and load them first.
+**Stop-check applies to writes too:** The tiered stop-check is not just a reading rule. Creating vault files is a Tier 2+ action. If you find yourself about to call the Write tool without having read `duc-os.md` and the relevant current/dashboard route for this session, stop and load them first.
 
 ---
 
@@ -250,11 +254,13 @@ Tier 2: wiki/, projects/   — read only the pages relevant to the task
 
 | Path | Contents | Notes |
 |------|----------|-------|
-| `briefing.md` | Vault orientation | Always read first. Keep under 500 tokens. |
+| `duc-os.md` | Root operating layer and meta-router | Read after optional hot cache. Owns stance, current route choice, and when to enter other routers. |
+| `duc-os/` | Duc OS domain leaves | Identity, long arc, current state, KICKSTART, engines, and session protocol. |
+| `briefing.md` | Active-project dashboard | Loaded when Duc OS needs compact project/status snapshot. Keep under 500 tokens. |
 | `development.md` | Top-tier development-domain router | Detect -> Learn/Delegate for technical help and code delegation. |
 | `index.md` | Content routing table | Updated after every ingest. |
 | `log.md` | Activity log navigation | One line per day; real log blocks live under `sources/log/days/`. |
-| `context/` | User profile + active state | The "brain" layer. |
+| `context/` | Compatibility redirects + hot cache | Deep authority moved to `duc-os/`; keep old links working. |
 | `pending/` | Drop zone for unsorted files | Agents sort and ingest. Check on every session. |
 | `sources/` | Raw source documents + vault activity-log source files | Global sources. Use `articles/`, `docs/`, `transcripts/`, `misc/`, `projects/`, and `log/` as the first filing layer. |
 | `images/` | Image sources (screenshots, diagrams, photos) | Treated as sources — agents read and reference. |
@@ -296,7 +302,7 @@ Treat the vault as two cooperating layers:
 Default rule:
 - Agents should summarize *out of* human-primary notes into compiled pages rather than rewriting the original notes into agent voice.
 - If a daily note contains a durable idea, promote it into a concept, synthesis, project note, or task page instead of over-editing the day note.
-- Exception: `context/` files and daily notes may still be updated when the task explicitly asks for it or when the conversation-triggered context rule requires it.
+- Exception: Duc OS pages and daily notes may still be updated when the task explicitly asks for it or when the conversation-triggered context rule requires it. `context/` files are compatibility stubs except for `context/hot.md`.
 
 ### Two-Layer Human Log Pattern
 
@@ -332,8 +338,9 @@ Project README pages always live at `projects/<name>/README.md`.
 
 For any task tied to a named project or an active project listed in `briefing.md`, agents should use the smallest sufficient route:
 
-1. `briefing.md` — confirm the active project and current vault focus
-2. `projects/<name>/README.md` — use this as the project router
+1. `duc-os.md` - choose the operating route
+2. `briefing.md` - confirm the active project and current dashboard state when needed
+3. `projects/<name>/README.md` - use this as the project router
 3. Choose the smallest next step that fits the task:
    - stable orientation -> `projects/<name>/notes/docs-project-context.md` or equivalent
    - live workstream -> `projects/<name>/notes/docs-current-context.md` or equivalent
@@ -374,8 +381,8 @@ Use this when the task is architecture-heavy rather than code-local.
 Route:
 
 ```text
-briefing.md
-  -> context/now.md
+duc-os.md
+  -> briefing.md when dashboard is needed
   -> projects/<name>/README.md
   -> relevant architecture hub
   -> active .canvas board
@@ -583,7 +590,7 @@ Canonical leaf: [[wiki/operations/project-init-operation]]
 Constitutional role:
 - PROJECT INIT creates a new project workspace with a real router, not just an empty folder.
 - Every project starts with a README router, `notes/` compiled-knowledge lane, and `sources/` raw/evidence lane.
-- New projects must sync `briefing.md`, `context/now.md`, and `index.md` in the same session.
+- New projects must sync `briefing.md`, `duc-os/current.md`, and `index.md` in the same session.
 - README pages are routing hubs, not passive descriptions; deeper hubs emerge from real branch pressure, not template worship.
 - Use the leaf page for exact structure and sync steps.
 
@@ -631,8 +638,8 @@ Constitutional role:
 Canonical leaf: [[wiki/operations/context-update-operation]]
 
 Constitutional role:
-- Conversation can change vault context even when no source document was ingested.
-- Personal info, project-state changes, and priority changes must update the right `context/` file before the main task when they matter for future routing.
+- Conversation can change Duc OS / vault context even when no source document was ingested.
+- Personal info, project-state changes, and priority changes must update the right Duc OS page before the main task when they matter for future routing.
 - Architectural decisions, code behavior, and file paths do not get patched from conversation alone; verify them in the actual files first.
 - Use the leaf page for trigger and closeout steps.
 
@@ -664,7 +671,9 @@ Allowed write-back:
 
 These pages are high-frequency routers:
 - `briefing.md`
-- `context/now.md`
+- `duc-os.md`
+- `duc-os/current.md`
+- `briefing.md`
 - `projects/<name>/README.md`
 - project hub pages
 
@@ -699,24 +708,26 @@ then do not force a page-by-page repair pass again. A single log note like "stab
 
 | File edited | Must check | Why |
 |-------------|-----------|-----|
-| `briefing.md` | `context/now.md` | Active Projects list must match between both files |
-| `context/now.md` | `briefing.md` | Active Projects list must match between both files |
-| `context/now.md` | `index.md` | Vault Status changes may require index header update |
+| `duc-os.md` | `AGENTS.md`, `CLAUDE.md`, `briefing.md`, `index.md` | Root operating route must stay visible from wrappers and dashboard |
+| `duc-os/current.md` | `briefing.md`, `index.md` | Current state and Active Projects dashboard must stay aligned |
+| `briefing.md` | `duc-os/current.md` | Active Projects list must match between dashboard and current state |
+| `context/now.md` | `duc-os/current.md` | Compatibility stub must keep pointing to current-state authority |
 | `SCHEMA.md` | `CLAUDE.md`, `AGENTS.md` | Rule changes in SCHEMA must be reflected in both wrapper files |
 | `CLAUDE.md` | `AGENTS.md` | Behavioral rule changes must be consistent across agent entry points |
 | `AGENTS.md` | `CLAUDE.md` | Behavioral rule changes must be consistent across agent entry points |
-| `context/hot.md` | _(terminal)_ | Nothing feeds from the hot cache |
+| `context/hot.md` | `duc-os.md` | Hot cache now routes into Duc OS first |
 | `development.md` | `briefing.md`, `AGENTS.md`, `CLAUDE.md`, `wiki/operations-hub.md`, `index.md` | Top development-domain routing must stay visible from startup and both agent wrappers |
 | `wiki/operations/branch-growth-operation.md` | `vault-keeping.md`, `wiki/operations-hub.md`, `wiki/operations/file-creation-gate.md`, `wiki/operations/project-init-operation.md`, `index.md` | Branch Growth must stay visible from maintenance, operation routing, and creation gates |
 | `index.md` | _(terminal)_ | Routing table — nothing reads index to update itself |
 | `log.md` | _(terminal)_ | Navigation index — content lives in day files |
-| `briefing.md` | _(terminal)_ | Entry point — nothing reads briefing to update itself |
+| `briefing.md` | `duc-os/current.md` | Dashboard must stay aligned with current-state authority |
 
 ### Pattern Rules
 
 | File pattern | Must check | Why |
 |-------------|-----------|-----|
-| `projects/*/README.md` | `briefing.md`, `context/now.md` | Project status changes propagate to Active Projects lists |
+| `duc-os/*.md` | `duc-os.md`, `index.md` | Duc OS leaf changes may require root OS routing and index updates |
+| `projects/*/README.md` | `briefing.md`, `duc-os/current.md` | Project status changes propagate to dashboard and current-state authority |
 | `projects/*/notes/*-hub.md` | `projects/*/README.md` (same project) | Hub routing changes may require README task-router update |
 | `projects/*/notes/*.canvas` | `projects/*/notes/<project>-architecture-hub.md`, `projects/*/README.md` (same project) | Canvas routing changes must stay explicit and discoverable from the project docs layer |
 | `sources/log/days/YYYY-MM-DD.md` | `log.md` | Day file write requires navigation line sync in log.md |

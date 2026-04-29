@@ -2,7 +2,7 @@
 type: operation
 title: File Creation Gate
 created: '2026-04-21T00:00:00.000Z'
-updated: '2026-04-25'
+updated: '2026-04-29'
 tags:
   - workflow
   - docs
@@ -47,7 +47,7 @@ If the file would create fake depth, do not create a hub. Create or update a lea
 2. Choose registered tags from [[index.md]]. If a genuinely new tag is needed, register it first.
 3. Choose the nearest matching template and keep its Growth Contract section.
 4. Confirm project/routing implications:
-   - Project root files must keep Active Projects aligned between [[briefing.md]] and [[context/now]].
+   - Project root files must keep Active Projects aligned between [[briefing]] and [[duc-os/current]].
    - Hub files must link from their parent router first.
    - Leaf files must link from the nearest valid hub or README, not from every top-level router.
    - Source/evidence files must stay reachable without becoming the first read.

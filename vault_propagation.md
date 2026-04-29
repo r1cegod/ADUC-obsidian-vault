@@ -33,9 +33,9 @@ Wire 2  feeds_into:      Frontmatter on structural nodes
 
 Wire 3  Hot Cache        context/hot.md
          ↓
-         Session-continuity file. Agent reads first, every session.
+         Session-continuity file. Agent reads before Duc OS.
          Lists stable routers that don't need a repair pass.
-         Compresses the 5-file tier load → 1 read in repeat sessions.
+         Hands off to duc-os.md as the root operating layer.
 
 Wire 4  PostToolUse      scripts/check_propagation.py → settings.json
          ↓
@@ -49,17 +49,17 @@ Wire 4  PostToolUse      scripts/check_propagation.py → settings.json
 ## How They Interact
 
 ```
-Agent writes context/now.md
+Agent writes duc-os/current.md
         │
         ▼  [Wire 4 fires — PostToolUse hook]
         │
         ├─ script reads file_path from stdin JSON
-        ├─ looks up "context/now.md" in EXACT_RULES          ← Wire 1 data
+        ├─ looks up "duc-os/current.md" in EXACT_RULES       <- Wire 1 data
         └─ prints:
-           ⚡ PROPAGATION REQUIRED after writing: context/now.md
-             → briefing.md
-                Active Projects must match between context/now and briefing
-             → index.md
+           PROPAGATION REQUIRED after writing: duc-os/current.md
+             -> briefing.md
+                Active Projects must match between duc-os/current and briefing
+             -> index.md
                 Vault Status changes may require index header update
 
         Agent updates briefing.md
@@ -67,10 +67,10 @@ Agent writes context/now.md
         ▼  [Wire 4 fires again]
         │
         └─ prints:
-           ⚡ PROPAGATION REQUIRED after writing: briefing.md
-             → context/now.md
-                Active Projects must match between briefing and context/now
-           (already done — agent checks it off and stops)
+           PROPAGATION REQUIRED after writing: briefing.md
+             -> duc-os/current.md
+                Active Projects must match between briefing and duc-os/current
+           (already done - agent checks it off and stops)
 
 Next session:
         Agent reads context/hot.md                           ← Wire 3
@@ -83,12 +83,21 @@ Next session:
 
 ## Graph Shape
 
+Compatibility stubs in `context/` point into Duc OS. They are not updated on every current-state change unless the redirect itself changes.
+
 ```
 feeds_into: relationships on structural nodes only           ← Wire 2
 
-context/me.md   ──────────────────────────────►  (terminal)
-context/goals.md ─────────────────────────────►  (terminal)
-context/hot.md  ──────────────────────────────►  (terminal)
+duc-os.md       ──────────────────────────────►  AGENTS.md / CLAUDE.md / briefing.md
+
+duc-os/current.md ────────────────────────────►  briefing.md / index.md
+
+duc-os/*.md    ───────────────────────────────►  duc-os.md / index.md
+
+context/me.md   ──────────────────────────────►  duc-os/identity.md
+context/goals.md ─────────────────────────────►  duc-os/long-arc.md
+context/now.md  ──────────────────────────────►  duc-os/current.md
+context/hot.md  ──────────────────────────────►  duc-os.md
 index.md        ──────────────────────────────►  (terminal)
 log.md          ──────────────────────────────►  (terminal)
 
@@ -104,11 +113,10 @@ wiki/operations/branch-growth-operation.md ───►  vault-keeping.md
                                              ─►  wiki/operations/project-init-operation.md
                                              ─►  index.md
 
-context/now.md  ──────────────────────────────►  briefing.md
-briefing.md     ──────────────────────────────►  context/now.md  (bidirectional: Active Projects)
+briefing.md     ──────────────────────────────►  duc-os/current.md  (bidirectional: Active Projects)
 
 projects/*/README.md  ────────────────────────►  briefing.md
-                      ────────────────────────►  context/now.md
+                      ────────────────────────►  duc-os/current.md
 
 projects/*/notes/*-hub.md  ───────────────────►  projects/*/README.md
 
@@ -121,7 +129,7 @@ projects/*/notes/*.md  ───────────────────
 ```
 
 Max depth from any leaf to vault root: **4 hops**. No cycles except the
-briefing ↔ context/now.md Active Projects bidirectional constraint.
+briefing <-> duc-os/current.md Active Projects bidirectional constraint.
 
 ---
 
@@ -144,11 +152,11 @@ When you create a new project README, hub, or vault-root operational doc:
 ### Adding a New Project
 
 ```
-1. Create projects/<name>/README.md with feeds_into: [briefing.md, context/now.md]
+1. Create projects/<name>/README.md with feeds_into: [briefing.md, duc-os/current.md]
 2. Include the project-root Growth Contract: parent branch, node role, first parent link, growth trigger, forbidden contents, expected child types
-3. Add EXACT_RULES entry: "projects/<name>/README.md" → [briefing.md, context/now.md]
-   (pattern rule already covers this — verify the pattern_rule lambda matches)
-4. Update briefing.md Active Projects + context/now.md Active Projects
+3. Add EXACT_RULES entry: "projects/<name>/README.md" -> [briefing.md, duc-os/current.md]
+   (pattern rule already covers this - verify the pattern_rule lambda matches)
+4. Update briefing.md Active Projects + duc-os/current.md Active Projects
 5. PostToolUse hook will enforce downstream propagation from that point forward
 ```
 
@@ -179,7 +187,7 @@ Pattern rules reduce the need for exact entries — prefer patterns for file fam
 | Sync matrix | `SCHEMA.md → Propagation Sync Matrix` | Source of truth for propagation rules |
 | Hook script | `scripts/check_propagation.py` | PostToolUse enforcement |
 | Hook config | `C:/Users/r1ceg/.claude/settings.json` | Wires script to Claude Code PostToolUse |
-| Hot cache | `context/hot.md` | Session-continuity, stable router skip |
+| Hot cache | `context/hot.md` | Session-continuity cache before Duc OS |
 | feeds_into: | Frontmatter on structural nodes | Machine-readable graph |
 
 ---

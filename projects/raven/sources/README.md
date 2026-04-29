@@ -45,7 +45,11 @@ Create subfolders only when real evidence pressure appears:
 eval/        pointers or curated evidence related to evaluation runs
 references/  project-local external references
 raw/         raw material that belongs to Raven but is not yet compiled
+transcripts/ transcript-derived source cards and synthesis pointers
 ```
+
+Active child lane:
+- [[projects/raven/sources/transcripts/README|Raven Transcript Sources]] - YouTube transcript-derived source cards; no full raw transcript dumps.
 
 Do not create empty decorative folders.
 

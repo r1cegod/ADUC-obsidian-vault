@@ -2,7 +2,7 @@
 type: hub
 title: Operations Hub
 created: 2026-04-21T00:00:00.000Z
-updated: '2026-04-25'
+updated: '2026-04-29'
 tags:
   - workflow
   - docs
@@ -33,6 +33,7 @@ Use family hubs when the family is already obvious:
 
 ## Start / Close
 - [[wiki/operations/session-start-operation]] - load the right vault context before any task
+- [[wiki/operations/kickstart-operation]] - turn today's intended outcomes into a written execution plan with Learn/Delegate labels and drift guards
 - [[wiki/operations/self-healing-operation]] - repair pages, log durable work, and close out correctly
 - [[wiki/operations/context-update-operation]] - patch context when live conversation changes what the vault should remember
 
@@ -41,6 +42,7 @@ Use family hubs when the family is already obvious:
 - [[wiki/operations/branch-growth-operation]] - decide parent branch, node role, real-depth reason, Growth Contract, and propagation targets before creating durable vault nodes
 - [[wiki/operations/file-creation-gate]] - create new vault files cleanly after Branch Growth selects the parent branch
 - [[wiki/operations/lint-operation]] - run structural audits and flow checks
+- [[wiki/operations/context-token-audit-operation]] - compress startup/router context while preserving task performance and lower-branch detail
 - [[wiki/operations/sort-operation]] - move pending files into the right lane
 
 ## Content

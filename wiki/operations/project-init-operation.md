@@ -2,7 +2,7 @@
 type: operation
 title: Project Init Operation
 created: '2026-04-21T00:00:00.000Z'
-updated: '2026-04-25'
+updated: '2026-04-29'
 tags:
   - workflow
   - docs
@@ -50,9 +50,9 @@ What is explicitly not in scope?
 Every new project README must include a Growth Contract:
 
 ```text
-parent branch: briefing/context project list
+parent branch: Duc OS / briefing project dashboard
 node role: project root router
-first parent link: briefing.md and/or context/now.md when active
+first parent link: briefing.md and/or duc-os/current.md when active
 growth trigger: when one task route starts carrying 3+ real children
 forbidden contents: raw evidence, full implementation logs, unrelated project memory
 expected child types: context, architecture, prompt, evaluation, workflow, sources, feature hubs only when pressure is real
@@ -75,7 +75,7 @@ Common project branches are context, architecture, features, prompts, evaluation
 2. Create `projects/<name>/README.md`, `notes/`, and `sources/`.
 3. Write the README as a task router with source/evidence boundaries.
 4. Create only initial hubs that already have real routing pressure.
-5. Register the project in [[index.md]], [[briefing.md]], and [[context/now]] if active.
+5. Register the project in [[index.md]], [[briefing]], and [[duc-os/current]] if active.
 6. Add propagation rules when the project root or new structural hubs need downstream checks.
 7. Log the project creation or repair the same session.
 
@@ -98,5 +98,5 @@ Common project branches are context, architecture, features, prompts, evaluation
 - [[wiki/operations/branch-growth-operation]]
 - [[wiki/synthesis/vault-target-tree-architecture]]
 - [[SCHEMA.md]]
-- [[briefing.md]]
-- [[context/now]]
+- [[briefing]]
+- [[duc-os/current]]

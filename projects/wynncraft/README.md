@@ -2,7 +2,7 @@
 type: project
 title: Wynncraft Assistant
 created: '2026-04-26'
-updated: '2026-04-26'
+updated: '2026-04-29'
 tags:
   - wynncraft
   - project/wynncraft
@@ -11,12 +11,12 @@ lang: en
 priority: low
 feeds_into:
   - briefing.md
-  - context/now.md
+  - duc-os/current.md
 ---
 > **TL;DR**: Time-boxed Wynncraft assistant project: preserve fun by letting the vault carry builds, sources, route decisions, and next-session strategy.
 
 ## Growth Contract
-- Parent branch: [[briefing.md]] and [[context/now]] Active Projects
+- Parent branch: [[briefing.md]] dashboard and [[duc-os/current]] Active Projects
 - Node role: project root router
 - First parent link: [[briefing.md]]
 - Growth trigger: create a child hub only when one route has 3+ real notes or repeated source pulls.
@@ -76,4 +76,4 @@ Out of scope:
 - [[projects/wynncraft/notes/wynncraft]]
 - [[projects/wynncraft/sources/README]]
 - [[briefing.md]]
-- [[context/now]]
+- [[duc-os/current]]

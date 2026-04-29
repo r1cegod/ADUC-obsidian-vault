@@ -2,7 +2,7 @@
 type: note
 title: Raven Evaluation Domain
 created: '2026-04-20'
-updated: '2026-04-26'
+updated: '2026-04-29'
 tags:
   - project/raven
   - evaluation
@@ -72,7 +72,7 @@ When a Raven eval run happens, close it like this:
 3. Write or update the human-readable report in `projects/raven/notes/`.
 4. Write/update [[projects/raven/notes/raven-evaluation-insights]] if the run produced durable learning.
 5. Link the report from [[projects/raven/notes/raven-evaluation-hub]], not directly from [[projects/raven/README]] unless it changes project-level status.
-6. Update `context/hot.md` or `context/now.md` only when continuity, next action, or production status changed.
+6. Update `context/hot.md` or [[duc-os/current]] only when continuity, next action, or production status changed.
 7. Log the work in `sources/log/days/YYYY-MM-DD.md`.
 
 ## Current Reports And Leaves

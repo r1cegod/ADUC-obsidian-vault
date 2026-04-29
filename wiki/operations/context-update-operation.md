@@ -1,13 +1,16 @@
 ---
 type: operation
-title: "Context Update Operation"
-created: 2026-04-21
-updated: 2026-04-21
-tags: [workflow, docs, context]
+title: Context Update Operation
+created: 2026-04-21T00:00:00.000Z
+updated: '2026-04-29'
+tags:
+  - workflow
+  - docs
+  - context
 status: active
 lang: en
 ---
-> **TL;DR**: Update the vault’s context layer when live conversation changes what future sessions should know.
+> **TL;DR**: Update the owning Duc OS page when live conversation changes what future sessions should know.
 
 ## When To Use
 Use when the user reveals durable new context in conversation.
@@ -18,9 +21,10 @@ Use when the user reveals durable new context in conversation.
 - [[vault-keeping]]
 
 ## Steps
-1. Decide which context file owns the new fact.
-2. Update the context file before the main task if it affects routing or judgment.
-3. Log the update in the current day file.
+1. Decide which Duc OS page owns the new fact: [[duc-os/identity]], [[duc-os/long-arc]], [[duc-os/current]], [[duc-os/kickstart]], [[duc-os/engines]], or [[duc-os/session-protocol]].
+2. Update that Duc OS page before the main task if it affects routing or judgment.
+3. Leave `context/` stubs alone unless compatibility routing itself changes.
+4. Log the update in the current day file.
 
 ## Routing Out
 - Continue main task after context is current
@@ -34,6 +38,7 @@ Use when the user reveals durable new context in conversation.
 
 ## Related
 - [[SCHEMA.md]]
-- [[context/now]]
-- [[context/me]]
-- [[context/goals]]
+- [[duc-os]]
+- [[duc-os/current]]
+- [[duc-os/identity]]
+- [[duc-os/long-arc]]

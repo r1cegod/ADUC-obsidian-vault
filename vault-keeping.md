@@ -2,7 +2,7 @@
 type: hub
 title: Vault Keeping
 created: 2026-04-12T00:00:00.000Z
-updated: '2026-04-25'
+updated: '2026-04-29'
 tags:
   - vault
   - meta
@@ -11,20 +11,20 @@ tags:
 status: active
 lang: en
 feeds_into:
+  - duc-os.md
   - briefing.md
   - AGENTS.md
   - CLAUDE.md
   - wiki/operations-hub.md
 ---
 
-> **TL;DR**: Top-tier maintenance-family hub for keeping the vault reliable: drift control, logging, self-healing, propagation, and maintenance audits.
+> **TL;DR**: Maintenance-family hub under Duc OS for keeping the vault reliable: drift control, logging, self-healing, propagation, and maintenance audits.
 
 ---
 
-Use `vault-keeping` when the task is about keeping the vault reliable: maintenance, drift, logging, self-healing, propagation, or operation audits.
+Use `vault-keeping` when Duc OS has routed the session into vault reliability: maintenance, drift, logging, self-healing, propagation, or operation audits.
 
-This is the maintenance-family hub, not the global registry for every official operation.
-For all official operations, use [[wiki/operations-hub]].
+This is the maintenance-family hub, not the global registry for every official operation and not the root operating brain. For all official operations, use [[wiki/operations-hub]]. For stance, current direction, and router choice, return to [[duc-os]].
 
 ## Fast Route
 
@@ -32,12 +32,14 @@ For all official operations, use [[wiki/operations-hub]].
 |-------------|-------|
 | Run a vault maintenance audit | [[wiki/operations/lint-operation]] |
 | Fix drift in one domain | [[wiki/operations/lint-operation]] |
+| Optimize context/token loading without degrading task quality | [[wiki/operations/context-token-audit-operation]] |
 | Sort unsorted files from pending/ | [[wiki/operations/sort-operation]] |
 | Repair or close out vault edits | [[wiki/operations/self-healing-operation]] |
 | Decide where a new vault node should attach | [[wiki/operations/branch-growth-operation]] |
 | Make a new entry ready to grow | [[wiki/operations/branch-growth-operation]] -> Growth Contract |
 | Add a new vault page correctly | [[wiki/operations/branch-growth-operation]] → [[wiki/operations/file-creation-gate]] |
-| Understand what to update after writing a file | [[vault_propagation]] → How They Interact + Wire 4 |
+| Understand what to update after writing a file | [[vault_propagation]] -> How They Interact + Wire 4 |
+| Return to root route after maintenance | [[duc-os]] |
 
 ---
 
@@ -47,7 +49,7 @@ The continuous work that keeps the vault navigable, fresh, and consistent:
 
 ```
 Drift-free navigation  →  index.md never falls behind page count
-Fresh context          →  context/now.md never stale > 7 days
+Fresh current state    ->  duc-os/current.md never stale > 7 days
 Consistent structure   →  every new file passes File Creation Gate
 Propagated updates     →  every Write triggers downstream targets
 ```
@@ -120,12 +122,12 @@ Fires at the start and end of every session.
 | Step | Check | Source |
 |------|-------|--------|
 | 0 | Read `context/hot.md` first. Stable routers listed → skip repair pass. | [[wiki/operations/session-start-operation]] |
-| 1 | Read `briefing.md` | [[wiki/operations/session-start-operation]] |
-| 2 | Read `context/now.md`. Is `updated` date > 7 days? → Flag. | [[wiki/operations/session-start-operation]] |
-| 3 | briefing Active Projects ↔ context/now Active Projects must match | [[wiki/operations/session-start-operation]] |
+| 1 | Read `duc-os.md` | [[wiki/operations/session-start-operation]] |
+| 2 | Read `duc-os/current.md` when current state affects routing. Is `updated` date > 7 days? -> Flag. | [[wiki/operations/session-start-operation]] |
+| 3 | briefing Active Projects <-> duc-os/current Active Projects must match | [[wiki/operations/session-start-operation]] |
 | 4 | Files in `pending/`? → Flag and offer SORT | [[wiki/operations/sort-operation]] |
 | 5 | Index drift? Glob a project's notes dir, compare to `index.md`. Add missing. | [[CLAUDE.md]] → Session start check |
-| 6 | User revealed new context? → Update `context/` before starting task | [[wiki/operations/context-update-operation]] |
+| 6 | User revealed new context? -> Update the owning Duc OS page before starting task | [[wiki/operations/context-update-operation]] |
 
 **At session end (run the applicable mandatory checks before ending response):**
 
@@ -134,7 +136,7 @@ Fires at the start and end of every session.
 | 1 | Write day log entry for durable work | [[wiki/operations/self-healing-operation]] |
 | 2 | Sync the log index only for a new day or changed daily summary | [[sources/log/HOW_TO_WRITE.md]] |
 | 3 | Delta-update `context/hot.md` only when continuity, stable-router status, or next action changed | [[context/hot]] |
-| 4 | Patch `context/` if user revealed new info | [[wiki/operations/context-update-operation]] |
+| 4 | Patch the owning Duc OS page if user revealed new info | [[wiki/operations/context-update-operation]] |
 
 **Vault-first closeout for architecture work:**
 ```text
@@ -164,6 +166,7 @@ Triggered by drift accumulation or scheduled review. Not every session.
 |-----------|-------------|--------|
 | **SORT** | `pending/` has files. Offer at every session start. | [[wiki/operations/sort-operation]] |
 | **Flow-Check** | A domain hasn't been swept recently (> 1 week). One domain per session. | [[wiki/operations/lint-operation]] |
+| **Context Token Audit** | Startup or router files feel bloated, or token savings are needed without losing task performance. | [[wiki/operations/context-token-audit-operation]] |
 | **LINT** | Full vault structural audit. Trigger: > 10 new pages OR > 2 weeks since last pass. | [[wiki/operations/lint-operation]] |
 
 **Flow-Check scope (one domain = all four layers):**
@@ -197,7 +200,7 @@ When vault topology changes: new project, new hub, new operational doc, new stru
 4. Add the hub to [[briefing.md]], wrapper entrypoints, and [[wiki/operations-hub]].
 5. Patch [[SCHEMA.md]] Fast Route, constitutional operation section, Directory Map if needed, and Propagation Sync Matrix.
 6. Patch [[vault_propagation]] graph shape and `scripts/check_propagation.py` EXACT_RULES for the new root hub.
-7. Update [[context/now]] and [[context/hot]] only when future sessions need the new route.
+7. Update [[duc-os/current]] and [[context/hot]] only when future sessions need the new route.
 8. Write the day-log entry and sync [[log.md]] if this is a new day or changed summary.
 ```
 
@@ -219,22 +222,23 @@ Then write those decisions into the page's Growth Contract when the node becomes
 Phase 1 — Pre-Write:
   type:    → check SCHEMA.md type list (add new type first if needed)
   tags:    → check index.md tag registry (add new tags first, then select)
-  project? → briefing.md + context/now.md Active Projects must both be updated
+  project? -> briefing.md + duc-os/current.md Active Projects must both be updated
 
 Phase 2 — Post-Write:
   Index entry  → wiki/, learning/, references/, projects/ files → add to index.md
   New dir      → add row to SCHEMA.md Directory Map
-  New project  → update both briefing.md and context/now.md Active Projects
-  Context shift → update context/now.md Vault Status
+  New project  -> update both briefing.md and duc-os/current.md Active Projects
+  Context shift -> update duc-os/current.md Vault Status
 ```
 
 ---
 
 ## After Use Evolution Check
-- Was the maintenance route obvious without scanning `SCHEMA.md`?
+- Was the maintenance route obvious from [[duc-os]] without scanning `SCHEMA.md`?
 - Did this hub point to the right maintenance leaf page?
 - Did any maintenance step still depend on memory instead of routing?
 - Did the closeout burn unnecessary tokens?
+- Did legacy `context/now`, `context/me`, `context/goals`, or `context/kickstart` wording appear in a living surface that should now point to Duc OS?
 - If friction appeared, patch this hub now or log the named gap today.
 
 ---

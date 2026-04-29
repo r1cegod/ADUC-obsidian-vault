@@ -13,7 +13,7 @@ lang: en
 > **TL;DR**: 
 
 ## Growth Contract
-- Parent branch: [[briefing.md]] and [[context/now]] if active
+- Parent branch: [[briefing.md]] dashboard and [[duc-os/current]] if active
 - Node role: project root router
 - First parent link:
 - Growth trigger: create or promote a hub when one task route has 3+ real children or repeated future pressure
