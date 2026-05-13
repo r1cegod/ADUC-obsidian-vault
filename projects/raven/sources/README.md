@@ -2,7 +2,7 @@
 type: note
 title: Raven Sources And Evidence
 created: '2026-04-25'
-updated: '2026-04-25'
+updated: '2026-05-02'
 tags:
   - project/raven
   - docs
@@ -45,11 +45,13 @@ Create subfolders only when real evidence pressure appears:
 eval/        pointers or curated evidence related to evaluation runs
 references/  project-local external references
 raw/         raw material that belongs to Raven but is not yet compiled
-transcripts/ transcript-derived source cards and synthesis pointers
+transcripts/ full transcript evidence and transcript manifests
+summaries/   source cards and Wave Reports derived from raw source material
 ```
 
-Active child lane:
-- [[projects/raven/sources/transcripts/README|Raven Transcript Sources]] - YouTube transcript-derived source cards; no full raw transcript dumps.
+Active child lanes:
+- [[projects/raven/sources/transcripts/README|Raven Transcript Sources]] - full transcript evidence and transcript manifests, keyed by run/date/platform.
+- [[projects/raven/sources/summaries/README|Raven Source Summaries]] - per-source cards and Wave Reports derived from raw transcript/source material.
 
 Do not create empty decorative folders.
 
@@ -77,7 +79,8 @@ This source lane may point to repo evidence, but it should not duplicate large r
 
 ```text
 external reference pointers
-raw source summaries awaiting promotion
+full transcript evidence under transcript run folders
+source cards and Wave Reports under summary run folders
 eval evidence pointers
 small curated exact evidence snippets when needed
 source inventories
@@ -90,7 +93,7 @@ Raven project status
 architecture decisions
 prompt contracts
 human-readable eval reports
-large third-party content dumps
+unscoped third-party content dumps outside explicit transcript/source-evidence lanes
 ```
 
 Route those through the project notes branch.

@@ -1,0 +1,657 @@
+---
+type: source
+title: "Don't Set a Business Goal For 2026 (Until You Watch This)"
+source: youtube
+channel: "Daniel Priestley"
+channel_id: UCABR204CFV9ZoMz69TyspzA
+video_id: Od6CKJLfezU
+url: https://www.youtube.com/watch?v=Od6CKJLfezU
+published_at: "2025-12-30T16:58:59Z"
+duration_seconds: 1102
+fetched_at: 2026-05-04T06:15:03Z
+transcript_status: fetched
+transcript_language: "en"
+ingest_run: daniel-priestley-youtube-2026-05-04
+---
+
+# Don't Set a Business Goal For 2026 (Until You Watch This)
+
+> Raw transcript evidence for vault-level Daniel Priestley YouTube ingest. Do not treat this as compiled knowledge; use source cards and synthesis pages for durable claims.
+
+## Source Metadata
+- url: https://www.youtube.com/watch?v=Od6CKJLfezU
+- channel: Daniel Priestley
+- published_at: 2025-12-30T16:58:59Z
+- duration_seconds: 1102
+- fetched_at: 2026-05-04T06:15:03Z
+
+## Transcript
+
+- [00:00] It's that time of year. You're
+- [00:01] reflecting on what's just been and
+- [00:02] you're thinking about the year ahead. I
+- [00:04] want to give you a goal setting
+- [00:05] framework that is going to help you to
+- [00:06] crush your goals in the year ahead. I've
+- [00:08] been using this framework for the last
+- [00:10] 20 years and I want to share it with
+- [00:11] you. I call it the 5 A. I used this in
+- [00:13] 2025 and had one of the best years of my
+- [00:15] life. I spent a week on Neker Island
+- [00:17] with Richard Branson. We added over $10
+- [00:19] million worth of valuation to the
+- [00:20] companies. I wrote a book. I was on Dire
+- [00:22] of a CEO five times. But I also took the
+- [00:25] kids to school almost every morning. I
+- [00:26] spent lots of time in nature. and I
+- [00:28] spend a lot of time on adventures out
+- [00:30] having fun traveling. All of that was
+- [00:31] made possible because I got clear about
+- [00:34] a goal setting framework that I want to
+- [00:35] share with you today. So, the goal
+- [00:36] setting framework is called the five
+- [00:38] A's. I'm going to walk you through the
+- [00:39] five A's step by step first and then
+- [00:41] we'll get into each of them. We'll drill
+- [00:42] in and I'll share with you some
+- [00:44] shortcuts and some hacks that will allow
+- [00:45] you to just kind of fasttrack the whole
+- [00:47] process. So, the first one is alignment.
+- [00:48] So, alignment is about being
+- [00:50] energetically aligned to the future.
+- [00:51] feeling of being pulled into the future
+- [00:53] that there's a future that you want to
+- [00:55] have and the feeling that you have is
+- [00:57] that you can't wait for it to happen.
+- [00:58] You're super excited for it. You need to
+- [01:00] feel excitement for the future. Now the
+- [01:02] key things that we do around alignment
+- [01:04] is number one is the end state. The end
+- [01:06] state is where we actually look at what
+- [01:08] would perfection look like and ideally 3
+- [01:10] years from now. So typically I love to
+- [01:12] get entrepreneurs to choose do you want
+- [01:14] a lifestyle business or a performance
+- [01:15] business. Lifestyle business is going to
+- [01:17] be fun, freedom and flexibility but it's
+- [01:19] going to be a little bit smaller. It's
+- [01:20] probably going to be a team of 5 to 10
+- [01:22] people at most. And a performance
+- [01:23] business is going to be a bigger
+- [01:24] business, but it's probably going to be
+- [01:26] a bit stressful. There's going to be
+- [01:27] more grown-up stuff that has to happen.
+- [01:28] You'll have to have an executive team.
+- [01:30] And you'll probably have to manage 30,
+- [01:31] 40, 50 people. You'll probably have to
+- [01:33] develop new technologies and all sorts
+- [01:34] of things like that. So, you got to
+- [01:35] figure out, do I want to have a business
+- [01:37] that gives me fun, freedom, and
+- [01:39] flexibility, but is a bit smaller, a
+- [01:40] lifestyle business, or do I want to
+- [01:42] build a business that can sell for $100
+- [01:43] million, a performance business? You
+- [01:45] need to feel drawn towards it. There's
+- [01:48] no point saying you want a lifestyle
+- [01:49] business when your heart wants a
+- [01:50] performance business. And there's no
+- [01:52] point saying you want a performance
+- [01:53] business when your heart really just
+- [01:54] wants a lifestyle business. You've got
+- [01:56] to pick the end state that you're
+- [01:57] genuinely aligned to. The next thing is
+- [01:59] you need to meet people who have that
+- [02:01] end state or at least study people that
+- [02:03] have that end state. Maybe you study
+- [02:04] them on YouTube or read their books. And
+- [02:06] the goal here is to understand the
+- [02:08] details of that story. So it's one thing
+- [02:10] to say, "Oh, I want a lifestyle
+- [02:12] business." It's another thing to know
+- [02:13] exactly what the headcount would be,
+- [02:15] what type of revenue, what type of
+- [02:16] products, what systems, what
+- [02:18] technologies would be in place. So, this
+- [02:20] is understanding the detailed road map.
+- [02:22] So, you've got a three-year goal. You
+- [02:24] then understand the three-year road map
+- [02:25] towards the end state. And then you ask
+- [02:28] yourself, do I feel aligned to going on
+- [02:31] that pathway? And if you don't feel
+- [02:32] aligned, you have to figure out what
+- [02:34] would make you feel aligned. Do you need
+- [02:35] more rewards involved? Do you need it to
+- [02:37] be faster? Do you need to do it with a
+- [02:39] particular group of people or a friend?
+- [02:41] Right? So what would actually get you
+- [02:42] aligned to that road map? The final
+- [02:44] thing is to align those around you.
+- [02:46] You've got to align your spouse. You've
+- [02:47] got to align your closest friends. They
+- [02:49] have to understand that you're going on
+- [02:51] this journey and there's going to be
+- [02:52] some sacrifices involved. However, there
+- [02:54] are rewards involved as well and that
+- [02:56] they're included in those rewards.
+- [02:58] There's no point for you to become a
+- [03:00] multi-millionaire at the expense of your
+- [03:02] family and the family just like why do
+- [03:04] we miss out on seeing you all the time?
+- [03:06] There's no rewards for us. It's all
+- [03:07] about your desires. We're not aligned to
+- [03:09] it. Now, if you've got people who live
+- [03:10] with you or if you've got people who are
+- [03:12] close to you in your life and they're
+- [03:13] not aligned to your goals, they're going
+- [03:15] to put the brakes on. They're going to
+- [03:16] subconsciously hold you back because
+- [03:18] they don't feel aligned to you achieving
+- [03:20] these things. So, one of the things that
+- [03:21] you have to do in alignment is have some
+- [03:23] tough conversations to see if you can
+- [03:25] align those around you. You got to get a
+- [03:27] team of people into alignment. When
+- [03:28] you're starting a company, you and your
+- [03:30] co-founder have to be aligned. When
+- [03:31] you're growing a company, you might have
+- [03:32] to have an entire team of 10, 20, 30,
+- [03:34] 40, 50 people aligned. Everyone has to
+- [03:36] understand the road map. Everyone has to
+- [03:38] understand the end state and everyone
+- [03:39] has to understand the reward structure.
+- [03:41] What's in it for them? Now, what does
+- [03:43] this look like in practice? In practice,
+- [03:44] it means every 90 days when I'm working
+- [03:47] with my teams, I'm reconnecting them to
+- [03:49] the vision. I'm reconnecting them to the
+- [03:51] road ahead. I'm reconnecting them to the
+- [03:53] reward structure of what's in it for
+- [03:54] them. I'm going through a process of
+- [03:56] getting people reenrolled, getting them
+- [03:58] excited about achieving these outcomes.
+- [04:00] I want myself and my team to feel
+- [04:03] aligned and clear about what it is that
+- [04:05] we're all shooting for. My assumption is
+- [04:07] that that only lasts for 90 days at a
+- [04:09] time. So every 90 days, you have to get
+- [04:11] reenrolled and realigned to these goals.
+- [04:13] And you've got to do that not just for
+- [04:15] yourself, but you got to do that for
+- [04:16] everyone who's involved in this goal.
+- [04:18] Every single person top to bottom needs
+- [04:20] to feel that sense of alignment towards
+- [04:22] this goal. Now, what is alignment?
+- [04:23] Another word for alignment is magic,
+- [04:25] right? What does it feel like to be
+- [04:26] aligned? It feels magical. When you're
+- [04:28] aligned, magically the resources appear.
+- [04:31] Magically, the right person shows up.
+- [04:33] Magically, there are breakthrough
+- [04:34] moments that just happen. Magically, the
+- [04:36] creativity is flowing and things are
+- [04:38] happening in alignment with the goal.
+- [04:40] When you feel like you're walking
+- [04:41] through wet cement, when you feel like
+- [04:42] you're walking through a jungle and
+- [04:44] you're just going in the wrong
+- [04:45] direction, I promise you, it's highly
+- [04:48] likely that you're out of alignment. You
+- [04:49] or your team are just not feeling
+- [04:51] aligned to this goal. If you're watching
+- [04:52] this and you honestly feel a sense of
+- [04:54] emptiness or a lack of passion or a lack
+- [04:56] of purpose, you need to start with
+- [04:58] alignment. You need to get to the point
+- [05:00] where you feel super super excited for
+- [05:02] the year ahead. That if these things
+- [05:05] were to happen in the year ahead, I
+- [05:06] would be pumped. So what does that look
+- [05:08] like for you? Where do you want to be a
+- [05:10] year from now? Where do you want to be 3
+- [05:11] years from now? What would be happening
+- [05:13] in your life that would make you feel
+- [05:14] totally aligned? So as soon as you have
+- [05:17] alignment that you want to do this
+- [05:18] thing, the next thing that will happen
+- [05:20] is your brain naturally brings up
+- [05:21] something called awarenesses. And your
+- [05:23] awarenesses are essentially the things
+- [05:25] that bubble up where you go, "Oh, we're
+- [05:27] going to need one of those or we're
+- [05:29] going to have to figure out how to fix
+- [05:30] this problem." So, here's an example. If
+- [05:32] I said that we want to sell this
+- [05:34] business for $100 million, then one of
+- [05:36] the awarenesses is that the revenue is
+- [05:38] too low, we don't have enough revenue,
+- [05:40] so we're going to have to grow the
+- [05:41] revenue. Another one is that the
+- [05:42] recurring revenue is too low, that we
+- [05:44] have to have a recurring revenue
+- [05:45] product, or that we don't have any
+- [05:47] financial forecasting tools, and that
+- [05:49] therefore it would be unlikely that we
+- [05:51] could achieve any of this. Another
+- [05:52] awareness is that we're not developing
+- [05:54] technology or we don't own the
+- [05:55] technology that we leverage. And that
+- [05:57] awareness would also be a reason why
+- [05:59] we're probably not going to hit the
+- [06:00] goal. So your awarenesses are
+- [06:02] essentially things like your
+- [06:03] insecurities or your concerns or your
+- [06:06] blind spots. And your brain starts
+- [06:07] surfacing the awarenesses. Now, what
+- [06:09] most people have been trained to do is
+- [06:11] to ignore their awareness. They
+- [06:12] essentially sit there and say, "Oh, I
+- [06:14] don't want to think about my blind
+- [06:15] spots. I don't want to think about my
+- [06:16] insecurities or concerns. I just want to
+- [06:18] be super pumped and super excited about
+- [06:20] the goal, but I don't want to have to
+- [06:22] address the awarenesses. But what you
+- [06:23] want to do if you want to achieve your
+- [06:25] goals is keep what's called an awareness
+- [06:26] list. An awareness list is where you
+- [06:28] write down and you document all the
+- [06:30] things that come up, all the things that
+- [06:31] bubble up from deep within that tell you
+- [06:34] these are the things we have to address
+- [06:35] if we're going to achieve this goal. So
+- [06:37] for me personally, I have an app on my
+- [06:39] phone which is the notes app and I have
+- [06:41] my rolling awareness list. Everything
+- [06:43] that's bubbling up that is my awareness
+- [06:44] list, I'm capturing it so that I can
+- [06:46] surface my awarenesses and deal with my
+- [06:48] awarenesses. As a company, we have
+- [06:50] companywide awareness lists. For
+- [06:51] example, our leadership team has a
+- [06:53] senior leadership team awareness list.
+- [06:55] Broader team has a awareness list that
+- [06:57] we're always working from. When we bring
+- [06:59] on new people onto our team, we actually
+- [07:00] hire them and we do an onboarding and
+- [07:02] training session around dealing with
+- [07:04] awarenesses. How to recognize an
+- [07:06] awareness, how to surface an awareness,
+- [07:08] how to document the awareness, how to
+- [07:09] check in with people and raise an
+- [07:11] awareness. Within the culture of my
+- [07:12] companies, we always talk about the idea
+- [07:14] that raising an awareness is never a
+- [07:16] risky business. We want anyone top to
+- [07:18] bottom to be able to raise an awareness.
+- [07:20] We even teach people the language of how
+- [07:22] to raise an awareness where we say, "Can
+- [07:24] I raise an awareness with you?" or "Can
+- [07:26] I share an awareness that I've got
+- [07:27] around that?" Simply by giving people
+- [07:29] that language and the ability to raise
+- [07:30] awarenesses when they have them means
+- [07:32] that the company is always dealing with
+- [07:34] the real stuff. See, in many businesses
+- [07:36] that don't raise awarenesses, they're
+- [07:37] all pretending that they're doing all
+- [07:39] the right things, but secretly the whole
+- [07:41] team knows that it's not going to work,
+- [07:43] but no one's saying anything. That is
+- [07:44] the last thing that you want. You want
+- [07:46] to have a company. You want to have a
+- [07:48] team where people raise the awareness
+- [07:50] and they talk about it, they discuss it,
+- [07:52] they solve it. Listen, let me be real
+- [07:53] with you. If you don't have an awareness
+- [07:55] list and you don't surface and deal with
+- [07:57] awarenesses, the same stuff is going to
+- [07:58] haunt you over and over and over again.
+- [08:01] You are going to be on a merrygo round
+- [08:02] of destruction where the same thing hits
+- [08:04] you over and over and over again and you
+- [08:07] keep scratching your head saying why is
+- [08:08] that happening to me? And the reason
+- [08:09] it's happening to you is because you're
+- [08:10] not training yourself to recognize the
+- [08:13] awareness early to surface it and deal
+- [08:14] with it. So two things that I want you
+- [08:16] to have so far. Number one, I want you
+- [08:18] to have an alignment document where you
+- [08:20] feel totally inspired just reading this
+- [08:22] end state. you understand the reward
+- [08:24] structure and you understand all the
+- [08:26] people who have to be aligned and that
+- [08:27] everyone has access to that document so
+- [08:29] that everyone can feel aligned around
+- [08:31] it. Number two, I want you to have an
+- [08:33] awareness list where everyone can put
+- [08:34] stuff on the awareness list and it can
+- [08:36] get discussed and talked about and
+- [08:38] ideulated and solved. We've got a
+- [08:39] document that tells us what we're
+- [08:41] aligned to and we've got a document that
+- [08:43] is a living, breathing, updating
+- [08:44] document called an awareness list. Once
+- [08:46] you've got awareness, now you need to
+- [08:48] turn that into accountabilities.
+- [08:49] Accountabilities are the big things that
+- [08:52] have to be solved in the next 90 days.
+- [08:53] Now, there's a great book called Who,
+- [08:55] Not How, and this tells you about the
+- [08:56] power of getting people on the team who
+- [08:58] know how to solve the big problems. So,
+- [09:01] once you know that you've got maybe two,
+- [09:03] three, four major things that have to be
+- [09:05] achieved in order to get a breakthrough,
+- [09:07] this is not about you doing this on your
+- [09:08] own. This is about you assembling a team
+- [09:11] of people who can get onto all of this.
+- [09:13] See, the critical thing people don't
+- [09:14] think about is who's going to do this
+- [09:16] with you. I don't really believe that
+- [09:17] anything great can be achieved on your
+- [09:19] own. I think all of it needs to have a
+- [09:21] who going to get you the breakthrough in
+- [09:23] the accountabilities. For example,
+- [09:25] people who have a breakthrough in
+- [09:26] business are either on an accelerator or
+- [09:28] they've got a business coach. There is
+- [09:29] someone else that's involved in that
+- [09:31] bigger picture of accountability. These
+- [09:32] things only work if the team are
+- [09:34] aligned, if the awarenesses have been
+- [09:36] surfaced, and now we're dealing with the
+- [09:37] real things that people need to be
+- [09:39] accountable for. So, we've got those
+- [09:40] first three things. Now, the rubber hits
+- [09:42] the road. This is called activities. So
+- [09:45] the truth about success is that you have
+- [09:47] to do the same stuff over and over and
+- [09:49] over again. There are certain activities
+- [09:51] that drive results. So for example,
+- [09:53] people who get fit, they go to the gym
+- [09:55] over and over and over again. A famous
+- [09:58] musician goes touring and they play in
+- [10:00] front of audiences over and over and
+- [10:02] over and over again. There's this
+- [10:03] repetition. There's activities that
+- [10:05] really drive the needle. So what we need
+- [10:06] to do is to understand for every single
+- [10:09] person what are the weekly activities
+- [10:11] that really move things. So here's what
+- [10:13] we do. We have a Monday morning meeting
+- [10:14] and on the Monday morning meeting
+- [10:15] everyone declares what their three to
+- [10:17] six things are this week that are their
+- [10:19] most important activities. And what we
+- [10:21] do is we ask the rest of the team to
+- [10:23] suggest whether they should add or
+- [10:24] subtract or change any of those three to
+- [10:26] six things so that you're getting
+- [10:28] feedback on a Monday morning so that
+- [10:30] each person says, "Yeah, I think you're
+- [10:32] doing the right things this week. I
+- [10:33] think those are the most important
+- [10:34] things that you should be doing." We
+- [10:35] then have a Friday afternoon debrief
+- [10:38] where we check in on the three to six
+- [10:40] things. This is where I might say,
+- [10:41] "These were my three to six things that
+- [10:43] I said on Monday. And this is how I did.
+- [10:45] I This one's done. This one's done. This
+- [10:46] one's not done. I've got to do it next
+- [10:48] week. This one's not done. And this
+- [10:49] one's done." Right? So, I check off my
+- [10:51] three to six things. And all of this
+- [10:53] starts and finishes with what we call
+- [10:55] the quarterly reset. And the quarterly
+- [10:57] reset is where we revisit the alignment,
+- [11:00] raise awarenesses, make sure we've got
+- [11:02] the right accountabilities, and then
+- [11:03] make sure that for the next quarter,
+- [11:05] you've got the right big three to six
+- [11:07] big things that you're going to do in
+- [11:09] the next 90 days. and making sure that
+- [11:11] every quarter you understand the three
+- [11:12] to six big things that you're going to
+- [11:14] be doing in that 90 days that move the
+- [11:16] needle. For activities, we've got a
+- [11:17] quarterly reset that gives us three to
+- [11:19] six big things to do in the quarter.
+- [11:21] We've got a Monday morning meeting where
+- [11:23] we declare the three to six things this
+- [11:24] week that I want to do and the Friday
+- [11:26] afternoon debrief that declares whether
+- [11:28] I did the three to six most important
+- [11:30] things to my team. We've got alignment.
+- [11:32] We've raised awarenesses. We've set
+- [11:34] accountabilities. We know who's
+- [11:35] responsible for the big things. We're
+- [11:37] now tracking this on a weekly basis.
+- [11:39] We're having weekly activities. The
+- [11:41] final thing is assets. Now, when it
+- [11:43] comes to assets, you've got three
+- [11:44] options. You can buy assets. So, this is
+- [11:47] the asset exists and you can just simply
+- [11:49] buy it. You can develop assets, which
+- [11:51] means that you are going to innovate.
+- [11:53] You're going to be the one who creates
+- [11:54] this asset. Or you can improve assets,
+- [11:57] which means you've got something already
+- [11:59] in place, but it needs a refresh, and
+- [12:01] you're going to improve it. So, for
+- [12:02] example, you could buy a property. You
+- [12:04] could start with a block of land and
+- [12:06] develop a property. Or you could take
+- [12:08] something that's run down and improve
+- [12:09] the property. And same thing with your
+- [12:10] website. You could go and buy an
+- [12:12] existing business that has a website.
+- [12:14] You could develop a website for your own
+- [12:16] business. Or you could take your
+- [12:17] existing website and improve it. So with
+- [12:19] all of the assets that are out there,
+- [12:20] you've always got some options. Buy,
+- [12:22] develop, or improve. So what you want to
+- [12:24] do is with your team, you want to figure
+- [12:26] out what are all the potential
+- [12:27] investments that you could make. And you
+- [12:29] want to make a list of maybe 15, 20, 30
+- [12:31] different assets you could invest into.
+- [12:33] You could say, "We want to invest into
+- [12:34] building a YouTube channel. We want to
+- [12:36] invest into creating lead generation
+- [12:38] assets. We want to invest into writing a
+- [12:40] book next year. We want to invest into
+- [12:42] having a better website. We want to
+- [12:43] build a property portfolio. We want to
+- [12:45] own some high yielding stocks and
+- [12:47] shares. We want to have a pension fund.
+- [12:49] Whatever assets you think would make
+- [12:51] your life easier in the year ahead,
+- [12:52] those are the assets you need to invest
+- [12:54] into now. And then what you want to do
+- [12:56] is have an asset investment meeting to
+- [12:59] try and figure out what would be the
+- [13:00] wisest asset investments you could make.
+- [13:02] What would give you the biggest bang for
+- [13:04] buck? For example, you could put 1
+- [13:06] million into property and it might give
+- [13:09] you 30,000 worth of rent. Or you could
+- [13:12] put 10,000 into an online assessment or
+- [13:15] a scorecard and that could actually give
+- [13:17] you a,000 leads per month, which
+- [13:19] translates into a h 100red grand per
+- [13:21] month worth of new customers. So in that
+- [13:23] case, it would be way better to make a
+- [13:25] 10,000 investment into your lead
+- [13:27] generation assets than a million dollar
+- [13:29] investment into a new physical property.
+- [13:31] In business at the moment, there are 24
+- [13:33] really important assets that your
+- [13:35] business could invest into. I wrote the
+- [13:37] book called 24 assets to cover all of
+- [13:38] them. And if you want to check that out,
+- [13:40] you can go to www.24assets.com.
+- [13:43] There'll be a link in the description.
+- [13:45] You can actually answer 48 questions and
+- [13:46] do an assessment. It'll actually tell
+- [13:48] you which assets you've already got and
+- [13:49] which ones you should develop next. I
+- [13:51] created that framework because I wanted
+- [13:53] to know for myself which assets I should
+- [13:55] be developing each year. And I wanted a
+- [13:57] framework for making that decision. So,
+- [13:58] 24 assets would be a really good place
+- [14:00] to start. So, as I said, I've been doing
+- [14:02] this now for many, many years where
+- [14:04] every single 90 days I go through and I
+- [14:06] do a 5A assessment with my entire team.
+- [14:08] But let's take this as an example for
+- [14:10] you. Let's say you want to have a
+- [14:11] lifestyle business and you want to pay
+- [14:12] yourself $300,000
+- [14:14] for the year. Um, and you want to do
+- [14:17] $1.2 million a year of revenue. And you
+- [14:20] say, "Okay, who do I know who's already
+- [14:22] done that? I know some people who've got
+- [14:23] that kind of business, very similar to
+- [14:25] what I know how to do, and they've got a
+- [14:26] team of eight people in order to achieve
+- [14:28] that. and here's what their roles are
+- [14:29] and here's what it looks like and here's
+- [14:31] how long it took and here's what their
+- [14:32] website looks like and all of that. So
+- [14:34] the first step is alignment and you
+- [14:36] might say in order to do this who do I
+- [14:38] need to get into alignment? I need to
+- [14:39] get my spouse into alignment. I need to
+- [14:41] have a co-founder into alignment. I need
+- [14:42] to have a salesperson who's in
+- [14:44] alignment. I need to have my delivery
+- [14:46] customer success person in alignment.
+- [14:48] These are the people I need to get into
+- [14:49] alignment today. You then have an
+- [14:51] alignment session where you paint the
+- [14:53] picture of what you want to achieve in
+- [14:54] the next 3 years and you show them this
+- [14:57] is what it's going to look like and
+- [14:58] here's what everyone gets out of that.
+- [14:59] And then you ask them the question, what
+- [15:00] awarenesses do we have about our ability
+- [15:02] to do this? You might say, what if we
+- [15:04] get disrupted by AI? You might say we're
+- [15:06] not very good at generating the leads
+- [15:08] for those high-quality clients. Uh you
+- [15:10] might say we're not particularly good at
+- [15:13] delivering value to the types of people
+- [15:16] who pay the bigger money. So all of this
+- [15:18] it's good to talk about. These are all
+- [15:19] the problems that we need to solve. Then
+- [15:21] we say, what do we have to do in order
+- [15:22] to get a breakthrough in the next 90
+- [15:23] days? We need to solve these four big
+- [15:25] problems. And who's going to be in
+- [15:27] charge of that? I'm going to do this
+- [15:28] one. You're going to do this one. This
+- [15:30] person's going to do this one. This
+- [15:31] person's going to do this one. So, we've
+- [15:32] got our big problems. And we know who's
+- [15:34] accountable. And the whole team
+- [15:35] understands what everybody's going to be
+- [15:37] doing in the next 90 days to be super
+- [15:39] accountable to getting those
+- [15:40] breakthroughs. Then we say, what are we
+- [15:42] going to do for the weekly activities?
+- [15:44] We might say, "All right, every week
+- [15:46] person one is going to make sales calls.
+- [15:48] We're going to develop these this
+- [15:49] content marketing strategy. We're going
+- [15:50] to record these videos. We're going to
+- [15:52] do this, right? There's three to six big
+- [15:54] things that have to happen every single
+- [15:55] week. And we're going to check in and
+- [15:57] make sure you've done those three to six
+- [15:58] things. And we're going to do that with
+- [15:59] every single person. And we're going to
+- [16:01] check in every single week. Monday
+- [16:02] morning meeting could be on Zoom, could
+- [16:04] be in face to face. I used to do mine in
+- [16:06] a cafe and we al all used to have
+- [16:07] omelets and coffee. So, Monday morning
+- [16:10] meeting, everyone checks in with their 3
+- [16:11] to 6. They discuss anything that's
+- [16:13] getting in their way. Friday afternoon
+- [16:15] debrief, everyone talks about their
+- [16:16] three to six that they got done and
+- [16:18] talks about any issues that came up. And
+- [16:20] then the quarterly reset is where we
+- [16:22] actually go back and solve some more
+- [16:23] awarenesses. And then finally, every 90
+- [16:26] days, we're saying, what are the big
+- [16:27] assets we want to invest into for the
+- [16:29] next 90 days or the next 12 months? What
+- [16:31] are our big investments? Now we've got
+- [16:33] some capital. Now we've got some ability
+- [16:34] to invest. What are we going to invest
+- [16:36] into so that life gets easier year on
+- [16:38] year and we get closer to this end
+- [16:40] state. And if you just simply follow
+- [16:42] this every 90 days, alignment,
+- [16:44] awareness, accountabilities, activities,
+- [16:46] and assets, it starts to snowball. It
+- [16:49] starts to compound up and everything
+- [16:51] gets easier. And the things that you
+- [16:53] used to think of as incredible goals
+- [16:55] that you would never achieve in your
+- [16:56] lifetime become the normal things that
+- [16:58] you're doing every 90 days. See, the
+- [16:59] truth is goal setting and New Year
+- [17:01] resolutions, they're great and they're a
+- [17:03] lot of fun, but they're just a tiny
+- [17:04] little part of a bigger picture. If
+- [17:06] you're not getting yourself and others
+- [17:08] into real genuine alignment around this,
+- [17:10] if you're not dealing with the
+- [17:11] awarenesses, if you're not having
+- [17:13] accountabilities where you're
+- [17:14] accountable to a team, if you're not
+- [17:15] checking in on a Monday and a Friday and
+- [17:18] having the right activities every week,
+- [17:19] and if you're not making life easier
+- [17:21] through the purchase or development of
+- [17:23] assets, it's just never going to happen.
+- [17:25] You have to have this complete system.
+- [17:26] You have to have a complete way of doing
+- [17:28] this. And the other thing, too, is
+- [17:29] success is a team sport. Anything great
+- [17:31] that you want to achieve, there has to
+- [17:33] be other people on the team. Which is
+- [17:34] why you need other people in alignment.
+- [17:36] You need other people's awarenesses,
+- [17:38] other people with accountabilities,
+- [17:39] activities, and working together on the
+- [17:41] assets. And if you can get all of that
+- [17:43] complete picture, you can live your
+- [17:45] dreams. If you've made it this far, I'm
+- [17:46] sure that you're really interested in
+- [17:48] the world around you. And I want to
+- [17:49] share with you an event that is coming
+- [17:51] up called Make It Big 2026. It's a live
+- [17:54] event on Zoom. It's completely free to
+- [17:55] attend. I'm going to unpack the four big
+- [17:57] trends that are going to impact your
+- [17:58] life and your business in the year
+- [17:59] ahead. I'd love for you to come and join
+- [18:01] me for a live event. Register with the
+- [18:03] link below and I'll see you there. So, I
+- [18:05] hope you enjoyed that video. Leave me a
+- [18:07] comment below. Are you going to put the
+- [18:09] 5A methodology to the test? Are you
+- [18:11] going to try it out in your life? If you
+- [18:12] enjoyed this, give it a like. Give the
+- [18:14] channel a subscribe. And I look forward
+- [18:15] to making you more videos in the coming
+- [18:17] months. I hope your business is doing
+- [18:19] really, really well. As he said,

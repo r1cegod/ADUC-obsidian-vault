@@ -1,0 +1,408 @@
+---
+type: source
+title: "The $1 Million Landing Page (Works For Normal People)"
+source: youtube
+channel: "Daniel Priestley"
+channel_id: UCABR204CFV9ZoMz69TyspzA
+video_id: az1Zh-FNSno
+url: https://www.youtube.com/watch?v=az1Zh-FNSno
+published_at: "2025-10-11T11:00:07Z"
+duration_seconds: 722
+fetched_at: 2026-05-04T06:15:03Z
+transcript_status: fetched
+transcript_language: "en"
+ingest_run: daniel-priestley-youtube-2026-05-04
+---
+
+# The $1 Million Landing Page (Works For Normal People)
+
+> Raw transcript evidence for vault-level Daniel Priestley YouTube ingest. Do not treat this as compiled knowledge; use source cards and synthesis pages for durable claims.
+
+## Source Metadata
+- url: https://www.youtube.com/watch?v=az1Zh-FNSno
+- channel: Daniel Priestley
+- published_at: 2025-10-11T11:00:07Z
+- duration_seconds: 722
+- fetched_at: 2026-05-04T06:15:03Z
+
+## Transcript
+
+- [00:00] If there is one thing that I've learned
+- [00:01] over the last 20 years of scaling
+- [00:03] multiple companies, it's this.
+- [00:04] Everything is downstream from lead
+- [00:06] generation. If you can generate leads,
+- [00:07] you can solve all the other problems
+- [00:09] after that. But if you cannot generate
+- [00:11] leads, you are dead in the water. And
+- [00:13] today, I want to share with you my
+- [00:14] multi-million dollar lead generation
+- [00:16] system that has worked on agencies,
+- [00:18] software companies, education and
+- [00:20] training, coaching, consulting, and a
+- [00:22] range of other businesses that I've been
+- [00:23] involved with. Every single time I take
+- [00:25] on board a new business project, I start
+- [00:27] by setting up one of these online
+- [00:29] assessments that just generates leads.
+- [00:31] And off the back of the consistent
+- [00:33] results that these get, we can scale up
+- [00:35] from there. And it's going to totally
+- [00:37] transform the number and the quality of
+- [00:39] clients that come through your
+- [00:40] business's front door. So, let's get
+- [00:42] started on how to set up an online
+- [00:43] assessment that creates leads like
+- [00:45] nobody's business.
+- [00:48] Step one for creating an online
+- [00:50] assessment is to create a landing page
+- [00:52] that really explains to people what the
+- [00:54] online assessment is going to do for
+- [00:56] them. Why would they take an online
+- [00:57] assessment? The first part of the
+- [00:59] landing page is the top of the landing
+- [01:00] page. This is the first thing people see
+- [01:02] when they're scrolling through their
+- [01:03] phone. Now, they arrive at this landing
+- [01:05] page and it has either one of two hooks.
+- [01:08] Hook number one is called a frustration
+- [01:09] hook. A frustration hook names the
+- [01:12] frustration that people are
+- [01:13] experiencing. So, it could be feeling
+- [01:15] frustrated that you're not getting the
+- [01:17] fitness results that you want even
+- [01:18] though you work out every week. Feeling
+- [01:20] frustrated that you're not getting
+- [01:21] investment returns even though you
+- [01:23] invest consistently every month. Feeling
+- [01:25] frustrated that you have not been able
+- [01:27] to scale up your marketing even though
+- [01:29] you're willing to invest in ads. Right?
+- [01:30] So, anything that is the frustration,
+- [01:32] feeling frustrated that blank happens
+- [01:34] even though you're doing this very
+- [01:36] powerful frustration hook. The second
+- [01:38] one is a results hook. And the way I
+- [01:40] like to do a results hook is a readiness
+- [01:42] sentence. Are you ready to run your
+- [01:44] first marathon? Are you ready to have
+- [01:46] the relationship of your dreams? Are you
+- [01:48] ready to protect your business from a
+- [01:50] cyber security threat? Right? So,
+- [01:51] anything that you can help people get as
+- [01:53] a result, if you ask people, are they
+- [01:55] ready for that result? They're going to
+- [01:57] say, "Oh, I'm not sure if I'm ready. I
+- [01:59] want to take this assessment to find
+- [02:00] out." Now, the subheading of the hook
+- [02:04] says, "Answer 15 questions to find out
+- [02:06] why you're experiencing this frustration
+- [02:08] and what to do about it." So the
+- [02:09] subheading directs people to take the
+- [02:12] assessment, answer 15 questions so they
+- [02:14] can find out if they're ready or if they
+- [02:16] can deal with this frustration. So the
+- [02:18] next part of the landing page is called
+- [02:20] the value proposition. The way to do a
+- [02:22] value proposition is to tell people to
+- [02:24] take this assessment so that we can
+- [02:25] measure and improve three key areas. So
+- [02:28] let's say you're doing a sleep
+- [02:29] assessment. Are you ready to get 7 hours
+- [02:31] or more of really high quality deep
+- [02:33] sleep? You would then have the value
+- [02:35] proposition. Answer these 15 questions
+- [02:37] so that we can measure and improve your
+- [02:39] sleep environment, your sleep routine,
+- [02:40] and your sleep nutrition or whatever it
+- [02:42] is. So, you're going to give people a
+- [02:43] value proposition. You're going to say,
+- [02:45] "We're going to measure and improve
+- [02:47] three key things, and you're going to
+- [02:48] list those three things, and those are
+- [02:50] going to be three things that people
+- [02:51] would love to achieve along the way to a
+- [02:53] better result." So, that's the value
+- [02:55] proposition. When people hear a powerful
+- [02:57] hook and a good value proposition, they
+- [02:59] immediately want to know whether it's
+- [03:00] credible. It sounds almost too good to
+- [03:02] be true. So they want to know who are
+- [03:04] you? What's your background? What
+- [03:06] research have you done? So under the
+- [03:08] credibility section, we need to say who
+- [03:11] created this which is you and your bio.
+- [03:14] What have you done in the past? So
+- [03:17] what's your background and the research
+- [03:22] that you've done? So you might be able
+- [03:24] to quote some statistics, some figures.
+- [03:26] You might be able to say 85% of people
+- [03:29] struggle with X, Y, and Zed. You might
+- [03:31] be able to say a recent Harvard
+- [03:32] University study found that 15% of
+- [03:35] people are achieving X, Y, and Zed. This
+- [03:37] number could be dramatically improved,
+- [03:39] right? So, who are you? What have you
+- [03:40] done in the past? What research have you
+- [03:42] done in order to create this assessment?
+- [03:44] Then the final thing is called a call to
+- [03:46] action, a CTA. And a call to action,
+- [03:48] what we want to do here is a really
+- [03:50] powerful call to action. And we want to
+- [03:51] cover a few key things here. We want to
+- [03:53] say start the quiz cuz that's the next
+- [03:55] step. It only takes 3 minutes to
+- [03:58] complete. It's completely free. and you
+- [04:00] get immediate recommendations on how you
+- [04:02] can improve. That combination is very
+- [04:04] powerful as a call to action. Now, if
+- [04:07] you get this right, you will have 20 to
+- [04:10] 40%
+- [04:11] of people who hit that landing page
+- [04:13] going ahead and starting the quiz. And
+- [04:15] that is going to be a massive lead
+- [04:17] generator for you. So, part two of this
+- [04:20] online assessment lead generation
+- [04:21] strategy is the quiz questions. This is
+- [04:23] where we're going to find out a lot of
+- [04:25] information about every single person
+- [04:26] who's signaling interest for you. Now,
+- [04:28] this questionnaire is actually going to
+- [04:29] have three parts to it. Part one is
+- [04:32] where you're going to ask them their
+- [04:33] name, their email address automatically.
+- [04:37] We're going to get their location
+- [04:39] because of their IP address. And you're
+- [04:41] going to give them the opportunity to
+- [04:42] enter their phone number, but you're not
+- [04:44] going to make it mandatory to do that.
+- [04:46] So, the two things they have to enter in
+- [04:48] order to start the quiz is their name
+- [04:49] and their email address. The location
+- [04:51] will be picked up by the system, and the
+- [04:53] phone number will be optional. So, the
+- [04:54] contact information is the first things
+- [04:56] that we want to capture. Then we want to
+- [04:58] go into the first 10 questions. Now
+- [05:00] these 10 questions, we're going to call
+- [05:02] these the best practices questions. So
+- [05:05] the best practices questions is we're
+- [05:07] going to ask people if they're doing 10
+- [05:08] things that they should be doing. So if
+- [05:10] this scorecard was about uh sleep, we
+- [05:13] might ask them if they get to bed on
+- [05:14] time at the same time, if they're using
+- [05:16] too many screens before bed. If this
+- [05:18] assessment was about health and fitness
+- [05:20] and losing weight, do they track their
+- [05:22] calories? Do they work out three or four
+- [05:24] times a week? Whatever you consider to
+- [05:26] be the best practices, you're going to
+- [05:28] ask them 10 questions that allude to how
+- [05:30] many of these best practices they've
+- [05:31] been able to say yes to or no to. And
+- [05:34] that's what's going to give them their
+- [05:35] score, which we'll get to soon. So,
+- [05:37] you've got to come up with 10 best
+- [05:39] practices that you think people should
+- [05:40] be doing if they're doing all the right
+- [05:42] things, and that's going to inform the
+- [05:44] score. But now, we're going to add five
+- [05:46] more questions that are going to be
+- [05:48] really powerful questions for you to be
+- [05:50] able to make more sales. So, here's the
+- [05:52] big five questions that I want you to
+- [05:53] ask that allow you to qualify your leads
+- [05:55] and make more sales. Question number one
+- [05:58] is which best describes your current
+- [06:00] situation. So, you might give people uh
+- [06:03] four or five options to choose from. I'm
+- [06:05] a student. Uh I'm in my first 5 years of
+- [06:08] my career. Uh I'm a manager. I'm a
+- [06:11] senior leader. I'm an executive. Or uh
+- [06:14] I've never run a marathon before. Uh
+- [06:16] I've run one to three marathons. I'm a
+- [06:18] seasoned marathon runner. Whatever is
+- [06:20] their current situation, you want to
+- [06:22] know how they describe it. The next
+- [06:23] question is which describes your desired
+- [06:26] outcome that you would like to achieve
+- [06:28] in the next 90 days. And then you give
+- [06:30] them a list of things that they want to
+- [06:31] achieve in the next 90 days. And ask
+- [06:33] them which is the most important desired
+- [06:35] outcome for you to achieve in the next
+- [06:37] 90 days. That gives them the opportunity
+- [06:39] to tell you what is the number one thing
+- [06:41] that's driving their decisions. They
+- [06:42] might say, "I want to lose weight or I
+- [06:44] want to achieve my first 7 hours worth
+- [06:47] of deep sleep." Right? whatever it is,
+- [06:49] they're going to say that's the outcome
+- [06:51] that I want in the next 90 days.
+- [06:52] Question number three is, what is the
+- [06:54] obstacle that you think is stopping you?
+- [06:56] Or what have you tried that hasn't
+- [06:57] worked in the past? And you'll give them
+- [06:59] a list of three or four things to choose
+- [07:00] from so they can select what they think
+- [07:02] is the biggest obstacle to their
+- [07:04] success. The fourth question is, which
+- [07:06] solution do you think would suit you
+- [07:10] best?
+- [07:12] And you could say, I want uh education
+- [07:14] and training. I want one-to-one
+- [07:16] coaching. Uh I want software. Uh, I want
+- [07:18] someone to do it all for me. Right? So,
+- [07:20] you can give them some potential
+- [07:21] solutions. Now, the benefit of this
+- [07:23] question is that it implies what they're
+- [07:25] willing to spend. Someone who only wants
+- [07:26] a book is probably going to spend $10 or
+- [07:29] $20. Someone who says, "I want it all
+- [07:31] done for me," they're probably thinking
+- [07:33] $10,000 to $20,000. So, the solution
+- [07:35] that people have in mind will tell you a
+- [07:37] little bit about their budget that they
+- [07:38] have in mind. And the fifth question is,
+- [07:40] "Is there anything else that you think
+- [07:42] we need to know about?" Now, this is an
+- [07:44] openbox question and it allows them to
+- [07:46] type anything into the box that they
+- [07:47] want. And the craziest thing is that a
+- [07:49] lot of times people will tell you what's
+- [07:51] driving their decision or they'll tell
+- [07:52] you useful information that helps you to
+- [07:54] make a sale. I've had people put into
+- [07:56] that box, uh, I've already read your
+- [07:58] book and I want to get started or I have
+- [08:00] a budget but I have to spend it by the
+- [08:02] end of the month. Right? Incredible
+- [08:04] stuff that people will put into that box
+- [08:05] that is incredibly helpful. If they've
+- [08:07] answered all of those 14 other
+- [08:08] questions, they're going to give you
+- [08:10] some really good relevant information if
+- [08:11] they fill in that question as well. So
+- [08:13] those are the 15 questions that we want
+- [08:15] people to answer. And when they do that,
+- [08:17] we can give them what we call their
+- [08:19] dynamic results.
+- [08:21] So the reason we call it dynamic results
+- [08:23] is because this entire results page can
+- [08:25] completely change depending on how they
+- [08:27] answered the questions. So for example,
+- [08:29] we could have a little speedometer here
+- [08:31] that tells people how they performed.
+- [08:33] You got a 75% out of 100%. We could have
+- [08:36] a thermometer that tells people that
+- [08:38] they're cold, warm, or hot. Right? So we
+- [08:39] could put anything we want here as a
+- [08:41] result. And we can tell people,
+- [08:42] "Congratulations, you scored really
+- [08:44] well." We could say, "Oh, no. You've got
+- [08:46] a lot of room to improve." We could say,
+- [08:48] "Well done. You've got strong
+- [08:49] foundations, but plenty of room to
+- [08:51] improve." We can change the content that
+- [08:53] goes here depending on how people
+- [08:55] answered the questions. So, here's what
+- [08:57] we want to have. Number one, we want to
+- [08:59] have the big reveal. So, the big reveal
+- [09:01] is the overall result. This is how you
+- [09:04] did in general. Then, we want to have
+- [09:07] three insights. So as a result of how
+- [09:10] you answered the question, what are
+- [09:11] three things that I want you to know?
+- [09:12] Then finally, we want to have some next
+- [09:15] steps. Uh and those next steps would be
+- [09:18] completely different depending upon how
+- [09:20] people answered the questions. If
+- [09:21] someone's answered the questions in a
+- [09:23] way that's highly qualified, you might
+- [09:25] want to offer them a one-to-one meeting.
+- [09:26] If someone is somewhere in the middle,
+- [09:28] you might want to offer them a group
+- [09:30] presentation, a group event. Maybe if
+- [09:32] someone has answered the question so
+- [09:33] that you know that they are absolutely
+- [09:35] wrong for your business, you may just
+- [09:36] want to give them some content. So you
+- [09:38] might send them to a video episode or a
+- [09:40] podcast episode or you might recommend a
+- [09:42] book. But this can change depending on
+- [09:44] how people answer the questions. And
+- [09:46] then finally down the bottom you want to
+- [09:47] have all your contact information, maybe
+- [09:49] your social media links and all of that
+- [09:51] sort of stuff so that if people want to
+- [09:52] bounce around off that page, they can
+- [09:54] leave that open but they can also open
+- [09:56] up other pages. So you definitely want
+- [09:57] to have your website there as well. So
+- [09:59] this basically is a end to-end system
+- [10:01] where they discover that there is an
+- [10:03] assessment. They then answer 15
+- [10:05] questions and then they get their
+- [10:06] dynamic results with specialized next
+- [10:08] steps based on how they answered those
+- [10:10] questions. This is incredibly powerful
+- [10:11] because you can see the quality of the
+- [10:13] leads that come in. When this captures
+- [10:15] all of the leads, you actually get to
+- [10:17] see how people answered all the
+- [10:18] questions. You can see how they scored.
+- [10:20] You can see where they are. You can see
+- [10:21] whether they've put real contact
+- [10:23] information in. You can see the
+- [10:24] recommended next step. It's all laid out
+- [10:26] in the dashboard for you. It's
+- [10:28] incredible. Now, this entire system
+- [10:30] might seem like it's an incredibly
+- [10:32] difficult and complex system to set up,
+- [10:34] but it's all completely automated for
+- [10:36] you at scoreapp.com. I'm the co-founder
+- [10:38] of that software company, and I've put
+- [10:40] all of my best thinking into one place.
+- [10:42] We've got 150 templates that are based
+- [10:44] on this strategy. We've got a
+- [10:46] downloadable book called Scorecard
+- [10:47] Marketing. We've got online courses that
+- [10:49] explain exactly how to do it. And we've
+- [10:51] got an amazing customer success team
+- [10:53] that will just get on a call with you
+- [10:54] and help you to set this up. It could
+- [10:56] not possibly be easier. In fact, most
+- [10:58] people get set up in about 10, 20, 30
+- [11:00] minutes and then they're ready to go.
+- [11:02] Either way, the juice is worth the
+- [11:03] squeeze because this thing produces so
+- [11:06] many high-quality leads. So, there'll be
+- [11:08] a link in the description below so you
+- [11:09] can get set up on scoreapp.com as well.
+- [11:12] So, the one question that everyone asks
+- [11:14] me once they see this system is, "How do
+- [11:16] I send people to this landing page? How
+- [11:18] do I get more clicks? How do I get more
+- [11:20] conversions? How do I send paid traffic?
+- [11:22] How do I send organic traffic to this
+- [11:24] landing page?" So, let me tell you, I've
+- [11:25] just created a video before this one
+- [11:27] that answers that exact question. I'm
+- [11:29] going to link to that video in the
+- [11:31] description below, and that video talks
+- [11:33] exactly step by step how to start small
+- [11:36] and then scale big for getting attention
+- [11:39] into landing page traffic. So, you're
+- [11:41] going to see the link to that video in
+- [11:42] the description below. As I said at the
+- [11:44] beginning, everything is downstream from
+- [11:46] lead generation. If you can master lead
+- [11:48] generation, everything else comes off
+- [11:50] the back of that. You'll be able to get
+- [11:51] more sales. You'll be able to hire the
+- [11:53] right people. You'll be able to scale
+- [11:54] your business if you can get this lead
+- [11:56] generation sorted once and for all. I
+- [11:58] hope you've enjoyed this video and I
+- [12:00] hope your business is successful.

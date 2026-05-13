@@ -1,0 +1,405 @@
+---
+type: source
+title: "Trust Me, You Want a Highly Profitable Lifestyle Business"
+source: youtube
+channel: "Daniel Priestley"
+channel_id: UCABR204CFV9ZoMz69TyspzA
+video_id: NdcygytQlYQ
+url: https://www.youtube.com/watch?v=NdcygytQlYQ
+published_at: "2025-11-02T18:12:30Z"
+duration_seconds: 704
+fetched_at: 2026-05-04T06:15:03Z
+transcript_status: fetched
+transcript_language: "en"
+ingest_run: daniel-priestley-youtube-2026-05-04
+---
+
+# Trust Me, You Want a Highly Profitable Lifestyle Business
+
+> Raw transcript evidence for vault-level Daniel Priestley YouTube ingest. Do not treat this as compiled knowledge; use source cards and synthesis pages for durable claims.
+
+## Source Metadata
+- url: https://www.youtube.com/watch?v=NdcygytQlYQ
+- channel: Daniel Priestley
+- published_at: 2025-11-02T18:12:30Z
+- duration_seconds: 704
+- fetched_at: 2026-05-04T06:15:03Z
+
+## Transcript
+
+- [00:00] If you were to talk to my grandparents
+- [00:01] or great grandparents, there's no
+- [00:02] [music] such thing as a lifestyle
+- [00:03] business. This is the first time ever
+- [00:05] where a small business can punch well
+- [00:07] above its weight thanks to social media
+- [00:09] and software and all of those things.
+- [00:11] This is the first time you can run a
+- [00:13] business from anywhere, have customers
+- [00:14] anywhere, have technology doing most of
+- [00:17] the work, and really get to enjoy the
+- [00:19] fruits of your labor. A performance
+- [00:20] business on the other hand, it's a
+- [00:22] bigger business. It typically has 30 or
+- [00:24] 40 people plus. It's got some debt. It's
+- [00:26] got some investors. [music] It's built
+- [00:27] to sell from the start. It focuses on
+- [00:29] things like proprietary asset building.
+- [00:31] It focuses on recurring revenues. It's
+- [00:34] really data-driven. It's got performance
+- [00:36] dashboards. It's got an amazing
+- [00:37] executive team. It's got all of those
+- [00:40] grown-up things. It has all of those
+- [00:41] grown-up meetings. If you get this
+- [00:43] right, you'll never have to work again
+- [00:45] after you've sold your performance
+- [00:46] business. Let's get into it. Which one
+- [00:48] are you going to choose? I want you by
+- [00:50] the end of this video to have made a
+- [00:51] choice so you know what you're building
+- [00:53] in the next 3 years.
+- [00:56] So, in order to make this decision
+- [00:57] between lifestyle and performance, we
+- [00:59] need to have a look at the total picture
+- [01:00] of the entrepreneurial journey. We need
+- [01:02] to start at the beginning and show you
+- [01:04] all the different places that you could
+- [01:05] get to along the way. So, day one is
+- [01:08] startup.
+- [01:09] So, the first thing that you need to do
+- [01:11] in startup is create what's called
+- [01:12] founder opportunity fit. This is where
+- [01:14] you discover the right thing for you.
+- [01:16] It's based on your backstory where you
+- [01:18] figure out what are the things you've
+- [01:19] done in the past that have led you to
+- [01:20] where you are today, and it's based on
+- [01:22] your future. What are you inspired to
+- [01:24] create? What are you hoping to achieve?
+- [01:26] What are the types of things you want to
+- [01:27] see happen in the world? What
+- [01:28] frustrations do you have today that you
+- [01:30] would love to be involved in solving?
+- [01:32] Now, all of that goes into founder
+- [01:33] opportunity fit where you've identified
+- [01:35] the opportunity, not that's great for
+- [01:37] the whole world, not just great for
+- [01:38] somebody else, but that's great for you.
+- [01:41] The key here is that you feel a great
+- [01:43] sense of alignment to beginning this
+- [01:45] entrepreneurial journey because it's
+- [01:46] going to get tough. In fact, almost
+- [01:48] immediately, you're going to enter phase
+- [01:50] two, which is called the wilderness.
+- [01:53] The wilderness is where your ideas meet
+- [01:55] reality for the first time. This is a
+- [01:57] tough time because not everything works
+- [01:59] out straight away. Many of you are
+- [02:01] already in the wilderness. You've
+- [02:03] launched something. It was exciting at
+- [02:04] the beginning, but as soon as you
+- [02:05] started talking to customers, they
+- [02:07] didn't behave the way you thought. Maybe
+- [02:09] the price they were willing to pay was
+- [02:10] less than you thought. Maybe those big
+- [02:12] exciting clients already had suppliers
+- [02:14] that they were tied into contracts with.
+- [02:15] Maybe you couldn't get the staff that
+- [02:17] you needed. Maybe the technology was too
+- [02:19] hard, right? But in the wilderness, this
+- [02:21] is where we start figuring out the
+- [02:22] reality of of the business. The fastest
+- [02:25] way through the wilderness is that we
+- [02:27] have to do something called MVP testing,
+- [02:29] minimum viable product testing. These
+- [02:31] are fast, cheap experiments to figure
+- [02:33] out who's the right customer, how much
+- [02:36] are they willing to pay, what are some
+- [02:37] of the things that are going to be hard,
+- [02:39] what are the some of the problems that
+- [02:40] we're going to have to solve. All of
+- [02:41] that happens when we do minimum viable
+- [02:42] product testing. Once we've done minimum
+- [02:44] viable product testing, we do something
+- [02:46] called product market fit. Product
+- [02:49] market fit is where we take all the
+- [02:51] information that we learned from the MVP
+- [02:53] testing, and what we do is we roll that
+- [02:54] up into the perfect product. We figure
+- [02:56] out just how customers want to
+- [02:57] experience it, what price point, what
+- [02:59] communication strategy, what goes into
+- [03:01] the offer, how do we guarantee it? Do we
+- [03:03] have pricing plans? All of that is
+- [03:05] covered in product market fit. It's
+- [03:06] basically where you come up with your
+- [03:09] winning offer that your customers
+- [03:10] respond well to. The next phase is
+- [03:12] typically where you've got a little bit
+- [03:14] of a team.
+- [03:15] This is where you're going to build a
+- [03:16] team that has between four and 12
+- [03:19] people. The four to 12-person boutique.
+- [03:22] Now, in this phase, there are two
+- [03:24] categories. Category one is called a
+- [03:25] struggling boutique. A struggling
+- [03:27] boutique is where this just doesn't have
+- [03:29] the unit economics that you thought it
+- [03:30] did. You try hard as you possibly can,
+- [03:33] but you just cannot seem to get this
+- [03:34] thing to make money. It's normally the
+- [03:36] case that you're doing something very
+- [03:37] commoditized. You don't have a key
+- [03:39] person of influence. You don't have a
+- [03:40] brand. You're not reaching people
+- [03:42] through digital. You're not scaling
+- [03:44] through software. You're not using
+- [03:45] social media. You're not building a big
+- [03:47] enough brand, and as a result, you end
+- [03:49] up as a struggling boutique. Think
+- [03:51] restaurant, cafe, hair salon that
+- [03:53] doesn't have a key person of influence
+- [03:55] involved. Unfortunately, it's just
+- [03:57] paying wages, and if anything goes
+- [04:00] wrong, that business is going to be in
+- [04:01] serious trouble. So, that's a struggling
+- [04:03] boutique. Most businesses, that's where
+- [04:05] they end up. But just on top of that is
+- [04:07] what we call the lifestyle
+- [04:11] business or the lifestyle boutique.
+- [04:15] Now, a lifestyle boutique has four to 12
+- [04:18] people, but it's making lots of money.
+- [04:20] This is a business that can pay
+- [04:21] everybody a healthy wage and a profit on
+- [04:24] top. This is a business that is not
+- [04:25] geographically pinned down. You don't
+- [04:27] have to turn up to any particular
+- [04:28] location at any particular time in order
+- [04:31] for this business to work. It's
+- [04:33] typically online marketing and online
+- [04:35] delivery. It's a business that leverages
+- [04:37] software and social media. It definitely
+- [04:39] is a business that has a key person of
+- [04:41] influence. The founder of this business,
+- [04:43] probably you, has built a personal
+- [04:45] brand. They've got people who know who
+- [04:47] they are. Their names come up in
+- [04:48] conversation. They get more done because
+- [04:50] of that personal brand. In many cases,
+- [04:52] the founder of a lifestyle boutique has
+- [04:54] written a book. They have a social media
+- [04:56] profile. They speak on stages around the
+- [04:58] world. They have maybe a YouTube
+- [05:00] channel. All of those things are fueling
+- [05:02] people to discover the lifestyle
+- [05:04] business and buy from the lifestyle
+- [05:05] business. Now, this is just awesome. The
+- [05:08] reason that we like this business is
+- [05:10] because at four to 12 people, it's
+- [05:12] self-organizing. You can run this
+- [05:14] business in a WhatsApp group. You can
+- [05:15] use Zoom. You can use off-the-shelf
+- [05:17] software. It's an easy business to run.
+- [05:20] It's fun to run. And because you can
+- [05:22] keep low overheads, you can charge a
+- [05:24] reasonable price and still make a really
+- [05:26] healthy profit. You don't have offices.
+- [05:28] You don't have bureaucracy, and all of
+- [05:30] that that just goes straight to the
+- [05:32] bottom line. That's your lifestyle
+- [05:33] business. Fun, freedom, flexibility.
+- [05:36] It's heaven. However, you're going to
+- [05:38] mess it up. You're going to ruin it, and
+- [05:40] you're going to ruin it by hiring the
+- [05:41] 13th person. So, what happens when you
+- [05:44] hire the 13th person? Unfortunately,
+- [05:46] you've entered the next phase, which we
+- [05:48] call the desert.
+- [05:49] And the desert is where you're too big
+- [05:52] to be small and too small to be big. As
+- [05:54] you get 13, 14, 15, 16 people, the
+- [05:57] business becomes difficult to manage.
+- [06:00] What you're going to discover is that
+- [06:01] the the sales people are making
+- [06:02] decisions on their own. The marketing
+- [06:04] team are doing things. The operations
+- [06:06] team, they're doing their thing. The
+- [06:07] product and the customer success people,
+- [06:09] they're doing their thing. No one's
+- [06:10] talking to each other, and all of a
+- [06:12] sudden, it's a big mess. It's pulling in
+- [06:14] all directions. It's not aligned. It
+- [06:15] becomes poorly managed. So, what do you
+- [06:17] need to do? You're going to have to hire
+- [06:19] an executive team. You're going to have
+- [06:20] to have managers and leaders who start
+- [06:22] syncing this up and turning it into a
+- [06:24] proper business. However, you're too
+- [06:26] small to afford those people. If you
+- [06:28] hire them, all the profits going to
+- [06:30] disappear. So, you get stuck, and you
+- [06:32] think maybe we should go back to being a
+- [06:33] small business. Maybe we should push on
+- [06:35] to being a big business. But now you're
+- [06:37] in a risky game of trying not to run out
+- [06:39] of money before you hit that bigger
+- [06:41] scale. On the other side of the desert,
+- [06:43] we have a business that has 30 people.
+- [06:46] Once you hit 30 people, you've now hit a
+- [06:48] size and a scale where you can start
+- [06:50] behaving like a performance business.
+- [06:52] Four or five of those people can be the
+- [06:54] leaders and executives and managers who
+- [06:55] make the whole thing happen, and 25 of
+- [06:58] those people can be the team who make
+- [07:00] sure that the business is generating
+- [07:02] customers, looking after those
+- [07:03] customers, innovating new products, and
+- [07:05] getting everything else done. On the
+- [07:06] other side of 30 people, we're going to
+- [07:08] have two types of businesses. We're
+- [07:11] going to have what's called a factory.
+- [07:14] And this is a business that has lots of
+- [07:15] people, but it doesn't make much profit.
+- [07:17] And we're going to have a performance
+- [07:19] business.
+- [07:20] This is typically a business that has 30
+- [07:23] plus people, but it's really profitable.
+- [07:25] It's got a dynamic executive team. It's
+- [07:27] developing unique intellectual property
+- [07:29] assets. It's scaling through software.
+- [07:31] It's utilizing AI. This is a business
+- [07:34] that bigger companies are calling
+- [07:35] disruptive. People are getting worried
+- [07:37] that this business is going to take over
+- [07:38] the industry. They're really up to
+- [07:40] something. They punch well above their
+- [07:42] weight. People can't believe that it's
+- [07:43] only 30, 40, 50 people. They think that
+- [07:46] it must be two, three, 400 people
+- [07:47] because of just how powerfully they're
+- [07:49] showing up. This performance business
+- [07:51] attracts the attention of a bigger
+- [07:53] company that wants to buy it. And when
+- [07:54] they come in and they see how profitable
+- [07:56] you are, how well you're run, and how
+- [07:58] scalable you could be, they get excited,
+- [08:01] and they pay you a life-changing amount
+- [08:02] of money to buy that business. And that
+- [08:04] is the benefit of having a performance
+- [08:06] business. So, you've got two choices. Do
+- [08:08] you want to stay between four and 12
+- [08:09] people and have a small dynamic
+- [08:11] lifestyle business, or do you want to
+- [08:12] cross the desert and get 30 plus people
+- [08:15] and have a performance business that
+- [08:16] could be sold for a lot of money? Now,
+- [08:18] does that mean that your boutique
+- [08:19] lifestyle business could never be
+- [08:20] acquired? Well, the truth is, probably
+- [08:23] not, and probably not the way that you
+- [08:24] would think it would be. It can be
+- [08:26] acquired, but it's going to be what's
+- [08:27] called a long-term earnout. See, the
+- [08:29] problem is is that with a lifestyle
+- [08:31] business where you're the face of it,
+- [08:32] you're the key person of influence, and
+- [08:34] there's only a small team of four to 12
+- [08:36] people, it's what's called founder
+- [08:38] dependent. And that founder dependency
+- [08:40] means that if you leave, half the team
+- [08:42] are probably going to want to leave with
+- [08:43] you. Now, what you can do to get around
+- [08:45] this, if you sell your small lifestyle
+- [08:46] business, not that you'd want to because
+- [08:48] it's doing so well, you could sell the
+- [08:50] business on a three-year earnout where
+- [08:51] you continue to be the face of the
+- [08:53] business. But the truth is, most people
+- [08:55] who get close to the deal-making table
+- [08:57] on that sort of a deal, they end up
+- [08:59] deciding to keep the business because
+- [09:00] it's giving them so much value, and they
+- [09:02] don't want the headache of dealing with
+- [09:03] the acquirer. So, it just doesn't seem
+- [09:06] to ever be worth it to sell that
+- [09:08] business. Even though you could sell it
+- [09:09] on a particular type of deal, it often
+- [09:11] seems better off just holding it and
+- [09:13] having fun. Does this mean that a
+- [09:14] performance business is not a lifestyle
+- [09:16] business? Absolutely not. Once you hit
+- [09:18] performance, you can have a lot of fun
+- [09:20] with that business. It's often the case
+- [09:22] that the people who build performance
+- [09:23] businesses really geek out on business.
+- [09:26] They love looking at executive
+- [09:27] dashboards. They love being part of high
+- [09:29] performance meetings, offsites, and
+- [09:31] retreats where the whole team gets
+- [09:33] together and comes up with a new
+- [09:34] innovative approach. It's often the case
+- [09:36] that someone who has a lifestyle
+- [09:37] business, the majority of their focus is
+- [09:40] what they do for the customer as opposed
+- [09:42] to business itself. And for a
+- [09:44] performance business, there is a massive
+- [09:46] love of business as a craft as well as
+- [09:49] what you do for the customer. So, the
+- [09:51] performance business people, they read a
+- [09:53] lot of business books. They read up on a
+- [09:55] lot of management theory, and they also
+- [09:57] read up on the topic that relates to the
+- [09:59] industry that they're in. We talked
+- [10:00] about MVP, product market fit. In
+- [10:03] Entrepreneurs Big, a lifestyle business
+- [10:05] is focused on what we call go-to-market,
+- [10:09] which is cracking the handle and making
+- [10:11] sales. A performance business is focused
+- [10:14] on scalability, and then finally, that
+- [10:16] business is then focused on exit.
+- [10:20] Now, it's important to know that exiting
+- [10:22] the business is a special skill all on
+- [10:24] its own. It's a special campaign. It's
+- [10:26] like any other marketing campaign.
+- [10:28] You're going to have to have special
+- [10:29] marketing materials to sell the
+- [10:31] business. You're going to have to have a
+- [10:32] special team in place, like a campaign
+- [10:34] team, who are focused on exiting. You're
+- [10:36] going to go through a process that might
+- [10:38] last 12 to 18 months in order to exit
+- [10:40] the business. There's probably going to
+- [10:42] be about four people on your team who
+- [10:44] are dedicated just to that process, and
+- [10:46] they're focused on that. You'll have
+- [10:47] some unique suppliers, some expensive
+- [10:49] suppliers, who help you to exit the
+- [10:51] business. All of that comes down to this
+- [10:53] exit process here, as well. So, scaling
+- [10:56] up on its own can be a bit more
+- [10:57] stressful for the wrong sort of person.
+- [10:59] It can take a little bit longer. It's a
+- [11:01] bit more delayed gratification, and it
+- [11:02] includes this extra step of being ready
+- [11:05] for exit, as well. So, the decision
+- [11:07] you've got to make is do you want to
+- [11:09] have your dream house, which is your
+- [11:10] lifestyle boutique, fun, freedom,
+- [11:13] flexibility, run it from anywhere, earn
+- [11:14] great money, have a lot of fun with
+- [11:16] people that you love working with, or do
+- [11:18] you want to go through the process of
+- [11:20] crossing the desert and building a
+- [11:22] performance business? A lot more stress,
+- [11:24] but for a much bigger payday. So, leave
+- [11:26] me a comment below, which would you
+- [11:28] choose, lifestyle or performance? Give
+- [11:30] the video a like, give the channel a
+- [11:31] subscribe, and forward this on to an
+- [11:33] entrepreneur who you know is making a
+- [11:35] decision between lifestyle and
+- [11:36] performance. I hope you got value from
+- [11:38] this video, and I look forward to seeing
+- [11:39] you again soon, and I hope your business
+- [11:41] is doing really, really well.

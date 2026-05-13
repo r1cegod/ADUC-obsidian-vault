@@ -1,0 +1,944 @@
+---
+type: source
+title: "Give Me 29 Minutes and I’ll Teach You to Make $1 Million"
+source: youtube
+channel: "Daniel Priestley"
+channel_id: UCABR204CFV9ZoMz69TyspzA
+video_id: 72a1PjnZFIM
+url: https://www.youtube.com/watch?v=72a1PjnZFIM
+published_at: "2025-09-04T14:00:22Z"
+duration_seconds: 1782
+fetched_at: 2026-05-04T06:15:03Z
+transcript_status: fetched
+transcript_language: "en"
+ingest_run: daniel-priestley-youtube-2026-05-04
+---
+
+# Give Me 29 Minutes and I’ll Teach You to Make $1 Million
+
+> Raw transcript evidence for vault-level Daniel Priestley YouTube ingest. Do not treat this as compiled knowledge; use source cards and synthesis pages for durable claims.
+
+## Source Metadata
+- url: https://www.youtube.com/watch?v=72a1PjnZFIM
+- channel: Daniel Priestley
+- published_at: 2025-09-04T14:00:22Z
+- duration_seconds: 1782
+- fetched_at: 2026-05-04T06:15:03Z
+
+## Transcript
+
+- [00:00] Hi, I'm Daniel Priestley. In my early
+- [00:02] 20s, I developed my first multi-million
+- [00:04] dollar business before the age of 25.
+- [00:06] Since then, I've had six businesses go 0
+- [00:08] to a million. I've built three companies
+- [00:10] north of 10 million in valuation. The
+- [00:12] good news, no experience or investment
+- [00:14] is required to make this work. Give me
+- [00:16] the next 20 30 minutes and we're going
+- [00:17] to go step by step how to go from zero
+- [00:20] standing start right through to seven
+- [00:22] figure revenue in a very methodical
+- [00:24] process.
+- [00:26] Okay. So, let's go through these five
+- [00:28] steps. I'm going to draw out a diagram
+- [00:30] here. There's below the line and above
+- [00:31] the line. Below the line is where we are
+- [00:36] getting ready to be an entrepreneur.
+- [00:38] Now, if you're already an entrepreneur,
+- [00:39] you may just want to pay attention to
+- [00:40] this just as a way of thinking about
+- [00:42] what you might have done in your story
+- [00:44] to get ready to be an entrepreneur. But
+- [00:46] if you've not built your first company
+- [00:47] yet, here's the first two stages. Stage
+- [00:50] one is called the apprenticeship. In an
+- [00:52] apprenticeship, you're going to do 1 to
+- [00:54] two years working for an experienced
+- [00:55] entrepreneur. And you're doing this to
+- [00:57] get three things. So the three things
+- [00:59] that you want is you want what's called
+- [01:02] commercial awareness. Commercial
+- [01:03] awareness is you understand how business
+- [01:05] works. The next thing you want is
+- [01:08] selfawareness. And this is where you
+- [01:10] figure out what you're good at, what
+- [01:12] your strengths are, what your weaknesses
+- [01:13] are, right? So that you understand how
+- [01:15] you tick. And the third thing is access
+- [01:18] to resources. And access to resources
+- [01:21] means that you've got a little bit of
+- [01:22] money or you've got a little bit of
+- [01:24] understanding about how to get money or
+- [01:26] you've got some understanding about how
+- [01:27] to run some ads or you've got
+- [01:28] understanding about how to hire a
+- [01:30] salesperson. Right? So, you've got all
+- [01:32] this understanding about how to access
+- [01:34] resources. So, commercial awareness,
+- [01:36] self-awareness, and access to resources.
+- [01:38] I often get comments in the YouTube
+- [01:39] videos where people say that wouldn't
+- [01:40] work for me or that seems high risk.
+- [01:43] Now, if you're thinking about leaving me
+- [01:44] a comment on this video or any of my
+- [01:46] other videos, what I would like you to
+- [01:48] do is say, "Oh, that means that I need
+- [01:49] to do an apprenticeship. I need to do
+- [01:51] call it 6 months to two years working
+- [01:53] for an experienced entrepreneur and
+- [01:55] picking up commercial awareness,
+- [01:57] self-awareness, and uh access to
+- [01:59] resources." Now, how do you know you've
+- [02:01] got those things? Well, when someone
+- [02:03] says, "Do you know how businesses make
+- [02:05] sales?" You go, "Yeah, I've seen that
+- [02:07] plenty of times." Do you know how
+- [02:08] businesses look after customers? Yeah,
+- [02:09] I've seen that plenty of times. Do you
+- [02:11] know what you're good at? Do you know
+- [02:12] what you're strong at? What your
+- [02:14] weaknesses are? Yep, I understand that.
+- [02:16] So, once you've been working around an
+- [02:18] entrepreneur, those things become very,
+- [02:20] very clear. That leads us nicely into
+- [02:22] step two. And step two is the side
+- [02:26] hustle.
+- [02:28] So, what we want to do in step two is we
+- [02:31] want to do open and shut 90day
+- [02:35] side hustles. So, the reason that they
+- [02:37] want to be 90 days is I don't want you
+- [02:39] getting permanently stuck in these. I
+- [02:41] want you to just test out your
+- [02:42] entrepreneurial skills. So, a 90-day
+- [02:44] side hustle, we're really looking for a
+- [02:47] test to see how you go at launching a
+- [02:49] little campaign. So, what you might do
+- [02:51] is you might do a pop-up agency client
+- [02:54] where you work for a client and you
+- [02:55] actually have a side hustle client. So,
+- [02:56] you want to pick something that you're
+- [02:58] interested in going after as an
+- [03:00] entrepreneur, but actually just side
+- [03:01] hustle it into existence or have a side
+- [03:03] hustle version of this. The most
+- [03:05] important thing is that you build it so
+- [03:06] that it ends at 90 days, right? So 0 to
+- [03:09] 90 days open and shut. It's not about
+- [03:11] making money. It's about getting
+- [03:13] yourself ready to be an entrepreneur.
+- [03:14] It's about building up your confidence,
+- [03:16] building up your experience. So for me
+- [03:18] personally, I worked for a guy called
+- [03:20] John as an apprentice. I did two years
+- [03:22] working for John. We ran non-stop
+- [03:24] marketing and sales campaigns. I got
+- [03:26] commercial awareness. I got
+- [03:27] self-awareness. I got access to
+- [03:28] resources. Then I started running these
+- [03:31] nightclub parties. I did these little
+- [03:33] side hustles. I did some sales training
+- [03:34] and sales consulting where I was
+- [03:36] delivering sales training. And I would
+- [03:38] do that open and shut for 90 days. And I
+- [03:40] did all of that before launching my very
+- [03:42] first successful business which came
+- [03:44] later. So that is the pre-work below the
+- [03:47] line before you actually become a
+- [03:48] fullyfledged entrepreneur.
+- [03:51] We're going to call this step the chaos
+- [03:53] step. And chaos stands for concept,
+- [03:56] audience, offer, and sales. So we're
+- [03:58] going to be testing here. I want you to
+- [04:00] think about an entrepreneur as someone
+- [04:02] who is running fast and cheap
+- [04:03] experiments like a scientist. First four
+- [04:05] things that you need to experiment with
+- [04:07] is is this a good concept? Have I got
+- [04:09] the right audience, the type of people
+- [04:11] who find value in this and are willing
+- [04:13] to pay for it. Do I know how to offer
+- [04:15] them the thing that they uh want at a
+- [04:17] price that they're happy to pay? And am
+- [04:19] I good at selling that? So, let's kind
+- [04:20] of break it down what you're actually
+- [04:21] going to be doing as the entrepreneur.
+- [04:24] So, the first thing is is your
+- [04:26] entrepreneurial team. I really love
+- [04:28] starting businesses with one other
+- [04:30] person and it's a twoperson scout team.
+- [04:33] And the twoperson scout team is
+- [04:35] essentially going through and working
+- [04:38] together to figure out these f first
+- [04:39] four things. So the two of you are going
+- [04:41] to get your heads together and see if
+- [04:43] you can improve the concept, improve the
+- [04:44] audience, improve the offer, improve the
+- [04:46] sales process. So it's either a mentor,
+- [04:48] it's a co-founder, or it's a early stage
+- [04:50] employee or or an assistant. But I want
+- [04:53] you to have someone who is your main
+- [04:54] person that you're bouncing ideas with.
+- [04:57] Okay. The next thing we're going to do
+- [04:58] is we're going to do a series of what's
+- [05:00] called MVPs. MVPs are called minimum
+- [05:04] viable products, right? This is where
+- [05:05] you get to test things in the market as
+- [05:08] though they're real, even though they're
+- [05:09] not real. An MVP is something like a
+- [05:11] slide deck or a brochure, but most of
+- [05:13] the time they're landing pages. So, a
+- [05:14] landing page is where people arrive at a
+- [05:17] page on the internet, right? They look
+- [05:18] at it on their phone and they scroll
+- [05:20] down and they see this and then they can
+- [05:22] react to what they see. So, one of the
+- [05:24] best MVPs, minimum viable products is
+- [05:26] called a waiting list.
+- [05:30] So, a wait list campaign is where you
+- [05:32] ask people to join the waiting list for
+- [05:34] something that's coming in the future.
+- [05:35] So, let's say you're writing a book. You
+- [05:37] don't actually have to write the book to
+- [05:38] see whether people would buy it. You
+- [05:40] could just have a waiting list and says,
+- [05:41] "I'm writing a book. Would you like to
+- [05:43] get a copy when it goes live? Join the
+- [05:45] waiting list and I'll send you the
+- [05:46] information. I'll send you the first
+- [05:47] chapter as well." That would be joining
+- [05:49] a waiting list. Now, when someone joins
+- [05:50] the waiting list, you're going to get
+- [05:52] them to answer a few key questions. One
+- [05:54] of the questions is going to be, "What
+- [05:56] type of person are you?" Right? So it
+- [05:58] might be which best describes your
+- [06:00] current situation. Are you a student?
+- [06:01] You an executive? Are you an
+- [06:03] entrepreneur? Are you a parent? The next
+- [06:05] question is which best describes the
+- [06:07] results you're trying to achieve? What
+- [06:09] are you trying to get done? Right? And
+- [06:10] you give people a little menu of
+- [06:12] options. You then want to ask which best
+- [06:14] describes the biggest challenge or the
+- [06:16] biggest frustration or problem that
+- [06:17] you've experienced while trying to get
+- [06:19] that result. Right? You give people some
+- [06:21] options. You might get them to choose
+- [06:22] multiple tick points. The fourth
+- [06:24] question is what else have you tried?
+- [06:26] And the fifth question is which price
+- [06:28] point best describes your current budget
+- [06:31] for getting this done right now. If you
+- [06:32] can get people to answer those five
+- [06:34] questions when they join the waiting
+- [06:35] list, you now have enormous amounts of
+- [06:37] data that you can use to launch your
+- [06:39] business or even raise investment at a
+- [06:41] later date. Some other MVP options could
+- [06:43] be registering for an event. It could be
+- [06:46] a Zoom event. It could be an online
+- [06:47] event or it could be a live event. It
+- [06:49] could be a dinner party. It could be um
+- [06:51] a launch event. It could be signing up
+- [06:53] for a trial. Okay, the next key activity
+- [06:57] is
+- [07:00] sales meetings that are one-to-one sales
+- [07:02] meetings. So, a one-to-one sales meeting
+- [07:04] could be on Zoom where you're talking to
+- [07:06] someone onetoone or or a Google meeting.
+- [07:08] Could be face to face where you go out
+- [07:09] for a coffee with someone. Uh you could
+- [07:11] even have a group of a small group of
+- [07:13] people around a table and you can kind
+- [07:15] of address them onetoone. That's called
+- [07:16] a focus group sales meeting. Now, the
+- [07:19] perfect scenario is that you can present
+- [07:21] someone with either a brochure or a
+- [07:23] slide deck and you can talk them through
+- [07:25] your product or service. You can talk
+- [07:26] them through a sales process and you can
+- [07:28] actually at the end of that ask them,
+- [07:30] are they willing to commit or precommmit
+- [07:32] to buying the product or service. Now,
+- [07:34] what you're really trying to do here is
+- [07:35] not actually make sales. What you're
+- [07:37] trying to do is get immediate feedback
+- [07:39] from customers. You want to see whether
+- [07:40] people like it or not. Now, some
+- [07:42] customers are going to say, "Oh, I
+- [07:43] really like it, but I wish it came in
+- [07:45] blue." Oh, fantastic. We can do it in
+- [07:46] blue. uh or they might say, "I really
+- [07:48] like it, but rather than it being a
+- [07:50] 6-month thing, I wish it was a 12-month
+- [07:52] thing." Okay, fantastic. We could do
+- [07:53] that. When they say they're not
+- [07:55] interested in buying something, you
+- [07:57] don't get deflated, you get excited. You
+- [07:59] want to ask them for some free
+- [08:01] consulting. What is the thing that's
+- [08:02] stopping you from going ahead, right?
+- [08:04] And you just want to listen. And don't
+- [08:06] think of it as a no. Think of it as free
+- [08:08] consulting. At this point, you're not
+- [08:10] really looking to make sales. You're
+- [08:12] looking to improve your product market
+- [08:14] fit. Now, how many sales meetings should
+- [08:16] you do? a minimum of 30. When you do 30
+- [08:20] sales meetings, that's when you get
+- [08:22] data, right? So, anything less than 30,
+- [08:24] it's not what's called statistically
+- [08:26] significant. You're not getting enough
+- [08:28] data in order to get any real insight.
+- [08:30] It's only when you talk to 30 people as
+- [08:32] a minimum that you actually get enough
+- [08:35] data. What is the upper band? Well, 30
+- [08:37] to about 150. So, what you're trying to
+- [08:39] do here is you're doing an MVP to get
+- [08:42] this product market fit. Now you might
+- [08:45] be asking the question, well what idea
+- [08:48] am I even testing anyway? Aha. Now this
+- [08:50] is called something similar which is
+- [08:53] actually called founder opportunity fit.
+- [08:57] So founder opportunity fit is where
+- [09:00] you're looking for an opportunity that
+- [09:02] fits you as a founder. Now what's that
+- [09:04] going to be based upon? It's going to be
+- [09:05] based upon your case study. It's going
+- [09:07] to be based upon your story. Every
+- [09:09] single founder who starts a business
+- [09:10] that's successful is doing it based upon
+- [09:12] their backstory, their past. So you're
+- [09:14] looking for a time where you solved a
+- [09:16] particular pain, right? So did you
+- [09:19] remove someone's pain? Did you solve a
+- [09:21] frustration for someone? You're looking
+- [09:22] for a time where you were paid for
+- [09:26] something. Right? So something you've
+- [09:27] been paid for. Um you're looking for a
+- [09:29] time where you were massively
+- [09:32] passionate. Right? Now, those are the
+- [09:34] three things that will probably tell you
+- [09:37] what opportunity is a good fit for you.
+- [09:40] In fact, if you can get all three of
+- [09:41] those to overlap, you've got a really
+- [09:44] strong found opportunity fit. First of
+- [09:46] all, you've probably come up with 10
+- [09:48] different ideas, right, that might fit
+- [09:51] that. You've then narrowed it down to
+- [09:52] three or four, and now you're actually
+- [09:54] talking to a few people and you're
+- [09:56] launching these MVPs over here. So,
+- [09:58] you've had a founder opportunity fit.
+- [10:00] Now, you're looking for a product market
+- [10:01] fit over here. So, at this point, you
+- [10:04] can probably tell that your revenue is
+- [10:06] not super high here. And that's okay.
+- [10:07] It's not about revenue. It's certainly
+- [10:09] not about profit at this stage. It's
+- [10:11] early stage. From 30 to 150 sales
+- [10:13] meetings, let's say you've made 10
+- [10:15] sales. Let's say each sale was a few
+- [10:17] thousand. So, you might have something
+- [10:20] like 10K
+- [10:23] to 100K
+- [10:25] as your revenue. It's just telling you
+- [10:27] that yeah, okay, you know what? We must
+- [10:30] have a good concept audience offer and
+- [10:32] sales process if we've spoken to 30 to
+- [10:34] 150 people and 10 to 100 grand where the
+- [10:37] sales have come in. Right? So that's
+- [10:38] kind of the benchmark. Now, as far as
+- [10:39] your tools and technologies, you're just
+- [10:41] going to use lots of free tools. So
+- [10:44] you're going to use like the Google
+- [10:45] suite or you might use all the stuff
+- [10:47] that comes free with your Apple
+- [10:49] computer, right? I would love for you to
+- [10:51] just use spreadsheets. Don't get into
+- [10:53] big databases. Don't obsess about like
+- [10:56] automation. In fact, I'd rather you just
+- [10:58] do it by hand so that you get a real
+- [11:00] feel for how things flow in your
+- [11:02] business. In fact, funny story, when we
+- [11:03] were at 7 to 8 figures of revenue, we
+- [11:06] were still using Excel spreadsheets and
+- [11:07] we're just cutting and pasting people
+- [11:09] through the Excel spreadsheet. It was
+- [11:10] well into seven figures of revenue that
+- [11:12] I started investing into all sorts of
+- [11:14] special software. Here's what I do want
+- [11:16] you to do. I want you to have something
+- [11:17] called a Monday morning meeting. Uh, and
+- [11:20] that is where you're going to identify
+- [11:21] what are the most high value three to
+- [11:23] six things that you're going to do for
+- [11:25] the week. And then you want to have a
+- [11:26] Friday debrief where you actually check
+- [11:29] off, did we do those three to six
+- [11:31] things? And I want you to really do that
+- [11:34] at least not just by yourself. Do that
+- [11:36] with a mentor. Do that with where you're
+- [11:37] checking in with someone or if you've
+- [11:39] got a co-founder or if you've got an
+- [11:41] assistant, you're having your three to
+- [11:43] six things uh on your Monday morning
+- [11:45] meeting and then you're checking off
+- [11:46] your three to six things on your Friday
+- [11:48] afternoon debrief.
+- [11:51] Okay. Now, the final two stages. This is
+- [11:53] really fun. Now we're actually getting
+- [11:54] into the really fun stuff. This is where
+- [11:56] you start ramping up revenue, ramping up
+- [11:58] the team, having way more fun, making
+- [11:59] more money, and also becoming
+- [12:01] profitable. Once we get over here,
+- [12:02] you're going to have a 7figure business.
+- [12:04] You would definitely call it a lifestyle
+- [12:06] business. It's going to be a business
+- [12:07] that has profitability. It's going to
+- [12:09] have fun, freedom, and flexibility. This
+- [12:11] is going to be really, really cool.
+- [12:12] Okay, so here's what we're going to do.
+- [12:14] The first thing we're going to do is
+- [12:15] we're going to have a bigger team. We're
+- [12:17] going to have a fourperson team. So, the
+- [12:19] fourperson team is going to be what we
+- [12:23] call an associate key person of
+- [12:24] influence. This is not going to be you.
+- [12:26] This is going to be someone who's got a
+- [12:27] bigger brand than you, a bigger story
+- [12:29] than you. Um, but it's someone who you
+- [12:31] can access and you can leverage their
+- [12:33] brand and their reputation in order to
+- [12:35] grow your business. So, you're looking
+- [12:36] for someone who um could kind of lend
+- [12:39] some cache to your business. Maybe
+- [12:41] they're going to be uh on the board.
+- [12:43] Maybe they're going to be one of your
+- [12:44] key advisers in some way. they're
+- [12:46] involved and they're lending their name
+- [12:47] to your business in order to give you
+- [12:50] extra oomph uh for this launch. Now,
+- [12:52] then we've got someone who's in sales.
+- [12:54] Hopefully, that's you, sales and
+- [12:55] marketing. We've got someone who we call
+- [12:57] customer success or delivery. And we've
+- [12:59] got what we call operations. This could
+- [13:02] also be social media. It could be um
+- [13:05] doing some marketing assistant. So,
+- [13:07] these are the people who are in the
+- [13:08] business full-time, these three. And
+- [13:10] this associate key person of influence,
+- [13:12] they're lending their name to the
+- [13:13] business. Okay? So, that's our team. And
+- [13:15] that's the key team that we want to grow
+- [13:17] with here. So the next thing that we
+- [13:19] need is two types of products. We're
+- [13:20] going to have two types of products
+- [13:22] here. And we're going to have one type
+- [13:23] of product which is called product for
+- [13:27] prospects. And we're going to have
+- [13:29] another type of product which is called
+- [13:30] a core offer. And ideally we will have
+- [13:34] the core offer but we will actually have
+- [13:36] it in gold, silver and bronze or at
+- [13:39] least gold and silver. And the product
+- [13:40] for prospects will lead people to the
+- [13:42] belief that they would need that core
+- [13:44] offering. So here's what this normally
+- [13:47] looks like. A product for prospects
+- [13:48] could be what we would call an intro
+- [13:50] workshop. It could be an assessment. Now
+- [13:53] rather than promoting what you do, you
+- [13:55] promote the introduction for what you
+- [13:57] do. You promote the product for
+- [13:58] prospects. So you don't promote the fact
+- [14:00] that you've got a cyber security agency,
+- [14:03] you promote the cyber security
+- [14:05] assessment or you pro promote the cyber
+- [14:07] security introduction workshop.
+- [14:09] Promoting what you do is very dangerous
+- [14:10] because it's expensive. It's a big
+- [14:12] commitment. It's something that takes
+- [14:14] people right out of their comfort zone.
+- [14:16] The product for prospect should feel
+- [14:18] like a low commitment, easy first step.
+- [14:20] That is an a way of exploring what it is
+- [14:22] that you do. And businesses that promote
+- [14:24] the product for prospects are way more
+- [14:26] successful than businesses that run
+- [14:28] around promoting their core offering. In
+- [14:30] fact, one of the keys to me doing
+- [14:32] multiple multi-million businesses is
+- [14:34] nailing this product for prospects.
+- [14:35] Getting that product for prospects is a
+- [14:37] big key for doing seven figures later
+- [14:39] on. So, we're going to promote the
+- [14:41] product for prospects and then the
+- [14:42] product for prospects will lead to a
+- [14:44] one-toone sales meeting and the onetoone
+- [14:46] sales meeting will lead to the core
+- [14:48] offering. Now, the way that you create
+- [14:50] the product for prospects and the core
+- [14:51] offering is the product for prospects is
+- [14:53] typically what's called a landing page.
+- [14:56] This landing page is where people
+- [14:58] register for the product for prospects.
+- [15:00] And the core offering is often a slide
+- [15:02] deck or it is a brochure. Now, when I
+- [15:05] say a brochure, it could be a digital
+- [15:06] PDF brochure, but it's a slide deck or a
+- [15:09] brochure that tells people this is what
+- [15:10] we do and this is the gold, silver,
+- [15:12] bronze version. And the landing page is
+- [15:14] the pre-registration for that. Now, you
+- [15:17] can actually set these up really easily
+- [15:18] on scoreapp.com. The landing page is
+- [15:21] already built into the platform. Uh you
+- [15:23] can easily set up using a template for
+- [15:25] an assessment or an introduction
+- [15:26] workshop or there's a few other options
+- [15:28] as well. I think there's about 150
+- [15:30] different templates in scoreapp.com and
+- [15:32] that will actually give you the landing
+- [15:34] page for the product for prospects. Your
+- [15:37] job is then to create the slide deck or
+- [15:38] the PDF brochure for the core offering
+- [15:41] in a gold, silver, and bronze version.
+- [15:43] The next step is to create what's called
+- [15:45] the perfect repeatable week. The perfect
+- [15:49] repeatable week is where you're going to
+- [15:50] set out what you're going to do every
+- [15:52] single day all through the week that
+- [15:54] will lead to a perfect repeatable week
+- [15:57] that generates between 50 and 100,000
+- [15:59] per month. So, we want to think about
+- [16:01] what would we do over and over and over
+- [16:03] in order to just simply just repeat it,
+- [16:05] repeat it, repeat it. And if we keep
+- [16:07] repeating it, we're going to get
+- [16:08] something like 500,000 to a million per
+- [16:11] year um if we just do that perfect
+- [16:13] repeatable week. So, one of the things
+- [16:14] that I do is I bring out a yearly
+- [16:16] planner so I can see the entire year
+- [16:18] ahead in one big image. And I also bring
+- [16:20] out like a weekly planner and we
+- [16:22] actually just plot out and we kind of
+- [16:24] like play with what if we did uh every
+- [16:26] Wednesday we did an introduction
+- [16:28] workshop. What if we ran some Facebook
+- [16:30] campaigns uh all through the week? What
+- [16:33] if we ran ads all through the week? What
+- [16:34] if we had a group sales meeting on a
+- [16:36] Friday afternoon? So, we're just playing
+- [16:38] around with the idea of what does a
+- [16:40] perfect repeatable week look like? So,
+- [16:42] some of the things that I want you to
+- [16:43] really think about with your perfect
+- [16:45] repeatable week is how you're going to
+- [16:46] get customers. Now, one of them could be
+- [16:49] ads. Now, obviously, you're going to use
+- [16:51] small testing budgets and then ramp them
+- [16:53] up. You're going to have something
+- [16:54] called an allowable cost per sale. So,
+- [16:58] if you sell something that's $2,000, you
+- [17:01] might say allowable cost per sale is
+- [17:02] $200. So, you're going to work out, can
+- [17:05] we run ads at an allowable cost per
+- [17:07] sale. You're also going to do social.
+- [17:10] So, social posting, I want you posting
+- [17:12] every single day. If you're getting a
+- [17:14] business off the ground, you're going to
+- [17:15] be socially post at least every single
+- [17:18] day. You're going to do that on at least
+- [17:20] three platforms. Uh, the next thing
+- [17:21] you're going to do is called DMs, direct
+- [17:24] messages, or direct email. And that is
+- [17:26] where you're going to fire off emails
+- [17:27] and fire off direct messages to
+- [17:29] potential customers. And you're just
+- [17:31] going to literally outreach to them. So,
+- [17:33] you're going to reach out to them, and I
+- [17:34] would like you to be sending out
+- [17:36] something like a 100 DMs or 100 emails
+- [17:38] per day. So your, you know, send, you
+- [17:41] might just go cut paste send, cut paste
+- [17:43] send, cut paste send. You could join
+- [17:44] some social media groups. You could look
+- [17:46] at certain hashtags and you can just
+- [17:48] send a message that just basically says,
+- [17:50] "Hey, just want to let you know we've
+- [17:52] just created an assessment." The
+- [17:54] assessment tells you whether you can
+- [17:55] lose weight or the assessment tells you
+- [17:57] about relationships or the assessment
+- [17:58] tells you about cyber security. Whatever
+- [18:00] it is you do, you just let people know,
+- [18:01] hey, we've just launched this new
+- [18:03] assessment or by the way, you might be
+- [18:05] interested in our introduction workshop.
+- [18:07] We're doing an introduction workshop to
+- [18:08] blank. If you're interested in blank,
+- [18:10] come along to our introduction workshop.
+- [18:12] Your perfect repeatable week is
+- [18:14] definitely going to include one-to-one
+- [18:15] selling. It may even uh be one to 10
+- [18:20] group presentations. Your perfect
+- [18:22] repeatable week is going to have some
+- [18:23] sort of a team meeting, right? So,
+- [18:25] you're going to have your 3 to six
+- [18:26] things meeting, right? Your three to six
+- [18:28] things is where every person on the team
+- [18:30] says, "What are the three to six things
+- [18:31] they're doing this week that are the
+- [18:32] most high value things?" Not the
+- [18:34] associate key person of influence.
+- [18:35] they're just lending their name. But the
+- [18:37] other three of you, you're going to do
+- [18:38] your 3 to six things meeting. And you'll
+- [18:40] also do your Friday afternoon debrief.
+- [18:42] And you also might do customer uh
+- [18:45] feedback sessions. So you might actually
+- [18:48] be sitting down with customers and
+- [18:50] finding out how they're liking what
+- [18:51] you're doing and what they want, what
+- [18:53] they need. So define your perfect
+- [18:55] repeatable week with your team, right?
+- [18:58] That's going to be one of the super
+- [18:59] powerful things that we're going to get
+- [19:00] done. Okay. So some of the tools and
+- [19:02] technologies. Once again, you're going
+- [19:03] to use all the free stuff that Google
+- [19:05] offers, that Apple offers, that
+- [19:07] Microsoft offers. Um, you're not going
+- [19:09] to be spending money on lots of
+- [19:10] different things here. Uh, you are also
+- [19:12] going to be using something like
+- [19:14] WhatsApp as a group communication tool.
+- [19:17] So, what you want to do is have a
+- [19:19] WhatsApp group with your team in there.
+- [19:21] Uh, you might also want to have a
+- [19:22] WhatsApp group for your customers,
+- [19:24] giving them a bit of community, uh,
+- [19:26] where you can actually put updates into
+- [19:28] that WhatsApp group. You're probably
+- [19:29] going to want to use all the social
+- [19:30] media profiles. So, you want to probably
+- [19:32] have a YouTube channel, you want to have
+- [19:34] an Instagram, you want to have a
+- [19:36] LinkedIn, and you want to use all of
+- [19:38] those editing suites that come free with
+- [19:40] those tools so that you can upload
+- [19:42] better content. I would highly encourage
+- [19:44] you to have an account with a labor
+- [19:46] supplier. So, a labor supplier might be
+- [19:48] someone like Upwork, uh, where for $20
+- [19:52] an hour, you can get people doing
+- [19:53] designs, you can get people doing a
+- [19:55] little bit of, um, support, you might be
+- [19:57] able to find someone who can do a little
+- [19:58] bit of customer service. Um, now the
+- [20:00] other thing you may want to do is set up
+- [20:02] JV partners. Joint venture partners are
+- [20:05] really, really powerful. These are other
+- [20:07] businesses that go alongside your
+- [20:09] business. And you might have someone who
+- [20:11] is helpful for distribution. So
+- [20:13] distribution is getting your message in
+- [20:15] front of people. Maybe they've got a big
+- [20:16] email list. Maybe they're already
+- [20:17] famous. You could also have a joint
+- [20:19] venture for product. This is someone who
+- [20:21] has a complimentary product that would
+- [20:23] be beneficial for your customers. So for
+- [20:25] example, if you are a fitness trainer,
+- [20:28] you might have a gym who is your
+- [20:30] complimentary partner or you might have
+- [20:31] running clothing. You might do a deal
+- [20:33] where you actually get some shoes, some
+- [20:35] uh clothing, right? Or maybe some sports
+- [20:38] supplements, right? So some product that
+- [20:40] goes nicely with yours. And the third
+- [20:41] one is brand. So this is something that
+- [20:44] makes your brand feel more established,
+- [20:46] more cool, more uh in the in the
+- [20:48] spotlight. So this could be someone
+- [20:50] who's an influencer. It could be someone
+- [20:52] who uh gives you a recommendation. And
+- [20:54] something that's similar to this is
+- [20:56] called a squad. And a squad is where you
+- [20:58] get 10 similar little businesses in a
+- [21:01] squad in a WhatsApp group together.
+- [21:03] Right? So once again, we're back to a
+- [21:04] WhatsApp group. And a squad is where you
+- [21:07] basically say, "Every time I post on
+- [21:09] social media, my squad are going to like
+- [21:12] it and comment on it, but I'm going to
+- [21:14] do that for them as well." These are
+- [21:15] non-competitive businesses. They could
+- [21:17] be in completely different industries.
+- [21:19] These could be friends. They could be
+- [21:20] people who are on the same accelerator
+- [21:22] group as you. Now, one of the things
+- [21:23] that happens there is it really feeds
+- [21:25] the social media algorithms. Rather than
+- [21:28] your posts reaching a 100 people, they
+- [21:30] might reach thousands of people simply
+- [21:32] because you've got a bit of a squad
+- [21:33] strategy there. Okay, we're at our next
+- [21:35] stage. Let's take it all the way home to
+- [21:37] a sevenf figureure business that has
+- [21:39] fun, freedom, flexibility. Let's get
+- [21:41] into the first thing that you'll need,
+- [21:42] which is a team. Now, over here, you've
+- [21:44] got an eight person team. Now, what
+- [21:46] you're doing here is you personally are
+- [21:49] now going to be the key person of
+- [21:50] influence. You as the founder, this is
+- [21:52] where the founder growth really kicks
+- [21:54] in. You're going to step into the shoes
+- [21:55] of being the key person of influence.
+- [21:57] It's going to be your name, your face,
+- [21:58] your reputation that you're going to be
+- [22:00] building. Uh, and this is going to
+- [22:01] really help your business long term.
+- [22:03] Now, who's going to be on your team?
+- [22:04] Let's have a look at the key members of
+- [22:06] the team. Well, one key member could be
+- [22:08] a general manager who runs the business.
+- [22:10] And the general manager could be someone
+- [22:12] who's previously run a coffee shop,
+- [22:13] they've run a pub, they've run a
+- [22:15] restaurant, they've got the
+- [22:16] organizational skills to run a business
+- [22:18] day-to-day. Really powerful person to
+- [22:20] have on the team. Another person you
+- [22:21] want to have on the team is your head of
+- [22:23] marketing. That person's job is to
+- [22:25] generate leads and they're going to work
+- [22:27] very closely with a salesperson. And
+- [22:30] that salesperson is going to work very
+- [22:32] closely with someone who is going to be
+- [22:34] an appointment setter. Those three
+- [22:36] people are going to be your engine of
+- [22:38] growth. um someone's going to generate
+- [22:40] leads, someone's going to make sales,
+- [22:42] and someone's going to make sure we
+- [22:43] don't slip up on any opportunities.
+- [22:44] They're going to make sure all those
+- [22:45] opportunities are happening. Over here,
+- [22:48] we're going to have someone who's head
+- [22:50] of product or delivery, right? So, that
+- [22:53] is the person who's focused very much on
+- [22:55] are we building an excellent product?
+- [22:57] Are we delivering uh a really good
+- [22:59] service? Right? Then, we're going to
+- [23:00] have someone who is head of customer
+- [23:02] success, right? So that customer success
+- [23:04] person is going to make sure that
+- [23:06] customers are using the product
+- [23:07] correctly or they're making sure that
+- [23:08] the relationship is sticky based upon
+- [23:11] the delivery. So if you're an agency,
+- [23:13] you might have people who are actually
+- [23:14] doing the work plus someone who's
+- [23:16] looking after the customer. And ideally,
+- [23:18] you're going to have someone who's head
+- [23:19] of it and they're going to automate
+- [23:21] everything. They're going to make sure
+- [23:22] that this thing whole runs really,
+- [23:24] really smoothly and that we're just
+- [23:25] constantly automating. We're using AI.
+- [23:28] We're using technology. We're automating
+- [23:30] here under our general manager. We might
+- [23:33] also have someone who is an assistant
+- [23:34] for the company. So, they're going to be
+- [23:36] a bit of a Swiss Army knife. They're
+- [23:37] going to help out with all sorts of
+- [23:39] things. And we might also have someone
+- [23:41] who is our social media marketing
+- [23:43] person. I've said 10 roles, but the
+- [23:45] truth is that that can normally be
+- [23:47] covered by about 8 to 10 people.
+- [23:49] Sometimes it's as many as 12 people
+- [23:51] because you can have two people in sales
+- [23:53] or two appointment setters or two people
+- [23:56] working in customer success, but we're
+- [23:58] somewhere around I'm just going to put
+- [24:00] here 8 to 12 people. That's our typical
+- [24:02] strategy for for a sevenf figureure
+- [24:05] business. Now, you don't want to go over
+- [24:06] 12 people. Once you go over 12 people,
+- [24:08] it tends to be that you're a bigger
+- [24:10] organization. It splits into two or
+- [24:12] three groups. So, now that we're a seven
+- [24:14] figure business, we're actually going to
+- [24:16] have four types of products. We're going
+- [24:18] to have something called a gift,
+- [24:20] which is free stuff that we give away.
+- [24:23] We're going to have product for
+- [24:24] prospects, which we talked about before,
+- [24:26] but these are early stage, easy ways,
+- [24:28] lowrisk ways for people to engage with
+- [24:30] us. We're going to have a core offer
+- [24:33] which we talked about that you can have
+- [24:34] a gold, silver, bronze. This is the main
+- [24:36] thing that your business is known for.
+- [24:37] It's the main thing that you do. And
+- [24:39] we're also going to have something
+- [24:40] called a product for clients. And this
+- [24:43] is something that extends the core
+- [24:45] offering. So if someone has bought the
+- [24:47] core, they're likely to buy the product
+- [24:48] for clients as well or at some point in
+- [24:50] the future they'll buy the product for
+- [24:51] clients. It's often the case that the
+- [24:53] core offering might be something that
+- [24:55] could be thousands of dollars in order
+- [24:57] to sign up for the core offering.
+- [24:59] product for clients could be a
+- [25:00] subscription after that. So I see a lot
+- [25:02] of agencies do a transformation as the
+- [25:05] core and then they do maintenance as the
+- [25:07] product for clients. I see software
+- [25:08] companies that do setup as the core and
+- [25:10] then they do subscription as the product
+- [25:12] for clients. So it's a core offering
+- [25:14] followed by product for clients. Now the
+- [25:15] key is that for each of these you either
+- [25:18] need a landing page or you need a
+- [25:21] brochure/slide deck. I want people to be
+- [25:23] very very clear. This is what's
+- [25:24] included. This is how it adds value.
+- [25:28] This is the features, advantages, and
+- [25:30] benefits that come with it. Okay. So,
+- [25:32] what we're now going to do is rather
+- [25:33] than having a perfect repeatable week,
+- [25:35] we're going to have something called a
+- [25:36] threepart year. And a three-part year is
+- [25:39] where we're going to break up your year
+- [25:40] into three parts. And we're going to
+- [25:42] have something called a perfect
+- [25:45] repeatable week, which we talked about.
+- [25:47] But on top of that perfect repeatable
+- [25:49] week, we're going to have either three
+- [25:51] or four spotlight campaigns. So, a
+- [25:54] spotlight campaign is where every 3 to
+- [25:56] four months you do something special. It
+- [25:58] could be a special offer, a special
+- [25:59] sale. It could be a special event, a
+- [26:01] special campaign or promotion, but
+- [26:03] you're doing something special every 3
+- [26:05] to 4 months. What you're doing is you're
+- [26:07] generating leads every single week at
+- [26:09] the perfect repeatable week. Those leads
+- [26:11] come into the funnel here, but then if
+- [26:13] they don't buy, you invite them back to
+- [26:15] a spotlight campaign. If they go to the
+- [26:17] spotlight campaign, but they don't buy,
+- [26:19] you invite them back to the perfect
+- [26:20] repeatable week. So people can track
+- [26:22] through your business either doing what
+- [26:24] you normally do every single week, week
+- [26:26] in week out or they can bounce up to a
+- [26:28] special spotlight campaign and they can
+- [26:30] experience something a little bit
+- [26:32] different every 3 to 4 months. And the
+- [26:34] third part to the year is what we call
+- [26:36] the annual big message. And the annual
+- [26:39] big message is where you're creating
+- [26:40] content on social media. And that
+- [26:42] content is reinforcing an annual big
+- [26:45] message. One big message for the year
+- [26:46] and you're just going to go and hit it
+- [26:48] and hit it and hit it in 100 different
+- [26:50] ways. and you're going to put content on
+- [26:52] social media that reinforces the big
+- [26:54] message. So, for example, if you were
+- [26:56] selling Fitbits, you would have an
+- [26:58] annual big message about the importance
+- [27:00] of doing 10,000 steps a day, right? So,
+- [27:02] whatever it is, you're going to have a
+- [27:03] big message that is like the big picture
+- [27:05] of what you do that makes people re
+- [27:07] remember you and they recognize that ah,
+- [27:09] you're the person who talks about that
+- [27:11] thing, right? So, you're going to do all
+- [27:13] of that. That's going to be your
+- [27:14] campaign that drives seven figures worth
+- [27:15] of revenue. Now, once we're into tools
+- [27:17] and technologies, fine. You can now have
+- [27:20] a CRM system. You definitely want to
+- [27:22] have uh more AI automations. You might
+- [27:26] also build something called a portal. Uh
+- [27:28] so a portal would be a customer portal
+- [27:30] where customers can log in and they can
+- [27:32] see stuff or do stuff. Uh you might have
+- [27:34] a team portal. You might have something
+- [27:36] called Slack uh or Microsoft Teams, but
+- [27:39] I prefer Slack. Right? So this is where
+- [27:41] you're going to grow up as a business
+- [27:42] and you're going to have everything
+- [27:43] formalized. You're going to have
+- [27:44] everything filed away nicely and neatly.
+- [27:46] You're going to run the business as a
+- [27:48] tight ship. And of course, if you're
+- [27:50] going to do seven figures of revenue,
+- [27:52] you need to be averaging above 20,000
+- [27:55] per week as a bare minimum. Probably
+- [27:57] more like 25,000
+- [28:00] plus as your bare minimum for the week.
+- [28:03] So that you're getting to 100K plus per
+- [28:06] month, right? And that should get you
+- [28:09] obviously to your million dollars for
+- [28:11] the year. So between all of that
+- [28:12] activity and all of those people, you're
+- [28:14] averaging your 100,000 a month. Now that
+- [28:17] might be 10 sales at 10 grand per month.
+- [28:19] It might be 20 sales at 5 grand per
+- [28:21] month. It might be 100 sales at 1,000.
+- [28:24] Right? So you're figuring out what is it
+- [28:26] you're going to do. You're going to work
+- [28:27] together as a team to figure out how
+- [28:29] many of each of these products do we
+- [28:30] need to sell in order to hit that
+- [28:32] 100,000. And you're going to have
+- [28:34] dashboards that get you there. You
+- [28:35] definitely want to have some dashboards
+- [28:36] there to say whether you're on track or
+- [28:39] off track. We like to have something
+- [28:41] called the SAND dashboard. SAND, which
+- [28:44] stands for sleep at night dashboard,
+- [28:45] right? So that is all the things that we
+- [28:47] need to know that we can sleep at night
+- [28:49] knowing that we're hitting uh at least
+- [28:51] seven figures of revenue. Now bear in
+- [28:52] mind, this particular setup will
+- [28:55] actually typically take you well beyond
+- [28:57] seven figures of revenue. So if you've
+- [28:59] gone through all these stages and steps,
+- [29:01] you're going to have laid a lot of
+- [29:02] strong foundations for you to be doing
+- [29:04] several million uh a year. At this
+- [29:06] point, you want to stop. You want to
+- [29:08] enjoy having a lot of fun, freedom, and
+- [29:10] flexibility. You want to enjoy life.
+- [29:12] You're a successful entrepreneur. Maybe
+- [29:13] you want to start a YouTube channel of
+- [29:15] your own talking about how you did it.
+- [29:16] So, if you've enjoyed that deep dive, uh
+- [29:19] I've got more to come. In fact, I've got
+- [29:21] several more videos that I really think
+- [29:23] are going to explain how AI is going to
+- [29:25] impact all of this. And I really want
+- [29:27] you to tune in for those videos. Stay
+- [29:29] subscribed to this channel. Leave me a
+- [29:30] comment. Give this video a like if it
+- [29:32] added value to you as an entrepreneur.
+- [29:34] and make sure that we keep in touch for
+- [29:36] the videos that I've got coming up in
+- [29:38] the weeks ahead.

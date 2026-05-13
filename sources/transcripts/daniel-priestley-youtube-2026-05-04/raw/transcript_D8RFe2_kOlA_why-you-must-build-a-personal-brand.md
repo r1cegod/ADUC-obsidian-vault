@@ -1,0 +1,621 @@
+---
+type: source
+title: "Why You Must Build a Personal Brand"
+source: youtube
+channel: "Daniel Priestley"
+channel_id: UCABR204CFV9ZoMz69TyspzA
+video_id: D8RFe2_kOlA
+url: https://www.youtube.com/watch?v=D8RFe2_kOlA
+published_at: "2026-03-10T12:30:15Z"
+duration_seconds: 1079
+fetched_at: 2026-05-04T06:15:03Z
+transcript_status: fetched
+transcript_language: "en"
+ingest_run: daniel-priestley-youtube-2026-05-04
+---
+
+# Why You Must Build a Personal Brand
+
+> Raw transcript evidence for vault-level Daniel Priestley YouTube ingest. Do not treat this as compiled knowledge; use source cards and synthesis pages for durable claims.
+
+## Source Metadata
+- url: https://www.youtube.com/watch?v=D8RFe2_kOlA
+- channel: Daniel Priestley
+- published_at: 2026-03-10T12:30:15Z
+- duration_seconds: 1079
+- fetched_at: 2026-05-04T06:15:03Z
+
+## Transcript
+
+- [00:00] The age of the personal brand is in full
+- [00:02] swing. People are making millions, even
+- [00:04] billions of dollars by having a personal
+- [00:06] brand. We're seeing it everywhere.
+- [00:07] People with a personal brand can launch
+- [00:09] [music] products, services, and
+- [00:10] businesses and get rapid success. Within
+- [00:13] 12 months, they can have 1 million, 10
+- [00:14] million, or even 100 million worth of
+- [00:16] revenue. If the personal brand is strong
+- [00:18] [music] enough,
+- [00:18] >> next year, you'll probably see a couple
+- [00:20] people who become billionaires off of
+- [00:22] YouTube. Social media star Kabi Lame has
+- [00:25] secured a near billion dollar deal.
+- [00:27] However, that age is coming to an end.
+- [00:29] there is a closing window where it's not
+- [00:31] going to be possible to build a personal
+- [00:33] brand that gets any cutth through
+- [00:34] whatsoever. Now the reason for that is
+- [00:36] because of AI. The AI generated YouTube
+- [00:38] videos, the AI generated content, it
+- [00:40] gets better and better month by month.
+- [00:42] The amount of AI YouTube channels now
+- [00:44] where the AI does the research. It
+- [00:46] creates the voices. It has an AI avatar.
+- [00:49] It engages with people who engage in the
+- [00:50] comments. Initially, that AI activity
+- [00:53] was nowhere near as good as a human, but
+- [00:55] it's getting close and it's going to get
+- [00:56] so good in the years ahead. But here's
+- [00:58] where it cannot beat you. It cannot beat
+- [01:00] you on your lived experience. The things
+- [01:02] that you've lived through, the pain that
+- [01:04] you've experienced, the triumphs that
+- [01:05] you've been able to achieve. It doesn't
+- [01:07] know what any of that feels like cuz
+- [01:08] it's never lived. In this video, there's
+- [01:10] going to be three parts. Part one is
+- [01:12] going to be discovering your story that
+- [01:14] contains valuable lessons that your
+- [01:16] market wants to hear more about. Step
+- [01:18] two is about testing and getting
+- [01:20] traction and getting the early stages of
+- [01:22] commercial success. And step three is
+- [01:24] building a system that ramps this up to
+- [01:26] seven or eight figures worth of revenue
+- [01:28] year after year after year, even after
+- [01:31] AI slop comes in and takes over your
+- [01:33] entire marketplace. Let's get into it.
+- [01:35] Step one is we need to create stories
+- [01:37] that are unique to you, but we need to
+- [01:39] distill lessons that are very valuable
+- [01:41] for everybody. See, AI has read
+- [01:43] absolutely everything. It's read every
+- [01:45] PhD paper. It's read every Nobel Peace
+- [01:48] Prizewinning book. It's watched every
+- [01:49] video and read all the comments. It
+- [01:51] knows absolutely everything in the world
+- [01:54] except AI has never lived one day in its
+- [01:56] life. It's never had a unique experience
+- [01:58] that is unique to it. The thing that
+- [02:00] makes you valuable is finding stories
+- [02:02] that only you could say. So, for
+- [02:03] example, my first book, Key Person of
+- [02:05] Influence, focused in on my story of
+- [02:08] arriving in London with nothing but a
+- [02:09] suitcase and a credit card, having never
+- [02:11] been above the equator in my life, and
+- [02:13] then one year later having a
+- [02:14] multi-million pound business. That
+- [02:16] little story captured people's
+- [02:17] attention, and it contained lessons that
+- [02:19] everybody wanted to learn. So what we're
+- [02:21] looking for is stories that are
+- [02:23] completely unique to you but contain
+- [02:24] lessons for your entire marketplace. So
+- [02:26] how are you going to get these stories?
+- [02:27] I want you to go through a process
+- [02:29] called pause reflect document. Pause
+- [02:31] reflect document means that you go for a
+- [02:32] nice long walk, you find a park bench or
+- [02:34] you find a quiet little cafe. You pull
+- [02:36] out your phone and you look through your
+- [02:38] photos app. I want you to set your
+- [02:39] photos app to month by month scrolling.
+- [02:41] And I want you to go through the last 60
+- [02:43] months and every single month I want you
+- [02:44] to find a story that you lived that you
+- [02:46] experienced that contained a lesson that
+- [02:48] would be valuable to somebody else. Now,
+- [02:49] you might flick through and go, "Oh, in
+- [02:51] October 2023, I was attending an award
+- [02:54] ceremony and we won a customer service
+- [02:55] award." Or you might say, "Oh my
+- [02:56] goodness, I had to hire some people in
+- [02:58] November 2024 and it was really
+- [03:00] difficult, but we were able to hire a
+- [03:02] really amazing person." Or, "I worked
+- [03:04] with a customer and I solved a really
+- [03:05] complex problem that they had and we got
+- [03:07] a great result. It started in 2022 and
+- [03:10] the result came in 2024." Right? I want
+- [03:12] you to jog your memory about your
+- [03:13] stories. You've got unique, amazing
+- [03:15] stories from the last 5 years. I want
+- [03:17] you to distill them. I want you to find
+- [03:18] at least 10 stories and I want you to
+- [03:20] write down what is the story and what
+- [03:22] was the lesson that would be valuable to
+- [03:24] others. So that process is called pause
+- [03:26] reflect document. A powerful question
+- [03:27] that you can ask is when was the last
+- [03:29] time I did something special that would
+- [03:31] be of interest to a certain type of
+- [03:32] person. We got a remarkable result and I
+- [03:34] can explain how we did it step by step.
+- [03:36] If you can reflect on the elements of
+- [03:38] that question, you will get some
+- [03:39] incredible stories that will be very
+- [03:41] valuable to other people. Now here's a
+- [03:43] pointer that came directly from Steven
+- [03:44] Bartlett. The first time I went on Diary
+- [03:46] of a CEO with Steven Bartlett, I was
+- [03:48] really nervous because in the leadup in
+- [03:50] the previous 3 months, he had had two
+- [03:52] founders of unicorn businesses who went
+- [03:54] on the show and it didn't get very many
+- [03:56] views. They were three or 400,000 views
+- [03:58] each and these are people who had built
+- [04:00] multi-billion dollar businesses. And
+- [04:01] then when I arrived, I went and did my
+- [04:03] episode and a couple of months later we
+- [04:05] had more than 2 million views. I asked
+- [04:06] Steven Bartlet, "How come my episode got
+- [04:08] a couple of million views when these
+- [04:10] other episodes got a few hundred
+- [04:11] thousand views?" And he said, "Relatable
+- [04:13] beats impressive." He said, "The stories
+- [04:15] that people can relate to are more
+- [04:16] powerful than the stories that people
+- [04:18] are impressed by." So, if you're waiting
+- [04:20] until you cure cancer, launch a rocket
+- [04:22] to Mars, stop waiting to be impressive.
+- [04:25] Stop waiting for your stories to be like
+- [04:26] rare things that only one in a billion
+- [04:28] people do. What I want you to do is look
+- [04:29] for relatable stories, things people can
+- [04:31] relate to, things that represent the
+- [04:33] next step in people's evolution, not the
+- [04:35] final step in people's evolution. The
+- [04:37] reason I really want you to find these
+- [04:38] stories is AI cannot do this. This is
+- [04:41] the one thing that you can beat AI at.
+- [04:43] AI doesn't have any stories. It hasn't
+- [04:45] lived. It doesn't know what anything
+- [04:46] feels like. So, if you can find these
+- [04:48] stories and if you can articulate the
+- [04:50] emotions of what it feels like to go
+- [04:52] through these stories, you've got
+- [04:53] something unique in the age of AI.
+- [04:55] However, AI can help you with this.
+- [04:57] Here's a prompt that I would like you to
+- [04:58] use with AI to help you to get this step
+- [05:01] done. The prompt is, I want to share a
+- [05:03] powerful story of mine with an audience
+- [05:05] of type of person. The story will be
+- [05:07] unique to me, but it will contain a
+- [05:09] powerful lesson for others. ask me
+- [05:11] questions and help me to refine my story
+- [05:12] and distill the lessons. Now, if you get
+- [05:14] AI to help you with that, you'll be
+- [05:15] ready to move to step two and you'll be
+- [05:17] that one step closer to having a
+- [05:19] personal brand that makes you more than
+- [05:20] seven figures per year. Step two is
+- [05:22] where we start building your content
+- [05:23] strategy to build a sevenfigure asset.
+- [05:25] And here's what we're going to do. We're
+- [05:26] going to do some testing. We're going to
+- [05:28] break up your signature stories into
+- [05:30] short form and long form content and
+- [05:32] calls to action. And we're going to keep
+- [05:33] it really, really simple. So, a short
+- [05:34] form piece of content is anything people
+- [05:36] can experience whether they can watch it
+- [05:38] or read it in under 3 minutes. Now,
+- [05:40] there's a few different ways that you
+- [05:41] can create hooks here. You can do what
+- [05:43] we call pain, where you talk about a
+- [05:45] pain that people experience. Prize, you
+- [05:47] can talk about something that people
+- [05:49] want, or news, where you can talk about
+- [05:51] a big event that everybody's heard of or
+- [05:53] a public figure that everybody knows
+- [05:54] about that illustrates one of the key
+- [05:56] points that you're talking about. So,
+- [05:58] pain prize and news will always get a
+- [06:00] little bit of cutthrough if you lead
+- [06:01] with that in short form content. So,
+- [06:03] short form content, really, really
+- [06:05] powerful. We're going to take your
+- [06:06] stories and break it into short little
+- [06:08] posts that you can do at least three
+- [06:10] times a week. What you're going to do
+- [06:11] from the short form content is you're
+- [06:13] going to send people to a few pieces of
+- [06:15] what we call long- form content. And
+- [06:17] this is going to be signature content
+- [06:19] that we focus on a process. So, we're
+- [06:21] going to say if you want to know how to
+- [06:23] solve that pain, here's the process. If
+- [06:25] you want to achieve that prize, here's
+- [06:26] the process. Or if you want to
+- [06:28] understand what really went on with the
+- [06:30] news, here's the process behind that
+- [06:32] story. So pain prize news into a long-
+- [06:35] form piece of content that is a process.
+- [06:37] Now long form content is anything that
+- [06:39] could be 10 or 15 minutes to a few hours
+- [06:41] in order to consume. That could be a
+- [06:43] 1500word blog that you write like a long
+- [06:45] piece of newsletter style content. It
+- [06:47] could be a video that's 10 15 minutes.
+- [06:49] It could be a podcast episode that's 1
+- [06:50] to two hours. But the focus of that long
+- [06:52] form content is to talk about a process.
+- [06:55] Now the call to action that you're going
+- [06:56] to use initially is really really
+- [06:57] simple. You're going to say, "If you're
+- [06:58] interested in knowing more about this,
+- [07:00] drop me a message." Initially, this call
+- [07:04] to action is the most powerful call to
+- [07:05] action because every single social media
+- [07:08] platform has a message button. They can
+- [07:09] drop you a message in your LinkedIn.
+- [07:11] They can drop you a message in your
+- [07:12] Instagram. Send me a direct message and
+- [07:14] I'll send you some more information. Or
+- [07:16] if you want to discuss this with me,
+- [07:17] send me some information and I'll make a
+- [07:19] time to talk to you. Because we're not
+- [07:20] scaling up at this point, we actually
+- [07:22] want to have real life interactive
+- [07:24] conversations with people. The perfect
+- [07:26] scenario is that you end up having 30
+- [07:28] meetings with potential customers to
+- [07:30] learn a bit more about what they found
+- [07:31] interesting about that story. You want
+- [07:33] to engage with people. You want to be
+- [07:34] face tof face with people. You might
+- [07:36] want to be on a Zoom call with them. You
+- [07:38] might want to pick up the phone and
+- [07:39] actually have a phone call with them
+- [07:40] because you want to understand how
+- [07:42] people are thinking. So very, very
+- [07:43] simple. Step two for creating a
+- [07:45] sevenfigure content marketing strategy.
+- [07:47] You're going to break down your
+- [07:48] signature content into pain, prize, and
+- [07:50] news. You're going to have a call to
+- [07:51] action to explore the process with a
+- [07:53] long- form piece of content. And then
+- [07:55] you're going to tell people, "Drop me a
+- [07:56] DM, drop me a message. Let's talk about
+- [07:58] it. Let's discuss it. I'll send you some
+- [08:00] more information or we can talk about
+- [08:01] it." At this point, it's very simple,
+- [08:02] but we're about to scale right up to
+- [08:04] seven or even eight figures worth of
+- [08:06] business that comes from the scale up
+- [08:08] strategy I'm about to share with you.
+- [08:09] Now, right now, your customers are
+- [08:10] spending an enormous amount of time on
+- [08:12] social media. They are looking for
+- [08:14] answers. Everything in their world is
+- [08:15] being disrupted. They need clarity. They
+- [08:17] need someone who's guiding them through
+- [08:19] a process. They want to understand how
+- [08:20] do I solve this pain? How do I achieve
+- [08:22] this prize? How do I get it more
+- [08:23] urgently? How do I understand what's
+- [08:25] going on in the world? You're the person
+- [08:26] who's giving them a process, but it's
+- [08:28] underpinned with real life stories.
+- [08:30] You've lived through it, and that's what
+- [08:32] makes it interesting, and that's what
+- [08:33] differentiates you from AI. Now,
+- [08:34] remember, we have a closing window here.
+- [08:36] Now, in a few years time, AI will be so
+- [08:38] powerful at predicting your wants and
+- [08:40] needs that it will be able to come in
+- [08:41] and create the content before you even
+- [08:43] know you need it. This is why we must
+- [08:45] leverage our personal story and our
+- [08:46] personal lessons on social media before
+- [08:49] AI takes over and before AI content is
+- [08:51] everywhere and we get drowned out. Now,
+- [08:53] in this step, we want quantity over
+- [08:55] quality. I don't care if your stories
+- [08:57] are good. We want to actually just get
+- [08:59] enough out there every single week that
+- [09:01] we can start testing. If I could wave a
+- [09:02] magic wand, I would get you posting
+- [09:04] multiple times per day. I know that most
+- [09:06] people won't do that. So, a minimum of
+- [09:08] three times a week. Monday, Wednesday,
+- [09:10] Friday. Pain news prize, right? pain on
+- [09:12] a Monday, news on a Wednesday, prize on
+- [09:14] a Friday. At the very least, be testing
+- [09:17] three pieces of content a week, right?
+- [09:19] Because we're about to turn this into a
+- [09:20] business marketing system that gets
+- [09:22] serious return on investment. Now, one
+- [09:24] thing I can tell you is that in my
+- [09:25] businesses, we do content marketing and
+- [09:28] we do advertising. Our content strategy
+- [09:30] produces leads at half the price and
+- [09:32] they convert twice as well.
+- [09:33] Additionally, if our content marketing
+- [09:35] game is on point, the cost of each lead
+- [09:37] from our advertising starts to drop by
+- [09:39] 10, 20 or 30%. Step three, we are going
+- [09:41] to scale up this whole strategy and it
+- [09:43] is going to bring in so many leads and
+- [09:45] so many customers that you would have to
+- [09:47] be doing something seriously wrong in
+- [09:49] order to not get seven or eight figures
+- [09:51] worth of revenue. Seven figures is not
+- [09:52] that big a deal. It's about 25,000 a
+- [09:54] week. And if you do 25,000 worth of
+- [09:56] sales per week, you've got a million per
+- [09:58] year. Even 8 figures of revenue is not
+- [10:00] that big a deal. If you do 85 sales a
+- [10:02] month at 10,000 per sale, that's 10
+- [10:04] million for the year. Are you going to
+- [10:06] do that on day one in business?
+- [10:07] Absolutely not. Is it easy to build up
+- [10:09] to having a sales team who can do that?
+- [10:10] Is it easy to build up to having content
+- [10:12] that brings in enough leads to do that?
+- [10:14] In a world where you can reach billions
+- [10:16] of people online, doing 85 sales a month
+- [10:18] at 10 grand a sale, is that really a big
+- [10:20] deal? I don't think so. 25 grand a week,
+- [10:23] is that really such a big deal? To be
+- [10:24] honest, I used to do seven figures worth
+- [10:26] of revenue over 20 years ago when I was
+- [10:28] a 22-year-old. Right? It's totally
+- [10:30] possible. In the times that we're living
+- [10:31] in, there are people in their 20s doing
+- [10:33] seven and eight figures worth of revenue
+- [10:35] just by executing some of the strategies
+- [10:37] I'm about to share with you right now.
+- [10:38] So, here's what we're going to do. Every
+- [10:40] single day, you're going to share
+- [10:41] something that relates to pain that
+- [10:42] people experience, something that might
+- [10:44] relate to a prize that people want to
+- [10:46] achieve, something that relates to news
+- [10:49] that people are paying attention to. And
+- [10:51] every single day, you're then going to
+- [10:53] say, "By the way, you may be interested
+- [10:55] in this signature piece of content." So,
+- [10:57] if you're interested in this topic,
+- [10:59] you'll probably be interested in the
+- [11:01] long form piece of content. If you're
+- [11:02] interested in this short post, you might
+- [11:04] be interested in the 15-minute video I
+- [11:05] just recorded. If you're interested in
+- [11:07] this short written piece of content, you
+- [11:09] might want to listen to a podcast
+- [11:10] episode. Right? So, over here, your
+- [11:12] signature content will be video on
+- [11:15] YouTube. You'll probably do a podcast
+- [11:17] episode that might be on Spotify or
+- [11:19] YouTube. You might have a book available
+- [11:21] on Amazon. A book is long form content.
+- [11:23] You could have a newsletter. LinkedIn is
+- [11:25] really really good at giving a
+- [11:27] newsletter publication platform or you
+- [11:29] might have an SEO optimized blog on your
+- [11:31] website. So any of these are going to be
+- [11:33] long form content. They take about 5 10
+- [11:35] 15 minutes to digest. If it's a podcast
+- [11:37] episode or a book, it could be several
+- [11:39] hours to take on board. So short form
+- [11:41] into long form, long form into call to
+- [11:43] action. A never- ending waiting list is
+- [11:45] something like what Rolex has where you
+- [11:46] can't buy a watch, you can only join the
+- [11:48] waiting list. An assessment is like the
+- [11:50] key person of influence assessment where
+- [11:51] you do your personal brand test. A
+- [11:53] webinar could be a 45 minute to 90minute
+- [11:56] webinar where you actually take people
+- [11:57] through a step by step and you do an
+- [11:59] introduction to what it is that you do.
+- [12:01] And a miniourse could be an introduction
+- [12:02] to how to get the type of results people
+- [12:04] want as well. All of these require
+- [12:06] people to opt in. And when they opt in,
+- [12:08] they're giving their name, their contact
+- [12:10] information, they're giving their phone
+- [12:12] number, their email address, and they're
+- [12:13] giving permission for you to get in
+- [12:15] touch with them and start the process of
+- [12:17] making a sale. This will give you an
+- [12:18] endless stream of hot leads because
+- [12:20] people have engaged with the short form.
+- [12:22] they've consumed some long form and now
+- [12:23] they're opting in to engage with your
+- [12:25] business. You cannot possibly get hotter
+- [12:27] leads than this. And if you can automate
+- [12:29] that whole strategy, every single week
+- [12:31] you'll have enough leads to make seven
+- [12:33] figures worth of revenue. Now, what
+- [12:34] happens next? Obviously, we end up with
+- [12:37] sales calls or we end up with follow-up
+- [12:39] sequences or we have special offers on
+- [12:41] text or email. All of those three things
+- [12:43] translate people into the sale. So,
+- [12:45] you've got a constant pipeline of warm
+- [12:47] leads turning into hot leads turning
+- [12:49] into sales. Now, all of this is
+- [12:51] underpinned by your personal brand, not
+- [12:52] your business brand. See, your personal
+- [12:54] brand gets 20 times the cut through as
+- [12:56] your business brand. Imagine paying 95%
+- [12:59] tax rate as the amount of tax that you
+- [13:01] pay. If you do a business brand versus a
+- [13:03] personal brand, you're going to pay a
+- [13:05] 95% attention tax. Social media was
+- [13:07] built for personal brands. It was never
+- [13:09] built to amplify business brands. So,
+- [13:11] it's your personal brand that is sharing
+- [13:12] the short form content. It's your
+- [13:14] personal brand that is sharing the long-
+- [13:16] form content. and it is your business
+- [13:18] brand that finally gets people to
+- [13:20] connect at the call to action level.
+- [13:21] This is where they translate from
+- [13:23] personal to business here. Okay, so now
+- [13:25] we've got the theory. Let's talk about
+- [13:27] the things that are going to hold you
+- [13:28] back and let me share with you some
+- [13:29] experiences that you're going to find
+- [13:30] useful in implementing this. The first
+- [13:32] thing that holds people back is they
+- [13:34] say, "Daniel, I don't have an audience.
+- [13:35] I don't have lots of followers like you
+- [13:37] do." The good news is that we're
+- [13:38] actually not in the age of social media
+- [13:40] anymore. We're in the age of algorithmic
+- [13:42] media. Social media used to tell you
+- [13:44] what your friends were doing.
+- [13:45] Algorithmic media shows you content on
+- [13:47] topics that you're interested in. Now,
+- [13:48] you've experienced this. You've been
+- [13:50] scrolling through Instagram and seen
+- [13:51] people that you do not follow, but
+- [13:53] they're saying something that you're
+- [13:54] interested in. Instagram already
+- [13:56] understands that, and it's finding new
+- [13:57] people for you to follow based upon
+- [13:59] topics, not based on friendship groups.
+- [14:01] So, the way that you know this is
+- [14:02] working is that these topics are
+- [14:04] landing. The algorithm is figuring out
+- [14:06] that there is an audience for this, and
+- [14:07] you're going to get direct feedback. If
+- [14:09] the algorithm doesn't pick it up and it
+- [14:10] doesn't show it to people, then you're
+- [14:12] not talking about the topics that people
+- [14:14] care about. If the algorithm does show
+- [14:15] you to people who are interested, it
+- [14:17] means that there is an audience of
+- [14:19] people out there who want more of what
+- [14:20] you've got to say. Double down on it.
+- [14:22] When I built my profile, I did that in
+- [14:24] the age of social media, which meant
+- [14:25] that I had to win people over one at a
+- [14:27] time. More recently, I've been launching
+- [14:29] channels in the age of algorithmic
+- [14:31] media, and I've found it so much easier.
+- [14:33] It took me so much effort in the age of
+- [14:35] social media to get 20,000 followers,
+- [14:37] and it's been so much easier to get over
+- [14:39] a 100,000 subscribers in the age of the
+- [14:42] algorithm. Please do not let this hold
+- [14:44] you back. It doesn't matter if you've
+- [14:46] got a social media following today. It
+- [14:48] only matters that you're talking about
+- [14:49] the topics that people are interested
+- [14:50] in. Now, you've probably heard about the
+- [14:52] term SEO, search engine optimization.
+- [14:55] Now, that is also being replaced by AIO,
+- [14:57] which is AI optimization. And what that
+- [14:59] means is that if you start putting out a
+- [15:01] lot of great content in the next year or
+- [15:02] two, the AI algorithms are going to pick
+- [15:05] up on that and they're going to start
+- [15:06] recommending you in the AI chat bots. So
+- [15:09] more and more when people are engaging
+- [15:10] with their AI chat bots, it's going to
+- [15:12] give people answers to their questions
+- [15:14] and then recommend your piece of content
+- [15:16] as a link. I've noticed that my content
+- [15:18] is already being recommended by Chat
+- [15:20] GBT, Claude Perplexity, and Google
+- [15:22] Gemini. And this is not vanity metrics.
+- [15:24] Our business is exploding as a result.
+- [15:26] Last month was a record month in all of
+- [15:29] my businesses. We are doing exponential
+- [15:31] growth in our sales and it's effortless
+- [15:33] and it's fun because we're getting this
+- [15:35] strategy right now. Don't take my word
+- [15:37] for it. Go to my LinkedIn, you'll see
+- [15:38] that I'm posting every single day. Go to
+- [15:40] my YouTube, you'll see short form
+- [15:42] content every day. Go to my Instagram,
+- [15:44] you'll see little bits every single day.
+- [15:46] All of it is going from short form to
+- [15:48] long form to call to action. It's a
+- [15:50] simple little strategy, but it works.
+- [15:52] Now, my businesses are not doing seven
+- [15:54] figures worth of revenue. We're doing
+- [15:55] eight figures worth of revenue off the
+- [15:57] back of this strategy. I'm not talking
+- [15:59] about a million a year. I'm talking
+- [16:00] about a million a month. Can you imagine
+- [16:02] a perfect customer who's got money to
+- [16:04] spend? They go to ChattBT. They ask a
+- [16:06] question and it recommends your piece of
+- [16:08] content as the thing that they should
+- [16:10] engage with. As a result of that, that
+- [16:12] person watches your video, clicks on
+- [16:13] your call to action, engages with you
+- [16:15] and with your business, and then they
+- [16:16] spend their money with you. That really
+- [16:18] happens in real time every single day.
+- [16:20] People are shopping on Chat GBT. Now,
+- [16:22] SEO is already saturated. You would have
+- [16:24] to spend months, maybe years, catching
+- [16:26] up to your competitors on SEO. But AI is
+- [16:29] an open opportunity. Now, because you've
+- [16:31] watched to the end of this video, I'm
+- [16:33] going to give you one special little
+- [16:34] bonus, and that is that AI ads are
+- [16:36] either here by the time you watch this,
+- [16:38] or they're coming very, very soon. I'm
+- [16:40] old enough to remember when Google
+- [16:41] launched ads, and for about a year to
+- [16:43] two years, ads were so cheap that you
+- [16:45] could win clients for pennies. Then I
+- [16:48] watched Facebook do the same thing.
+- [16:49] Facebook never had advertising on the
+- [16:51] platform, and then they launched ads,
+- [16:53] and for a year to two years, you could
+- [16:55] get incredibly cheap leads and make huge
+- [16:58] money. I wish I had have doubled down
+- [16:59] and gone allin on Google ads and
+- [17:02] Facebook ads when I had the chance cuz I
+- [17:04] was doing business at the time, but I
+- [17:05] wasn't brave enough to seize the moment.
+- [17:07] Already Sam Alman has told us that AI
+- [17:09] ads are coming any day now. And what
+- [17:11] that means is that 800 million people a
+- [17:13] week are searching on chat GBT for
+- [17:16] particular relevant things that relate
+- [17:17] to your business. And you're going to be
+- [17:19] able to advertise right at the moment
+- [17:21] that they're actually completely engaged
+- [17:23] in that search in that conversation. Be
+- [17:24] ready for that short window with AI ads.
+- [17:27] See, here's the thing. Big corporations,
+- [17:29] they take six months to discuss an idea,
+- [17:31] 6 months to test an idea, and then the
+- [17:33] following year they come in heavy. Which
+- [17:34] is why there's always a 1 to twoyear gap
+- [17:37] before the big budgets come into these
+- [17:39] new platforms. That is where your small
+- [17:41] business has room to really, really put
+- [17:43] some money in the bank. Now, if you
+- [17:44] enjoyed this video, you're going to want
+- [17:46] to check out my other video about how to
+- [17:48] become famous in your industry. Click on
+- [17:50] that video. It's a long form piece of
+- [17:51] content with a call to action in it, and
+- [17:53] I think you'll actually see what I'm
+- [17:54] doing there. I hope your business is
+- [17:56] succeeding and I hope you're doing well.

@@ -2,7 +2,7 @@
 
 > **TL;DR**: Vault routing table for official operations, entities, learning protocols, concepts, synthesis pages, projects, references, sources, and canonical tags.
 
-> Content routing table. Last updated: 2026-04-29 | Pages: 202 | Sources: 68
+> Content routing table. Last updated: 2026-05-04 | Pages: 211 | Sources: 71
 > Format: `- [[path|Display Name]] - one-liner (tags)`
 
 ---
@@ -78,6 +78,7 @@
 - [[wiki/synthesis/discord-ai-agent-connection-patterns|Discord AI Agent Connection Patterns]] - architecture-level guide for wiring an existing Discord app into an AI moderation backend (discord, ai, moderation)
 - [[wiki/synthesis/discord-moderation-domain|Discord Moderation Domain]] - initial knowledge router for permission design, staff controls, and moderation gaps (discord, moderation)
 - [[wiki/synthesis/discord-moderation-source-map|Discord Moderation Source Map]] - next-ingest source map across docs, GitHub, Reddit, and YouTube for the missing moderation areas (discord, moderation)
+- [[wiki/synthesis/daniel-priestley-distribution-system|Daniel Priestley Distribution System]] - compiled founder-led distribution machine from 23 Daniel Priestley long-form YouTube source cards (youtube, distribution, synthesis, source-summary)
 - [[projects/pathfinder/notes/pathfinder-docs-ingest|PathFinder Docs Ingest]] - structured summary of the mirrored PathFinder docs corpus (pathfinder, synthesis)
 - [[projects/pathfinder/notes/pathfinder-architecture-hub|PathFinder Architecture Hub]] - domain hub for graph shape, state, and architecture contracts (pathfinder, synthesis)
 - [[projects/pathfinder/notes/pathfinder-context-hub|PathFinder Context Hub]] - domain hub for stable context, live handoff, and maintenance rules (pathfinder, synthesis)
@@ -87,6 +88,9 @@
 - [[projects/pathfinder/notes/docs-repo-vault-sync-policy|Repo Vault Sync Policy]] - current write boundary between vault-canonical docs and the repo mirror layer (pathfinder, workflow, docs)
 - [[projects/raven/notes/raven-context-hub|Raven Context Hub]] - context router for Raven live state, project orientation, and root-context compression (raven, context, workflow, docs)
 - [[projects/raven/notes/raven-current-context|Raven Current Context]] - live Raven implementation state, verified seams, next action, and branch status (raven, context, engineering, evaluation)
+- [[projects/raven/notes/raven-codex-native-pivot|Raven Codex-Native Pivot]] - strategic scope correction narrowing Raven into a hard-source acquisition and evidence-preparation tool for Codex rather than a custom agent OS (raven, ai, architecture, workflow, context)
+- [[projects/raven/notes/raven-tier-2-source-packet-contract|Raven Tier 2 Source Packet Contract]] - official artifact contract for transcript-backed source cards in round one and cross-source Wave Reports in round two (raven, workflow, docs, architecture, source-summary)
+- [[projects/raven/notes/raven-tier-2-execution-proposal|Raven Tier 2 Execution Proposal]] - auditable YouTube-first execution proposal for turning Tier 2 into transcript files, source cards, and Wave Reports after the Daniel Priestley proof ingest (raven, workflow, architecture, source-summary, youtube)
 - [[projects/raven/notes/raven-progress-map|Raven Progress Map]] - compressed past map for completed Raven work, current edge, and unresolved next decision lanes (raven, context, workflow, docs)
 - [[projects/raven/notes/raven-architecture-hub|Raven Architecture Hub]] - domain hub for Raven system maps, loop boundaries, and D2 plus Canvas planning workflow (raven, architecture, workflow, docs)
 - [[projects/raven/notes/raven-architecture-demo|Raven Architecture Demo]] - fast rendered walkthrough of the Raven D2 plus Canvas planning stack (raven, architecture, workflow, docs)
@@ -105,12 +109,18 @@
 - [[projects/pathfinder/README|PathFinder]] - active | vault workspace for repo docs, summaries, and project routing
 - [[projects/raven/README|Raven]] - active | Knowledge Signal Engine scaffold with hub-routed context, architecture, prompt, evaluation, workflow, and source/evidence branches
 - [[projects/raven/sources/README|Raven Sources And Evidence]] - project-local raw/evidence lane for Raven source pointers, references, datasets, traces, and repo eval evidence boundaries (raven, docs, workflow)
-- [[projects/raven/sources/transcripts/README|Raven Transcript Sources]] - project-local lane for YouTube transcript-derived source cards and synthesis pointers without full raw transcript dumps (raven, source-summary, youtube, docs)
+- [[projects/raven/sources/transcripts/README|Raven Transcript Sources]] - project-local raw evidence lane for full transcripts and transcript manifests keyed by run/date/platform (raven, source-summary, youtube, docs)
+- [[projects/raven/sources/summaries/README|Raven Source Summaries]] - project-local compiled output lane for source cards and Wave Reports derived from raw transcript/source material (raven, source-summary, docs, workflow)
 - [[projects/wynncraft/README|Wynncraft Assistant]] - active low-priority | leisure-control project for Wynncraft source pulls, builds, and compact next-session strategy (wynncraft, project/wynncraft)
 - [[projects/wynncraft/notes/wynncraft-player-profile|Wynncraft Player Profile]] - project-local profile for Duc's solo-first optimizer preferences, Mage route choice, and assistant-led decision constraints (wynncraft, project/wynncraft, context)
 - [[projects/wynncraft/notes/wynncraft-search-operations|Wynncraft Search Operations]] - project-local research lanes for patch, build, solo Mage, leveling, economy, QoL, and drift-audit searches (wynncraft, project/wynncraft, workflow, docs)
 - [[projects/wynncraft/notes/wynncraft|Wynncraft Operating Sheet]] - compiled strategy sheet for class choice, leveling route, build policy, and time-boxed play loop (wynncraft, project/wynncraft, workflow)
 - [[projects/wynncraft/sources/README|Wynncraft Sources And Evidence]] - source lane for official wiki/API, forums, Reddit, and the local seed document boundary (wynncraft, project/wynncraft, docs)
+- [[projects/minecraft-pvp/README|Minecraft PvP]] - active low-priority | daily modern PvP training project for Aerial Lancer skill development (minecraft, pvp, project/minecraft-pvp)
+- [[projects/minecraft-pvp/notes/minecraft-pvp-operating-sheet|Minecraft PvP Operating Sheet]] - compiled strategy sheet for Aerial Lancer training, setup decision, missing context, and Wynncraft profile review (minecraft, pvp, project/minecraft-pvp, workflow)
+- [[projects/minecraft-pvp/notes/minecraft-pvp-first-14-days|Minecraft PvP First 14 Days]] - executable two-week training plan for setup, sword stability, axe/shield, SMP utility, and mace basics (minecraft, pvp, project/minecraft-pvp, plan)
+- [[projects/minecraft-pvp/notes/minecraft-pvp-video-review-workflow|Minecraft PvP Video Review Workflow]] - workflow for using Flashback exports and claude-video/watch-style frame extraction to diagnose PvP fights visually (minecraft, pvp, project/minecraft-pvp, workflow, docs)
+- [[projects/minecraft-pvp/sources/README|Minecraft PvP Sources And Evidence]] - source lane for the local Aerial Lancer roadmap and CurseForge instance evidence (minecraft, pvp, project/minecraft-pvp, docs)
 - [[projects/ielts-writing/README|IELTS Writing]] - active | 20-day band 4-5 → 7-8 protocol with schema docs (ielts, writing, learning)
 - [[projects/ielts-writing/sources/chart-generator|Task 1 Chart Generator]] - how to call gen_challenge(spec) to produce PNG charts for practice (ielts, tools)
 
@@ -156,6 +166,11 @@
 
 ## Sources (recent first)
 <!-- Format: - YYYY-MM-DD: [[wiki/path|Title]] <- [[sources/path|raw]] (tags) -->
+### Daniel Priestley
+- 2026-05-04: [[wiki/synthesis/daniel-priestley-distribution-system|Daniel Priestley Distribution System]] <- [[sources/summary/daniel-priestley-youtube-2026-05-04/README|source-card index]] (youtube, distribution, synthesis, source-summary)
+- 2026-05-04: Daniel Priestley YouTube long-form source cards <- [[sources/summary/daniel-priestley-youtube-2026-05-04/README|source-card index]] (youtube, source-summary, distribution)
+- 2026-05-04: Daniel Priestley YouTube long-form transcript inventory <- [[sources/transcripts/daniel-priestley-youtube-2026-05-04/inventory|raw inventory]] (youtube, source-summary)
+
 ### Discord Moderation
 - 2026-04-07: [[wiki/synthesis/discord-interactions-overview|Discord Interactions Overview]] <- [[references/discord-interactions-overview|raw]] (discord, ai, moderation)
 - 2026-04-07: [[wiki/synthesis/discord-receiving-and-responding-to-interactions|Discord Receiving And Responding To Interactions]] <- [[references/discord-receiving-and-responding-to-interactions|raw]] (discord, ai, moderation)
@@ -258,13 +273,18 @@
 - context
 - workflow
 - docs
+- youtube
+- distribution
 - wynncraft
+- minecraft
+- pvp
 
 ### Type
 <!-- #person #tool #framework #concept #project -->
 - project/pathfinder
 - project/raven
 - project/wynncraft
+- project/minecraft-pvp
 - report
 - synthesis
 - source-summary

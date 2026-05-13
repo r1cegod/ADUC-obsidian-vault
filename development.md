@@ -2,7 +2,7 @@
 type: hub
 title: Development Domain
 created: '2026-04-25'
-updated: '2026-04-25'
+updated: '2026-05-12'
 tags:
   - workflow
   - engineering
@@ -72,7 +72,8 @@ It asks the uncomfortable question before speed begins.
 
 ```text
 User says: "how do I do this?"
-Agent reads Learn.
+Agent runs Detect.
+If the seam is visible, agent defaults to VIBE_DOCING raw lego blocks.
 Agent does not require the user to name Vibe Docing.
 ```
 

@@ -1,0 +1,546 @@
+---
+type: source
+title: "How to Become Famous in Your Industry (and Make $1 Million)"
+source: youtube
+channel: "Daniel Priestley"
+channel_id: UCABR204CFV9ZoMz69TyspzA
+video_id: QI_aGzPUOK8
+url: https://www.youtube.com/watch?v=QI_aGzPUOK8
+published_at: "2025-11-18T16:19:38Z"
+duration_seconds: 949
+fetched_at: 2026-05-04T06:15:03Z
+transcript_status: fetched
+transcript_language: "en"
+ingest_run: daniel-priestley-youtube-2026-05-04
+---
+
+# How to Become Famous in Your Industry (and Make $1 Million)
+
+> Raw transcript evidence for vault-level Daniel Priestley YouTube ingest. Do not treat this as compiled knowledge; use source cards and synthesis pages for durable claims.
+
+## Source Metadata
+- url: https://www.youtube.com/watch?v=QI_aGzPUOK8
+- channel: Daniel Priestley
+- published_at: 2025-11-18T16:19:38Z
+- duration_seconds: 949
+- fetched_at: 2026-05-04T06:15:03Z
+
+## Transcript
+
+- [00:00] The way income in your industry is
+- [00:01] distributed is not fair. The people at
+- [00:03] the top earn way more than everybody
+- [00:06] else combined. Technology is moving all
+- [00:08] the money to the top of the power law.
+- [00:10] For many, many years in the industrial
+- [00:11] age, income was shared fairly and there
+- [00:13] was a bell curve, but today that's
+- [00:15] different. Technology has created a
+- [00:16] power law that distributes money to the
+- [00:18] absolute top of every industry. It's the
+- [00:21] key people of influence who are making
+- [00:22] more than ever while everybody else is
+- [00:24] sitting there looking at them going,
+- [00:25] "How are they doing it?" Today we're
+- [00:26] going to explain exactly how they're
+- [00:28] doing it.
+- [00:30] Now before I share with you those five
+- [00:32] things, I want to introduce you to the
+- [00:33] craziest shape that I ever saw. I saw
+- [00:35] this shape 15 years ago and it blew my
+- [00:37] mind and I spent about 6 months just
+- [00:39] looking at this shape and trying to
+- [00:40] figure out how it worked. So, what is
+- [00:42] this shape? This is a strange shape and
+- [00:44] the shape is actually income
+- [00:47] distribution.
+- [00:49] And what blew my mind is that
+- [00:51] essentially there are a lots of people
+- [00:53] who earn, call it 50 grand to 150 grand.
+- [00:58] And that's like the vast majority of
+- [00:59] people, but then when we get past this
+- [01:01] little point up here, the top 5%, it
+- [01:04] goes exponential. Every little
+- [01:06] percentage jump goes through the roof
+- [01:09] relative to what most people earn. So,
+- [01:11] plenty of people in this pointy end of
+- [01:13] the shape uh earning 600,000 a year, a
+- [01:17] million a year, under it 1.5 million a
+- [01:19] year. The incomes over here just go
+- [01:21] absolutely off the chart. It's
+- [01:23] absolutely wild to see. Now, what I
+- [01:24] discovered is this shape happens in
+- [01:26] every industry. You can take almost any
+- [01:29] industry you can think of and you'll get
+- [01:31] the vast majority of people earning
+- [01:33] something like 50 to 150,000 a year. And
+- [01:36] then once you get to that top end of the
+- [01:37] town, boom, you get a few people who get
+- [01:40] exponentially more. So, I became
+- [01:42] fascinated with this and I wanted to
+- [01:43] understand what's going on here. The
+- [01:45] first insight that I had is that
+- [01:46] industries are broken up into three
+- [01:48] categories. Category one is called
+- [01:50] newbies and newbies are people who are
+- [01:52] new to an industry. They're still
+- [01:53] learning. They're still getting their
+- [01:54] basic level of skills and those newbies
+- [01:56] are people who are fresh, new, and
+- [01:58] excited. They've got loads of energy,
+- [02:00] loads of happiness. They can't believe
+- [02:02] they're lucky to be in this industry.
+- [02:03] Essentially, their currency is learning.
+- [02:05] And what they're trying to do is get
+- [02:06] enough skills to get to the next
+- [02:08] category, which is to become workers.
+- [02:10] And these workers are the people who
+- [02:12] essentially they're not as happy,
+- [02:14] they're not as excited. They kind of
+- [02:15] know the realities of the industry, but
+- [02:17] they've got the skills and they get paid
+- [02:18] and there's plenty of opportunities for
+- [02:20] them, but those opportunities
+- [02:21] essentially pay something like 50 to
+- [02:23] 150,000 a year. And that is the vast
+- [02:25] majority of people in any industry. And
+- [02:27] then at the very top of the industry, we
+- [02:29] have the key people of influence. It's a
+- [02:33] small group of people who are the most
+- [02:34] connected, most well-known personal
+- [02:36] brands in the industry and those people
+- [02:38] earn exponentially more money. As I
+- [02:40] said, this happens in all industries.
+- [02:41] Now, here's what often happens. There's
+- [02:43] this thing called the merry-go-round of
+- [02:44] distraction. The merry-go-round of
+- [02:46] distraction is where a worker bee who is
+- [02:49] in industry A sees a key person of
+- [02:51] influence in industry B. So, they go,
+- [02:54] "Oh my goodness, I want to be that
+- [02:56] person, so I'm going to rush over to
+- [02:57] industry B." And then what they do is
+- [02:59] they go from a worker bee to a newbie in
+- [03:01] this new industry and they go, "Oh,
+- [03:02] that's terrible." They work, work, work,
+- [03:04] work, work, work, and then they end up
+- [03:06] as a worker bee in industry B and they
+- [03:07] say, "Oh, that's not what I thought it
+- [03:08] was." So, they go, "Oh, I've seen a key
+- [03:10] person of influence in industry C, so
+- [03:12] I'm now going to go and run and do that.
+- [03:14] Now I'm back to being a newbie." And
+- [03:15] they basically bounce from being a
+- [03:16] worker bee to a newbie and a worker bee
+- [03:19] to a newbie and they go through around
+- [03:21] the merry-go-round of distraction and
+- [03:22] they just essentially they go from this
+- [03:24] thing to that thing chasing the bright
+- [03:26] shiny object. They always see the key
+- [03:28] person of influence doing well, but then
+- [03:29] the realities of the industry unfold and
+- [03:32] it doesn't work out the way that they
+- [03:33] thought they would, right? So, that
+- [03:34] amazing opportunity that they were
+- [03:36] chasing is actually shielded by an army
+- [03:38] of newbies and worker bees who have been
+- [03:40] attracted to that same opportunity. And
+- [03:41] I call that the merry-go-round of
+- [03:43] distraction. So, what do you do instead?
+- [03:44] Well, instead of being a merry-go-round
+- [03:46] of distraction, you recognize that this
+- [03:48] is how your industry works and you say,
+- [03:50] "I'm going to go from being a worker bee
+- [03:51] to a key person of influence. I'm going
+- [03:53] to do the things that make me a key
+- [03:55] person of influence in the industry that
+- [03:57] I love." So, you choose an industry that
+- [03:58] you love. And once you've chosen an
+- [04:00] industry that you love, you figure out
+- [04:02] how do I become the key person of
+- [04:03] influence at that. Now, to become the
+- [04:05] key person of influence in any industry
+- [04:08] does not require more skills. The
+- [04:09] functional skills that got you here are
+- [04:11] not going to get you there. To become a
+- [04:13] key person of influence, you need five
+- [04:15] new skills that most people in the
+- [04:16] industry don't have. So, let's go
+- [04:18] through the five skills that make you a
+- [04:19] key person of influence. Skill number
+- [04:21] one is a skill called pitching.
+- [04:24] Pitching is the ability to enroll people
+- [04:26] into new ideas. It's to get people
+- [04:28] excited about something that they
+- [04:29] haven't even thought about. Somebody
+- [04:31] woke up, they weren't even thinking
+- [04:32] about this particular idea and then they
+- [04:34] saw Alex Mosey talking about it and they
+- [04:36] went, "Oh my goodness, I'm interested in
+- [04:37] that." They saw Cody Sanchez saying,
+- [04:39] "Wouldn't it be great to buy this kind
+- [04:40] of business?" And they go, "Yes, I'm
+- [04:42] going to buy that kind of business." So,
+- [04:43] what happened is that that key person of
+- [04:45] influence pitched them an idea. Being a
+- [04:47] key person of influence is the journey
+- [04:49] of a thousand pitches. You are going to
+- [04:51] have to pitch, pitch, pitch, pitch,
+- [04:52] pitch and the person who is the best at
+- [04:54] pitching is the one who becomes the key
+- [04:56] person of influence because the people
+- [04:57] who can pitch, those are the ones that
+- [04:59] move the needle. Now, how do you pitch?
+- [05:01] First thing to know is that there's
+- [05:02] three types of pitches. Pitch number one
+- [05:04] is called a social pitch. It's the type
+- [05:06] of pitch that happens on social media or
+- [05:08] in social settings. It's typically a
+- [05:10] 30-second to 45-second pitch and it says
+- [05:14] your name, your same, your fame, your
+- [05:16] aim, and your game, right? There's
+- [05:17] plenty of things in that social pitch
+- [05:19] and you get all of that across in a very
+- [05:21] short space of time and people go, "Ooh,
+- [05:23] you're up to something. I want to know
+- [05:24] more." The next one is called a
+- [05:26] scheduled pitch.
+- [05:28] Scheduled pitch is where you're meeting
+- [05:30] someone and you know who they are, they
+- [05:32] know who you are and you've got
+- [05:33] something like 15 minutes to 2 hours.
+- [05:36] And in that 15 minutes to 2 hours,
+- [05:38] you're going to give a full presentation
+- [05:40] and it's tailored to that person and
+- [05:41] your job is to basically take them on a
+- [05:43] new journey. You want to say you're
+- [05:45] going to take path A, I'm going to move
+- [05:46] you to path B. I'm going to get this
+- [05:48] particular course of action to happen
+- [05:50] because I've scheduled a pitch and now
+- [05:51] I'm pitching an idea and now you're
+- [05:53] going to get excited by the ideas,
+- [05:54] right? So, scheduled pitch. And then the
+- [05:56] final one is a sales pitch and a sales
+- [05:58] pitch is about achieving a transaction.
+- [06:00] So, it's either selling someone to
+- [06:02] actually transact to buy a product or
+- [06:04] it's selling someone to invest, right?
+- [06:06] But it's actually a transactional pitch.
+- [06:08] So, these social pitch, scheduled pitch,
+- [06:09] sales pitch, these are the ones that key
+- [06:11] people of influence use all the time.
+- [06:13] It's because they can do those types of
+- [06:15] pitches that they are so valued in their
+- [06:17] industry because most people in any
+- [06:19] industry just can't pitch ideas. Now, I
+- [06:21] believe that you get what you pitch for
+- [06:23] and you're always pitching. Have you
+- [06:24] ever met a negative person who's always
+- [06:26] talking about how bad things are? To me,
+- [06:28] that's a pitch. They're pitching into
+- [06:30] existence negativity. They're pitching
+- [06:32] the bad things into existence. "Oh, it's
+- [06:34] so hard out there. It's so difficult out
+- [06:36] there." You can probably see it in the
+- [06:37] comments of some of my videos, people
+- [06:39] pitching negativity and then they wonder
+- [06:41] why everything doesn't work out for them
+- [06:43] because they pitched it. I believe that
+- [06:45] you get what you pitch for and you're
+- [06:46] always pitching. So, you've got to be
+- [06:48] very intentional about the way that you
+- [06:50] pitch. If you want to be a key person of
+- [06:51] influence, step one is become great at
+- [06:54] pitching. Step two is to have published
+- [06:56] content. Published content means taking
+- [06:58] your ideas and putting it into the
+- [07:00] public domain. The word published means
+- [07:02] to make public. Publishing could be
+- [07:03] publishing videos, publishing podcasts,
+- [07:06] or ideally publishing a book. There is a
+- [07:08] reason that the word author and
+- [07:10] authority are so closely linked. When
+- [07:12] you become an author, you become an
+- [07:14] authority. By publishing your ideas and
+- [07:16] putting them out there in the public
+- [07:17] domain, you are sending a signal that
+- [07:19] you really care about something. It's
+- [07:21] those who publish who care the most.
+- [07:23] Putting your ideas into books, reports,
+- [07:25] social posts, videos, and podcasts is a
+- [07:27] key to being seen as a key person of
+- [07:29] influence. Those who publish are those
+- [07:31] who scale. Now, a key idea for this is
+- [07:33] prolific beats perfect. Do not try and
+- [07:35] be a perfectionist, try and be a
+- [07:37] directionalist. A directionalist is
+- [07:39] someone who moves directionally correct
+- [07:40] with everything that they publish. They
+- [07:42] just keep publishing, publishing,
+- [07:43] publishing. Some of it is a home run and
+- [07:45] scales, some of it gets brushed under
+- [07:47] the carpet. That's totally fine. The
+- [07:49] Beatles wrote something like 400
+- [07:51] different songs and I think only about
+- [07:53] 30 or 40 of them became number ones, but
+- [07:55] they're the biggest selling band ever to
+- [07:56] exist. So, you're going to publish some
+- [07:58] stuff that's world-class, you're going
+- [08:00] to publish some stuff that is a bit
+- [08:01] cringe. People will see the world-class
+- [08:03] stuff and the cringe stuff never takes
+- [08:05] off anyway, so it doesn't really matter.
+- [08:07] Prolific beats perfect. Don't worry
+- [08:09] about perfection, worry about direction.
+- [08:11] Step number three, if you want to be a
+- [08:12] key person of influence, is we have to
+- [08:14] free up your time. You can't be selling
+- [08:16] your time for money as a key person of
+- [08:17] influence, you have to sell products.
+- [08:19] There is a reason that you will see all
+- [08:21] the key people of influence like Steven
+- [08:23] Bartlett, Alex Mosey, Cody Sanchez, they
+- [08:25] are all out there selling products,
+- [08:26] they're not selling their time as their
+- [08:28] primary way of making money. Now, what
+- [08:30] do we want to do with products? We want
+- [08:31] to create what we call a product
+- [08:32] ecosystem. We want four types of
+- [08:35] products that are really going to give
+- [08:36] you scale. The first type of product is
+- [08:38] a free product called a gift, something
+- [08:40] you can give away freely that people
+- [08:42] think is great value for free. The next
+- [08:44] one is called a product for prospects,
+- [08:46] which is a cheap, easy product that does
+- [08:48] not require a huge commitment. And the
+- [08:50] product for prospects is a powerful
+- [08:52] first step for anyone who wants to work
+- [08:54] with you. The third product is your core
+- [08:56] offering, it's the main thing that you
+- [08:58] do, it's the thing you're known for,
+- [08:59] it's transformational, it's impressive,
+- [09:01] it's the flagship product that you do.
+- [09:03] And the fifth product is called a
+- [09:04] product for clients, it's the ongoing
+- [09:07] subscription, the ongoing membership,
+- [09:08] it's the product that takes people off
+- [09:10] into the future. So, we need all four of
+- [09:12] these. Gifts create attention, product
+- [09:14] for prospects creates trust, core
+- [09:17] offerings creates transformation, and
+- [09:19] product for clients creates
+- [09:20] relationships over time. So, having all
+- [09:22] four of these products is beneficial for
+- [09:24] your overall product ecosystem. The main
+- [09:27] thing is that you do not sell time for
+- [09:29] money. Income follows assets and the
+- [09:31] assets that matter most today are the
+- [09:33] assets of product creation. Creating a
+- [09:35] new and hot product is one of the best
+- [09:37] value assets you'll ever have. It's
+- [09:39] better than a house, it's better than
+- [09:40] stocks and shares in somebody else's
+- [09:42] company. The big money is in product
+- [09:44] creation. It's typical that a key person
+- [09:46] of influence is also a product
+- [09:48] innovator, a product creator. That has
+- [09:50] to be you. You've got to think through
+- [09:52] how are you going to engineer a better
+- [09:54] offer, a better product than already
+- [09:55] exists. And remember, products and
+- [09:57] services don't make money, product and
+- [09:59] service ecosystems make money. It's not
+- [10:01] enough to just create one product,
+- [10:03] you've got to create all four. Step
+- [10:04] number four is building a profile. The
+- [10:06] definition of a profile is how you are
+- [10:09] seen from a distance. So, how are you
+- [10:10] going to be seen from a distance? Well,
+- [10:12] you're going to be seen using a
+- [10:13] framework called SALT.
+- [10:15] SALT stands for social media accounts.
+- [10:18] You're going to have at least four
+- [10:19] platforms that you show up on on a
+- [10:21] regular basis, and those are going to be
+- [10:23] your big social media accounts that you
+- [10:25] create and grow. The A stands for awards
+- [10:27] and associations. You're going to win
+- [10:29] some awards, and you're going to be
+- [10:30] associated to brands that have already
+- [10:32] heard of. L stands for live events.
+- [10:35] You're going to be a speaker, you're
+- [10:36] going to host live events, you're going
+- [10:37] to sponsor live events, you're going to
+- [10:39] get involved in live events, cuz that's
+- [10:41] where a lot of action happens when
+- [10:42] you're a key person of influence. And T
+- [10:45] stands for third-party platforms. You're
+- [10:47] going to appear on other people's
+- [10:48] podcasts, you're going to be on other
+- [10:50] people's platforms, you're going to be
+- [10:51] invited on traditional media, and all of
+- [10:54] that is third-party platforms. Now, when
+- [10:56] you have got the social media, the
+- [10:58] awards and associations, the live
+- [11:00] events, and the third-party platforms,
+- [11:01] people are going to say, "That person is
+- [11:03] worth their salt, they've got a big
+- [11:04] profile, I can discover them, I can
+- [11:06] easily interact with them." I personally
+- [11:08] believe that every opportunity stands
+- [11:11] behind a Google search. It's very
+- [11:13] unlikely that a big deal would happen
+- [11:14] without somebody Googling you. So, I
+- [11:16] want you to apply the principle that you
+- [11:18] are who Google says you are. If I Google
+- [11:20] your name and nothing comes up, there's
+- [11:22] a low chance that I would ever do a big
+- [11:24] deal with you. If I Google your name and
+- [11:25] it's confusing that there's all these
+- [11:27] different things you're involved with
+- [11:28] and I can't really make sense of it,
+- [11:30] there's a very low chance that I would
+- [11:31] do business with you. If I Google your
+- [11:33] name and it's clear to me that you're a
+- [11:35] key person of influence, that people
+- [11:37] respect you, that you're known, liked,
+- [11:38] and trusted, that you've got these four
+- [11:40] things in place, then there's a very
+- [11:42] high chance that I want to work with you
+- [11:43] as a key person of influence. Now, some
+- [11:45] people hate the idea of being in the
+- [11:47] spotlight. They say, "I do not want to
+- [11:49] become a narcissist. I don't want to be
+- [11:50] the type of person who says, 'Look at
+- [11:52] me.' I don't want to be the type of
+- [11:53] person who shows what I have for
+- [11:55] breakfast and what car I drive and what
+- [11:58] gym routine that I've got." And that is
+- [12:00] totally acceptable, and that's totally
+- [12:01] normal. And I want to let you know that
+- [12:02] building a profile is not about being in
+- [12:05] the spotlight, building a profile is
+- [12:07] about becoming the spotlight. Your goal
+- [12:08] is not to say, "Look at me." It's to
+- [12:10] say, "Look at this." You're not saying,
+- [12:12] "Check me out, I'm amazing." You're
+- [12:14] saying, "Check out these ideas, these
+- [12:16] ideas are amazing." You're also going to
+- [12:18] get famous by the success of your
+- [12:19] clients. You're going to put your
+- [12:21] clients in the spotlight. The goal is
+- [12:22] not to chase the spotlight, it's to
+- [12:24] become the spotlight. Step five is
+- [12:26] partnerships. Partnerships are where
+- [12:28] you, as a key person of influence, team
+- [12:30] up with other key people of influence in
+- [12:32] your industry. This is where you get to
+- [12:34] access the unbelievable multiplier
+- [12:36] effect of partnerships. One plus one
+- [12:39] should equal 11, because if you do great
+- [12:41] partnerships, it has this incredibly
+- [12:43] powerful multiplier effect. Your brand
+- [12:45] with somebody else's product could be a
+- [12:47] huge product launch. Your distribution
+- [12:49] with somebody else's product and brand
+- [12:50] could be a massive partnership. Think
+- [12:52] about how big businesses work. Nike
+- [12:55] doesn't try and hire an employee who
+- [12:57] wins the tennis, they say, "Let's
+- [12:58] partner with Serena Williams, and let's
+- [13:00] partner with Walmart, and let's create a
+- [13:03] campaign together." Nespresso doesn't
+- [13:05] say, "Let's make our brand as well known
+- [13:06] as George Clooney." They say, "Let's get
+- [13:08] George Clooney and partner with George
+- [13:09] Clooney to make our brand as loved and
+- [13:12] admired as George Clooney." So, they're
+- [13:13] thinking about partnerships. The goal
+- [13:15] here is to do three types of
+- [13:17] partnerships. The three types of
+- [13:19] partnerships is called brand, product,
+- [13:21] and distribution partnerships. So, a
+- [13:23] brand is someone who is more well known
+- [13:26] than you that you can partner with, and
+- [13:28] it's going to enhance your brand by
+- [13:29] being associated with their [music]
+- [13:30] brand. Product partnerships are going to
+- [13:33] enhance your product offering by having
+- [13:35] this product included. So, think about
+- [13:37] how Porsche 911 has a Bose stereo system
+- [13:40] in the car and has Pirelli tires on the
+- [13:43] car. That is a product partnership. One
+- [13:45] product goes with the other product, and
+- [13:47] therefore it's a good fit for product
+- [13:48] partnership. And distribution, well,
+- [13:51] that's all about getting your products
+- [13:52] and services in front of more people.
+- [13:54] So, imagine for a moment that you did a
+- [13:55] deal with Walmart to stock your product
+- [13:57] in every Walmart. Imagine if you did a
+- [13:59] deal with Virgin Airlines to have your
+- [14:01] offering included in everything that
+- [14:03] they do, right? That would be
+- [14:04] distribution. So, you're looking for
+- [14:06] these three types of partnerships,
+- [14:07] brand, product, and distribution
+- [14:09] partnerships. If you can get that right,
+- [14:11] you can have an amazing uplift effect on
+- [14:13] your business. But, here's the thing,
+- [14:15] only key people of influence can do
+- [14:16] partnerships. This is not something you
+- [14:18] can delegate, it's not something you can
+- [14:20] pass off to someone else on your team.
+- [14:21] You, as the founder, have to drive these
+- [14:23] partnerships. But, if you do, they can
+- [14:25] be totally transformational. Consider
+- [14:27] [music] this, somebody woke up this
+- [14:28] morning with everything that you've ever
+- [14:30] wanted, and they've already got it, and
+- [14:32] they're looking for a partnership.
+- [14:33] Someone's got the money, and they could
+- [14:34] partner with you as an investor.
+- [14:36] Someone's got the expertise, and they
+- [14:38] could join your advisory board.
+- [14:39] Someone's got a million email addresses,
+- [14:41] and they could partner to do an email
+- [14:43] campaign with you. There are always
+- [14:45] great partnerships that solve all of
+- [14:46] your problems, you just need to know how
+- [14:48] to structure them. Now, you may have
+- [14:50] doubts as to whether you can do this,
+- [14:51] and I want to reassure you, you
+- [14:53] absolutely can. If you've got youth on
+- [14:55] your side, youth is an asset. If you've
+- [14:57] got experience on your side, experience
+- [14:59] is intellectual property. You can
+- [15:00] absolutely do this. You're standing on a
+- [15:02] mountain of value, but sometimes, when
+- [15:04] you're standing on a mountain, you're
+- [15:06] too close to see it for what it is,
+- [15:08] right? You've got proximity bias. So, I
+- [15:09] want you to trust that you've got
+- [15:11] something of great value, but you need
+- [15:13] to explore it through these five P's,
+- [15:15] pitching, publishing, product, profile,
+- [15:17] and partnership. And if you go through
+- [15:18] that, you'll turn a little bit of value
+- [15:19] into a lot of value that scales. Okay, I
+- [15:22] hope you enjoyed that video. It's all
+- [15:24] about becoming key person of influence.
+- [15:26] Leave me a comment below, like the
+- [15:28] video, subscribe to the channel, and
+- [15:29] share this with someone else who you
+- [15:31] think would make a great key person of
+- [15:33] influence. If you're interested in
+- [15:34] knowing more, I run a regular little
+- [15:36] workshop on how to become a key person
+- [15:37] of influence. There's a link below, and
+- [15:39] there's also a link to the book, Key
+- [15:41] Person of Influence, as well. I really
+- [15:43] hope you're enjoying these videos, and I
+- [15:44] look forward to seeing you next time,
+- [15:46] and I hope your business is doing really
+- [15:47] well.

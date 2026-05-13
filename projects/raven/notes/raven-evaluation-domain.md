@@ -2,7 +2,7 @@
 type: note
 title: Raven Evaluation Domain
 created: '2026-04-20'
-updated: '2026-04-29'
+updated: '2026-05-02'
 tags:
   - project/raven
   - evaluation
@@ -26,6 +26,8 @@ feeds_into:
 ## Rule
 
 Raven follows the same project-evidence boundary as [[projects/pathfinder/notes/docs-evaluation-domain|PathFinder Evaluation Domain]], but the rule is project-local here so agents do not have to infer it from PathFinder. Reusable evaluation design and production-prompt law belong in [[wiki/synthesis/evaluation-production-prompt-domain]], not in this Raven-specific boundary leaf.
+
+This page is the Raven evaluation rule file. After any Raven eval work, updating the Raven evaluation domain is top priority before final response: patch the workflow, hub, report, or insights note that future eval runs depend on.
 
 ```text
 Vault
@@ -67,13 +69,15 @@ Prompt work in this domain routes through:
 
 When a Raven eval run happens, close it like this:
 
-1. Run executable evidence in `/home/r1ceg/Raven/eval/`.
+1. Run executable evidence in `/home/r1ceg/Raven/eval/` only when KICKSTART has locked the eval lane.
 2. Audit traces before treating a green command as success.
-3. Write or update the human-readable report in `projects/raven/notes/`.
-4. Write/update [[projects/raven/notes/raven-evaluation-insights]] if the run produced durable learning.
-5. Link the report from [[projects/raven/notes/raven-evaluation-hub]], not directly from [[projects/raven/README]] unless it changes project-level status.
-6. Update `context/hot.md` or [[duc-os/current]] only when continuity, next action, or production status changed.
-7. Log the work in `sources/log/days/YYYY-MM-DD.md`.
+3. Confirm the daily-eval boundary: Phase 1 full graph stops for Duc audit; Phase 2 focused eval runs only after Duc audit lines or explicit approval, then continues until the current dataset standard is met or the blocker is named.
+4. Write or update the human-readable report in `projects/raven/notes/`.
+5. Write/update [[projects/raven/notes/raven-evaluation-insights]] if the run produced durable learning.
+6. Patch [[projects/raven/notes/raven-eval-how-to-use]], this rule file, or [[projects/raven/notes/raven-evaluation-hub]] before final response if the eval changed workflow, standards, or routing.
+7. Link the report from [[projects/raven/notes/raven-evaluation-hub]], not directly from [[projects/raven/README]] unless it changes project-level status.
+8. Update `context/hot.md` or [[duc-os/current]] only when continuity, next action, or production status changed.
+9. Log the work in `sources/log/days/YYYY-MM-DD.md`.
 
 ## Current Reports And Leaves
 

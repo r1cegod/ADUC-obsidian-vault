@@ -1,0 +1,604 @@
+---
+type: source
+title: "Exactly How to Build a Highly Profitable Lifestyle Business"
+source: youtube
+channel: "Daniel Priestley"
+channel_id: UCABR204CFV9ZoMz69TyspzA
+video_id: DgQHG0Ej91Q
+url: https://www.youtube.com/watch?v=DgQHG0Ej91Q
+published_at: "2025-12-21T12:00:32Z"
+duration_seconds: 1041
+fetched_at: 2026-05-04T06:15:03Z
+transcript_status: fetched
+transcript_language: "en"
+ingest_run: daniel-priestley-youtube-2026-05-04
+---
+
+# Exactly How to Build a Highly Profitable Lifestyle Business
+
+> Raw transcript evidence for vault-level Daniel Priestley YouTube ingest. Do not treat this as compiled knowledge; use source cards and synthesis pages for durable claims.
+
+## Source Metadata
+- url: https://www.youtube.com/watch?v=DgQHG0Ej91Q
+- channel: Daniel Priestley
+- published_at: 2025-12-21T12:00:32Z
+- duration_seconds: 1041
+- fetched_at: 2026-05-04T06:15:03Z
+
+## Transcript
+
+- [00:00] This is exactly how to build a highly
+- [00:02] profitable lifestyle business. By the
+- [00:04] end of this video, you're going to
+- [00:05] understand how to build your team, how
+- [00:07] to develop products, how to have the
+- [00:09] right weekly activities, and how to run
+- [00:11] highly profitable, highly successful
+- [00:12] growth campaigns. I'm going to break it
+- [00:14] down step-by-step so that you almost
+- [00:16] cannot fail. If you get this stuff
+- [00:18] wrong, you are going to end up as a
+- [00:19] glorified freelancer with a few support
+- [00:21] staff, and you'll never make a big
+- [00:23] profit. You will always be on a
+- [00:24] treadmill, and you will just feel like
+- [00:26] business is such a drag. But, if you get
+- [00:28] this right, you will elevate yourself to
+- [00:30] the level of a founder who owns a
+- [00:32] business. The business will take on a
+- [00:34] life of its own. You'll have an amazing
+- [00:36] dynamic team. You'll make loads of
+- [00:37] profit. You can do this from anywhere in
+- [00:40] the world, and you'll have a new sense
+- [00:41] of freedom that you've never experienced
+- [00:42] before. The first element that we need
+- [00:44] to have in place is to understand the
+- [00:46] team dynamic that you're going to have
+- [00:48] in your lifestyle business. Now, a
+- [00:49] lifestyle boutique typically has four to
+- [00:51] 12 people. Businesses that have one to
+- [00:53] four people, including yourself, tend to
+- [00:55] put you in the role of highly paid
+- [00:56] professional with a support team. Yes,
+- [00:59] you're making lots of money. Yes, you've
+- [01:00] got a few people helping you. But, no,
+- [01:03] it doesn't really feel like a business
+- [01:05] where you could take some time off or
+- [01:06] take a holiday. It feels like if you get
+- [01:08] hit by a bus, the whole business would
+- [01:10] stop. Now, once you hit the team of four
+- [01:13] to 12 people, everything changes. A four
+- [01:16] to 12-person team means that you can
+- [01:19] play your role as the founder, and
+- [01:21] everybody else can focus on their role
+- [01:23] to do something important within the
+- [01:24] business. So, let's get in and have a
+- [01:26] look at what are the key roles on the
+- [01:27] team. Now, there are eight key roles in
+- [01:29] a lifestyle business. The first one is
+- [01:31] your role, and this is the most
+- [01:32] important role. I call this the key
+- [01:34] person of influence. See, the truth is,
+- [01:36] between half a million and 5 million,
+- [01:38] you've entered a phase called
+- [01:39] founder-led growth. Founder-led growth
+- [01:41] is where the business grows because of
+- [01:43] what the founder does. In practical
+- [01:44] terms, what this means is that you are
+- [01:46] the face of the business, you are the
+- [01:47] face of the marketing. You are going to
+- [01:49] be on podcasts talking about the
+- [01:51] business. You'll be up on a stage
+- [01:52] talking about the business. You might
+- [01:54] write a book. If you're running ads,
+- [01:56] you'll be the one featured in the ad
+- [01:57] describing what it is you want people to
+- [01:59] do. If you don't use your personal
+- [02:01] brand, you are leaving 95% of your
+- [02:03] firepower on the table. Having a
+- [02:05] personal brand does not mean that you
+- [02:06] share your private life. What you do
+- [02:08] have to do is share the value of what
+- [02:10] your business does. You need to share
+- [02:12] the stories, the case studies, and the
+- [02:13] intellectual property of your business,
+- [02:15] and make sure that it connects with your
+- [02:17] ideal customer. The truth is that your
+- [02:19] personal brand will get 20 times the
+- [02:21] cut-through as your business brand. I
+- [02:23] had already built multiple seven-figure
+- [02:25] businesses that looked like this before
+- [02:27] I had more than 20,000 followers. A lot
+- [02:29] of people who have a seven-figure
+- [02:30] business with a six-figure profit are
+- [02:32] people who have two to 20,000 followers,
+- [02:34] so long as they're the right types of
+- [02:36] people who fit the description of your
+- [02:38] ideal customer. You as the founder, you
+- [02:40] are going to focus on what we call the
+- [02:41] five P's of pitching the business,
+- [02:44] publishing content, creating new
+- [02:46] products, raising your profile and
+- [02:48] therefore the profile of the business,
+- [02:50] and doing strategic joint ventures and
+- [02:51] partnerships. If you do those five
+- [02:53] things, you're doing your job as the
+- [02:55] founder. And here's what you're not
+- [02:56] going to be doing. You're not going to
+- [02:57] be running the business. The general
+- [02:59] manager of your business runs the
+- [03:00] business. The biggest question is, how
+- [03:02] do I get myself out of the day-to-day
+- [03:04] technician role and actually get into
+- [03:06] this founder-led growth role? It
+- [03:08] normally happens when you have a few key
+- [03:10] people on the team. Someone who's good
+- [03:11] at sales, someone who's good at helping
+- [03:13] deliver the product, or a general
+- [03:15] manager. Just one or two good people on
+- [03:17] the team, and you can set yourself free.
+- [03:19] Also, I really recommend don't think
+- [03:21] about what you're not going to do, think
+- [03:23] about what you are going to do. Your job
+- [03:25] is founder-led growth using the five P's
+- [03:28] that I've talked about. Here's something
+- [03:29] fascinating.
+- [03:30] If you go into a Starbucks or a
+- [03:32] McDonald's, there's a good chance that
+- [03:33] that's a multi-million dollar business
+- [03:35] that is being run by a 24-year-old who
+- [03:37] only has a high school qualification.
+- [03:39] Now, cafes and restaurants are very hard
+- [03:41] businesses to run. These businesses have
+- [03:43] razor-thin margins. They have a complex
+- [03:45] variety of products. They have lots of
+- [03:47] young people working who need training.
+- [03:49] All of those things make it incredibly
+- [03:51] difficult to run, and yet a 24-year-old
+- [03:53] on a normal amount of money can run that
+- [03:55] business. So, I want to propose to you
+- [03:58] that a 24-year-old on a normal amount of
+- [04:00] money could also run your business. You
+- [04:02] do not need someone to quit their job at
+- [04:04] Google to come and work with you and run
+- [04:05] your business. You need someone who
+- [04:06] previously ran a cafe, a restaurant, a
+- [04:08] nightclub, or a hospitality business to
+- [04:10] come on in and run your business. These
+- [04:13] people are not crazy expensive, but
+- [04:15] they're amazing at what they do. So, you
+- [04:17] want a general manager to come in and do
+- [04:19] everything that is hiring, firing, team
+- [04:21] management, running the business, so
+- [04:23] that you don't have to do that stuff,
+- [04:25] and you can be that key person of
+- [04:27] influence who drives the founder-led
+- [04:28] growth. Let's look at the rest of the
+- [04:30] team. There are three key elements to
+- [04:32] your business. There's generating
+- [04:34] demand, generating supply, and general
+- [04:36] operations. Under your demand
+- [04:38] generation, you're going to have someone
+- [04:39] who's head of marketing and someone
+- [04:41] who's head of sales. Those are the two
+- [04:42] key roles. Now, you might end up having
+- [04:44] two or three sales people, or you might
+- [04:46] have one or two marketing people, but
+- [04:48] essentially, it's a marketing role and a
+- [04:50] sales role. Under operations, you've got
+- [04:51] finance and IT, and finance is going to
+- [04:54] do all the stuff relating to the money,
+- [04:56] and IT is going to do all the stuff that
+- [04:57] relates to the data. And then over here
+- [04:59] on the supply side, we've got the
+- [05:01] product development and product delivery
+- [05:02] team, and the customer success team. So,
+- [05:04] product development builds a great
+- [05:06] product and delivers a great product,
+- [05:08] and customer success makes sure that
+- [05:10] people are using that product
+- [05:11] effectively, and solves any problems
+- [05:13] that happen along the way with a
+- [05:14] customer. What are the products that
+- [05:15] you're going to be selling? Well, you're
+- [05:17] going to need something called a product
+- [05:19] ecosystem. Product ecosystem is four
+- [05:21] products that are all nicely connected
+- [05:23] together to form one smooth experience
+- [05:25] for the customer. Now, if you only have
+- [05:27] two of these products or three of these
+- [05:29] products, you're going to be leaving
+- [05:30] huge amounts of money on the table. You
+- [05:32] need all four. You're going to have a
+- [05:34] core product. The core product is the
+- [05:36] main thing that you're known for. If
+- [05:38] you're a consulting business, you're
+- [05:39] going to offer consulting packages. If
+- [05:40] you're an agency, well, you're going to
+- [05:42] have agency services. If you're a
+- [05:44] training business, your core product
+- [05:46] will be a training package or a training
+- [05:47] program. If you're a software business,
+- [05:49] your core offering will be the
+- [05:50] subscription to the main software
+- [05:52] product, and it may even include a setup
+- [05:54] fee. Before the core product, we have
+- [05:56] two products that help to generate
+- [05:57] demand. The first one is a gift.
+- [05:59] Something for free that people can try
+- [06:01] with no risk. They can download it, they
+- [06:03] can engage with it. It might be a free
+- [06:05] trial, it might be a free account, it
+- [06:06] might be a free download. Something for
+- [06:08] free that totally scales. It's digital,
+- [06:10] it feels valuable, but as many people as
+- [06:13] possible can access this free thing, and
+- [06:15] it feels like they're getting an
+- [06:16] immediate quick win. The next one is a
+- [06:18] product for prospects. This is a small
+- [06:20] commitment, either time or a small
+- [06:22] amount of money, in order to get
+- [06:23] started. This could be maybe a workshop
+- [06:26] that people do, that's a 90-minute
+- [06:27] workshop. Or maybe it's committing to a
+- [06:29] 30-day trial. A product for prospects
+- [06:31] could potentially be a book that people
+- [06:32] buy. Or my personal favorite is an
+- [06:35] online assessment where people go to
+- [06:37] your website and they fill out an online
+- [06:38] assessment. Side note, if you've never
+- [06:40] set up an online assessment, really easy
+- [06:42] to do at my company called scoreapp.com.
+- [06:45] So, for example, if you do cybersecurity
+- [06:47] consulting, you might have a
+- [06:49] cybersecurity assessment that makes
+- [06:51] people go, "Ooh, I have a risk that
+- [06:52] needs solving, and now I need to get
+- [06:54] these services in order to fix it." Now,
+- [06:56] after the core offering, people are
+- [06:58] going to want more from you because they
+- [06:59] had such a great experience with your
+- [07:01] core offering, they're going to want to
+- [07:02] stay connected, they want to stay as a
+- [07:04] customer. This is where we have a
+- [07:05] product for clients. A product for
+- [07:07] clients is typically a subscription
+- [07:08] offering. It could be a membership or a
+- [07:10] community, or it could even be something
+- [07:12] like an annual retreat. But, it's
+- [07:13] something that is special for your
+- [07:15] clients and your customers to then go on
+- [07:18] and upgrade to. If you have all of those
+- [07:20] four products, each of them is doing a
+- [07:21] job. One gets attention, one builds
+- [07:24] trust, one delivers a transformation,
+- [07:26] and one maintains great standards over
+- [07:28] time. So, those four products, they each
+- [07:30] do a job, and the profit is not in any
+- [07:33] particular product, it's in the product
+- [07:35] and service ecosystem. Your core team's
+- [07:38] job is to drive people through that
+- [07:39] product and service ecosystem, so that
+- [07:41] the marketing and sales people are
+- [07:43] getting people to go through the gift
+- [07:44] and the product for prospects and buy
+- [07:45] the core. Product delivery and customer
+- [07:47] success are going from core into product
+- [07:49] for customers, and the team understands
+- [07:52] what the flow is, and they understand
+- [07:54] how to get people to go to the next
+- [07:55] step. Now, by the way, if you're
+- [07:56] enjoying this video, I'd love it if
+- [07:58] you'd give this channel a like and
+- [08:00] subscribe, and maybe leave a comment as
+- [08:01] well. I love the fact that I get to
+- [08:03] share my entrepreneurial lessons with
+- [08:05] you, and I can in some way help you on
+- [08:07] your entrepreneurial journey, and I
+- [08:09] would love it if you could share this
+- [08:10] channel with someone else who's building
+- [08:11] a business as well, so that we can all
+- [08:13] learn together. So, we now have the team
+- [08:15] and the products. Let's now focus on the
+- [08:17] activity. The first activity is the
+- [08:19] quarterly strategic reset. The quarterly
+- [08:21] strategic reset is where you get the
+- [08:23] whole team on an offsite meeting, and
+- [08:25] you get into a boardroom, and you
+- [08:27] actually set yourself up for an amazing
+- [08:29] 90 days. You want to make sure that
+- [08:30] you're really clear about your
+- [08:32] priorities for the next 90 days. You
+- [08:33] want to delegate accountabilities and
+- [08:35] make sure the right person is doing the
+- [08:36] right thing, and that they've got all
+- [08:38] the resources they need to get the job
+- [08:39] done. You want to get each team member
+- [08:41] to confirm and make a commitment that
+- [08:44] they're going to play their role in the
+- [08:45] next 90 days, and they don't see
+- [08:47] anything standing in the way. The
+- [08:48] quarterly strategic reset can typically
+- [08:50] be done in half a day to a full day, and
+- [08:53] it's really fun to get the whole team
+- [08:54] together in one boardroom if you
+- [08:56] possibly can, although you can do it on
+- [08:57] Zoom if you need to. The next most
+- [08:59] important meeting is the Monday morning
+- [09:01] meeting. Now, another name for the
+- [09:02] Monday morning meeting is the three to
+- [09:04] six thing meeting. Every single Monday
+- [09:06] morning is the whole team jumps on a
+- [09:07] Zoom call. Take it in turns for
+- [09:09] everybody to say what they're going to
+- [09:11] do for the week. They're going to give
+- [09:12] their three to six most important things
+- [09:14] that they intend to have finished by the
+- [09:15] end of the week. Three to six things is
+- [09:17] about the right number of things for
+- [09:18] people to declare that they're going to
+- [09:19] get done, and they're willing to be held
+- [09:21] accountable at the end of the week. At
+- [09:23] the end of the week, we have a quick
+- [09:24] meeting, which is the Friday afternoon
+- [09:26] debrief. And the Friday afternoon
+- [09:27] debrief is where we go through and we
+- [09:30] recap what each person said they were
+- [09:32] going to do on Monday morning, and then
+- [09:34] they say done or not done. They don't
+- [09:36] have to give big explanations, but they
+- [09:38] do have to say whether they got that
+- [09:40] thing done or if they failed to get it
+- [09:41] done. And just that little bit of
+- [09:42] accountability is enough to make sure
+- [09:44] people got their things done, even if it
+- [09:46] was in the 11th hour. What also
+- [09:47] typically happens at these meetings is a
+- [09:49] little bit of conversation, where you
+- [09:51] might challenge each other or remind
+- [09:52] each other of priorities.
+- [09:54] Uh it's a time to check in, it's a time
+- [09:56] to make sure that there are two times
+- [09:57] throughout the week where the whole team
+- [09:59] is together talking about what needs to
+- [10:01] be done. Okay, the next activity is to
+- [10:03] commit to having one communication
+- [10:05] channel. This is one place that all the
+- [10:07] communication going to happen. For a
+- [10:08] small team, you may use a WhatsApp group
+- [10:11] where all the members of the team are in
+- [10:13] that WhatsApp group and the constant
+- [10:14] nattering happens in the WhatsApp group.
+- [10:16] Uh for a bigger team, you may want to
+- [10:18] invest into something like Slack. We've
+- [10:20] got multiple channels and a few extra
+- [10:22] tools and those sorts of things. It's a
+- [10:23] little bit fancier, a little bit nicer,
+- [10:25] but it's just one communication channel
+- [10:28] where nothing gets lost. It's all in one
+- [10:30] place. I've seen plenty of successful
+- [10:31] teams operating in a WhatsApp group,
+- [10:33] sharing files, sharing links, sharing
+- [10:35] communication. You don't have to
+- [10:37] overthink this, but here's what you
+- [10:39] don't want to have happen. You don't
+- [10:40] want to be scratching your head
+- [10:41] thinking, was that an email? Did that
+- [10:43] come to me on WhatsApp? Did that come to
+- [10:45] me on Slack? to make sure there's just
+- [10:47] one place where all the communication
+- [10:48] goes through. And also, it's really nice
+- [10:51] for the whole team to have transparency
+- [10:53] and to see what's being discussed. The
+- [10:55] third thing that you need to decide as a
+- [10:56] team is your tech stack. Your tech stack
+- [10:59] is going to include all of the software
+- [11:01] subscriptions that you're going to
+- [11:02] subscribe to. You're going to have an AI
+- [11:04] provider. You're going to make a
+- [11:05] decision between all the Microsoft
+- [11:07] Office products or perhaps the Apple
+- [11:08] products. You're going to pick a CRM
+- [11:10] system for managing the relationships
+- [11:12] with your clients and you're probably
+- [11:14] going to have some tools that help you
+- [11:16] to generate leads and make sales. And in
+- [11:17] fact, ScoreApp.com is absolutely perfect
+- [11:21] for running a lifestyle business through
+- [11:22] because all of this thinking is the same
+- [11:24] thinking that goes into ScoreApp. I also
+- [11:26] want you to make a decision to be
+- [11:27] extremely careful as to how you store
+- [11:30] all your documents and files. I want you
+- [11:32] to have a file storage system so that
+- [11:35] everybody knows where to file things
+- [11:37] away. If you've got media assets, they
+- [11:39] go into the right folder. If you've got
+- [11:41] databases, that's filed away in the
+- [11:43] right place. If you've got slide decks
+- [11:45] that you regularly use, then they're
+- [11:47] always up to date and they're always in
+- [11:48] the right place. With a team of four to
+- [11:50] 12 people, it's easy to create a mess if
+- [11:52] people are not committed to filing
+- [11:53] things away in the right place. And then
+- [11:55] finally, I want you to have a dashboard,
+- [11:56] which we call the sleep-at-night
+- [11:58] dashboard or what we call the sand. The
+- [12:00] sleep-at-night dashboard is everything
+- [12:02] that you need to know about your
+- [12:03] business in order for you to sleep at
+- [12:04] night that it's safe, that it's okay.
+- [12:06] So, in the sleep-at-night dashboard, you
+- [12:07] might keep things like cash at bank,
+- [12:09] number of people on the database, a red
+- [12:11] flags or issues list, upcoming
+- [12:13] milestones that need to be achieved.
+- [12:15] Whatever it is that will keep you up at
+- [12:16] night, you want to keep that on the
+- [12:18] sleep-at-night dashboard so that doesn't
+- [12:20] keep you up at night. Okay, and the
+- [12:21] final thing that is super important is
+- [12:24] you want to run three campaigns for the
+- [12:26] year. These three campaigns are the
+- [12:27] campaigns that I've been running for
+- [12:29] over 25 years and they always create
+- [12:31] growth. So, let me walk you through the
+- [12:32] three campaigns. The first one is called
+- [12:34] the perfect repeatable week. Perfect
+- [12:36] repeatable week is you pick a set of
+- [12:38] activities that drive growth through the
+- [12:40] business and it typically involves
+- [12:42] generating leads, appointments,
+- [12:44] presentations, and sales. In one of my
+- [12:46] businesses, every single Wednesday, we
+- [12:48] run a 90-minute introduction workshop
+- [12:50] and it generates leads, appointments,
+- [12:52] presentations, and sales. In another
+- [12:54] business, we have an online assessment
+- [12:56] and we drive people to that online
+- [12:57] assessment and leads, appointments,
+- [12:59] presentations, and sales. In another one
+- [13:01] of my businesses, we drive people to
+- [13:02] creating a free account and it generates
+- [13:04] leads, appointments, presentations, and
+- [13:06] sales from there. So, what we're doing
+- [13:08] here is we're having a particular way of
+- [13:10] doing business and we just want to
+- [13:11] repeat it and repeat it and repeat it.
+- [13:13] Once a quarter, we do something called
+- [13:15] the quarterly spotlight campaign. The
+- [13:17] quarterly spotlight campaign is where we
+- [13:18] do something special or different. It
+- [13:20] might be a special event. It might be
+- [13:21] sponsoring an event. It might be
+- [13:23] launching a new product or a special
+- [13:24] offer. So, for example, it could be a
+- [13:26] Black Friday offer at the end of the
+- [13:28] year. It could be an Easter special at
+- [13:30] the beginning of the year. Uh it could
+- [13:32] be a summer catalog that you've got
+- [13:34] coming out. Whatever it is, you're going
+- [13:36] to pick something special to do once a
+- [13:38] quarter that is going to capture the
+- [13:39] attention of your audience and it's
+- [13:41] going to give you something new to talk
+- [13:42] about. And finally, we've got the annual
+- [13:45] big message campaign. The annual big
+- [13:46] message is where we think about what are
+- [13:48] the big insights that we want to share?
+- [13:50] What are the big stories we want to
+- [13:51] share? What are the big ideas that we
+- [13:53] think people would engage with? And what
+- [13:55] we're going to do is create lots of
+- [13:56] content. So, we're going to put lots and
+- [13:59] lots of short-form content onto social
+- [14:02] media. We're going to drive people to
+- [14:04] long-form content so that they can get
+- [14:06] to know those ideas even better. All
+- [14:08] right? And we're sharing our big ideas
+- [14:10] across the annual big message. For
+- [14:12] example, this YouTube channel is part of
+- [14:14] my annual big message strategy that I've
+- [14:16] had for this year. And you've noticed
+- [14:18] that I've stepped up my game and I'm
+- [14:19] sharing more ideas, the short-form and
+- [14:21] long-form content. So, what you want to
+- [14:23] do is figure out what are the big
+- [14:24] messages and where are you going to
+- [14:25] share those messages to capture the
+- [14:27] right audience for your business. Done
+- [14:28] correctly, the perfect repeatable week
+- [14:31] will give you consistent sales to make
+- [14:32] sure that you have a baseline of
+- [14:34] revenue. Quarterly spotlights will give
+- [14:36] you that icing on the cake, that cream
+- [14:38] on top. It'll give you those profit
+- [14:40] spikes that happen throughout the year.
+- [14:42] And an annual big message will build
+- [14:44] your brand over time so that you end up
+- [14:46] with followers and fans. So, this is
+- [14:48] what it looks like to have a lifestyle
+- [14:49] business. When you have these four
+- [14:50] things in place, your lifestyle business
+- [14:52] starts being absolutely wonderful. None
+- [14:55] of this is about geography. You could
+- [14:56] have a team of people who are working
+- [14:58] all over the world. You could have some
+- [14:59] people in Boston, one person in
+- [15:00] Brisbane, one person in Bangalore, and
+- [15:02] one person in Birmingham. All these
+- [15:04] people could be working all over the
+- [15:05] world. These products These don't have
+- [15:07] to be physical products. These could be
+- [15:08] digital products. It could be software.
+- [15:10] It could be services. It could be
+- [15:11] consulting. These could be intangible
+- [15:13] products ideally that you can deliver to
+- [15:15] an ideal customer anywhere in the world.
+- [15:17] I love the idea that you begin with the
+- [15:19] end in mind and you work backwards from
+- [15:21] there as opposed to starting with what
+- [15:23] you have today and trying to improve it.
+- [15:25] Don't start with something that's a
+- [15:26] little bit broken and see if you can fix
+- [15:28] it. I want you to reverse engineer the
+- [15:29] future, not forward engineer the past.
+- [15:31] The next question I get is how big does
+- [15:33] this business need to be? The typical
+- [15:35] number for most businesses is for that
+- [15:37] each person on your core team, you need
+- [15:40] about 125,000
+- [15:42] US dollars per person
+- [15:45] as a minimum in order for you to stay
+- [15:47] profitable. So, if you have four people
+- [15:49] on the team, you need half a million
+- [15:51] dollars worth of revenue. If you have 12
+- [15:53] people on the team, you need 1.5 million
+- [15:55] dollars worth of revenue. And that tends
+- [15:56] to be the floor. What I like to do when
+- [15:58] I'm launching a new business or if I've
+- [16:00] bought a business, is I like to do
+- [16:01] scenario planning and financial modeling
+- [16:04] to see what it takes to make a
+- [16:05] profitable business. Now, I've given you
+- [16:07] a back of a napkin version, but what I
+- [16:09] like to do is have a spreadsheet that
+- [16:10] has all of the costs and all of the
+- [16:12] products and then it looks at what sort
+- [16:15] of volumes of sales do we need to do in
+- [16:17] order to make sure that we're
+- [16:18] profitable. With a decent spreadsheet
+- [16:20] and some sensible assumptions, you
+- [16:22] should be able to get the exact numbers
+- [16:24] that you need to achieve in order to
+- [16:25] achieve profit and that you have a
+- [16:27] crystal ball that tells you exactly
+- [16:29] what's going to happen at every stage of
+- [16:30] growth. Now, if you want to know how to
+- [16:33] get to this, there are actually a few
+- [16:35] steps that I talk about in this book
+- [16:37] that get you up to the four to 12-person
+- [16:39] team. I talk about an entrepreneur
+- [16:41] apprenticeship. I talk about side
+- [16:43] hustles. I talk about scout teams and
+- [16:45] fire-starting teams. And it's all in
+- [16:47] here, part of the lifestyle business
+- [16:50] playbooks. It's my latest book. It's all
+- [16:52] my best thinking about the shifts that
+- [16:54] are happening in the world at the moment
+- [16:55] and how to approach those shifts. It
+- [16:57] even takes you one step beyond this four
+- [16:59] to 12-person team up to a 30 to
+- [17:01] 150-person team, which is a performance
+- [17:03] business. If you haven't done so
+- [17:05] already, go to Amazon and get yourself a
+- [17:07] copy of The Lifestyle Business
+- [17:08] Playbooks. It'll give you a little bit
+- [17:10] more detail and information about how to
+- [17:11] get to the four to 12-person business if
+- [17:14] that's something that you're worried
+- [17:14] about. Hopefully, you've enjoyed today's
+- [17:16] video and your business is doing really,
+- [17:18] really well. I look forward to seeing
+- [17:19] you next time.

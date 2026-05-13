@@ -1,0 +1,560 @@
+---
+type: source
+title: "Business Is Easy After You Achieve Product Market Fit"
+source: youtube
+channel: "Daniel Priestley"
+channel_id: UCABR204CFV9ZoMz69TyspzA
+video_id: jK-QDdeKFl4
+url: https://www.youtube.com/watch?v=jK-QDdeKFl4
+published_at: "2026-01-16T13:01:34Z"
+duration_seconds: 943
+fetched_at: 2026-05-04T06:15:03Z
+transcript_status: fetched
+transcript_language: "en"
+ingest_run: daniel-priestley-youtube-2026-05-04
+---
+
+# Business Is Easy After You Achieve Product Market Fit
+
+> Raw transcript evidence for vault-level Daniel Priestley YouTube ingest. Do not treat this as compiled knowledge; use source cards and synthesis pages for durable claims.
+
+## Source Metadata
+- url: https://www.youtube.com/watch?v=jK-QDdeKFl4
+- channel: Daniel Priestley
+- published_at: 2026-01-16T13:01:34Z
+- duration_seconds: 943
+- fetched_at: 2026-05-04T06:15:03Z
+
+## Transcript
+
+- [00:00] This video is going to challenge you and
+- [00:01] you're going to have to keep an open
+- [00:02] mind because there is something that
+- [00:04] your customers want from you and there's
+- [00:06] what you want to deliver to your
+- [00:07] customers and those things are currently
+- [00:09] miles apart. And the reason you need to
+- [00:11] keep an open mind is because until we
+- [00:12] bring those closer together, you are
+- [00:14] always going to struggle in business.
+- [00:16] This is a problem called a lack of
+- [00:18] product market fit. In today's video,
+- [00:20] I'm going to share with you my system,
+- [00:22] my framework for achieving product
+- [00:23] market fit. Now, this has led to seven
+- [00:25] businesses that achieved a million of
+- [00:27] revenue in their first 12 months. Before
+- [00:28] you do anything else, achieving product
+- [00:31] market fit is one of your top
+- [00:32] priorities. It's way more important than
+- [00:34] systems and scalability and hiring and
+- [00:37] raising capital. Product market fit
+- [00:38] precedes all of that and allows all of
+- [00:40] that to happen later. Product market fit
+- [00:42] is the first thing that makes your
+- [00:43] business effortless. Your favorite
+- [00:45] gurus, they're talking about scaling up.
+- [00:47] They're talking about exiting the
+- [00:48] business for life-changing amounts of
+- [00:50] money, but they're not talking about
+- [00:51] this important step. And everything
+- [00:53] hinges on this step. Now to get started
+- [00:55] I want to talk about the entrepreneurial
+- [00:56] journey as a whole journey so that we
+- [00:58] can zoom in on product market fit and
+- [01:00] you know where that's going to sit in
+- [01:02] the whole journey. Okay so let's talk
+- [01:03] about entrepreneurship. Entrepreneurship
+- [01:04] is a predictable set of stages. The
+- [01:07] first stage is the stage called founder
+- [01:09] opportunity fit. Normally something that
+- [01:11] you do by yourself. It's a oneperson
+- [01:13] thing. You do the soulsearching. You
+- [01:14] figure out what is a good opportunity
+- [01:16] for you to bring into the world. The
+- [01:18] second stage is called minimum viable
+- [01:20] product testing. This is where you come
+- [01:22] up with concepts and you come up with
+- [01:24] audiences and you see if the audience is
+- [01:26] interested in this concept enough to
+- [01:28] fill in a form or enough to answer a
+- [01:30] survey or to join a waiting list. The
+- [01:32] next step, this is product market fit.
+- [01:34] We're figuring out the perfect ideal
+- [01:35] customer persona and the offer that they
+- [01:37] respond to. Inside that offer, we're
+- [01:39] going to figure out all of the things
+- [01:40] that they want and need in order to be
+- [01:42] completely excited about staying with
+- [01:44] you as a customer. After you've achieved
+- [01:46] product market fit, then you go to
+- [01:48] something called go to market. Go to
+- [01:50] market is cranking the handle and making
+- [01:51] lots of sales. And then after you go to
+- [01:54] market, you want to think about how do
+- [01:55] you scale up. This is new products, new
+- [01:58] markets, and new territories that allow
+- [01:59] your business to explode in value. Once
+- [02:02] you have scaled up, you can then look at
+- [02:04] exiting the business. And when you exit
+- [02:06] the business, that is where you sell the
+- [02:07] business for a life-changing amount of
+- [02:09] money. And then you have a little bit of
+- [02:11] time off before going back to founder
+- [02:13] opportunity fit. We want to zoom in on
+- [02:15] this phase here called the product
+- [02:16] market fit phase. And we want to have a
+- [02:18] look at what exactly has to happen.
+- [02:19] Product market fit is when two things
+- [02:21] come together. The first thing is what
+- [02:23] we call the ideal customer persona. The
+- [02:25] ideal customer persona is the perfect
+- [02:26] person who sees the most value in what
+- [02:29] you do. And the second thing is the
+- [02:30] intellectual property packaged up as an
+- [02:32] offer. This is where you take what you
+- [02:34] know and your stories, your examples,
+- [02:36] your process, and your principles and
+- [02:38] you packaged it all up in an offer that
+- [02:40] includes multiple ingredients in order
+- [02:42] to achieve a desirable outcome. So,
+- [02:44] let's zoom into the fundamental problem
+- [02:46] with product market fit. The fundamental
+- [02:48] problem is that your customers want a
+- [02:49] lot. They have a movie in their head,
+- [02:51] and in their mind, they're going to have
+- [02:52] this incredible life. Suddenly, their
+- [02:55] business is going to be the best it's
+- [02:56] ever been. Their relationship's going to
+- [02:57] be the best it's ever been. All of these
+- [02:59] things are going to be better and faster
+- [03:01] and cheaper with more emotional benefits
+- [03:03] than they've ever experienced before.
+- [03:05] And that's all going to happen. And
+- [03:06] that's the movie they have in their mind
+- [03:07] about why they're buying something. Then
+- [03:09] there's you, the entrepreneur. There's
+- [03:11] you, the business, and you have a movie
+- [03:12] in your mind. And the movie you have is
+- [03:14] of a scalable business that just runs on
+- [03:16] autopilot and is not stressful. And what
+- [03:19] you want to do is offer a simple product
+- [03:20] and service that ticks enough boxes that
+- [03:22] people can buy it. You want to be able
+- [03:24] to sell to people anywhere in the world.
+- [03:25] You don't want to have to get involved
+- [03:27] in customers dramas. You don't want to
+- [03:29] have to overpromise the world to them.
+- [03:31] You don't want to have to change their
+- [03:32] life. You just want to be able to do
+- [03:34] what you do and get on with your life.
+- [03:36] Now, if we're honest, there is a massive
+- [03:37] gap between what customers wish you
+- [03:39] could do and what most businesses are
+- [03:41] prepared to do. And that gap is what
+- [03:43] creates a misalignment that leads to a
+- [03:45] lack of product market fit. We have to
+- [03:46] be able to bridge that gap. We've got to
+- [03:48] be able to get these two points closer
+- [03:50] and closer and closer. And if they can
+- [03:52] touch, we've got something called
+- [03:53] product market fit. Now, at the point of
+- [03:55] product market fit, the customers super
+- [03:57] excited that they found you, and they
+- [03:58] would be disappointed if you went out of
+- [04:00] business. It would ruin their day if you
+- [04:02] suddenly didn't exist. And at the point
+- [04:03] of product market fit, you're going to
+- [04:05] feel under enormous pressure that you
+- [04:08] have to deliver this thing and you're
+- [04:09] not sure how it's going to scale.
+- [04:11] Scalability will happen later, but at
+- [04:13] this particular moment in the journey,
+- [04:15] you should feel a little bit of weight
+- [04:16] on your shoulders where you've achieved
+- [04:18] product market fit, but oh my goodness,
+- [04:20] you start to realize how demanding
+- [04:22] customers are. And that's totally fine
+- [04:24] because scalability will come, but it'll
+- [04:26] come later. Now, Brian Chesy, the
+- [04:28] founder of Airbnb, one of the most
+- [04:29] scalable businesses on the planet, in
+- [04:31] the early days, he discovered that he
+- [04:33] had to go around to people's houses and
+- [04:34] help them to take photos of their house
+- [04:36] in order to get onto Airbnb. and he
+- [04:38] actually says in the early days you got
+- [04:40] to figure out how to do things that
+- [04:42] don't scale and then figure out
+- [04:43] scalability later. So the feeling that
+- [04:45] we're going for is that the customer at
+- [04:47] this point feels elated that they've
+- [04:48] found you and they would be disappointed
+- [04:50] to lose you and you feel under enormous
+- [04:53] pressure and that you feel like this is
+- [04:55] never going to scale. And that's totally
+- [04:57] fine at this point in the journey.
+- [04:58] Scalability comes later as I showed you
+- [05:00] before. There's no point worrying about
+- [05:02] scalability if you do not achieve
+- [05:04] product market fit. So at this point in
+- [05:06] the journey, you go allin on product
+- [05:08] market fit at the expense of
+- [05:10] scalability. Let's talk about a process
+- [05:11] so that you can get to this product
+- [05:13] market fit. Now if you're an
+- [05:14] entrepreneur, if you're a business
+- [05:15] owner, even if you're experienced, this
+- [05:17] is going to be gold. This is going to be
+- [05:19] the thing that really lights a fire
+- [05:20] under your business. Getting product
+- [05:22] market fit is an essential step for
+- [05:24] making a lot of money. Step one, I want
+- [05:26] you to get inside the mind of your ideal
+- [05:27] customer persona and I want you to do a
+- [05:29] series of surveys and data gathering
+- [05:32] activities. Survey number one is called
+- [05:34] a waiting list campaign and it works
+- [05:36] like this. You tell a group of customers
+- [05:38] that we're going to be launching a new
+- [05:40] approach to achieving X, Y, and Zed. And
+- [05:42] if you're interested in understanding
+- [05:44] the new approach, please join the
+- [05:45] waiting list. I'm going to give you all
+- [05:47] the information when it's ready. So that
+- [05:49] could look like a landing page that
+- [05:50] says, "In the year ahead, we're
+- [05:52] launching a new approach to weight loss.
+- [05:53] If you've ever been interested in
+- [05:55] rapidly losing weight with the latest
+- [05:57] thinking, the latest support and tools,
+- [05:59] the latest medications, the latest
+- [06:00] supplementation, join the waiting list
+- [06:02] because this will be a new approach that
+- [06:04] is specifically relevant to people like
+- [06:06] entrepreneurs and executives to lose
+- [06:08] weight and get into the best shape of
+- [06:10] their life. Now, the trick is that when
+- [06:11] you launch the waiting list, you're
+- [06:12] going to ask people not just for their
+- [06:14] name and email address. You're going to
+- [06:16] ask them five questions that helps you
+- [06:18] to understand their world. You're going
+- [06:19] to ask them which best describes your
+- [06:21] current situation. And you'll list out a
+- [06:23] menu of things that they would relate to
+- [06:25] and empathize with. Then you'll ask them
+- [06:27] which best describes the desired outcome
+- [06:29] you're looking for in the next 90 days.
+- [06:31] And give them a menu list of outcomes
+- [06:33] that they're trying to achieve. Then ask
+- [06:34] them which best describes the
+- [06:36] frustration or the obstacle that stands
+- [06:37] in your way. And once again, you'll give
+- [06:39] them four or five things they can choose
+- [06:40] from. And finally, you'll ask them which
+- [06:43] best describes your budget or which best
+- [06:45] describes the type of solution that you
+- [06:47] think you'd be most inclined to engage
+- [06:49] with. The final question is, is there
+- [06:51] anything else you want us to know? And
+- [06:52] this is an open box question that people
+- [06:54] can put anything else that they think is
+- [06:55] relevant. Now, that is going to give you
+- [06:57] the data that will tell you the prices
+- [06:59] people are willing to pay, the biggest
+- [07:00] frustrations they're trying to solve,
+- [07:02] who they are, where they're trying to
+- [07:03] get to. All of that is covered in those
+- [07:05] five questions. that will give you
+- [07:06] enough to crunch the data and really get
+- [07:08] inside the mind of different ideal
+- [07:09] customer personas that you can talk to.
+- [07:11] In a perfect world, you'll identify some
+- [07:14] real people who are very interested in
+- [07:16] what you have to offer and you'll
+- [07:17] actually get on Zoom calls with them and
+- [07:19] start having conversations with them so
+- [07:20] you can better understand their world.
+- [07:22] So approach number one is to launch a
+- [07:23] waiting list. Approach number two is
+- [07:25] called a product market fit survey. And
+- [07:27] the product market fit survey is perfect
+- [07:29] if you already have customers. So let's
+- [07:30] say you already have 150 customers.
+- [07:32] You're going to send them out a survey.
+- [07:33] on the product market fit survey.
+- [07:35] Question number one is the most
+- [07:36] important question and you would say,
+- [07:38] "How would you feel if you no longer had
+- [07:40] access to our monthly video production
+- [07:42] services?" Or if you've got a software
+- [07:44] company, how would you feel if we
+- [07:45] switched off your access to XY Z
+- [07:47] software that you currently subscribe
+- [07:49] to? Now, the answers to this question
+- [07:51] can be very disappointed, somewhat
+- [07:53] disappointed. I would be okay with it.
+- [07:55] Now, the most important group is the
+- [07:56] group that said very disappointed. We
+- [07:58] want to know exactly who that group of
+- [08:00] people are. What makes them tick? What
+- [08:02] is it that they're using this product or
+- [08:03] service to achieve? Why do they rely on
+- [08:05] this so heavily? Why are they so
+- [08:06] excited? Why would they be so
+- [08:08] disappointed if this disappeared? And
+- [08:10] what are the key things that they rely
+- [08:12] upon most? So, as soon as they answer
+- [08:14] that question, we want to follow up with
+- [08:15] four or five questions to really
+- [08:17] understand exactly who they are because
+- [08:19] that's going to be our ICP that we can
+- [08:21] expand upon with our product market fit.
+- [08:23] Now, for the group that said somewhat
+- [08:25] disappointed, we want to ask the
+- [08:26] question, who are you and what kind of
+- [08:28] features or additional services would
+- [08:29] you like us to incorporate in order for
+- [08:32] you to become more excited about our
+- [08:34] product? Which things do you want us to
+- [08:35] develop? It's really important that
+- [08:37] we're figuring out exactly what type of
+- [08:39] person they are and what it is that
+- [08:41] would tip them over the edge so that
+- [08:42] they'd be more enthusiastic about the
+- [08:45] product. For people who said, "I'd be
+- [08:46] totally okay," we can ignore those. We
+- [08:48] can ask some questions to find out who
+- [08:50] they are. So, if we can figure out a bit
+- [08:51] of a theme of the types of people who
+- [08:53] don't really rely upon this product,
+- [08:55] it's unlikely that we're going to hit
+- [08:56] product and market fit with that group
+- [08:57] of people. Okay. The third survey that I
+- [08:59] could get you to run, especially if
+- [09:01] you're a service providing business, is
+- [09:03] called an experience score. So, the
+- [09:04] experience score is just purely and
+- [09:06] simply you ask the question, how would
+- [09:08] you rate your experience with us today?
+- [09:10] And regardless of what they say, you ask
+- [09:12] the question, which best describes you?
+- [09:14] Which best describes the outcome you're
+- [09:16] looking for? Which best describes
+- [09:18] something that you perceive as a
+- [09:19] frustration or an obstacle? And what
+- [09:21] could we do to improve that experience
+- [09:23] score by at least one point? Now, if you
+- [09:24] ask those questions, you will get all
+- [09:27] sorts of information, all sorts of
+- [09:28] answers as to how you can improve and
+- [09:30] achieve product market fit. The first
+- [09:32] step to achieving product market fit is
+- [09:33] to get inside the mind of your ideal
+- [09:35] customer persona. Over the last 5 years,
+- [09:37] we've done this with scoreapp.com. We've
+- [09:39] constantly gone and spoken to the people
+- [09:40] who subscribed and figured out exactly
+- [09:42] who they are and exactly what they want
+- [09:44] from Score app in order to get that
+- [09:46] product market fit. We now have several
+- [09:48] ideal customer personas and we know
+- [09:50] exactly what makes each one tick. And I
+- [09:52] can tell you the clearer we get about
+- [09:54] that, the easier it is to scale. Step
+- [09:56] two is we're going to radically improve
+- [09:58] your offer. And what we're going to do
+- [09:59] is we're going to work backwards from
+- [10:01] some of the information that we got from
+- [10:02] this survey and we're going to create
+- [10:03] something called a gold, silver, and
+- [10:05] bronze version of what you do. And we're
+- [10:06] going to construct an offer. What we're
+- [10:08] going to do is put together a slide
+- [10:09] deck, a brochure, or a landing page that
+- [10:12] explains who you are, what you do, and
+- [10:14] who you serve, and going to give people
+- [10:16] an opportunity to subscribe to either a
+- [10:19] gold, silver, or bronze version of what
+- [10:21] you do. Now, in the gold version, we're
+- [10:22] going to go over the top. We're going to
+- [10:24] tell people that we can do five to 10
+- [10:25] different things for them. If you're a
+- [10:27] fitness trainer, the gold version is
+- [10:28] going to include meal preparation in
+- [10:30] their home with a chef. It's going to
+- [10:32] include a photo shoot after they've done
+- [10:34] their 12week body transformation. It's
+- [10:36] going to include GP1s. It's going to
+- [10:38] include supplementation. Everything that
+- [10:41] you can think of that you could package
+- [10:42] up, it's included in here. And what
+- [10:44] you'll do is you'll price it up. Then
+- [10:46] you'll add a profit margin and you'll
+- [10:48] put it in there as the gold package. The
+- [10:49] bronze version is going to be more of
+- [10:51] the basics. It's going to be four or
+- [10:52] five of the key things that people need
+- [10:54] in order to achieve the outcome that
+- [10:56] they're looking for. It's going to be at
+- [10:57] a lower cost, but it's still going to
+- [10:59] have a healthy margin. And silver is
+- [11:00] going to be somewhere in the middle.
+- [11:02] It's going to have a few of the basics
+- [11:03] plus a few of the frills in order for
+- [11:05] people to feel like that they're going
+- [11:06] to get the outcome that they want as
+- [11:08] fast as possible. You're going to have
+- [11:10] three price points. All of them are
+- [11:11] going to be profitable price points. And
+- [11:13] I don't want you to feel intimidated
+- [11:15] about the way you price this because if
+- [11:17] you achieve product market fit, the
+- [11:18] price objections melt away. Now, one of
+- [11:20] the fun things that you can do at the
+- [11:22] moment is you can use AI to help with
+- [11:23] all of this. As soon as you've collected
+- [11:25] all of this data, you can actually put
+- [11:27] this data into AI and say that based on
+- [11:30] the data, you want to create gold,
+- [11:31] silver, and bronze offers for this group
+- [11:33] of people. I want you to take that to a
+- [11:35] graphic designer who can produce a
+- [11:37] brochure, a landing page, and a slide
+- [11:39] deck. Now, remember this. 50% of
+- [11:41] people's brains is dedicated to visual
+- [11:43] processing. If people can't see it, they
+- [11:45] can't experience it. They can't get
+- [11:47] excited about it unless they can see
+- [11:48] what it is that you're offering.
+- [11:49] Consider this. People will buy a
+- [11:51] multi-million dollar property off the
+- [11:53] plan, provided that there's a brochure
+- [11:55] and a little model that they could see,
+- [11:56] and then they'll happily sign a contract
+- [11:58] that commits them to millions of dollars
+- [11:59] worth of investment. But people must be
+- [12:01] able to see it in order to believe it.
+- [12:03] The final step, how do you really
+- [12:05] connect the dots and make sure that you
+- [12:07] hit product market fit? What I want you
+- [12:08] to do is go back to at least 30
+- [12:10] customers and I want you to have 30
+- [12:12] one-to-one sales meetings. And during
+- [12:14] those 30 one-to-one sales meetings,
+- [12:16] you're going to present them with the
+- [12:17] slide deck and the brochure that you've
+- [12:19] got. And what you're going to do is walk
+- [12:20] them through and show them this new
+- [12:22] product and service offering that you've
+- [12:23] got on the gold, silver, and bronze
+- [12:25] versions. And you're going to ask them
+- [12:27] which one they're most excited about
+- [12:28] committing to or if they're still
+- [12:30] unwilling to commit. Now, what we're
+- [12:32] looking for is that at the end of 31:1
+- [12:34] sales meetings, we've got at least three
+- [12:36] people who have committed to silver or
+- [12:38] gold. Now, the final test is where we
+- [12:41] lock this all in. We've signed up three
+- [12:42] people to the new silver or gold
+- [12:44] package. We're going to fast forward 90
+- [12:46] days, and then we're going to ask them
+- [12:47] this simple question. Now that you've
+- [12:49] experienced our new offering, would you
+- [12:51] be disappointed if we took it away? And
+- [12:53] what we're looking for is that those
+- [12:55] three people say absolutely yes. They do
+- [12:57] not want to lose access to this product
+- [12:59] or service. We want to see that the
+- [13:00] experience score is through the roof.
+- [13:02] These people, they rated a 9 or a 10. We
+- [13:04] want to see that they have a fear of
+- [13:05] losing this product or service. They'd
+- [13:07] be very disappointed if this went away.
+- [13:09] And ideally, we want to see that they
+- [13:10] would enthusiastically recommend this
+- [13:12] product or service to someone who's in
+- [13:14] their shoes. And if we pass all of those
+- [13:16] tests, congratulations. we've achieved
+- [13:18] product market fit. As soon as you've
+- [13:20] achieved this product market fit, you
+- [13:21] can move on with your entrepreneurial
+- [13:23] journey knowing that you are going to go
+- [13:24] to market, make lots of sales. You're
+- [13:26] going to have a new set of problems, but
+- [13:28] they're going to be good problems to
+- [13:29] have. You are one step closer to that
+- [13:32] big scaleup journey. You're one step
+- [13:34] closer to a massive profit. You're one
+- [13:36] step closer to a life-changing exit. And
+- [13:38] you're one step closer to having raving
+- [13:39] fans who would be completely devastated
+- [13:41] if your business ceased to exist. So,
+- [13:43] the big issue that gets in people's way
+- [13:45] is the emotional barrier that they have
+- [13:47] to asking these questions. People feel
+- [13:49] embarrassed sending out a survey. They
+- [13:51] feel embarrassed asking people for
+- [13:53] feedback and advice. They somehow think
+- [13:55] that they should just know what's going
+- [13:56] on in customers minds. And they think
+- [13:58] that great entrepreneurs just somehow
+- [13:59] automatically know who's the perfect
+- [14:01] ideal customer persona. In reality, for
+- [14:03] most entrepreneurs, this can take 5 to
+- [14:05] 10 years to accidentally stumble upon
+- [14:07] the perfect ideal customer persona and
+- [14:10] the perfect thing that you want to offer
+- [14:11] them. The great entrepreneurs who scale
+- [14:13] up way faster, they just simply ask the
+- [14:15] question. They run the survey, they
+- [14:17] create the new brochure, they put it in
+- [14:19] front of 30 people, and they get the
+- [14:21] customers to decide. This isn't about
+- [14:23] being an amateur. It's about being a
+- [14:24] professional. See, the great irony is
+- [14:26] that people think that it's amateur-ish
+- [14:28] to ask the customers what they want. And
+- [14:30] actually, it's the most professional
+- [14:31] move you could make. And the real truth
+- [14:33] is that customers love being asked what
+- [14:35] they want and they love being shown new
+- [14:36] products and services. See, if your
+- [14:38] business was terrible and if people just
+- [14:40] completely hated what you do, it would
+- [14:42] be very easy to go back to these steps.
+- [14:44] But the truth is, for many businesses,
+- [14:46] they have a business that's good but not
+- [14:47] great. Their customers are lukewarm.
+- [14:49] Their customers continue to buy. Their
+- [14:50] customers are signing up. They're not
+- [14:52] disappearing, but they're not raving
+- [14:53] fans. The biggest thing that gets in the
+- [14:55] way of having product market fit is
+- [14:57] almost having product market fit. You
+- [14:59] can kind of just bridge the gap with
+- [15:01] sales and marketing heroics. But the
+- [15:03] goal is that it doesn't require heroics
+- [15:05] to sign people up because you're so damn
+- [15:07] good at achieving product market fit.
+- [15:10] Once you've achieved product market fit,
+- [15:11] the next step will be go to market.
+- [15:13] That's all about cranking the handle,
+- [15:14] making lots of sales. And I just did a
+- [15:17] video about that. It's 34 minutes and
+- [15:19] it's all about how to generate leads,
+- [15:20] appointments, to present your value to
+- [15:22] people, and to make more sales. It's
+- [15:24] very much a goto market video. So, if
+- [15:26] you've achieved product market fit and
+- [15:27] you're ready to go to market, that's the
+- [15:29] video to watch next. If you've enjoyed
+- [15:31] this video, do me a little favor. Give
+- [15:32] it a like. Give it a subscribe. Leave me
+- [15:34] a comment below because I read all of
+- [15:36] the comments and it helps me to make
+- [15:37] better videos. I look forward to seeing
+- [15:38] you again next time and I hope your
+- [15:40] business is doing really, really

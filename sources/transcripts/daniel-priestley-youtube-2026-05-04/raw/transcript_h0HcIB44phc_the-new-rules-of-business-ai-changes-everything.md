@@ -1,0 +1,674 @@
+---
+type: source
+title: "The New Rules of Business (AI Changes Everything)"
+source: youtube
+channel: "Daniel Priestley"
+channel_id: UCABR204CFV9ZoMz69TyspzA
+video_id: h0HcIB44phc
+url: https://www.youtube.com/watch?v=h0HcIB44phc
+published_at: "2026-02-27T12:26:15Z"
+duration_seconds: 1122
+fetched_at: 2026-05-04T06:15:03Z
+transcript_status: fetched
+transcript_language: "en"
+ingest_run: daniel-priestley-youtube-2026-05-04
+---
+
+# The New Rules of Business (AI Changes Everything)
+
+> Raw transcript evidence for vault-level Daniel Priestley YouTube ingest. Do not treat this as compiled knowledge; use source cards and synthesis pages for durable claims.
+
+## Source Metadata
+- url: https://www.youtube.com/watch?v=h0HcIB44phc
+- channel: Daniel Priestley
+- published_at: 2026-02-27T12:26:15Z
+- duration_seconds: 1122
+- fetched_at: 2026-05-04T06:15:03Z
+
+## Transcript
+
+- [00:00] The world is rapidly changing. AI is
+- [00:02] disrupting absolutely everything. And
+- [00:03] that either means that you're going to
+- [00:05] have huge endless opportunities or
+- [00:06] you're going to be crushed by the
+- [00:08] efficiency of AI that takes away your
+- [00:09] value. In this video, we're going to
+- [00:11] start by talking about the mindset, the
+- [00:13] difference between an employee and an
+- [00:14] entrepreneur and why that is so
+- [00:16] important in the times that we're in.
+- [00:17] And then we're going to talk about the
+- [00:18] six steps of entrepreneurship that if
+- [00:20] you follow those six steps, you'll be in
+- [00:22] the top 1% of all entrepreneurs. Most
+- [00:24] people don't know this stuff, but we're
+- [00:25] going to explain it step by step. And I
+- [00:26] want you to stay right to the end so
+- [00:28] that you can see how to conclude an
+- [00:30] entrepreneurial journey with a whopping
+- [00:32] big exit that could be life-changing.
+- [00:35] If we think about the fundamental nature
+- [00:37] of what makes an entrepreneur
+- [00:39] successful, it's the ability to spot
+- [00:40] something that is suboptimal, something
+- [00:42] that needs optimizing. It's the ability
+- [00:44] to spot an inefficiency. So the
+- [00:45] entrepreneurial mindset loves to find
+- [00:47] inefficiencies. Think Richard Branson
+- [00:49] going on an airplane thinking, "This is
+- [00:51] really not optimized for the customer.
+- [00:53] People are not enjoying this experience.
+- [00:55] I think I could do it better. Think
+- [00:56] Oprah Winfrey when she noticed that
+- [00:58] daytime television was absolutely
+- [00:59] terrible and she thought that daytime
+- [01:02] television could leave people feeling
+- [01:03] uplifted and inspired, right? So, she
+- [01:05] created something that was more optimal.
+- [01:07] Anytime that an entrepreneur sees
+- [01:09] something that is inefficient, they see
+- [01:10] that as an opportunity. Now, let's
+- [01:12] contrast that with the mindset of an
+- [01:14] employee. A mindset of an employee is
+- [01:16] that I feel like my value is the ability
+- [01:19] to execute according to best practice
+- [01:21] without deviation. Now, here's the thing
+- [01:22] that AI does. AI is a generalpurpose
+- [01:24] technology and that generalpurpose
+- [01:26] technology suddenly made every single
+- [01:28] business, every single institution,
+- [01:29] every single organization in the whole
+- [01:31] world suboptimal. Absolutely everything
+- [01:33] that exists on the planet right now
+- [01:35] needs optimization, needs to be
+- [01:36] improved. Suddenly, every software
+- [01:38] company has out-of-date software that
+- [01:39] could do way more if it had AI built in.
+- [01:42] Suddenly, every hotel could improve
+- [01:43] their experience by using some AI
+- [01:45] system. Now, if you're an entrepreneur,
+- [01:47] this is heaven. But if you've got an
+- [01:48] employee mindset, you think, "Oh my
+- [01:50] goodness, my way of doing things in line
+- [01:52] with best practice is no longer in line
+- [01:54] with technology." As a teacher, you
+- [01:56] might say, "I can only teach things one
+- [01:57] way, but an AI could teach the same
+- [01:59] thing a hundred different ways based on
+- [02:01] people's learning styles." And an
+- [02:02] employee personalizes it and says, "I'm
+- [02:04] sub-optimal. I'm inefficient." And what
+- [02:06] that will lead you to do is to
+- [02:08] hyperconume. If you have that negative
+- [02:10] mindset, you're going to watch too many
+- [02:12] YouTube videos, spend too much time
+- [02:14] scrolling on TikTok. You may be engaging
+- [02:16] too much education trying to retrain
+- [02:18] yourself, but ultimately it comes from
+- [02:20] the root cause of how you see the world.
+- [02:22] See, the employee sees the world as a
+- [02:24] place to show up and do a good job and
+- [02:26] to just be in line with best practice.
+- [02:27] And the entrepreneur sees the world as a
+- [02:29] playground to improve, to optimize, to
+- [02:31] change, to disrupt, to transform. Now,
+- [02:33] the people who are going to succeed in
+- [02:35] the world that we're currently in are
+- [02:36] the people who adopt this new mindset,
+- [02:38] this entrepreneurial mindset that the
+- [02:40] world is suddenly a big opportunity. So,
+- [02:41] my challenge to you today is to pick a
+- [02:43] mindset. Do you want to be a creator or
+- [02:45] a consumer? The whole schooling system
+- [02:47] was to prepare you for the employee
+- [02:48] mindset. And for most people, the
+- [02:49] entrepreneur mindset is completely
+- [02:51] foreign. So, I want to break it down.
+- [02:53] The truth is that the entrepreneurial
+- [02:54] game is actually really simple and
+- [02:56] there's just six steps. And I'm going to
+- [02:58] show you the six different steps that
+- [02:59] will take you through the whole
+- [03:00] entrepreneurial journey. And if you know
+- [03:02] these steps and the more you understand
+- [03:04] these steps, the more you can easily
+- [03:05] spot opportunities, scale them up, make
+- [03:08] a bunch of money, have fun, and then get
+- [03:10] on to the next opportunity. And the
+- [03:11] entrepreneur mindset combined with these
+- [03:13] six steps will put you ahead of 99% of
+- [03:16] people who don't even know any of this
+- [03:17] even exists. Step one is called founder
+- [03:20] opportunity fit. It's all about finding
+- [03:22] the right opportunity for you. The whole
+- [03:25] world has just become your playground.
+- [03:26] AI has opened up everything as an
+- [03:28] opportunity. But what is the right
+- [03:29] opportunity for you? You need to do some
+- [03:31] soularching. You need to go and have a
+- [03:32] look at your origin story, your mission
+- [03:34] and your vision. The other thing that
+- [03:36] you want to look at is where are you
+- [03:37] already close to a big pile of money?
+- [03:39] How could you just move a little bit
+- [03:40] closer to where money's already flung?
+- [03:43] Unfortunately, you could add a lot of
+- [03:44] value to people who don't have big
+- [03:46] budgets to spend. And unfortunately,
+- [03:47] that won't translate to a successful
+- [03:49] entrepreneurial journey yourself. One of
+- [03:51] the biggest hacks in entrepreneurship is
+- [03:52] doing something that is easy to
+- [03:53] quantify, that gives a return on
+- [03:55] investment for someone who has money to
+- [03:57] spend. If you can do something that is
+- [03:59] easily provable, that it can save money
+- [04:01] or make money, oh my goodness, that is
+- [04:02] business on easy mode. So, what you're
+- [04:04] looking for is a blend between your
+- [04:06] passion, which is your origin, mission,
+- [04:08] and vision. the person who's got a
+- [04:09] budget, which is payment, and the market
+- [04:11] of people who've got a big problem that
+- [04:13] needs solving. Passion, payment, and
+- [04:15] pain. That is the winning formula for a
+- [04:17] founder opportunity fit. Now, once
+- [04:19] you've got founder opportunity fit, the
+- [04:20] next step is called viability testing.
+- [04:22] You need to test if this is truly viable
+- [04:24] or if you're just imagining things. And
+- [04:26] what we do is we create something called
+- [04:28] a minimum viable product. And what we're
+- [04:30] really doing here is creating a test.
+- [04:32] Recently, I had two business ideas. One
+- [04:34] was about using business data and
+- [04:36] crunching it with AI. And then the other
+- [04:38] one was about understanding how to
+- [04:39] create better YouTube videos and using
+- [04:41] AI for that. And what I did is I
+- [04:43] launched two waiting lists within a
+- [04:45] couple of weeks of each other. Now, one
+- [04:46] waiting list got about 720 people on the
+- [04:49] waiting list. And that was a great
+- [04:50] success. I did a social media post, I
+- [04:52] made a little video, and 720 people
+- [04:54] joined the waiting list for that. Now,
+- [04:56] the second idea, I did the exact same
+- [04:58] amount of uh social media posting. I
+- [05:00] made a little video. I put out a few
+- [05:01] posts, but 4 and a half thousand people
+- [05:03] joined the waiting list. Both of those
+- [05:05] opportunities had really good founder
+- [05:06] opportunity fit. But when we did
+- [05:08] viability testing, one opportunity was
+- [05:10] five times better than the other. Now,
+- [05:12] as you may have already worked out, one
+- [05:13] of the best ways to do an MVP is a
+- [05:16] waiting list campaign. When you launch a
+- [05:18] waiting list and you ask people to fill
+- [05:19] in some questions about who they are,
+- [05:21] what they're trying to achieve, and how
+- [05:22] much money they've got to spend, you can
+- [05:24] very easily quantify how good the
+- [05:27] opportunity is. I really recommend doing
+- [05:29] this with a friend. So whereas founder
+- [05:30] opportunity fit is a soularching
+- [05:32] exercise that you do with yourself and
+- [05:34] some mentors, an MVP test is something
+- [05:36] that ideally you want to work with with
+- [05:39] a co-founder, a friend, an assistant, a
+- [05:41] helpful buddy. You want to kind of have
+- [05:43] the both of you thinking about can we
+- [05:45] sell this? Can we build this? Can we
+- [05:47] sell it and can we build it? Are the two
+- [05:49] main questions that you're trying to
+- [05:50] figure out when you're doing viability
+- [05:52] testing. Now, here's the thing. 90% of
+- [05:54] entrepreneurs don't even know these
+- [05:55] first two steps or they're at least not
+- [05:57] even doing these first two steps. Simply
+- [05:59] putting a little bit of extra effort
+- [06:00] into founder opportunity fit and
+- [06:02] viability testing will put you in the
+- [06:04] top 10% of all entrepreneurs. Now, what
+- [06:06] I'm about to share with you next will
+- [06:07] put you in the top 1% of entrepreneurs.
+- [06:09] Now, the next step is called product
+- [06:11] market fit. This is where you take that
+- [06:12] thing that has been viability tested and
+- [06:14] we begin the process of taking it to
+- [06:16] real life customers who are really going
+- [06:18] to pay. And what we're going to try and
+- [06:19] do next is get 30 to 150 real paying
+- [06:22] customers who adopt a trial, who pay
+- [06:24] something for the product or service.
+- [06:25] And we're going to figure out how they
+- [06:27] use it, what results they get, what they
+- [06:29] like about it, what they don't like
+- [06:30] about it. And what we're also going to
+- [06:31] try and find out, is there a special
+- [06:33] group of people who really get great
+- [06:35] value from this product? Can this
+- [06:36] product be improved for that group of
+- [06:38] people who really, really love it. Now,
+- [06:40] if you can do that, you're going to
+- [06:41] achieve product market fit. Product
+- [06:42] market fit involves making sales. You
+- [06:45] have to get out and talk to people. Now,
+- [06:46] I see so many entrepreneurs that want to
+- [06:48] skip this step. They want to build a
+- [06:49] digital business where they never have
+- [06:51] to talk to a real customer. They
+- [06:52] certainly don't want to have 150 proper
+- [06:54] conversations and they're just trying to
+- [06:56] put stuff online so they don't have to
+- [06:57] interact with real humans. Now, if you
+- [06:59] resist the urge to keep people at arms
+- [07:01] length, you're going to have a
+- [07:02] breakthrough because it's when you're
+- [07:04] talking to customers. It's when you're
+- [07:05] doing the sales that you're going to
+- [07:06] have your best insights. Customers will
+- [07:08] tell you what they want at this point.
+- [07:10] When it comes time to part with their
+- [07:12] hard cash, they're going to say, "Does
+- [07:13] it do these three things?" When they're
+- [07:15] actually paying for the product, they're
+- [07:17] going to tell you, "This is what I like
+- [07:18] and this is what I don't like, and
+- [07:19] here's what I want you to change." Now,
+- [07:21] the one thing I also want you to pay
+- [07:22] particular attention to is the ability
+- [07:24] to spot a subgroup of people who would
+- [07:27] be massively disappointed if you
+- [07:28] disappeared. Now, if you find that
+- [07:30] subgroup of people, the people who
+- [07:32] really, really love what you're doing,
+- [07:33] then you can expand upon that group. But
+- [07:35] you've got to be able to find them. So,
+- [07:36] product market fit is making
+- [07:37] improvements to the product and finding
+- [07:39] the types of people who really, really
+- [07:40] love what you do. Now, you typically do
+- [07:42] this with a group of four people. So,
+- [07:44] you're going to have yourself as the
+- [07:45] leader of the project. You'll have
+- [07:46] someone who's very focused on sales.
+- [07:48] That means they're taking it to market.
+- [07:50] You'll have someone who's very focused
+- [07:51] on product innovation or product
+- [07:52] development. That's the product piece.
+- [07:54] And you'll probably have someone who's
+- [07:55] helping to organize the team. We call
+- [07:57] that administration or support or
+- [07:58] operations. And the team of four of you
+- [08:01] are working together heavily on product
+- [08:03] market fit. You're probably going to do
+- [08:04] something like run some launch campaigns
+- [08:06] or you'll run some focus groups. You'll
+- [08:08] definitely be doing sales meetings.
+- [08:10] You'll have the double purpose of making
+- [08:11] sales and learning about customers by
+- [08:13] getting face tof face with people. The
+- [08:15] thing that 99% of people just will not
+- [08:17] do is face-toface selling. People just
+- [08:20] hate sitting opposite a customer and
+- [08:23] trying to convince them to buy something
+- [08:25] right there and then on the spot. The
+- [08:26] truly brave entrepreneurs, they're the
+- [08:28] ones who are willing to ask people, are
+- [08:30] you willing to buy at this really high
+- [08:32] price right now today? And the reason
+- [08:34] that they're doing that is not because
+- [08:35] they want to be a hard salesperson or a
+- [08:37] pushy salesperson. They want to get the
+- [08:38] real feedback from the customer. They
+- [08:40] want to create a tense moment where the
+- [08:42] customer has to tell you what's really
+- [08:44] going on in their head. See, it's really
+- [08:46] comfortable to just put pretty things on
+- [08:48] the internet and hope for the best, but
+- [08:49] it doesn't work. What works is talking
+- [08:51] to customers, creating moments of
+- [08:54] tension, and seeing what they say. Go to
+- [08:56] market. This is the step where everyone
+- [08:58] thinks of their business is actually
+- [08:59] starting because now you've got a
+- [09:00] product that people want. You've got a
+- [09:02] type of customer that you want to
+- [09:03] target. Go to market means cranking the
+- [09:05] handle and making sales. Now, here's
+- [09:06] what you're going to focus on with go to
+- [09:08] market. You are going to focus on
+- [09:09] something called laps. Laps stands for
+- [09:11] leads, appointments, presentations, and
+- [09:13] sales or leads, appointments, proposals,
+- [09:15] and sales. And here's what you're going
+- [09:16] to do. You're going to get into a weekly
+- [09:18] rhythm where every single week you do
+- [09:20] the same things over and over and over
+- [09:21] again. You're going to do something that
+- [09:23] generates leads. You're going to book
+- [09:24] those leads into appointments. Those
+- [09:26] appointments are going to get in front
+- [09:27] of someone and see a presentation or a
+- [09:29] proposal, and then some of them are
+- [09:30] going to buy. And the goal here is to
+- [09:32] get into the rhythm. The rhythm of
+- [09:34] acquiring customers and then getting
+- [09:36] them to enjoy the product or service and
+- [09:38] feel good and refer a friend. And you
+- [09:40] want to build a little pipeline. And
+- [09:41] this is what it feels like to have a
+- [09:43] business that's starting to take off.
+- [09:44] The money starts to flow. In many cases,
+- [09:47] 25, 35, 45, 50,000 a week coming in,
+- [09:51] sale after sale after sale after sale.
+- [09:53] In this particular phase, you're
+- [09:55] probably going to be very focused on one
+- [09:56] route to market, one type of customer,
+- [09:58] one sales presentation, one type of ad.
+- [10:01] You'll probably have one landing page,
+- [10:03] right? You'll just be getting things
+- [10:04] right, but you'll be very focused at
+- [10:06] getting those things right. You're not
+- [10:07] trying to scale to every market, to
+- [10:08] every type of customer. You're not
+- [10:10] launching other products. You're just
+- [10:11] getting one thing right, and you're
+- [10:12] getting the money flowing. You should be
+- [10:14] able to get to over a million of revenue
+- [10:16] when you're in the goto market phase.
+- [10:17] Now, typically, this is going to be a
+- [10:19] team of 6 to 12 people. Most typically,
+- [10:21] a team of about eight. You're going to
+- [10:23] be leading the team. You'll have someone
+- [10:24] in marketing, someone in sales. You'll
+- [10:26] have someone who's product development,
+- [10:28] someone who's customer success, and
+- [10:29] you'll have a few other people doing
+- [10:30] other things as well. Your little team
+- [10:32] of eight people making a million of
+- [10:34] revenue is going to feel great. Every
+- [10:36] Monday morning, you burst into the
+- [10:37] office ready to make more sales. Every
+- [10:39] Friday afternoon, you can't believe your
+- [10:41] luck. You track how many sales got made.
+- [10:43] You track how many happy customers got
+- [10:45] generated. And everything feels electric
+- [10:47] as you're launching and you're making
+- [10:48] your first million of revenue. But then
+- [10:50] you hit a wall. And this wall wipes out
+- [10:53] so many people. See, at this point,
+- [10:54] you're really good at doing a few
+- [10:56] things. Well, you can generate those
+- [10:57] leads. You can book the appointments.
+- [10:58] You can present to people, and you can
+- [11:00] make sales. However, for some reason,
+- [11:02] you can't scale past a certain point.
+- [11:03] And this brings you to the next
+- [11:05] challenge. And the next challenge is the
+- [11:06] phase of business called scale up. Now,
+- [11:09] this phase of business is completely
+- [11:11] optional. In fact, many many happy
+- [11:13] people have a lifestyle business that
+- [11:15] sticks at 6 to 12 people, that makes
+- [11:17] seven figures of revenue, that makes
+- [11:18] more than six figures of profit.
+- [11:20] Everyone's having fun. It's a small
+- [11:21] little team organized in a WhatsApp
+- [11:23] group. You don't actually have to scale
+- [11:25] up, but if you do want to scale up, this
+- [11:27] is going to be an exciting ride and it's
+- [11:28] also going to be a bit terrifying. Now,
+- [11:30] when you scale up, you're going to
+- [11:31] launch new products into new markets in
+- [11:34] new territories. Now, your customers
+- [11:35] will be in more locations. There'll be
+- [11:37] different types of ideal customer
+- [11:39] personas. You might go from having one
+- [11:41] core offering to a gold, silver, bronze
+- [11:43] version. You might have a package that
+- [11:45] you used to sell and now you also have a
+- [11:47] subscription. You might introduce
+- [11:48] finance options. You might introduce
+- [11:50] bolt-on options, right? So, the product
+- [11:52] becomes more complex. The number of
+- [11:54] types of customers that you talk to is
+- [11:56] more complex. And the geographies that
+- [11:57] you're covering is more complex as well.
+- [11:59] Now, all of that requires new people and
+- [12:01] new systems. Now, in the scale up phase,
+- [12:03] you're going to jump from a team of less
+- [12:04] than 12 people to a team of more than 30
+- [12:07] people. And here's one of the things
+- [12:08] that's going to blow your mind. You're
+- [12:09] going to have to have a leadership team.
+- [12:11] And that leadership team is going to be
+- [12:13] about five people. You'll typically have
+- [12:14] a CEO, a CFO, a CTO, a COO, and a CMO.
+- [12:19] And all of those people will need their
+- [12:20] own teams of people reporting to them in
+- [12:22] order to get their job done. So, what
+- [12:24] used to be this lean, low overhead,
+- [12:26] little fun business now suddenly has a
+- [12:28] big expensive leadership team and then a
+- [12:30] wider performance team to make
+- [12:31] everything happen. Oh my goodness. The
+- [12:33] type of money that you used to be
+- [12:34] thrilled to make in a month, now you
+- [12:36] have to make that in a week or else
+- [12:38] you're going backwards. To simplify
+- [12:39] things, I want you to think about it
+- [12:41] like this. A scaleup team has a senior
+- [12:43] leadership team. It has a growth team.
+- [12:46] It has a product team and it has a data
+- [12:49] and insights team. Now for growth,
+- [12:51] you're going to generate leads and make
+- [12:53] sales. So marketing for lead generation
+- [12:55] and sales for closing and doing
+- [12:57] business. The insights team is going to
+- [12:58] have performance data and financial
+- [13:00] data. So you're going to understand the
+- [13:02] finances of the company and you're also
+- [13:03] going to understand all the other
+- [13:04] metrics that tell you how the company's
+- [13:06] performing. And the product team is
+- [13:07] going to have product development,
+- [13:09] product delivery and product customer
+- [13:11] success. Now each of these teams might
+- [13:13] be 10 people and your senior leadership
+- [13:16] team might be five. So before you only
+- [13:18] needed 10 people to do a lot of things.
+- [13:20] Now you need 30 to 35 people to do a lot
+- [13:22] of things. Now making this switch will
+- [13:23] knock out 99.9% of people. There is this
+- [13:26] phase called crossing the desert. It's
+- [13:28] incredibly difficult. Some of the people
+- [13:29] on your team are going to have to go and
+- [13:31] you're going to have to bring in
+- [13:32] specialists. You may have to get debt.
+- [13:34] You may have to get investors. You may
+- [13:35] have to kill off a product or a service
+- [13:37] that people love in order to double down
+- [13:39] on a product or service that really
+- [13:41] makes more sense. You're going to have
+- [13:42] to grow up as a business owner. You have
+- [13:44] to understand all of the business owner
+- [13:46] jargon. You're going to have to
+- [13:47] understand how business really works.
+- [13:48] You'll read a lot of business books.
+- [13:50] You'll pay money for business coaches.
+- [13:51] You'll have consultants that you pay a
+- [13:53] lot of money to help get you a
+- [13:54] breakthrough in certain business areas.
+- [13:56] So, things get a bit more serious.
+- [13:58] You'll have a lot more meetings. You'll
+- [13:59] have a lot more dashboards. You'll have
+- [14:00] a lot more data to process all going on
+- [14:02] around your scale up. Now, even having
+- [14:04] that team in place, it's not enough to
+- [14:06] say job done. You're going to have
+- [14:07] another big job to do, and that's called
+- [14:08] formalize the assets. Formalizing the
+- [14:11] assets means finding the best way of
+- [14:13] doing something and turning it into a
+- [14:14] digital asset that will scale. You're
+- [14:16] going to create a brand book that tells
+- [14:17] people how to express the brand. You're
+- [14:19] going to have a culture book that tells
+- [14:21] people how to act within the team.
+- [14:22] You're going to have formal channels to
+- [14:24] market. You're going to formally win
+- [14:25] awards. You're going to formalize your
+- [14:27] intellectual property, register it, and
+- [14:29] own it. You're going to start creating
+- [14:30] explainer videos for all of your
+- [14:32] products. You're going to create
+- [14:33] internal training videos for all of your
+- [14:35] team. So, this is all part of this thing
+- [14:36] called formalization of the assets.
+- [14:38] Everything that's going on that is your
+- [14:40] best practice in this business needs a
+- [14:42] way of doing it, a system of doing it.
+- [14:43] And we need to formalize that into a
+- [14:45] digital asset. And the next big
+- [14:46] challenge is called quality of earnings.
+- [14:49] Quality of earnings means that you have
+- [14:51] to figure out what's profitable and
+- [14:52] what's not profitable within your
+- [14:54] business. You're going to have to
+- [14:55] prioritize things like recurring revenue
+- [14:57] as opposed to one-off services revenue.
+- [14:59] You're going to have to prioritize
+- [15:00] scalable product revenue or software
+- [15:02] revenue over unscalable services
+- [15:04] revenue. So, you're going to be
+- [15:06] crunching a lot of data, rethinking the
+- [15:08] business, talking to consultants in
+- [15:10] order to improve what's called quality
+- [15:11] of earnings. One of the things that
+- [15:12] you'll be doing is looking at the
+- [15:14] financials of your business much more
+- [15:15] closely than you ever did before. You'll
+- [15:17] be understanding this new terminology
+- [15:19] called EBIDA, the actual profit of your
+- [15:21] business. You'll be going through line
+- [15:22] by line trying to understand things like
+- [15:24] unit economics. So, all of this means
+- [15:26] that you're a more advanced business
+- [15:28] owner, which means you're going to get
+- [15:29] more advanced results. But here's the
+- [15:31] thing. If it was easy, everybody would
+- [15:33] do it. And you should thank your lucky
+- [15:34] stars that not everybody can do it
+- [15:36] because that's why it's worth so much.
+- [15:38] Now, this takes us to the final step,
+- [15:39] the sixth step of the business is exit.
+- [15:42] Whether you like it or not, it's
+- [15:43] non-negotiable. You will exit the
+- [15:45] business one way or another. You are not
+- [15:47] going to stay in this business forever.
+- [15:49] You will either own it until you die,
+- [15:50] which means you exit that way, or you
+- [15:52] will exit because your time is no longer
+- [15:54] involved. You start elevating yourself
+- [15:56] into other projects. Maybe you launch
+- [15:58] something else. Maybe you take on an
+- [16:00] acquisition and your focus goes over
+- [16:02] there. So, you're in a position to exit
+- [16:03] the day-to-day of running this business.
+- [16:05] You'll have a senior leadership team
+- [16:06] that doesn't need you that often. So, at
+- [16:08] this point of exit, you may sell the
+- [16:10] business for a massive amount of money.
+- [16:12] This could be an incredible moment where
+- [16:14] suddenly your life changes dramatically.
+- [16:16] You've been spending the last 5 or 10
+- [16:18] years running this business, doing
+- [16:19] acquisitions, doing scale up work,
+- [16:22] figuring out customers, figuring out
+- [16:23] markets, and now you sell the business,
+- [16:25] and you back to scratch. You can start
+- [16:27] thinking clearly again with no baggage.
+- [16:29] So, how do you sell the business for the
+- [16:30] most amount of money? Well, you're going
+- [16:31] to have to figure out who's going to buy
+- [16:33] the business. People buy the business
+- [16:34] because they're strategically interested
+- [16:36] in the business, which means it's a good
+- [16:37] fit with what they've already got.
+- [16:38] They're financially interested in the
+- [16:40] business. They can fund the acquisition
+- [16:42] through debt, and then they can buy it,
+- [16:43] and the business can service the debt.
+- [16:45] or they might buy it because it's a
+- [16:46] trophy asset. They really want to own it
+- [16:48] because they really love the awards, the
+- [16:50] team, the product. It just really ticks
+- [16:52] some emotional boxes for them. You're
+- [16:54] going to want to find multiple buyers
+- [16:56] who have different angles for why they
+- [16:58] want to buy it. And you want to play
+- [16:59] them off against each other. Now, the
+- [17:00] things that they're going to care about
+- [17:01] before they ultimately buy the business
+- [17:03] is number one, they want a business that
+- [17:05] has great financials. They want to see
+- [17:06] that the quality of earnings is good and
+- [17:08] they want a financial forecast that goes
+- [17:10] 5 years into the future that shows them
+- [17:12] what's going to happen if they buy this
+- [17:14] business. Your job is to give them a
+- [17:15] beautiful financial forecast, showing
+- [17:17] them the future of this business if they
+- [17:19] buy. Now, if it's a strategic buyer who
+- [17:21] can put lots of new customers in, you
+- [17:23] want to reflect that in the financial
+- [17:25] forecast as well. Don't let them think
+- [17:26] this up on their own. Show them exactly
+- [17:29] what's going to happen when they buy.
+- [17:30] So, you want to document all those
+- [17:31] assets and catalog all those assets so
+- [17:33] that when they buy the business, they
+- [17:34] know what they're getting. They may not
+- [17:36] be aware that you have an amazing
+- [17:37] YouTube channel with a,000 videos. You
+- [17:39] want to make it painfully obvious. This
+- [17:40] is something that comes with the
+- [17:41] purchase of the business. And one of the
+- [17:43] best things that you can do if you
+- [17:44] really want to sell the business for a
+- [17:45] lot of money is have multiple people who
+- [17:47] want to buy it all at once. That bidding
+- [17:49] war really puts the price up. A friend
+- [17:51] of mine thought he was going to sell his
+- [17:52] business for $120 million and ended up
+- [17:55] selling it for over 200 million because
+- [17:57] the two buyers bid it into the
+- [17:58] stratosphere. He said that it took 15
+- [18:00] years to build $120 million business and
+- [18:03] 24 hours to get to 220 million. Now,
+- [18:05] that only happens when you've got two
+- [18:07] people who really want one thing. So,
+- [18:09] there you have it. Those are the six
+- [18:10] steps. These six steps. The more you
+- [18:12] understand them, the more you will be
+- [18:13] ahead of 99% of people. Entrepreneurship
+- [18:15] is like the airline industry. Most
+- [18:17] things crash and fail, but a few things
+- [18:20] reliably take off, land, and do really,
+- [18:22] really well again and again and again.
+- [18:23] Entrepreneurship is actually a narrow
+- [18:25] path. You need to know what to do at
+- [18:26] each of these six steps in order to
+- [18:28] create value. Okay, so I hope you
+- [18:30] enjoyed this video. You may want to
+- [18:31] build a lifestyle business and I created
+- [18:33] a video explicitly about how to build a
+- [18:36] lifestyle business. You can click the
+- [18:37] link and have a look at that next. I
+- [18:39] hope your business is doing really,
+- [18:40] really well and I look forward to seeing
+- [18:41] you

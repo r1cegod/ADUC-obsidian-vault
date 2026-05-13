@@ -1,0 +1,550 @@
+---
+type: source
+title: "How I Made $10 Million from Diary of a CEO"
+source: youtube
+channel: "Daniel Priestley"
+channel_id: UCABR204CFV9ZoMz69TyspzA
+video_id: FW2-QA73Vuw
+url: https://www.youtube.com/watch?v=FW2-QA73Vuw
+published_at: "2025-08-29T17:20:27Z"
+duration_seconds: 1092
+fetched_at: 2026-05-04T06:15:03Z
+transcript_status: fetched
+transcript_language: "en"
+ingest_run: daniel-priestley-youtube-2026-05-04
+---
+
+# How I Made $10 Million from Diary of a CEO
+
+> Raw transcript evidence for vault-level Daniel Priestley YouTube ingest. Do not treat this as compiled knowledge; use source cards and synthesis pages for durable claims.
+
+## Source Metadata
+- url: https://www.youtube.com/watch?v=FW2-QA73Vuw
+- channel: Daniel Priestley
+- published_at: 2025-08-29T17:20:27Z
+- duration_seconds: 1092
+- fetched_at: 2026-05-04T06:15:03Z
+
+## Transcript
+
+- [00:00] Everyone would like to be on Dire of a
+- [00:01] CEO. In fact, I would have paid $6
+- [00:03] million to sponsor the show if I could
+- [00:05] have and be on there just once. Fast
+- [00:07] forward to today. I've been selected to
+- [00:09] be on the show six times, making me the
+- [00:11] most repeated guest to come back onto
+- [00:13] the show. Now, I want to share with you
+- [00:14] behind the scenes how does Diary of a
+- [00:16] CEO work? How do they select their
+- [00:18] guests? And how do you make it work from
+- [00:20] a business angle? You'll be able to
+- [00:21] apply this whether you want to end up on
+- [00:23] the biggest podcasts in the world or
+- [00:25] whether you just simply want to use
+- [00:26] podcasting as a strategy to grow your
+- [00:28] business. Either way, let's get started
+- [00:30] and I'll talk you through it.
+- [00:33] So, first of all, let me take you behind
+- [00:34] the scenes and tell you how I ended up
+- [00:36] on the show for the very first time.
+- [00:37] Now, it actually the story starts a
+- [00:39] month earlier. I'm skiing in Switzerland
+- [00:42] and I get a message on my phone from
+- [00:44] Steven Bartlett's account and it says,
+- [00:46] "Daniel, I've seen you on YouTube and
+- [00:48] I'd love to have you on the show. Would
+- [00:50] you like to come on to the show?" And I
+- [00:51] thought it was a scam and I thought to
+- [00:53] myself, "This is definitely not real."
+- [00:54] Uh, so I just ignored it and I put my
+- [00:56] phone away and I kept skiing and then at
+- [00:58] lunchtime I had a closer look and I
+- [01:00] realized that this is his real account.
+- [01:01] This has got millions and millions of
+- [01:03] followers. I showed my wife and she
+- [01:04] said, "It's probably real. Why don't you
+- [01:06] message back?" So I said, "Sure, I'd
+- [01:08] love to go on the show." And he came
+- [01:09] back and he said, "We can film either
+- [01:10] Monday or in 3 months time." So I
+- [01:12] thought, "You know what? I'm going to
+- [01:13] just fly back and do the show at short
+- [01:15] notice." So Monday morning comes around,
+- [01:17] they pick me up in the Diary of a CEO
+- [01:19] mobile. It's a really cool van that they
+- [01:21] pick up their guests. I arrive at the
+- [01:23] studio. I bump into Steven in the
+- [01:25] elevator. Obviously, I'm feeling a bit
+- [01:27] nervous. I keep my cool. We go on up.
+- [01:29] Within a few minutes, we're sitting down
+- [01:31] at the table and he's saying, "Daniel,
+- [01:34] >> tell us a little bit about yourself."
+- [01:36] Fortunately, I was super ready for the
+- [01:38] experience. I had my pitch ready. I had
+- [01:40] my content already mapped out in my
+- [01:42] mind, and I was ready for the
+- [01:43] experience. Over the following few
+- [01:45] months, over 3 million people watched
+- [01:47] the episode. I got speaking engagements
+- [01:49] from all over the world. Uh, we had
+- [01:50] 9,000 people sign up for a free account
+- [01:52] with Score app. We had $3 million worth
+- [01:55] of new business come in at Dent. My
+- [01:57] other new businesses started just
+- [01:59] lighting up. I attracted some new
+- [02:00] talented team members who discovered me
+- [02:02] through Diary of a CEO. And my publisher
+- [02:04] contacted me and said, "We've sold
+- [02:06] 50,000 copies of your book, more than we
+- [02:08] expected to." Um, so you could say in
+- [02:10] every single way it was a life-changing
+- [02:12] experience. Now, what does it feel like
+- [02:14] to be sitting there at the table? It
+- [02:16] feels a little bit nerve-wracking. It
+- [02:17] feels a little bit tense, but I tell you
+- [02:19] what, I was ready for the experience.
+- [02:21] And I want to share with you three
+- [02:22] things that I had that made me ready for
+- [02:24] the whole experience.
+- [02:29] Okay. So, when you go on any podcast,
+- [02:30] whether it's Diary of a CEO or any of
+- [02:32] the other podcasts that are out there,
+- [02:34] the first 30 seconds really matters. You
+- [02:36] have to hook your audience. And that
+- [02:39] first hook pitch is super, super, super
+- [02:42] important. So, we're going to talk about
+- [02:43] how do you do a hook pitch? The opening
+- [02:45] 30 seconds. What do you have to get
+- [02:47] across so that people really want to
+- [02:49] hear from you some more? So we call this
+- [02:51] framework name, same, claim to fame,
+- [02:54] pain, aim, and a game, right? A few
+- [02:57] things, but you can get it all in under
+- [02:58] 40 seconds. So first one is what is your
+- [03:02] name and what is your business name?
+- [03:04] Right? So I'm Daniel Priestley. I'm the
+- [03:06] co-founder of Score app or I'm the
+- [03:08] founder of Dent Global. Right? So what
+- [03:10] is your name? What is your business
+- [03:11] name? So that's the first thing that we
+- [03:13] need to do. same. What do people already
+- [03:16] understand that they already recognize
+- [03:19] that you're very similar to? So, you
+- [03:21] might say, "I'm an entrepreneur. I'm an
+- [03:22] author. I'm a speaker." Uh, you might
+- [03:24] say, "I'm a life coach. I'm a business
+- [03:25] coach." You might say, "I run an agency.
+- [03:28] I have a software business." Right? You
+- [03:30] want to keep it nice and simple. So,
+- [03:31] that's name, same. You can see here that
+- [03:33] the energy drops and then it starts to
+- [03:36] pick up as we go. The next one is fame.
+- [03:39] So, what is your claim to fame? What
+- [03:41] have you done that's special? You could
+- [03:42] say, "I've written some books." You
+- [03:44] could say, "I've spoken on some stages.
+- [03:45] I've win I've won some awards. I've
+- [03:47] worked with these famous brands that
+- [03:48] you've heard of." Right? Anything at all
+- [03:50] that makes you stand out as being a
+- [03:52] little bit interesting and different. So
+- [03:54] your name then same then fame. Now you
+- [03:59] may want to talk about what's called
+- [04:01] pain.
+- [04:03] So you can say a lot of people struggle
+- [04:05] with X or all over the world people are
+- [04:09] finding it very difficult to achieve X Y
+- [04:11] and Zed or there's this issue that many
+- [04:13] people are struggling with. So that's
+- [04:15] where you outline the fact that there's
+- [04:17] a pain and presumably you're going to
+- [04:19] talk about how to solve that. And then
+- [04:21] from pain you go aim
+- [04:24] which is what are you aiming for short
+- [04:27] term and it's often that you're
+- [04:29] resolving this particular pain that
+- [04:31] exists. And then finally game. And the
+- [04:35] big game is what is it that is the big
+- [04:38] picture behind what you want to do? Like
+- [04:39] what is the bigger vision for for who
+- [04:42] you are and what you want to achieve.
+- [04:43] Now when you sit down with Steven
+- [04:45] Barllet and he says tell me a bit about
+- [04:47] yourself, you want to be ready where you
+- [04:49] can say I'm Daniel Priestley. I'm the
+- [04:51] founder of several different businesses.
+- [04:52] My background is as an entrepreneur and
+- [04:54] I'm also known as an author. I've worked
+- [04:56] with over 5,000 businesses. I've built
+- [04:58] and sold multiple companies. Fame. Uh
+- [05:00] entrepreneurship is a very difficult
+- [05:02] journey. Many people struggle with
+- [05:04] entrepreneurship. A lot of businesses
+- [05:05] fail. My aim is to help entrepreneurs to
+- [05:08] stand out, scale up and make a positive
+- [05:10] impact through business. And my bigger
+- [05:12] game is to solve the world's most
+- [05:14] meaningful problems by getting
+- [05:16] entrepreneurs who make a dent in the
+- [05:17] universe. Now, if I cover all of that in
+- [05:20] about 30 seconds, which I just did, I've
+- [05:22] just gone through that framework of
+- [05:24] name, same, fame, pain, aim, game. It's
+- [05:26] a lot, but it actually gives you a
+- [05:29] really good hook. There's so much there
+- [05:31] for your podcast host to latch on to and
+- [05:34] run with. So, that's the first thing you
+- [05:36] need. You need to be able to hook your
+- [05:37] listeners in the first 30 seconds when
+- [05:39] you go on a podcast.
+- [05:42] [Music]
+- [05:44] Okay. So, the next thing that we need is
+- [05:46] called a product ecosystem. So, product
+- [05:49] ecosystem is your products and services
+- [05:52] that people can follow up with if they
+- [05:54] enjoy your episode. Now, if you don't
+- [05:56] have this, it's almost pointless being
+- [05:58] on the show in the first place. Imagine
+- [05:59] the desert and it comes in with a big
+- [06:01] raincloud and it rains in the desert and
+- [06:03] then it just immediately evaporates.
+- [06:04] That's what it would be like if you went
+- [06:06] on Dire CEO, but you didn't have any
+- [06:08] product and services for people to buy
+- [06:10] or anything for people to engage with.
+- [06:12] They're going to essentially be excited
+- [06:14] by what you have to say, and then
+- [06:15] there's nowhere for that to go. So,
+- [06:16] there's no point they're going to forget
+- [06:18] you a week from now. They're going to be
+- [06:19] listening to the next podcast after
+- [06:20] that. So you have to have somewhere for
+- [06:22] people to go after they've watched the
+- [06:25] podcast. So this is part of before the
+- [06:27] game is after the game. So what is a
+- [06:29] product ecosystem? You might have heard
+- [06:30] me talk about this before. There are
+- [06:32] four products and services. There's a
+- [06:34] gift which is something people can get
+- [06:36] straight away for free. There's a
+- [06:37] product for prospects which is free but
+- [06:40] you have to register for it. There's a
+- [06:42] core offering which is a
+- [06:44] transformational thing that people can
+- [06:46] buy. And then there's a product for
+- [06:48] clients which is something that people
+- [06:49] can subscribe to. So let me talk you
+- [06:52] through my product ecosystem that I had
+- [06:54] that was ready to go after I'd been on
+- [06:56] Diary of a CEO. So gifts.
+- [07:00] The first thing that I had was I had
+- [07:02] lots of free stuff online so people
+- [07:04] could go to my YouTube channel with long
+- [07:08] videos explaining how entrepreneurship
+- [07:10] works. I already had some of those ready
+- [07:12] to go. I also had online scorecards. So
+- [07:16] people could go and take the key person
+- [07:19] of influence assessment. They could take
+- [07:20] the 24 assets assessment. In fact, we
+- [07:22] saw hundreds of people taking those
+- [07:24] after I was on diary of a CEO. The next
+- [07:26] thing is we had downloadable PDF reports
+- [07:29] and we had lots of people who were just
+- [07:31] downloading our PDF reports that were
+- [07:32] sitting there on the website. So these
+- [07:34] were all things that people could easily
+- [07:36] quickly access super fast uh without
+- [07:39] spending any money. The next thing we
+- [07:41] had were product for prospects. These
+- [07:42] are things people have to register for.
+- [07:44] And what I did is I had a series of
+- [07:46] webinars that people could register for
+- [07:49] and these were 90-minute webinars after
+- [07:51] Diary of a CEO where people could get on
+- [07:53] the webinar. I also had an online
+- [07:56] discussion group
+- [07:58] where people could join the discussion
+- [08:00] group and about 8,000 people joined the
+- [08:02] Facebook discussion group that I had
+- [08:04] ready to go. Um, also we had more
+- [08:07] extensive scorecards and assessments.
+- [08:11] So we had these ones which were just
+- [08:13] quick and easy ones answer 15 questions.
+- [08:15] These ones were more extensive. These
+- [08:16] were 48 questions uh each and also we
+- [08:19] had some live events.
+- [08:22] So if people were based in certain
+- [08:24] cities they could turn up and see me
+- [08:25] live. So those were all there and they
+- [08:27] were ready to go. As a core offering, we
+- [08:31] had Dent
+- [08:34] uh accelerators. So, people could sign
+- [08:36] up and do the startup accelerator or
+- [08:38] they could do the key person of
+- [08:39] influence accelerator. Oh, by the way, I
+- [08:41] should have mentioned product for
+- [08:43] prospects books. So, I had lots of
+- [08:46] people buying my books. Um, we had Dent
+- [08:48] accelerators. Uh on top of Dent
+- [08:50] Accelerators, we have uh August
+- [08:53] recognition which is an agency that I've
+- [08:57] got which helps people to win awards. We
+- [08:59] had Rethink Press which is a publishing
+- [09:02] company that I own. And then the product
+- [09:05] for clients is all subscription revenue
+- [09:07] products. So, for subscription revenue,
+- [09:09] uh, I've got Score app where we have on
+- [09:14] average, uh, we have at the moment about
+- [09:16] 85,000 businesses that pay about $50 a
+- [09:19] month for their score app subscription.
+- [09:21] So, we had lots of people being able to
+- [09:23] sign up for a score app account. Um, we
+- [09:25] have Book Magic,
+- [09:28] which is an AI tool that allows people
+- [09:31] to write their book and helps guide them
+- [09:32] through the process of writing a book.
+- [09:34] So because I had this product and
+- [09:35] service ecosystem ready to go as soon as
+- [09:38] that diary of a CEO episode aired and 3
+- [09:41] million people watched it very rapidly a
+- [09:44] significant portion of them started
+- [09:46] downloading the free gifts engaging with
+- [09:48] the product for prospects buying from
+- [09:50] the core offering or subscribing for the
+- [09:52] product for clients and straight away we
+- [09:54] had millions of new revenue that just
+- [09:57] started flowing through our product
+- [09:59] ecosystem. Uh, all told, over the last
+- [10:01] couple of years, we've had probably $5
+- [10:03] million that have just come in directly
+- [10:05] through different podcasts from Diary of
+- [10:07] a CEO.
+- [10:12] Okay, so you've got your hook pitch,
+- [10:14] you've got your product ecosystem, now
+- [10:16] you want to go on Diary of a CEO.
+- [10:18] Unfortunately, you can't go straight to
+- [10:20] Diary of a CEO. It doesn't work that
+- [10:22] way. That is just not how they discover
+- [10:24] people. The team at Diary of a CEO, they
+- [10:26] don't go looking for people who want to
+- [10:27] be on Diary of a CEO. They get hundreds
+- [10:29] of inquiries a day. They go looking for
+- [10:31] people who have been good performers on
+- [10:33] other podcasts. So, I want to introduce
+- [10:35] you to something called the podcast
+- [10:37] pyramid.
+- [10:40] So, what is the podcast pyramid? Well,
+- [10:42] it turns out that there is a big pyramid
+- [10:44] scheme called podcasting. And basically,
+- [10:47] it works like this. There's something
+- [10:48] like 600,000
+- [10:51] podcasts that are out there. And about a
+- [10:53] 100,000 of them have got more than three
+- [10:57] episodes.
+- [10:58] Right? So, call it a 100,000 serious
+- [11:01] podcasts that are active. Now, here's
+- [11:03] how it works. In every category, there
+- [11:05] are thousands and thousands and
+- [11:07] thousands of podcasts that get between
+- [11:11] 100 and a,000
+- [11:14] views per episode. So, they're very
+- [11:17] small podcasts, right? They're the
+- [11:18] bottom of the pyramid. In fact, some of
+- [11:19] them probably only get 10 views right
+- [11:21] now. Believe it or not, I have done
+- [11:23] dozens and dozens and dozens of episodes
+- [11:26] where I've got between 100 and a,000
+- [11:28] views, right? So, going back years and
+- [11:30] years, if you go looking deeply on uh
+- [11:33] YouTube, you'll find me on all sorts of
+- [11:35] little podcasts that have 100 to a,000
+- [11:37] views. So, there's so many of these.
+- [11:40] Next level up, obviously, we've got
+- [11:41] a,000
+- [11:43] to 5,000 views. That's a different
+- [11:45] category of podcast. We've got 5,000
+- [11:50] to 25,000.
+- [11:53] We've got 25,000
+- [11:56] to 100,000.
+- [11:59] Then we've got 100,000 plus. And then
+- [12:02] right at the tippy top here, we've got 1
+- [12:05] million views plus. So there's actually
+- [12:08] only a dozen podcasts that consistently
+- [12:10] get over a million views, like Dire of
+- [12:13] CEO and Joe Rogan, right? So, these this
+- [12:15] is the absolute tippy top of the pyramid
+- [12:17] here. So, here's how it works. When you
+- [12:19] start out, you deliberately want to go
+- [12:21] for the small uh podcasts. You want to
+- [12:23] go for 100 to a,000 typical views or
+- [12:26] maybe even a,000 to 5,000 typical views.
+- [12:28] And you want to just start down here.
+- [12:30] And the reason you want to do this is
+- [12:31] you want to build your skills as a
+- [12:33] podcast guest. You want to make sure
+- [12:35] that you're comfortable with the whole
+- [12:36] podcast setup. You want to have your
+- [12:38] stories. You want to have your jokes.
+- [12:39] You want to have your first 30 secondond
+- [12:41] hook pitch ready to go. uh you want to
+- [12:43] know what are the typical questions that
+- [12:44] people ask and what are your best
+- [12:46] answers to those like in the world of
+- [12:47] sport you start out at the junior levels
+- [12:49] and you work your way up to the more
+- [12:51] senior levels. You don't go to the
+- [12:52] Olympics on your first day. So you want
+- [12:54] to basically test out your skills at
+- [12:56] this junior level. Now, the key is that
+- [12:58] when you go on to one of these podcasts,
+- [13:00] or more importantly, when you go on to
+- [13:01] 10 of these podcasts, you also want to
+- [13:05] get good at promoting these podcasts
+- [13:09] so that they are outperforming their
+- [13:11] typical audience. Now, here's the trick.
+- [13:13] If you go on to the base of the podcast
+- [13:15] here, 100 to,000 views, your job is to
+- [13:18] get a,000 plus views for that podcast.
+- [13:21] Your job is to promote it to your email
+- [13:23] list, potentially even run some ads to
+- [13:25] it to make sure that it it is an
+- [13:27] outperforming podcast. So that whoever's
+- [13:30] down here says, "Oh, that was one of my
+- [13:31] best episodes." Now, when you go up
+- [13:33] here, your job, if you're on one of
+- [13:36] these podcasts, is to make sure your
+- [13:38] podcast episode gets more than 5,000
+- [13:40] views. So that the person who's here,
+- [13:42] who typically gets a,000 to 5,000 views,
+- [13:44] says, "Aha, this person was one of my
+- [13:47] top performing podcasts." So, what
+- [13:49] you're trying to do is promote it to
+- [13:50] your email list. Make sure it's all over
+- [13:52] your socials. Make sure uh that you DM
+- [13:54] some people and ask them to check it out
+- [13:56] and watch it. Make sure that you and
+- [13:58] your team all watch it and and that you
+- [14:00] go through and actually increase the
+- [14:02] watch time for this particular episode.
+- [14:04] So, you're trying to get interested
+- [14:06] viewers to go and see it. The mistake
+- [14:07] that most people make is if they go on
+- [14:09] to somebody else's podcast, they say,
+- [14:11] "Oh, I've done my bit. I answered my
+- [14:13] questions. It's over to you to promote
+- [14:15] that episode." But it's not. it should
+- [14:17] be on you to promote the episode. You're
+- [14:19] trying to create an outperforming
+- [14:21] podcast episode. So now you start
+- [14:22] working your way up. Now you've done 30,
+- [14:24] 40, 50 podcast episodes. You're now in
+- [14:26] the 5 to 25,000 band. Now you're trying
+- [14:29] to make sure that that episode gets more
+- [14:31] than 25,000 and this episode gets more
+- [14:33] than 100,000. So, if you were to do a
+- [14:35] deep dive into me on social media on on
+- [14:39] YouTube, you would see me on more than a
+- [14:41] hundred podcast episodes and you'd see
+- [14:43] all the little ones several years ago,
+- [14:46] climbing slowly up to the bigger ones.
+- [14:48] And then there is a few breakout
+- [14:49] moments. So, couple of my breakout
+- [14:51] moments. I was on a podcast called Chris
+- [14:54] Doe and that was called the future
+- [14:59] and Chris had me on there and he
+- [15:01] typically gets 50,000 to 100,000 and I
+- [15:04] was able to get over 100,000 on Chris's
+- [15:06] podcast. It's actually grown a bit now.
+- [15:08] It's even more than that now. Um, then I
+- [15:11] was on Ali Abdal
+- [15:15] and that was a real breakout moment
+- [15:18] because Ali's podcasts normally get
+- [15:20] hundreds of thousands of views and I got
+- [15:21] a couple of million and he invited me to
+- [15:23] go back onto the show a second time and
+- [15:25] I got a couple of million again. So, I
+- [15:27] was his top performing guest. Now, guess
+- [15:30] how Diary of a CEO noticed me and guess
+- [15:33] how I got onto the show? It turns out
+- [15:35] that the guest booking agent at Diary of
+- [15:38] a CEO, they had been looking at Ali
+- [15:41] Abdal's podcast and they noticed that
+- [15:43] the top one and two position was this
+- [15:46] guest that they had never heard of
+- [15:48] called Daniel Priestley. And they said,
+- [15:49] "Oh my goodness, Alli's most high
+- [15:51] performing guest is Daniel Priestley
+- [15:52] with 2.9 million. His next performing
+- [15:54] guest is Daniel Priestley with 1.9
+- [15:57] million. And all the other guests are
+- [15:59] typically in the early millions or
+- [16:01] highundred thousands. So strangely, this
+- [16:03] person they'd never heard of occupied
+- [16:05] position number one and position number
+- [16:07] two on that other podcast. When they saw
+- [16:09] that, they reached out to me and said,
+- [16:11] "Would you like to be on Dire of CEO?"
+- [16:12] Because they'd seen that I'd been a high
+- [16:14] performing guest on this other podcast.
+- [16:16] So that's how the game works. They're
+- [16:18] not looking necessarily for people who
+- [16:20] have written a book. They're not
+- [16:20] necessarily looking for people who are
+- [16:22] eloquent. They're certainly not looking
+- [16:24] for people who have a strong desire to
+- [16:25] be on the show. That doesn't make you
+- [16:27] special. They're looking for people who
+- [16:28] have performed at lower levels of the
+- [16:30] podcast pyramid. Your job is to not try
+- [16:33] and skip the steps. Your job is to start
+- [16:36] at the base and just climb the ladder.
+- [16:38] Climb the ladder. Climb the ladder. Be a
+- [16:40] little bit patient like a sports star,
+- [16:42] like an athlete. Win this game of
+- [16:44] tennis, now move on to the next game of
+- [16:46] tennis. Win this game of tennis.
+- [16:47] Eventually, you find yourself up at
+- [16:49] center court, Wimbledon, where you're
+- [16:51] playing at the highest level. And it's
+- [16:52] the same with podcasting as well. So the
+- [16:54] three things that you need if you want
+- [16:56] to be successful as a podcast guest is a
+- [16:58] hook for the first 30 seconds to a
+- [17:00] minute to hook the person's attention.
+- [17:02] You need an ascending transaction model,
+- [17:04] a product ecosystem here so that you can
+- [17:07] monetize your podcast experiences. And
+- [17:09] you need the patience to climb the
+- [17:11] podcast pyramid so that you can start at
+- [17:13] the bottom and get all the way to the
+- [17:15] top. So then once I was on Dire of CEO,
+- [17:18] my episode got over 3 million views
+- [17:21] which was an outperforming episode. They
+- [17:22] invited me back again. It got another 3
+- [17:25] million views. And every single time
+- [17:27] I've been on Diary of a CEO since, I've
+- [17:30] always had more than 3 million views.
+- [17:31] So, I'm a top performing guest, which
+- [17:33] means that I keep getting invited back.
+- [17:35] And other than that, I'm pretty easy to
+- [17:36] work with as well. Okay, this is a
+- [17:38] smaller piece of a bigger puzzle. And
+- [17:39] the next thing I want you to know is
+- [17:41] that there is a step-by-step process for
+- [17:43] going from zero to a million of revenue
+- [17:45] predictably. In fact, I created another
+- [17:48] video which is about an hour long and I
+- [17:50] go step by step by step starting out
+- [17:52] with no skills and no investment, ending
+- [17:53] up as a key person of influence with a
+- [17:55] team of 10 people and a seven figure
+- [17:57] revenue. And I break it down into five
+- [17:59] clear steps. It's a big video cuz it
+- [18:01] covers a lot. I would love for you to
+- [18:03] get your notepad, get your pen, and
+- [18:04] watch that video next. If you've enjoyed
+- [18:06] this video, please give it a like, give
+- [18:08] it a subscribe. I hope your business is
+- [18:10] doing well and I look forward to seeing
+- [18:11] you

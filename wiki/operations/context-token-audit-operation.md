@@ -2,7 +2,7 @@
 type: operation
 title: Context Token Audit Operation
 created: '2026-04-29'
-updated: '2026-04-29'
+updated: '2026-05-01'
 tags:
   - workflow
   - docs
@@ -67,6 +67,7 @@ If compression would force a future agent to guess, keep the sentence or move th
 Use this operation when:
 
 - Duc asks to optimize token use, context flow, startup flow, or vault loading.
+- Duc gives a compressed KICKSTART list that could lure the agent into loading repo files, eval evidence, prompt contracts, and architecture notes before the main lane is locked.
 - `context/hot.md`, `duc-os.md`, `duc-os/current.md`, or `briefing.md` starts carrying leaf-level project detail.
 - a new operation or project route makes session start heavier.
 - an agent must scan multiple sibling pages before the next route is obvious.

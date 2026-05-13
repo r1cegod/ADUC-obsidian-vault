@@ -2,7 +2,7 @@
 type: operation
 title: Learn Operation
 created: '2026-04-25'
-updated: '2026-04-25'
+updated: '2026-05-12'
 tags:
   - workflow
   - engineering
@@ -61,6 +61,33 @@ Learn can activate from natural language:
 - "I don't understand this part"
 - "teach me the API shape"
 - "vibe doc ..." still works, but is no longer required
+
+## Mandatory How-To Default
+
+When Duc asks "how do I do X," default to VIBE_DOCING unless Detect finds a SYSTEM_GAP.
+
+```text
+how do I do X
+  -> Detect threshold
+  -> if system seam is visible: give raw lego blocks
+  -> if system seam is missing: ask the one missing seam question
+```
+
+The output should give the mechanism, not the finished Raven answer.
+
+Use this compact shape:
+
+```text
+Operation:
+Pattern:
+Inputs:
+Output:
+Failure modes:
+Where it fits:
+Try this next:
+```
+
+Keep examples neutral unless Duc explicitly asks for audit against existing code or delegates a bounded patch.
 
 ## Learning Modes
 

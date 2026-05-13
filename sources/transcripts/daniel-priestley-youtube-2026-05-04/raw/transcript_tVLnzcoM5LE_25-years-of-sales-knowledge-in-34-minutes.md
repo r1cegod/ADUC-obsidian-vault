@@ -1,0 +1,1153 @@
+---
+type: source
+title: "25 Years of Sales Knowledge in 34 Minutes"
+source: youtube
+channel: "Daniel Priestley"
+channel_id: UCABR204CFV9ZoMz69TyspzA
+video_id: tVLnzcoM5LE
+url: https://www.youtube.com/watch?v=tVLnzcoM5LE
+published_at: "2025-12-08T13:18:13Z"
+duration_seconds: 2042
+fetched_at: 2026-05-04T06:15:03Z
+transcript_status: fetched
+transcript_language: "en"
+ingest_run: daniel-priestley-youtube-2026-05-04
+---
+
+# 25 Years of Sales Knowledge in 34 Minutes
+
+> Raw transcript evidence for vault-level Daniel Priestley YouTube ingest. Do not treat this as compiled knowledge; use source cards and synthesis pages for durable claims.
+
+## Source Metadata
+- url: https://www.youtube.com/watch?v=tVLnzcoM5LE
+- channel: Daniel Priestley
+- published_at: 2025-12-08T13:18:13Z
+- duration_seconds: 2042
+- fetched_at: 2026-05-04T06:15:03Z
+
+## Transcript
+
+- [00:00] Sales is the lifeblood of every
+- [00:02] business. Now, what I'm going to do is
+- [00:03] I'm going to take you through everything
+- [00:04] that I know about creating a great sales
+- [00:07] process as quick as I possibly can.
+- [00:08] We're going to look at what happens
+- [00:09] inside a great sales meeting, and we're
+- [00:11] going to deconstruct it into 10 points.
+- [00:13] I'm going to tell you about my sales
+- [00:14] follow-up process. And I'm also going to
+- [00:17] tell you how to get warm and qualified
+- [00:18] leads into the sales pipeline. We're
+- [00:20] going to string it all together into one
+- [00:22] methodology that I call laps. [music]
+- [00:24] Laps stands for leads, appointments,
+- [00:26] presentations, and sales. And when you
+- [00:28] get a lapse rhythm going in your
+- [00:30] business every single week, you cannot
+- [00:32] help but grow into a much more
+- [00:34] successful business. I've got some
+- [00:35] honest advice at the end as to why
+- [00:37] people trip up in their sales
+- [00:39] presentations. And I'm also going to
+- [00:40] give you some really good tips as to how
+- [00:41] to use AI to ramp this process right up.
+- [00:44] It's so easy on YouTube to just take
+- [00:46] good content for granted. With this
+- [00:48] particular video, I want you to remember
+- [00:50] it's taken me 25 years to share all the
+- [00:52] things I'm about to share with you for
+- [00:53] free. And if you do this, you're going
+- [00:55] to end up bigger and more profitable
+- [00:56] than your wildest dreams. Let's get into
+- [00:58] it. Step one is you have to understand
+- [01:01] something called laps. Laps, laps, laps,
+- [01:04] laps. That is the engine room of your
+- [01:06] business. Laps stands for leads,
+- [01:08] appointments, presentations, and sales.
+- [01:10] It's the flow of opportunity that
+- [01:12] connects attention and interest through
+- [01:14] to money in the bank. So, what we're
+- [01:15] going to do is we're going to really
+- [01:16] break up the lapse framework into leads
+- [01:19] and appointments, which is finding
+- [01:21] opportunities, and presentations and
+- [01:23] sales, which is making money. Now, you
+- [01:24] definitely want to stick around for the
+- [01:25] presentation and sales bit, cuz that's
+- [01:27] where the money hits the bank. Step one,
+- [01:29] let's get you more warm leads. Don't
+- [01:31] skip ahead. I know you want to get to
+- [01:33] the presentation bit. I know you want to
+- [01:35] get to more sales, but let's start by
+- [01:37] expanding your pipeline. How do we get
+- [01:38] more warm leads? We're going to get more
+- [01:40] warm leads with this three-part system
+- [01:42] that has been proven academically and
+- [01:44] practically in the real world. The three
+- [01:46] parts is short form content into long-
+- [01:49] form content into signals of interest.
+- [01:51] Let me just break it down nice and
+- [01:52] simply. In order for people to become a
+- [01:54] lead who's warm and in your pipeline,
+- [01:56] they have to get to notice you and get
+- [01:57] to know you so that they can signal
+- [01:59] interest that they want to work with
+- [02:01] you. How are they going to notice you?
+- [02:02] They're going to notice you through
+- [02:04] short form content on social media. Now,
+- [02:06] the research says that people notice you
+- [02:08] for the first time when they see you for
+- [02:09] the 11th time. So, you've got to produce
+- [02:11] a lot more content so that people have
+- [02:13] the opportunity to see you 11 times.
+- [02:15] Now, the harsh reality is that the clock
+- [02:17] resets every 90 days. So, if they don't
+- [02:19] see you 11 times within 90 days, they
+- [02:22] don't notice that you ever exist. So,
+- [02:23] that means at a bare minimum, you've got
+- [02:26] to be posting every few days on social
+- [02:28] media. My recommendation is that if
+- [02:29] you're not posting every single day on
+- [02:31] social media, you're leaving money on
+- [02:33] the table. For a small business, I
+- [02:35] recommend choosing one platform. And
+- [02:36] then when you're a bigger business, I
+- [02:38] recommend choosing four platforms and
+- [02:39] posting every single day. Now, what are
+- [02:41] you going to post? You're going to post
+- [02:42] anything at all that hooks the attention
+- [02:44] of your perfect customer. So, you're
+- [02:46] going to have an ideal customer in mind.
+- [02:48] You're going to share with them things
+- [02:48] that could be strange, things that
+- [02:50] they've never heard before. You could
+- [02:51] share with them amazing, desirable
+- [02:53] outcomes that they want to get. You
+- [02:54] could share with them free value. Or you
+- [02:56] could talk about familiar topics that
+- [02:58] they already want to know about. These
+- [03:00] are some of the things that will go into
+- [03:01] that short form content. Short form
+- [03:03] content is anything that can be
+- [03:05] experienced by a customer in 1 to three
+- [03:07] minutes. It's posts, its images, it's
+- [03:10] short videos, it's carousels just coming
+- [03:12] out there and it just lands on social
+- [03:14] media every single day and it typically
+- [03:16] has a call to action which is to go to
+- [03:18] your main account and experience some
+- [03:20] long- form content. Now, what is long
+- [03:22] form content? Long- form content is the
+- [03:25] type of content that takes 10 minutes to
+- [03:27] 2 hours to consume. It could be a long
+- [03:29] post. It could be a PDF report. It could
+- [03:31] be a 10-minute video. It could be a
+- [03:33] 1-hour podcast episode. Or it could be a
+- [03:35] 2-hour workshop that you invite people
+- [03:36] to. What we're looking for is just to
+- [03:38] clock up time with people. See, there is
+- [03:40] some research from Professor Robin Dunar
+- [03:42] that says people need to spend 2 to 7
+- [03:44] hours with you in order to feel like
+- [03:46] they know you and trust you. So, one of
+- [03:48] the first things that you want to do is
+- [03:49] get more people consuming long- form
+- [03:52] content. The short form content drives
+- [03:54] people to the long form content. My
+- [03:56] personal experience tells me that you
+- [03:57] should have four pieces of long- form
+- [03:59] content available for people to watch,
+- [04:01] read, or listen to. You don't need that
+- [04:03] on day one. You're going to build up to
+- [04:04] having four pieces of long form content
+- [04:06] across the course of 12 months. And it
+- [04:08] could be podcast episodes that you go
+- [04:10] on. It could be longer videos that
+- [04:12] produce longer reports that you write or
+- [04:14] maybe even a book. Either way, your
+- [04:16] short form content gets people to
+- [04:18] consume some of this long form content.
+- [04:20] All of that is happening on social
+- [04:21] media. Once people have consumed some
+- [04:23] long- form content, you then want to ask
+- [04:25] them to signal their interest. You want
+- [04:26] a signal of interest that says, "I'm
+- [04:28] interested to know more. I want to work
+- [04:30] with you in some way." So, there's a few
+- [04:32] things that work really, really well for
+- [04:33] a signal of interest. You can ask people
+- [04:34] to join a waiting list. You can ask
+- [04:36] people to fill in a form as an
+- [04:38] expression of interest. You can ask
+- [04:39] people to fill in an assessment where
+- [04:41] they take an online assessment to see if
+- [04:42] they're ready to work with you. You can
+- [04:44] get people to join a discussion group or
+- [04:46] one of my favorites is to get people to
+- [04:48] join a live webinar. When they register
+- [04:50] for any of these things, you can count
+- [04:52] that as a strong signal of interest that
+- [04:54] they're interested in what it is that
+- [04:56] you do. Now, the reason that you know
+- [04:57] that this is a signal of interest is
+- [04:59] because all of this short form and long
+- [05:01] form content happens on social media,
+- [05:04] but the signal of interest happens on
+- [05:06] your landing page. In order for people
+- [05:10] to go to the landing page, they have to
+- [05:12] have seen you on social media, clicked a
+- [05:14] link, gone across to a landing page and
+- [05:16] filled in a form, which means they've
+- [05:18] given you a strong signal of interest.
+- [05:20] And when we get those signals of
+- [05:21] interest, we have a special name for
+- [05:22] that. We call that a lead. Now, if you
+- [05:25] want to ramp this up, you can do it in
+- [05:26] two ways. Number one, you can pick your
+- [05:29] highest performing short form content
+- [05:31] and you can boost it with ads.
+- [05:33] Additionally, you can fire off direct
+- [05:35] messages to carefully selected
+- [05:38] individuals who you think would either
+- [05:40] enjoy your long- form content or who you
+- [05:43] think should be filling in a signal of
+- [05:45] interest page. So, you can use direct
+- [05:46] messages as well. And if all of this is
+- [05:48] working well, you can collaborate with
+- [05:50] others who have a similar audience that
+- [05:52] you're trying to target, but they have a
+- [05:53] non-competitive offer. And you can work
+- [05:55] together through joint ventures or
+- [05:57] sponsorships in order to ramp up the
+- [05:59] number of people who know who you are.
+- [06:01] But all of that needs to culminate in
+- [06:03] these signals of interest that we're
+- [06:05] going to call leads. Now, once you've
+- [06:06] got leads, you can move to the next
+- [06:08] step. So, you've generated some leads.
+- [06:10] Now, it's time to book some
+- [06:11] appointments. Now, bear in mind, we
+- [06:12] haven't even gotten into the value where
+- [06:14] the money is going to hit the bank. Stay
+- [06:15] with me. This is meant to be a training
+- [06:17] video. It's not meant to be a short
+- [06:19] piece of content that you consume as
+- [06:21] you're scrolling. This is designed to be
+- [06:23] a gamecher for your sales process. So,
+- [06:25] stay with me. Keep your pen and paper.
+- [06:27] Let's keep learning together. As soon as
+- [06:29] someone fills in a lead page, you want
+- [06:31] to follow up as quick as possible. And
+- [06:32] you have one goal when you're reaching
+- [06:34] out to someone, and that is to book an
+- [06:36] appointment. It's to get a commitment
+- [06:38] that they're willing to spend some time
+- [06:39] with you. You see, the first sale is not
+- [06:41] about the product. It's about getting
+- [06:43] people to commit that they're going to
+- [06:44] explore what you have to offer. It's a
+- [06:46] commitment of time, not a commitment of
+- [06:48] money. So, there are four steps to
+- [06:50] booking an appointment. Step one is to
+- [06:52] reaffirm relevance. You want to let
+- [06:54] people know that they filled in a form,
+- [06:56] that they were interested in in a
+- [06:57] particular topic, and now you're
+- [06:59] following up. So, you're letting them
+- [07:00] know that there is relevance. Step two
+- [07:02] is an optional step if you're using the
+- [07:04] phone to follow up. And that is to ask
+- [07:06] permission. This is where you say, "Have
+- [07:07] I caught you at a good time? I've got 1
+- [07:09] to 2 minutes to follow up based upon the
+- [07:11] fact that you filled in that form. Can I
+- [07:13] be really, really quick and just share
+- [07:15] with you who I am, why I'm calling, and
+- [07:16] see if it's appropriate to set an
+- [07:18] appointment with you." So, that's just
+- [07:19] getting some permission. If you're using
+- [07:21] asynchronous communication like text
+- [07:23] messages or emails, you don't need the
+- [07:25] permission step. Step three is where
+- [07:27] you're going to pitch your value so that
+- [07:29] they know whether they want to commit to
+- [07:30] an appointment. So here's what we're
+- [07:32] going to do with the pitch. The pitch is
+- [07:33] that you're going to use the framework
+- [07:36] name, same, fame, pain, aim, and game.
+- [07:42] And we call this a hook pitch or a
+- [07:43] social pitch. So name is obviously your
+- [07:45] name and your business's name. So who
+- [07:48] are you and where are you calling from?
+- [07:49] Same is what is something similar to
+- [07:52] what they already understand. They
+- [07:53] already know that you can put yourself
+- [07:55] in that category. If I'm talking about
+- [07:56] one of my businesses called book magic,
+- [07:58] I say we are an online piece of software
+- [08:00] that helps people to write a book much
+- [08:02] faster than if they were using Microsoft
+- [08:04] Word. I'm putting myself into a category
+- [08:06] called software and I'm comparing myself
+- [08:08] to something similar that they might
+- [08:10] already know. Fame is what makes you
+- [08:13] special or different. This could be a
+- [08:16] special number that you've achieved. It
+- [08:17] could be a special association or an
+- [08:19] award that you've won, something that
+- [08:21] makes you stand out. So, if I was
+- [08:22] talking about book magic, I might say,
+- [08:24] "We recently won AI startup of the
+- [08:26] year," which is a little bit of fame.
+- [08:27] Now, I might also say something like,
+- [08:29] "We've already worked with 300
+- [08:30] customers." Or you might say, "I've
+- [08:32] worked in this industry for over 10
+- [08:33] years, and I've worked with big brands
+- [08:35] that you've heard of, such as X, Y, and
+- [08:36] Zed." So, pain is where you address the
+- [08:38] pain or frustration that people
+- [08:40] experience before they buy from you. I
+- [08:42] might say if I'm talking about book
+- [08:43] magic over 50% of the population want to
+- [08:45] write a book but less than 2% of the
+- [08:47] population ever achieve that goal. So
+- [08:49] I'm now talking about a pain or a
+- [08:50] frustration. And then aim is what you
+- [08:53] aim to do about that. So you might say
+- [08:55] we're creating a software platform that
+- [08:57] allows 10 times more people who start a
+- [09:00] book to finish the process and hold that
+- [09:02] book in their hands. And then game is
+- [09:04] the bigger vision of what your business
+- [09:05] wants to achieve. Our goal is to
+- [09:07] democratize the book writing process as
+- [09:10] much as Amazon democratized the book
+- [09:12] distribution process. So all of that
+- [09:15] should fit pretty neatly into about 30
+- [09:17] to 45 seconds if you were to say it out
+- [09:19] loud and it should fit into a paragraph
+- [09:21] if you put it in a text or an email. So
+- [09:23] you're giving people all the essential
+- [09:25] information for them to understand what
+- [09:26] you're talking about. Name, same, fame,
+- [09:29] pain, aim, and a game. After you've
+- [09:31] gotten that across, you then want to ask
+- [09:33] if they're willing to commit to having
+- [09:34] an appointment. So, you simply say,
+- [09:36] "What I'd really love to do is set a
+- [09:38] time that we could talk, and here's the
+- [09:39] link to my diary, or if you can suggest
+- [09:42] a few times that work for you, I'll try
+- [09:44] and work around your schedule." Now, if
+- [09:45] someone is interested, they're going to
+- [09:47] definitely try and make a time with you.
+- [09:49] Or if someone has heard all of that
+- [09:51] information about who you are and what
+- [09:53] you do and why you do it, and they're
+- [09:54] not interested, I can promise you it's
+- [09:56] better to just end things right there.
+- [09:58] You're not looking for everybody to set
+- [10:00] an appointment. It's very normal for out
+- [10:02] of every 12 leads for less than half of
+- [10:04] them to set an appointment. Now, before
+- [10:06] we move on, as an advanced step, if you
+- [10:08] start getting lots of leads come through
+- [10:10] your pipeline, you want to introduce a
+- [10:11] step called lead qualification. Lead
+- [10:13] qualification is that when people fill
+- [10:15] in that online signal of interest form,
+- [10:17] you're going to ask a few questions.
+- [10:18] You're going to ask people which best
+- [10:20] describes your current situation, which
+- [10:22] best describes the outcome you're
+- [10:23] looking for, which types of solutions do
+- [10:25] you already have in mind? You might ask
+- [10:27] a few of those qualifying questions. And
+- [10:29] those qualifying questions help you to
+- [10:31] choose who you're going to have an
+- [10:33] appointment with. So in the early days,
+- [10:34] it's often the case that it's worth
+- [10:36] having an appointment with anyone who's
+- [10:38] willing to have an appointment with you
+- [10:39] just to hone your skills. Once you start
+- [10:41] scaling up, you want to qualify your
+- [10:43] appointments so you're not wasting time
+- [10:44] on people who are never going to buy.
+- [10:46] Now, by the way, we've completely solved
+- [10:48] this problem. If you want to set up one
+- [10:49] of these signal of interest landing
+- [10:51] pages, you can do all of that on
+- [10:53] scoreapp. And scoreapp.com has templates
+- [10:55] that allow you to set up those campaigns
+- [10:57] effortlessly. In addition to that, it
+- [10:59] automatically gets you to ask those
+- [11:01] questions, those qualifying questions,
+- [11:02] so that you can segment your list and
+- [11:04] only deal with lots of leads that are
+- [11:06] already qualified. So, if you haven't
+- [11:07] done so already, check out scoreapp.com,
+- [11:09] which is a business that I'm involved
+- [11:11] in, and it allows you to set up your
+- [11:12] lead generation effortlessly. Now, when
+- [11:14] you're reaching out to people, they
+- [11:15] don't really care about the business or
+- [11:17] you personally. They care about getting
+- [11:18] their problem solved. So, it doesn't
+- [11:20] really matter whether you say that
+- [11:21] you're talking about you personally or
+- [11:23] whether you say that you're representing
+- [11:24] a business. What matters most is that
+- [11:26] you're connecting with the problem or
+- [11:28] frustration that they're experiencing.
+- [11:30] This little bit here called the pain. If
+- [11:32] you hone that in so that people can
+- [11:33] relate to that problem, then you're
+- [11:35] going to book the appointment. We've
+- [11:36] talked about leads. We've talked about
+- [11:38] appointment setting. Now, it's time to
+- [11:40] talk about the presentation. Now, the
+- [11:41] presentation is where you make your
+- [11:43] money. This is where people either
+- [11:44] connect with what you have to offer or
+- [11:46] they drop it from here. The difference
+- [11:48] between a fast growth business and a
+- [11:50] business that stalls is often how you
+- [11:52] present it. This presentation is a major
+- [11:55] component to the growth and success of
+- [11:56] your business. I don't care if you've
+- [11:58] already got 500,000 to 5 million of
+- [12:00] revenue or you're just starting out. If
+- [12:01] you improve your presentation, you're
+- [12:03] going to overtake your competition. Now,
+- [12:05] presentations aren't easy. Get ready. I
+- [12:07] want you to have a pen and paper. We are
+- [12:09] going to go through what I normally
+- [12:10] cover in a day. We're going to do it in
+- [12:12] a few minutes. So, I want you to be
+- [12:13] ready to take all of this in. A great
+- [12:15] sales presentation has 10 components.
+- [12:18] And these 10 components, you got to get
+- [12:19] all of these right if you want to make
+- [12:21] consistent sales. Component number one
+- [12:23] is called framing. Framing is your
+- [12:25] ability to show up as high value before
+- [12:27] you've even opened your mouth.
+- [12:29] Everything that people experience prior
+- [12:30] to the sales meeting or at the very
+- [12:32] beginning of the sales meeting is the
+- [12:34] framing of the sales meeting. Now, for
+- [12:36] example, when you go into an Apple store
+- [12:38] and you meet an Apple genius, just the
+- [12:40] fact that they've called them Apple
+- [12:41] geniuses, it gives them a framing that
+- [12:44] is more than a salesperson on a retail
+- [12:45] floor. If I was going to meet you for a
+- [12:47] sales meeting and you said, "I want to
+- [12:49] meet you in a Starbucks coffee shop or I
+- [12:51] want to meet you in the foyer of a
+- [12:53] really beautiful hotel." Just the
+- [12:54] difference in that decision sets a
+- [12:56] completely different frame. Even when
+- [12:58] you meet someone online using Zoom or
+- [13:00] Microsoft Teams or something like that,
+- [13:01] the framing is still important. Have you
+- [13:03] ever met someone on Zoom and you can see
+- [13:05] a messy bedroom behind them? That is
+- [13:07] really bad framing. It just ruins
+- [13:09] professionalism straight away. It would
+- [13:10] have been so much better had they
+- [13:12] created a branded virtual background,
+- [13:14] something that screams professionalism
+- [13:16] as opposed to dirty laundry. Now, that's
+- [13:17] just an extreme example of framing, but
+- [13:20] extrapolate that in any way that you
+- [13:21] want to. So, great sales people, they
+- [13:23] pay attention to how they frame their
+- [13:26] sales meetings. They meet in the right
+- [13:27] place. They communicate in advance. They
+- [13:29] show up powerfully. Everything about
+- [13:31] that whole initial experience
+- [13:33] communicates trust and authority. The
+- [13:34] next thing we want to do is build
+- [13:37] rapport. Rapport is a fancy word for the
+- [13:39] friendly little bits of chitchat that
+- [13:40] you have at the beginning of a sales
+- [13:42] meeting in order to connect. Great
+- [13:44] salespeople are experts at creating
+- [13:46] rapport. They don't have to spend 15,
+- [13:47] 20, or 30 minutes. They can build
+- [13:49] rapport in just a few minutes and then
+- [13:51] get into the sales meeting. A few little
+- [13:53] rules with rapport. Use the person's
+- [13:54] name, find some common interest, smile,
+- [13:57] be polite, be complimentary. If you know
+- [13:59] people in common or you've got things in
+- [14:00] common, you can reference that. All of
+- [14:02] that rapidly builds rapport. Now, once
+- [14:04] you've built rapport, I want you to do
+- [14:06] something where you ask people
+- [14:07] permission in order to go into a sales
+- [14:09] process. So, here's how I like to do it.
+- [14:10] I say something like, "We can either
+- [14:12] have a bit of a chitchat today and get
+- [14:14] to know each other or I've got a bit of
+- [14:15] a process where I can ask you a series
+- [14:17] of questions and then give you some
+- [14:18] recommendations as to what to do next.
+- [14:20] Would you like to have a chitchat or are
+- [14:21] you happy to go through the process?"
+- [14:23] Now, what most people do is they say,
+- [14:25] "I'm more interested in going through
+- [14:26] the process." Either way, I'm going to
+- [14:28] go through the same sort of steps
+- [14:29] whether it's in a relaxed way as a
+- [14:31] chitchat or a more professional way as a
+- [14:33] process. I'm going to hit these same
+- [14:35] bases regardless. So, what are these
+- [14:37] bases? The first thing we have to do is
+- [14:38] find out what is their present
+- [14:40] situation. The present situation is how
+- [14:43] they would describe the current
+- [14:44] situation they're in and what's less
+- [14:46] than perfect about it. So, if I was
+- [14:48] selling something like coaching or
+- [14:50] consulting, I'd ask them all sorts of
+- [14:51] questions about their existing business
+- [14:53] and what they've noticed that hasn't
+- [14:55] lived up to expectations. and we would
+- [14:56] call that their present situation. The
+- [14:58] next thing we want to know is their
+- [15:00] desired outcome, which I like to call
+- [15:02] their prize. People don't buy products
+- [15:04] and services. People buy access to the
+- [15:06] prize or the desired outcome that
+- [15:08] they're looking to achieve. If I told
+- [15:09] you that you could buy a Ferrari, but
+- [15:11] you're never allowed to drive it, and
+- [15:13] you've got to always keep it in storage.
+- [15:15] You wouldn't be excited about Ferrari
+- [15:16] ownership. The only reason you'd be
+- [15:18] excited to have a Ferrari is because it
+- [15:20] fits within a movie that you like to
+- [15:23] play in your mind about what Ferrari
+- [15:24] ownership would be like. You imagine
+- [15:26] yourself with somebody special driving
+- [15:28] across an incredible landscape in the
+- [15:31] Ferrari and the sound is there and the
+- [15:32] sun is out and all of those things are
+- [15:34] there and that's what you imagine
+- [15:36] Ferrari ownership would be like. If I
+- [15:37] told you you were not allowed to drive
+- [15:39] the car and you had to keep it in
+- [15:40] storage, you'd have no interest because
+- [15:42] it doesn't match up to the prize that
+- [15:44] you're imagining. The key to great sales
+- [15:46] is to understand the movie that somebody
+- [15:48] plays in their mind when they think
+- [15:50] about what it would be like to own your
+- [15:52] product or service. when they think
+- [15:53] about what would be on the other side of
+- [15:55] owning your product or service. The next
+- [15:57] thing is to understand the problem. The
+- [15:59] problem is that you've tried to achieve
+- [16:01] this prize in the past, but you keep
+- [16:03] bumping into problems. Or you might ask,
+- [16:05] do you have any criteria that is
+- [16:07] important to you in getting the thing
+- [16:09] that you want to get to? Here we have a
+- [16:10] dynamic and the dynamic is that there is
+- [16:13] a present situation that's less than
+- [16:14] perfect. There's a prize that would be
+- [16:16] much better and there are problems that
+- [16:18] sit in the way that have to be solved in
+- [16:20] order to get to the prize. Now, you as
+- [16:22] the salesperson need to clarify this
+- [16:24] situation. You need to understand these
+- [16:26] three elements before you make any
+- [16:27] recommendations about products or
+- [16:29] services. I want you to think of this as
+- [16:31] almost like having three baskets and
+- [16:33] you've got to fill each basket full to
+- [16:35] the brim. You need to really understand
+- [16:37] the present situation and what that
+- [16:39] looks like and why it's less than
+- [16:40] perfect. You really need to understand
+- [16:42] fully what is the prize and all the
+- [16:44] elements that go around it. And you
+- [16:46] really have to understand all the
+- [16:47] obstacles, criteria, and problems that
+- [16:49] sit in the way. When you've filled up
+- [16:51] those three baskets, you're going to
+- [16:52] feel a sense of confidence that when you
+- [16:54] present what it is you have to offer,
+- [16:56] it's going to be a perfect fit with
+- [16:58] their worldview. Now, in a good sales
+- [16:59] call, there's a balance between speaking
+- [17:01] and listening. Now, in this first
+- [17:03] section of the sales meeting, you're
+- [17:05] doing a lot of asking questions, and
+- [17:07] you're getting them to do a lot of
+- [17:08] speaking. The goal here is for them to
+- [17:10] talk and to share as much as they can
+- [17:12] about their situation, where they are
+- [17:14] now, where they want to be, what's in
+- [17:15] the way. At this point in the sales
+- [17:17] meeting, you're doing a lot of listening
+- [17:18] and not a lot of talking. you're just
+- [17:20] asking questions. But all of that's
+- [17:22] about to change. We're going to change
+- [17:23] gear from listening to speaking. And
+- [17:25] we're going to cover three important
+- [17:27] bases. Base number one is sharing
+- [17:29] insights. Base number two is sharing a
+- [17:32] method. And base number three is sharing
+- [17:34] a solution. Sales people who fail, they
+- [17:37] jump straight to the solution. They go
+- [17:39] straight into the product or the service
+- [17:41] that they want to sell and they skip the
+- [17:43] insights and the methods. Sales people
+- [17:44] who do okay but not brilliantly, they go
+- [17:47] into a method then a solution. And the
+- [17:49] best salespeople in the world, they go
+- [17:51] to insights first, then method, then
+- [17:53] solution. The best salespeople in the
+- [17:55] world are the ones that are prepared
+- [17:57] with special insights that give them
+- [17:59] authority. So what is an insight? An
+- [18:01] insight is a big picture perspective
+- [18:03] that allows people to better understand
+- [18:04] their situation. This is where you share
+- [18:06] something like a framework or you share
+- [18:08] something like research. It has nothing
+- [18:10] to do with your product or service. It
+- [18:12] helps people to understand that you've
+- [18:14] seen their situation before and you know
+- [18:16] their world better than they know their
+- [18:17] world. So for example, when we talk
+- [18:19] about Dent accelerators, we never start
+- [18:22] talking about the accelerator which is
+- [18:23] the solution and we don't talk about the
+- [18:25] five Ps, which is how to become a key
+- [18:27] person of influence. We talk about the
+- [18:29] idea that founderled growth is an
+- [18:30] essential element that gets you from
+- [18:32] half a million to 5 million of revenue.
+- [18:34] We spell it out through something called
+- [18:35] the entrepreneurial journey. And we show
+- [18:37] people that if they understand this
+- [18:39] entrepreneurial journey and they
+- [18:41] understand the concept of founder
+- [18:42] growth, then they're well placed to
+- [18:44] rapidly grow their business where their
+- [18:46] current revenue becomes smaller than
+- [18:47] their future profit. Now that insight
+- [18:49] leads into the question, well then how
+- [18:51] do I achieve founder growth? And the
+- [18:53] method is the five-step framework that
+- [18:55] we have called the five Ps to becoming a
+- [18:58] key person of influence. So the insight
+- [19:00] leads nicely into the methodology. Now,
+- [19:02] let me give you some other examples. If
+- [19:04] I was to talk to an amazing fitness
+- [19:06] trainer, the fitness trainer would not
+- [19:07] start by telling me that I need a
+- [19:09] fitness trainer. They wouldn't start by
+- [19:10] telling me the gym routines that I need
+- [19:12] to be executing on and the diet plans
+- [19:14] that I need. They might start with
+- [19:16] something like the role of hormones in
+- [19:18] weight loss. They might tell me the
+- [19:19] reason that I've struggled in the past
+- [19:21] is not because of the number of times
+- [19:22] I've been working out, but because I
+- [19:24] haven't addressed an underlying hormonal
+- [19:26] issue. and they might tell me that the
+- [19:27] methodology for addressing that involves
+- [19:30] sleep, exercise, diet, and
+- [19:32] supplementation. Now, from there,
+- [19:34] they're well placed to then tell me
+- [19:35] about their solution. And the solution
+- [19:37] would be all of those things packaged
+- [19:38] together. So, we need to go from an
+- [19:40] insight into a methodology, then into a
+- [19:43] solution. We do not pitch the solution
+- [19:45] until we've first addressed the insights
+- [19:47] and the methods first. I promise you,
+- [19:48] this is going to be the major difference
+- [19:50] between low conversions at a low price
+- [19:52] and high conversions at a high price.
+- [19:54] Now, the homework that you're going to
+- [19:55] have to do separate to this video is
+- [19:57] you're going to have to construct what I
+- [19:58] call your golf bag of insights and
+- [20:00] methods. And the golf bag analogy is
+- [20:02] this. If you're a golfer, you've got
+- [20:03] different clubs in the bag, and they're
+- [20:05] suitable for different situations. So,
+- [20:07] you have a putter for when you're on the
+- [20:08] green and a driver for when you're
+- [20:09] teeing off, and you have a sand wedge
+- [20:11] for if you find yourself in the sand
+- [20:13] trap. And it's all about knowing which
+- [20:15] club goes with which situation. So, what
+- [20:17] you need to do is develop five to 10
+- [20:19] insights and methods that you're going
+- [20:21] to use when you encounter different
+- [20:22] situations. So, if someone tells you
+- [20:24] about their prize and they're looking
+- [20:26] for a particular outcome and you've got
+- [20:28] an insight that relates to that prize,
+- [20:30] that's already there. It's in your golf
+- [20:31] bag. You've rehearsed it. You've
+- [20:32] practiced it. If someone says that
+- [20:34] they're struggling with a particular
+- [20:35] problem and you know that a certain
+- [20:37] methodology relates to that problem,
+- [20:39] it's in your insights golf bag. It's
+- [20:41] ready to go. You pull it out at the
+- [20:43] right time. So great salespeople, they
+- [20:45] have this mental golf bag of insights
+- [20:48] and methods that are perfect for when
+- [20:50] they encounter certain situations with
+- [20:52] potential clients. All of those insights
+- [20:54] and all of those methods lead people to
+- [20:56] the conclusion that they want to buy
+- [20:58] your solution. And here's what I
+- [20:59] recommend. I recommend having your
+- [21:00] solution ready to go in something called
+- [21:03] a gold, silver, and bronze version. An
+- [21:06] entry-level package if someone doesn't
+- [21:08] have a lot of money to spend or if they
+- [21:09] want to get started slowly. a mid-level
+- [21:11] package that allows people to spend a
+- [21:13] decent amount of money and get started
+- [21:14] at a moderate pace or a gold version
+- [21:17] which allows people to spend a lot of
+- [21:19] money and get as many results as they
+- [21:21] can possibly get if they want to go
+- [21:22] allin. Now, remember this, the human
+- [21:25] brain is more than 50% dedicated to
+- [21:27] visual processing. And when you present
+- [21:30] a solution, you have to do so with
+- [21:32] visual aids. You've got to have either a
+- [21:34] brochure or a slide deck that explains
+- [21:37] the solution so that people can see it.
+- [21:39] If people can't see it, they're very
+- [21:40] unlikely to buy it. Now, consider this.
+- [21:43] Every single day of the week, people buy
+- [21:44] multi-million dollar properties off the
+- [21:46] plant. They buy those because they've
+- [21:48] seen a brochure and they've seen a small
+- [21:50] scaled down plastic model of what the
+- [21:52] project's going to look like. And
+- [21:53] provided they can see the physical
+- [21:55] brochure and they can see that little
+- [21:57] scaled down model, they're happy to sign
+- [21:59] a contract for millions and millions of
+- [22:01] dollars just on those two visual aids.
+- [22:03] All the time, big companies will buy
+- [22:05] smaller companies off the back of a
+- [22:06] slide deck. And provided the executives
+- [22:08] can see a slide deck or they can see a
+- [22:10] physical brochure for that business,
+- [22:12] they're much more likely to go ahead and
+- [22:14] commit. I see all the time business
+- [22:16] owners who present their solution,
+- [22:17] they're talking about it. They're
+- [22:19] passionate, they're enthusiastic, but
+- [22:20] they do not give people a visual aid and
+- [22:22] they do not get anywhere near the number
+- [22:24] of sales that they should simply because
+- [22:26] they can't present their offer visually.
+- [22:28] So far, you've built some rapport,
+- [22:29] you've found out a bit of information
+- [22:31] about their situation, you've shared
+- [22:33] with them some insights, some methods,
+- [22:34] and finally, you've presented the
+- [22:35] solution. That leads us to the
+- [22:38] discussion where you invite discussion
+- [22:40] with the person about how they perceive
+- [22:42] the solution. So you might say something
+- [22:43] as simple as, "How does that land for
+- [22:45] you?" or "Does that feel like it meets
+- [22:47] your needs?" Or, "Does that feel like
+- [22:48] it's a good fit for what you're looking
+- [22:50] for?" This is where you shut up and let
+- [22:51] them think. Sometimes people think for
+- [22:53] as long as 15 or 20 seconds before they
+- [22:55] answer that question because they're
+- [22:57] thinking about it. They're taking it all
+- [22:59] in and then they're getting ready for
+- [23:00] what they want to say next, which is
+- [23:02] going to start the discussion. And the
+- [23:03] discussion is about whether it meets
+- [23:05] their needs and whether it's at the
+- [23:07] right price. So this is where you're
+- [23:08] going to discuss all of the elements.
+- [23:10] You might discuss whether they related
+- [23:11] to the insight, whether they connected
+- [23:13] with the method, whether they think the
+- [23:15] solution is the right solution, whether
+- [23:17] they want bronze, silver, or gold, and
+- [23:18] how much they're prepared to spend. All
+- [23:20] of this becomes the discussion as to
+- [23:22] whether the solution is a good fit. Now,
+- [23:24] my biggest tip for the discussion is to
+- [23:27] never enter into what I call a
+- [23:29] conversational tennis match.
+- [23:30] Conversational tennis is where you get
+- [23:32] into question answer question answer.
+- [23:35] They say what about this and you say
+- [23:37] well here's my answer to that and they
+- [23:38] say what about that and you go backhand
+- [23:40] here's my answer to that. Instead of
+- [23:42] getting into conversational tennis I
+- [23:43] want you to act like one of those ball
+- [23:45] boys on the tennis and the ball boy just
+- [23:47] catches the ball right and then holds on
+- [23:49] to it and they wait until they're asked
+- [23:51] for it. What does that look like in
+- [23:52] conversation? They might say something
+- [23:54] like I'm not quite sure if it's the
+- [23:56] right price. And you say okay so price
+- [23:58] is important. Is there anything else
+- [23:59] that you're thinking about? And you're
+- [24:00] just holding on to the price objection.
+- [24:02] And they say, "Well, I'm not sure about
+- [24:04] the timing." You say, "Okay, it's
+- [24:06] important to get the timing right. Let
+- [24:07] me just document that as well. Let me
+- [24:09] write that down." You might have a
+- [24:10] notepad. You might just write down price
+- [24:11] and timing. They might say, "I'm not
+- [24:13] sure about the color. I'm not sure if I
+- [24:14] want blue or red or purple." Okay,
+- [24:16] interesting. So, I'll just write down
+- [24:18] here. It's got to be either blue, red,
+- [24:19] or purple, but that still has to be
+- [24:20] decided. Is there anything else? And
+- [24:22] they say, "No, that's it. That's all of
+- [24:24] the things." And then once they've said
+- [24:26] that's all of the things, that is where
+- [24:28] you begin to respond to the things that
+- [24:30] they've said. You don't get into this
+- [24:31] back and forth and back and forth and
+- [24:32] back and forth because that feels
+- [24:34] exhausting in a conversation. You group
+- [24:35] it all together and you answer it all as
+- [24:38] one big thing. Now, the final step is
+- [24:40] called completing. If it turns out that
+- [24:42] someone is ready to buy on the spot, you
+- [24:44] complete the sale. You literally fill in
+- [24:45] all the paperwork. You begin the process
+- [24:47] of onboarding them as a customer. You
+- [24:49] fire off the emails that you need to
+- [24:50] fire off. You update your CRM. You do
+- [24:52] whatever it is that you need to do to
+- [24:53] complete the sale. But it's often the
+- [24:55] case that someone says, "Okay, I'm
+- [24:56] really sure that this is for me, but I
+- [24:58] need to get sign off from my board." Or
+- [25:00] they might say, "I really love the
+- [25:01] solution in principle, but I just need
+- [25:02] 48 hours to see with a few of my team
+- [25:05] members if we can actually on board this
+- [25:07] in the real world." Or they might say,
+- [25:08] "I like the solution, but I'm not ready
+- [25:10] to get started. Would it be okay if you
+- [25:12] follow up with me in a month?" Whatever
+- [25:13] happens next, you're going to have some
+- [25:15] completion activities. You're going to
+- [25:16] schedule some things. You're going to
+- [25:17] update a CRM. You're going to do all the
+- [25:20] things that allow you to either complete
+- [25:21] the sale and on board the customer or to
+- [25:23] follow up when you agreed that you said
+- [25:25] you would. If someone does want to
+- [25:26] follow up, I would really recommend
+- [25:28] getting the follow-up into the diary as
+- [25:30] soon as possible. So, if someone says,
+- [25:32] "I need to follow up in 48 hours," make
+- [25:34] an appointment said go back to the
+- [25:36] appointment setting phase and make
+- [25:37] another appointment. If someone says,
+- [25:38] "Let's talk again next month," see if
+- [25:40] you can get them to open their phone,
+- [25:42] look at their calendar, and just commit
+- [25:43] to another time. So you can get that in
+- [25:44] the diary straight away so that you've
+- [25:46] completed by having a concrete plan
+- [25:49] going forward as to what happens next.
+- [25:51] Now I've just given you so much here.
+- [25:52] This is 10 steps. Each one of these
+- [25:54] steps we could spend half an hour to an
+- [25:56] hour perfecting. But I wanted to give
+- [25:57] you the framework for making a great
+- [25:59] sale so that you at least know what it
+- [26:01] is that you're going to be working on.
+- [26:02] And I really want you to do some
+- [26:03] homework around this. See if you can
+- [26:05] figure out where are you strong, where
+- [26:07] are you weak already, and see if you can
+- [26:09] then work on your weaknesses so your
+- [26:11] overall sales presentation gets better.
+- [26:13] Okay, we're on the home stretch here.
+- [26:14] You've generated some leads. We've
+- [26:16] booked some appointments. We've had a
+- [26:17] great sales presentation. Now, it's time
+- [26:19] to make sure that you're maximizing your
+- [26:21] sales opportunities. This is where the
+- [26:23] money hits the bank. For most
+- [26:24] businesses, between the presentation and
+- [26:26] the sales follow-up, you can double the
+- [26:28] business. Now, I don't say that lightly.
+- [26:30] I've done this across multiple
+- [26:31] businesses in multiple different
+- [26:32] industries. And I'm just really telling
+- [26:34] you, I promise you, if I came into your
+- [26:36] business, if you paid me a fortune to
+- [26:38] come and consult with you, I would be
+- [26:40] looking at the sales presentation and
+- [26:42] the sales follow-up as one of the
+- [26:44] primary ways to double the business and
+- [26:46] massively, exponentially improve your
+- [26:48] profit margins. How do we think about
+- [26:49] sales follow-up? You've had a
+- [26:51] presentation, and this is one of the
+- [26:52] peak moments where it's likely that
+- [26:55] someone is ready to go ahead and ready
+- [26:57] to sign up. In the first 48 hours after
+- [26:59] a sales presentation, that is a peak
+- [27:00] moment where someone is going to commit
+- [27:02] and sign up and begin onboarding as a
+- [27:04] client. And then it starts dropping off
+- [27:06] from there. Let's imagine that you've
+- [27:08] got anywhere between a week and 3 months
+- [27:11] to be able to do some sales follow-up
+- [27:12] where you're still relevant and you're
+- [27:14] still checking in and you're still
+- [27:15] dealing with a hot prospect for that
+- [27:17] amount of time. The research says that
+- [27:19] you want to follow up at least seven
+- [27:21] times. What's crazy is that most sales
+- [27:23] people spend all of their time talking
+- [27:24] to new people and they very rarely do
+- [27:26] the sales follow-up because sales
+- [27:28] follow-up is a little bit icky. It's a
+- [27:30] little bit exhausting. It feels
+- [27:31] frustrating. You've got to be creative
+- [27:33] as to why you're getting back in touch
+- [27:35] with someone. But you want to plan this
+- [27:36] out. You want to have some reasons to
+- [27:38] get back in touch. You want to tell
+- [27:39] people that there's some sort of a
+- [27:41] special offer that's coming up. You want
+- [27:42] to tell people that there's another
+- [27:43] insight that you want to share. You want
+- [27:44] to tell people that you've just recorded
+- [27:46] a new customer testimonial video and you
+- [27:49] wanted them to see it. or you wanted to
+- [27:51] follow up on anything that was
+- [27:52] discussed. So someone might say, "I'm
+- [27:54] really interested in this, but after I
+- [27:55] get back from my annual holiday." Great.
+- [27:58] That's a time to follow up. Someone
+- [27:59] might have said, "I'm really interested
+- [28:00] in this, but I need to check with my
+- [28:02] director." Okay, fantastic. That's
+- [28:04] another reason to follow up. So during
+- [28:05] the presentation, there were reasons
+- [28:07] that came up as good reasons to follow
+- [28:09] up. And you documented those on your
+- [28:11] notepad and you put them into your CRM.
+- [28:13] There's also things that you can
+- [28:14] orchestrate like new customer success
+- [28:16] testimonials, new data or research
+- [28:18] that's just come out. any of that stuff
+- [28:20] creates a great opportunity to follow up
+- [28:22] in that first window of maybe a few
+- [28:24] weeks to a few months. But let's be
+- [28:26] honest, there comes a point where
+- [28:27] there's no point following up anymore.
+- [28:29] You've followed up six or seven times.
+- [28:31] You've done everything the research says
+- [28:33] that you should have done and you've not
+- [28:34] yet made the sale. In which case, we
+- [28:36] want to move across to what we call the
+- [28:38] nurture sequence. The nurture sequence
+- [28:39] is about having a series of friendly
+- [28:41] touch points like social media touch
+- [28:43] points or emails. and they're there to
+- [28:45] just remind people that you exist,
+- [28:47] remind them that you've got great value,
+- [28:48] that you can solve problems, and maybe
+- [28:50] even remind people that they've got a
+- [28:52] frustration or a challenge that they
+- [28:53] themselves want to solve. What you want
+- [28:55] to do is put some thought into this
+- [28:56] nurture sequence. Now, what you want to
+- [28:58] include in this nurture sequence could
+- [28:59] be things like testimonial videos. It
+- [29:01] could be things like new insights. It
+- [29:04] could be things like special offers. It
+- [29:06] could be commentary on the news. Or you
+- [29:08] might even just touch base to say, "Are
+- [29:11] you still interested in getting this
+- [29:12] particular outcome?" or it could be
+- [29:14] things like sharing new research or new
+- [29:16] data that's just come out. So that's all
+- [29:18] things that could be covered in a
+- [29:20] nurture sequence. Now finally, there
+- [29:21] comes a time to do something called a
+- [29:23] reactivation campaign. A reactivation
+- [29:26] campaign is where you step it up a
+- [29:27] little bit. So what you can do is do a
+- [29:29] very special little email called have
+- [29:31] you given up on X? Have you given up on
+- [29:33] weight loss? Have you given up on
+- [29:34] business growth? Have you given up on
+- [29:36] protecting your business from cyber
+- [29:38] security threats? Have you given up on
+- [29:40] having a romantic relationship? So, this
+- [29:42] really directly asks people, "Have you
+- [29:44] given up on this thing?" And what you're
+- [29:46] going to say in this is you're going to
+- [29:47] say, "We haven't heard from you for a
+- [29:49] while, and we wanted to know, is this
+- [29:50] still important to you? Have you already
+- [29:52] solved the problem? Have you given up on
+- [29:53] it? Because if you have given up on it,
+- [29:55] we'd love to stop bothering you and stop
+- [29:57] sending you emails, so we'd love to take
+- [29:58] you off the email list. However, if
+- [30:00] you're still interested in this, could
+- [30:02] you let us know that it's still of
+- [30:04] interest to you?" So, you're asking for
+- [30:05] a soft signal of interest that it's
+- [30:07] still of interest to you. Now, if it is
+- [30:08] still of interest, you want to then send
+- [30:10] them an assessment or a calculator. An
+- [30:12] assessment is something that you can
+- [30:14] easily and simply build on scoreapp.com.
+- [30:16] And a calculator could be something as
+- [30:18] simple as an Excel spreadsheet that they
+- [30:20] download. Either way, you're asking them
+- [30:22] to re-engage and to commit that they
+- [30:24] haven't yet given up on getting some
+- [30:26] results here. Now, if they do that, they
+- [30:28] go back to the start. They become a lead
+- [30:29] in the pipeline, and you begin the lapse
+- [30:31] process all over again.
+- [30:35] Okay. Now, I waited until the end to
+- [30:37] share with you some of these amazing
+- [30:38] tips that will take this right through
+- [30:40] the roof for you. Number one, record all
+- [30:42] of your sales presentations using an AI
+- [30:44] noteaker. Have them transcribed and put
+- [30:47] all of it into chat GBT. And what you
+- [30:50] want to do is prompt AI to help you to
+- [30:52] build an even better golf bag of
+- [30:54] insights, methods, and to improve your
+- [30:56] offer, to improve your solution. And you
+- [30:58] can use AI to do all of that once you've
+- [31:00] got a few transcribed meetings. The next
+- [31:02] thing you can do is ask AI to tell me
+- [31:05] the common themes between the sales
+- [31:07] presentations that went really well and
+- [31:09] the sales presentations that bombed. The
+- [31:11] next big tip that I've got is that sales
+- [31:13] and money loves speed. The faster that
+- [31:15] you can follow up with people, the more
+- [31:17] likely you are to make money. What I
+- [31:18] don't want you to do is play it cool. I
+- [31:20] don't want a lead to come in on Monday
+- [31:22] and you think to yourself, "Wouldn't it
+- [31:23] be cool? Wouldn't I be mysterious if I
+- [31:25] followed up next week or if I followed
+- [31:27] up on Friday afternoon?" No, no, no. If
+- [31:29] a lead comes in at Monday at 10:00 a.m.
+- [31:32] I want you to follow up at 10:01. I want
+- [31:34] you to say something like, "I was just
+- [31:35] about to call someone and your name
+- [31:37] popped up on my screen and I thought I'd
+- [31:39] just pick up the phone and call you."
+- [31:40] Or, "I was just about to head out and
+- [31:42] meet with a client and an email came in
+- [31:44] that told me that you're interested in
+- [31:45] X, Y, and Zed, so I thought I'd follow
+- [31:47] up straight away so that you've got that
+- [31:49] information right away." The faster you
+- [31:51] follow up, the more sales you're going
+- [31:53] to make. This is not dating. You don't
+- [31:54] have to be cool. You don't have to be
+- [31:55] aloof. you're far better off being rapid
+- [31:57] in the speed that you follow up with
+- [31:59] people. Now, my final tip is that in
+- [32:01] sales, confidence really matters. And
+- [32:03] the way that you get confidence is
+- [32:05] through repetition. It's getting into a
+- [32:07] rhythm. It's getting into consistency.
+- [32:09] It's doing sales meetings every single
+- [32:10] week. The last thing you want is to stop
+- [32:12] and start and stop and start multiple
+- [32:14] times each quarter. You want to get into
+- [32:16] a lapse rhythm. I really want you to
+- [32:18] keep a dashboard. And what you're
+- [32:19] looking for is a consistent weekly lapse
+- [32:22] number. I want you to have like 50 1062
+- [32:26] or something like that. And it just
+- [32:27] unfolds every single week. 50 leads come
+- [32:29] in, 10 people book appointments, six
+- [32:31] people have presentations, and two
+- [32:32] people go ahead and buy for something.
+- [32:34] And what you're looking for is that your
+- [32:36] laps dashboard looks pretty consistent.
+- [32:38] For my companies, what my lapse
+- [32:39] dashboard looks like is like a gentle
+- [32:42] gradual increase over time. We don't
+- [32:44] have like big spikes and drops and all
+- [32:46] of that sort of stuff. We're looking for
+- [32:48] consistency because you can build your
+- [32:50] business around consistency. It's very,
+- [32:52] very hard to employ people and to scale
+- [32:55] and to grow and to have predictable
+- [32:57] revenues if you're all over the place.
+- [32:59] Confidence comes from getting into a
+- [33:01] really good lapse rhythm. Just like
+- [33:02] fitness, it's all about like going to
+- [33:04] the gym every Monday, Wednesday,
+- [33:05] Thursday, whatever your routine is,
+- [33:07] getting into the routine is half the
+- [33:09] battle. So whether it's you personally
+- [33:10] doing the laps or if you're getting a
+- [33:12] salesperson and you're hiring someone to
+- [33:14] do the laps, we're looking for
+- [33:16] consistency that gives you the
+- [33:17] confidence. So there you have it. We've
+- [33:19] just covered my sales methodology and I
+- [33:20] hope you've taken so much value from
+- [33:22] that. If you've stuck around to the end,
+- [33:24] I know that you are not someone who just
+- [33:25] goes scrolling randomly through YouTube.
+- [33:27] I know that you're the type of person
+- [33:29] who's really looking for breakthroughs.
+- [33:31] So, if you got value from this video and
+- [33:32] you enjoyed it, you are absolutely going
+- [33:34] to love the next video that I want you
+- [33:36] to watch, which is the million-doll
+- [33:37] landing page. I am really thrilled that
+- [33:40] we are sharing your entrepreneurial
+- [33:41] journey together. I'm glad that I can
+- [33:43] share some of my lessons from my
+- [33:45] entrepreneurial journey and you can take
+- [33:46] those lessons and apply it in your
+- [33:48] business as well. If you're enjoying
+- [33:50] these, please give this video a like,
+- [33:52] give it a comment, and if you know of
+- [33:53] another entrepreneur that would benefit
+- [33:55] from these, forward the link to this
+- [33:56] video to them as well. I hope your
+- [33:58] business is doing so, so well and I look
+- [34:00] forward to seeing you next

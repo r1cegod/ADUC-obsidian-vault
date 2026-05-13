@@ -1,0 +1,642 @@
+---
+type: source
+title: "Business Advice You Must Know at Every Level"
+source: youtube
+channel: "Daniel Priestley"
+channel_id: UCABR204CFV9ZoMz69TyspzA
+video_id: amVhKK9kp4Q
+url: https://www.youtube.com/watch?v=amVhKK9kp4Q
+published_at: "2026-02-17T15:15:26Z"
+duration_seconds: 1093
+fetched_at: 2026-05-04T06:15:03Z
+transcript_status: fetched
+transcript_language: "en"
+ingest_run: daniel-priestley-youtube-2026-05-04
+---
+
+# Business Advice You Must Know at Every Level
+
+> Raw transcript evidence for vault-level Daniel Priestley YouTube ingest. Do not treat this as compiled knowledge; use source cards and synthesis pages for durable claims.
+
+## Source Metadata
+- url: https://www.youtube.com/watch?v=amVhKK9kp4Q
+- channel: Daniel Priestley
+- published_at: 2026-02-17T15:15:26Z
+- duration_seconds: 1093
+- fetched_at: 2026-05-04T06:15:03Z
+
+## Transcript
+
+- [00:00] For more than 25 years, I've been
+- [00:01] building businesses from scratch. I've
+- [00:03] had seven startups that went from zero
+- [00:04] to a million in revenue in under 12
+- [00:06] months. On top of that, in the last 15
+- [00:08] years, I've worked with 5,000 companies
+- [00:10] that are somewhere between the ideas
+- [00:12] phase to exiting for a life-changing
+- [00:14] amount of money and everywhere in
+- [00:16] between. And what I've discovered is
+- [00:17] that there are seven levels. And the
+- [00:19] more you understand the seven levels
+- [00:20] that you're going to go through in your
+- [00:22] business, the more you can plan,
+- [00:23] prepare, learn the skills that you need,
+- [00:25] and start advancing more quickly. It's a
+- [00:27] little bit like professional sport. We
+- [00:29] all start out at the beginner levels and
+- [00:30] then we go and graduate and graduate and
+- [00:32] graduate and then we find ourselves
+- [00:34] playing at a more professional level.
+- [00:35] Entrepreneurship is just the same. And I
+- [00:37] want to share with you some experiences
+- [00:38] from each of these levels. So level one
+- [00:40] revenue-wise is typically 0 to $10,000.
+- [00:43] Now this is what I would call the side
+- [00:44] hustle level. For me, my side hustles
+- [00:46] were nightclub parties. When I was 18,
+- [00:48] 19 years old, I started running these
+- [00:50] nightclub parties at the local
+- [00:51] nightclub. I got them sponsored by
+- [00:53] McDonald's and the local council and the
+- [00:54] local radio station. And each night that
+- [00:56] I ran one of these, I made a few
+- [00:58] thousand dollars. It was an incredible
+- [01:00] way to get an experience as an
+- [01:01] entrepreneur and to feel what it feels
+- [01:03] like to bring an idea into reality. One
+- [01:05] of my other side hustles when I was 18
+- [01:07] years old, I bought a hundred roses for
+- [01:09] $40 and then I wrapped them individually
+- [01:12] in a tissue paper and I took them door
+- [01:14] todoor dressed in a tuxedo and I sold
+- [01:16] them for $400. So in one day I turned
+- [01:18] $40 into $400. It happened to be
+- [01:21] Valentine's Day, but it was a great fun
+- [01:23] way to make a few hundred dollars just
+- [01:25] by going around the local neighborhood.
+- [01:26] Side hustles are not about money or big
+- [01:29] scale success. Side hustles are about
+- [01:31] stories and confidence. You're getting
+- [01:32] the confidence to say that you are a
+- [01:34] doer, not just a thinker or a dreamer.
+- [01:36] You're getting the experience that you
+- [01:38] need to go to the next level. What I
+- [01:39] want you to do is spot a problem, any
+- [01:41] problem, think about how you would solve
+- [01:43] it, and see if you can approach someone
+- [01:45] and get paid to solve it. It's that
+- [01:47] simple. It could be that you spot a
+- [01:49] dirty car on the driveway that needs
+- [01:50] washing. Make some money doing it. It
+- [01:52] could be that you spot a friend who
+- [01:54] wants to sell some stuff but doesn't
+- [01:55] have time to mess around on Facebook
+- [01:57] Marketplace. Take it over for them. Side
+- [01:59] hustles are not about like what you're
+- [02:01] going to do in the future. Side hustles
+- [02:03] are just spot a problem, come up with a
+- [02:05] solution, and get paid for it. That's
+- [02:06] all you need to do. The next level up is
+- [02:08] a trap. It's the $10,000 to $100,000
+- [02:10] mark. This is the zone of the self
+- [02:13] employed solo operator. Now, me
+- [02:15] personally, I've not spent much time in
+- [02:17] this zone at all because ultimately the
+- [02:20] more time you spend here, the more
+- [02:21] you're going to get stuck. Essentially,
+- [02:23] what you're doing is selling time for
+- [02:24] money. You've got a skill set and people
+- [02:26] are paying you for it. It's a bit like
+- [02:28] having a job, but rather than having one
+- [02:29] boss and one employer, you've probably
+- [02:30] got three to six bosses or employers. If
+- [02:33] someone was to observe you, it's almost
+- [02:35] indistinguishable from being an
+- [02:37] employee. And it's such a trap. As fast
+- [02:38] as possible, we need to get into this
+- [02:40] next zone, which is the 100 to 500,000.
+- [02:43] Now, a lot of you will think, well,
+- [02:44] what's the skill here, right? Signing up
+- [02:46] retainers, getting people to do this. I
+- [02:47] don't want you to have those skills
+- [02:48] because the more you have those skills,
+- [02:50] the more you'll get caught in that trap.
+- [02:51] Had I finished university, had I got
+- [02:54] some really great skills, I would have
+- [02:56] got stuck in the 10 to 100 grand for
+- [02:58] several years as well. It's actually
+- [02:59] because I don't have any technical
+- [03:01] skills that my businesses have grown so
+- [03:03] fast because when I want to get anything
+- [03:04] done, I have to delegate it. I have to
+- [03:06] get somebody else to do it. Now, once
+- [03:08] you go to the next level up, 100,000 to
+- [03:10] 500,000, now you're in the space of
+- [03:12] being able to delegate. And there's one
+- [03:13] thing in particular that you're going to
+- [03:15] get good at delegating, and that's
+- [03:16] called the supply side of what you do.
+- [03:18] See, here's the thing. Every business
+- [03:19] has what's called a demand side and a
+- [03:21] supply side. The demand side is how you
+- [03:23] win customers. It's how you generate
+- [03:24] leads and make sales. The demand side is
+- [03:26] how you get people excited to work with
+- [03:27] you, how you differentiate yourself, how
+- [03:29] you position yourself in the
+- [03:30] marketplace. That's all about winning
+- [03:31] business. The supply side is how you
+- [03:33] delight customers. It's how you deliver
+- [03:35] upon your promises. It's how you do what
+- [03:37] you said you were going to do. Now, the
+- [03:38] entrepreneurs who succeed the most are
+- [03:40] the ones who are very focused on the
+- [03:41] demand side of the business and rarely
+- [03:43] the ones who are very focused on the
+- [03:45] supply side with some notable
+- [03:46] exceptions. I want you to write this
+- [03:48] sentence down and the sentence is my
+- [03:50] business exists not because I have
+- [03:52] something to sell. My business exists
+- [03:55] because I have somebody who wants to
+- [03:56] buy. Your job as an entrepreneur is to
+- [03:58] position you and your business as the
+- [04:00] gateway to a high value outcome. the
+- [04:01] more you can be selling that outcome and
+- [04:03] delegating how that outcome happens, the
+- [04:06] better. So once you're in the business
+- [04:08] of relationship management and sales
+- [04:10] management, now you're probably going to
+- [04:11] be in the 100 to 500,000 role. This is
+- [04:14] where you are essentially a sales and
+- [04:15] marketing expert with a team of people
+- [04:17] who can help with the delivery. You are
+- [04:19] focused very heavily on lead generation
+- [04:22] and sales and you've got some people and
+- [04:24] systems that you can delegate to. But
+- [04:25] the problem that you're going to have at
+- [04:27] 100 to 500,000 is that you're just not
+- [04:29] seen as special. At 100 to 500,000,
+- [04:31] you're going to be seen as commoditized.
+- [04:33] You're going to be competing on price
+- [04:34] and people are going to be buying from
+- [04:36] you because you're cheaper than others.
+- [04:38] You're going to be flying under the
+- [04:39] radar as a small business and you're
+- [04:41] going to be saying, "Hey, we can deliver
+- [04:42] that at a fraction of the price." And
+- [04:44] that is great for winning initial
+- [04:45] business, but it's not great longterm if
+- [04:47] you want to scale up beyond this phase.
+- [04:49] So the biggest trap at this particular
+- [04:51] point is the trap of being too focused
+- [04:53] on the product and service and the
+- [04:55] physical place of doing business. So
+- [04:58] when you get stuck as we do these
+- [05:00] services in these locations that means
+- [05:02] you'll get stuck very quickly. You'll
+- [05:04] tap out the maximum size of your market
+- [05:06] pretty quickly. It also means that
+- [05:07] you're in a red ocean. You're going to
+- [05:09] be competing with all sorts of people
+- [05:10] who sell the same sorts of things in the
+- [05:12] same locations. And you'll also be
+- [05:13] competing with those Silicon Valley
+- [05:15] entrepreneurs who have a global business
+- [05:16] model who they can sell to your
+- [05:18] customers, but you can't sell into their
+- [05:20] markets. At the next level up, we
+- [05:21] redefine the business. We're no longer
+- [05:23] products and services in a particular
+- [05:24] place. We redefine as intellectual
+- [05:26] property for an ideal customer persona.
+- [05:28] It's the IP meets the ICP that really
+- [05:31] changes the business. Now, the IP is
+- [05:33] your methods, your case studies, your
+- [05:35] stories, your insights into your market,
+- [05:37] your data. It's all of the things that
+- [05:39] is unique understandings that your
+- [05:41] business or you have. And your ICP is
+- [05:43] your ideal customer persona. It's the
+- [05:45] person who sees value in what you do. So
+- [05:47] imagine this. Imagine you had a business
+- [05:49] coach who said, "I offer business
+- [05:50] coaching." And they define themselves as
+- [05:52] operating in New York City. And they
+- [05:54] say, "I'm a business coach in New York."
+- [05:55] Imagine how much money extra they would
+- [05:57] make if they said, "I'm an expert in
+- [05:59] scaling a software business from 5 to 50
+- [06:01] million, and I can work with any
+- [06:03] software business in the world, provided
+- [06:04] they've already achieved 5 million, but
+- [06:06] they're not yet at 50 million." Now that
+- [06:08] is going to open them up to a huge
+- [06:10] number of customers anywhere in the
+- [06:12] world who want access to that
+- [06:13] intellectual property. They want to know
+- [06:14] how to do it. They want to have someone
+- [06:16] who comes in and supports them by
+- [06:17] redefining their business not by what
+- [06:20] they do and where they do it but what
+- [06:21] they know and who they do that for and
+- [06:23] who sees value for that. They've already
+- [06:25] made that first shift. Now the third
+- [06:26] thing that really really moves at the
+- [06:28] needle, a key person of influence. See
+- [06:30] at 100 to 500,000 you're essentially a
+- [06:32] sales and marketing person. You are one
+- [06:33] of the boots on the ground. But when you
+- [06:35] get to 500,000 to a million, this is
+- [06:37] where you can really establish your
+- [06:39] personal brand. Or you can have what's
+- [06:41] called an associate key person of
+- [06:42] influence where you bring someone in to
+- [06:45] play the role of being the key person of
+- [06:46] influence. It could be a partner, it
+- [06:48] could be a speaker, it could be a
+- [06:49] mentor, a board member or a board
+- [06:51] adviser. And this person has a lot more
+- [06:53] credibility that really embodies this
+- [06:55] intellectual property for this ideal
+- [06:57] customer persona. At this level, this is
+- [06:59] where you're starting to show up more on
+- [07:01] social media. This is where you might
+- [07:02] have a great website and you may even
+- [07:04] release a book that demonstrates that
+- [07:06] you've got this intellectual property
+- [07:07] for this type of person. Laying those
+- [07:09] foundations is going to get you past
+- [07:11] that first seven figures worth of
+- [07:12] revenue. Now, for me personally, this is
+- [07:13] where I used to jump straight in in my
+- [07:15] 20s and my 30s. I would hire a bigname
+- [07:17] person to become the figurehead of the
+- [07:19] business. They would always have written
+- [07:21] a book. They'd be great on stage as a
+- [07:22] public speaker. They had intellectual
+- [07:24] property and they had an ideal customer
+- [07:25] persona who loved what they were doing.
+- [07:27] And what my business was doing is
+- [07:28] partnering with that person to
+- [07:30] commercialize them in new markets. And
+- [07:32] it was so easy to make a million of
+- [07:33] revenue very very rapidly because of
+- [07:35] their brand, their IP and their
+- [07:37] connection with the market. We could
+- [07:39] just launch them into new markets and
+- [07:41] make lots and lots of money. I was
+- [07:42] working with proven people who had
+- [07:44] proven ideas and just taking them into
+- [07:46] new markets and very easily making seven
+- [07:49] figures worth of revenue. And it also
+- [07:50] helped me to build my brand. Now, here's
+- [07:52] where everything went bad for me. In the
+- [07:54] global financial crisis, the two biggest
+- [07:56] names that I was working with, they
+- [07:58] pulled out from working with me because
+- [08:00] they wanted to focus on their home
+- [08:01] markets. I had one guy who was based in
+- [08:03] Texas and one guy who was based in
+- [08:04] Singapore and I was launching them in
+- [08:06] the UK. Now, both of them in the global
+- [08:09] financial crisis said they wanted to
+- [08:10] focus on their own business in their own
+- [08:12] location and they didn't want to do the
+- [08:14] partnership with me anymore. And what I
+- [08:15] discovered at that point is that I had
+- [08:17] to start from scratch because none of
+- [08:19] the assets that I had were my own. So in
+- [08:21] the 1 to 5 million range, this is where
+- [08:23] your business starts to own its own
+- [08:25] assets. I would call this process
+- [08:27] formalizing assets. This is where you're
+- [08:29] going to formalize your brand. You're
+- [08:31] going to formalize your intellectual
+- [08:32] property. You're going to formalize your
+- [08:33] own channels to market. You're going to
+- [08:35] create your own products and services
+- [08:37] and you're going to package them all up.
+- [08:38] This is where you'll have your team and
+- [08:40] culture formalized. You'll probably
+- [08:41] create an employee handbook that
+- [08:43] explains what it's like to work in your
+- [08:45] organization. What are the standards?
+- [08:47] You're going to create systems and
+- [08:48] processes. And that is going to be a
+- [08:49] type of asset for your business as well.
+- [08:51] An asset is anything that adds value to
+- [08:53] your business without you having to
+- [08:55] physically be in the room. Think videos,
+- [08:57] think documents, think systems, think
+- [08:59] code, think intellectual property. This
+- [09:02] is where you're really formalizing
+- [09:03] unique assets that your business owns.
+- [09:05] The next thing that you're going to do
+- [09:06] here is that you are going to have a
+- [09:08] dedicated head of marketing whose only
+- [09:11] focus is maintaining a flow of new
+- [09:13] business. That person is going to be
+- [09:15] even better than you are at opening up
+- [09:17] new channels to market. They're going to
+- [09:18] be excellent at social media. They're
+- [09:20] going to be good with advertising.
+- [09:21] They're going to be great at creating
+- [09:22] marketing journeys. And they're going to
+- [09:24] work with your head of sales. So, in the
+- [09:26] early days, all the marketing and sales
+- [09:28] fell on your shoulders. But today,
+- [09:30] you've got two worldclass people who are
+- [09:32] heading up marketing and sales, and
+- [09:34] there's just this steady pipeline. There
+- [09:36] is something phenomenal that happens
+- [09:38] when you get a few great salespeople on
+- [09:40] a team who have ready access to warm
+- [09:42] leads. When you've got lots of warm
+- [09:43] leads that go to the right people, the
+- [09:45] money just starts to flow. Your role is
+- [09:47] going to be more of a figurehead. You're
+- [09:49] going to be seen as a key person of
+- [09:50] influence in your industry. You're going
+- [09:51] to elevate your position and you're
+- [09:53] going to do that so that you can hire
+- [09:54] amazing talented people and that you can
+- [09:56] do joint ventures and partnerships with
+- [09:58] others in your industry. For me
+- [09:59] personally, as soon as I had formalized
+- [10:01] my assets, built myself as a key person
+- [10:02] of influence, brought on amazing
+- [10:04] talented people in marketing and sales,
+- [10:06] all of a sudden things started to
+- [10:07] rapidly ramp up. In the early days, it
+- [10:09] feels so hard to go from a 100,000 to
+- [10:12] 500,000. Once we're up here, we can go
+- [10:14] from 1 million to 5 million in about the
+- [10:16] same period of time. Now, what it feels
+- [10:18] like to have a 1 to 5 million business
+- [10:20] is what you will later call the good old
+- [10:22] days. This will be one of the most fun
+- [10:24] times in business. The money is flowing
+- [10:26] and you typically have a team of around
+- [10:28] 6 to 12 people. You typically solve
+- [10:31] problems by going out to lunch, having a
+- [10:33] pizza together, drawing on whiteboards,
+- [10:35] just having chats. In this phase of
+- [10:37] business, you're surrounded by people
+- [10:38] who are true believers. They love the
+- [10:40] business as if it's their own. There's a
+- [10:42] lot of fun vibrancy. It's a very flat
+- [10:45] structure, but you also have budgets.
+- [10:47] You can throw some money at ads. You can
+- [10:48] throw some money at a new website,
+- [10:50] right? The money's flowing and the team
+- [10:52] is small. And this will be one of the
+- [10:54] best times when you look back at your
+- [10:55] entrepreneurial journey. This will be
+- [10:56] one of the times that puts a smile on
+- [10:58] your face. Okay, now we're at 5 to 10
+- [11:00] million. There could be a trap around
+- [11:02] this point. And the trap is where you're
+- [11:03] too big to be small and too small to be
+- [11:05] big. And this is one of the reasons that
+- [11:07] a lot of businesses get close to 5
+- [11:09] million and then go back down to a
+- [11:10] million, back up to 5 million, back down
+- [11:12] to a million. This is a regular trap.
+- [11:14] The business just cannot afford to
+- [11:16] invest in the things that it needs in
+- [11:18] order to be a big business. So, I call
+- [11:20] this crossing the desert. It's a very
+- [11:22] difficult time. You really have to grow
+- [11:24] up as a business. You've got to be
+- [11:25] analyzing data. You may have to get your
+- [11:27] hands on some debt or some investors.
+- [11:29] You may have to let some people go that
+- [11:30] you were incredibly loyal to because
+- [11:32] they were so great at the start. In the
+- [11:34] early days of your business, you're
+- [11:35] going to be working with a lot of
+- [11:36] generalists who can do multiple
+- [11:38] different things. They're Swiss Army
+- [11:40] knives. As you become a bigger business,
+- [11:42] you work with phenomenal specialists.
+- [11:44] So, one of your great generalists
+- [11:45] doesn't fit within the organization
+- [11:47] anymore because they're not a specialist
+- [11:49] in anything in particular. Crossing the
+- [11:50] desert is an incredibly difficult time
+- [11:52] in your business, and you need to make a
+- [11:53] decision. Do you want to deliberately
+- [11:55] keep your business small, 8 to 12
+- [11:57] people, or do you want to cross the
+- [11:59] desert and hit 30 people? Because at 30
+- [12:01] people, you're a much more grown-up
+- [12:02] business. Now, you've got a fivep person
+- [12:04] executive team. You've got a CEO, a CTO,
+- [12:07] a CFO, a COO, a CMO. You've got all of
+- [12:10] these people who run the different parts
+- [12:11] of your business. You've probably also
+- [12:13] got a board. You may have an executive
+- [12:15] assistant. You may even have a head of
+- [12:17] people. That executive team is a group
+- [12:19] of leaders who run the business, but
+- [12:21] they're not hands-on typically
+- [12:22] themselves, which means they each need a
+- [12:25] team of people to get things done as
+- [12:26] well. So, now you're going to have a
+- [12:28] growth team that does marketing and
+- [12:30] sales. You're going to have a product
+- [12:31] development team, a customer success
+- [12:33] team. You're probably going to have a a
+- [12:35] data team. You'll have a finance team.
+- [12:37] And all of those teams of teams report
+- [12:40] into your executive team. At the
+- [12:41] smallest scale, this probably requires
+- [12:43] having about 30 people all up. Now, once
+- [12:45] you've got those 30 people and they're
+- [12:47] aligned and they're having really great
+- [12:49] meetings and they've got really great
+- [12:50] dashboards and they've got resources and
+- [12:52] they're measuring the right things and
+- [12:53] executing on the right things, it's very
+- [12:55] easy for you to make the jump from 5 to
+- [12:57] 10 million. That can actually happen in
+- [12:59] a matter of months. The experience is
+- [13:01] that you've been hitting a brick wall
+- [13:02] and hitting a brick wall and hitting a
+- [13:04] brick wall for maybe as long as years
+- [13:06] and then suddenly everything clicks into
+- [13:08] gear and all of a sudden it's whoosh.
+- [13:10] You're now a bigger business. You're a
+- [13:11] more professional business. You can't
+- [13:13] believe how grown up it feels to be
+- [13:15] running this bigger business. Now, this
+- [13:16] is a business that has formalized
+- [13:18] assets. It has a great team. Everyone
+- [13:20] knows what they're doing. And we're
+- [13:21] hitting that magical number of 834,000 a
+- [13:24] month where we're on track to hit 10
+- [13:26] million for the year. Now we've crossed
+- [13:28] the threshold. We're a $10 million plus
+- [13:30] company. What does life feel like? Well,
+- [13:32] you are now a figurehead and a founder
+- [13:33] of the business, but you're surrounded
+- [13:35] by overlinks. You're surrounded by
+- [13:37] people who respect and admire you, even
+- [13:39] though they're better than you. You're
+- [13:40] now managing bigger budgets. Numbers
+- [13:42] that used to make your head spin are
+- [13:43] just part of the normal day-to-day. The
+- [13:45] amount of cash that's sitting in the
+- [13:46] bank is more than the revenue that you
+- [13:48] used to fantasize about. In any given
+- [13:50] month, your business might win an award,
+- [13:52] hire an amazing person. You might be
+- [13:54] engaged in one or two legal disputes at
+- [13:57] any given time, and that's no longer a
+- [13:58] big deal. You've seen it before. You
+- [14:00] know how to handle this stuff. Your
+- [14:01] business might have debt, and it's
+- [14:03] totally fine. You know how to service
+- [14:04] it. It's not a big deal. Your business
+- [14:06] might have investors, and that's fine,
+- [14:08] too. You have regular shareholder
+- [14:10] meetings. You update your shareholders.
+- [14:12] It's not difficult because all the data
+- [14:14] is ready to hand. At this level, you're
+- [14:16] starting to think like a business owner.
+- [14:18] you're not really in the business as
+- [14:20] much as you're on the business. There's
+- [14:21] a few things that you're going to start
+- [14:22] talking about. You'll start talking
+- [14:24] about something called quality of
+- [14:25] earnings. Quality of earnings is where
+- [14:26] you make a distinction between really
+- [14:28] highquality customers that are
+- [14:29] profitable and recurring and have
+- [14:31] predictability versus lowquality
+- [14:33] customers that provide revenue, but it's
+- [14:35] not exactly the right type of revenue
+- [14:36] you want to develop upon. You might make
+- [14:39] decisions to get rid of whole sections
+- [14:41] of your business because the quality of
+- [14:42] earnings are just not there.
+- [14:43] Unfortunately, the business will no
+- [14:45] longer feel like a happy little family.
+- [14:47] It will be a high performance team. At
+- [14:49] this point, it will be very unlikely
+- [14:51] that people order a pizza and hang out
+- [14:53] on Friday afternoon. People turn up at
+- [14:55] work, they do a great job, and then they
+- [14:57] go about their lives. When you hire
+- [14:58] someone, you'll go through a proper
+- [15:00] hiring process. At this point, there'll
+- [15:01] be dozens of great candidates to choose
+- [15:03] from. In the early days, you hired
+- [15:05] anyone who could breathe, anyone who had
+- [15:07] a pulse, anyone who shared your passion.
+- [15:09] Now, you hire people with amazing
+- [15:10] skills, talent, expertise, and a
+- [15:12] background to prove it. One thing that
+- [15:14] may start to creep into your mind at
+- [15:15] this point is what's my business worth?
+- [15:17] You might think about the valuation of
+- [15:19] the business. You might think about who
+- [15:20] might buy the business. Would it be
+- [15:22] valuable to a strategic acquirer? Would
+- [15:24] a private equity firm buy the business?
+- [15:25] Would someone want this business as a
+- [15:27] trophy asset? Would your executive team
+- [15:29] want to do a management buyout? All of
+- [15:31] those questions might come up and some
+- [15:33] of the decisions that you make will be
+- [15:34] about valuation maximization. At this
+- [15:36] point, you'll probably be doing some
+- [15:38] acquisitions. You may even sell the
+- [15:40] whole business, which gives you an exit.
+- [15:42] It could be a life-changing amount of
+- [15:44] money or it could just free you up to go
+- [15:46] back to the fun thing that you love,
+- [15:47] which is starting from scratch and
+- [15:49] starting a brand new thing. So, now
+- [15:50] we've hit 10 million. You've got a great
+- [15:52] valuation. You might have sold the
+- [15:53] company, but a lot of people want to
+- [15:54] know, is it really, really worth it? And
+- [15:56] the answer is absolutely yes, but only
+- [15:59] if you really love doing business. See,
+- [16:01] here's the thing. There's a lifestyle
+- [16:02] business and a performance business. A
+- [16:04] lifestyle business typically exists high
+- [16:06] six, early 7 figure revenue with a team
+- [16:08] of six to 12 people. It's self-managing.
+- [16:11] It's fun freedom and flexibility. You
+- [16:13] can run it from anywhere and you can say
+- [16:14] no to things that you don't want to do.
+- [16:16] You can really focus on a highv value
+- [16:18] niche and you can keep your costs low
+- [16:20] and maintain that flexibility that
+- [16:22] anyone could say yes. There is no
+- [16:24] question in my mind that a lifestyle
+- [16:26] business almost anyone could achieve it
+- [16:28] and almost everyone would enjoy it.
+- [16:30] Going beyond that and ending up with a
+- [16:32] $10 million business, you kind of have
+- [16:33] to be a business geek. You're only going
+- [16:35] to enjoy that and it's only going to
+- [16:36] feel worth it if you actually enjoy
+- [16:38] geeking out on business. If you enjoy
+- [16:40] board meetings and if you enjoy looking
+- [16:42] at data and if you can do the hiring and
+- [16:44] acquisitions and lawsuits and all of
+- [16:47] that stuff, if you can enjoy all of that
+- [16:49] part of the journey, then yes, it's
+- [16:50] going to be worth it. If that's not you,
+- [16:52] you'll probably find that the juice was
+- [16:54] just not worth the squeeze. If you love
+- [16:55] what you do and you love business, go
+- [16:58] all the way, build a performance
+- [16:59] business, get to eight figures, build
+- [17:02] out your team, sell it for a
+- [17:03] life-changing amount of money, and do it
+- [17:05] multiple times over. There's actually
+- [17:07] not many sacrifices that you make when
+- [17:09] you've got a lifestyle business. You're
+- [17:10] going to have a nice home. You're going
+- [17:12] to take nice holidays. You're going to
+- [17:13] drive a nice car. Everything's going to
+- [17:15] be really nice. You're going to get the
+- [17:16] eight out of 10 for almost everything
+- [17:18] you touch. You're operating at a point
+- [17:20] where the juice is definitely worth the
+- [17:22] squeeze. Now, does it all go up a level
+- [17:23] when you've got a million a month coming
+- [17:24] in? Of course it does, right? You get
+- [17:26] invited to fancy places and you go to
+- [17:28] really fancy hotels sometimes and you
+- [17:30] drive really fancy car if you really
+- [17:32] want one and you can kind of say yes to
+- [17:34] some of the big exciting status
+- [17:36] orientated things if that's your jam.
+- [17:38] What you'll probably discover is that
+- [17:39] you feel different about those trophy
+- [17:41] assets than you originally did. See, one
+- [17:42] of the things about something like a
+- [17:44] Ferrari is that it's way up on a
+- [17:45] pedestal and it's like so far out of
+- [17:47] reach and then for the people who end up
+- [17:49] buying one, it's not that big a deal,
+- [17:51] right? So, it can actually lose its
+- [17:53] appeal. If you've enjoyed this video
+- [17:55] learning about the levels of business
+- [17:56] and how to accelerate through them,
+- [17:58] there is one thing that is the biggest
+- [17:59] cheat code and that's called founderled
+- [18:01] growth. Positioning yourself as a key
+- [18:03] person of influence. And I recorded this
+- [18:04] video here about achieving micro fame in
+- [18:07] your industry. That's the one to watch
+- [18:08] next. I hope you're doing really well. I
+- [18:10] hope that your business is succeeding.
+- [18:12] season.

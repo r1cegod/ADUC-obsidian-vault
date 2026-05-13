@@ -1,0 +1,336 @@
+---
+type: source
+title: "AI Will Make You a Millionaire - Here's How"
+source: youtube
+channel: "Daniel Priestley"
+channel_id: UCABR204CFV9ZoMz69TyspzA
+video_id: FXqG6H0rSwA
+url: https://www.youtube.com/watch?v=FXqG6H0rSwA
+published_at: "2025-09-12T16:08:18Z"
+duration_seconds: 567
+fetched_at: 2026-05-04T06:15:03Z
+transcript_status: fetched
+transcript_language: "en"
+ingest_run: daniel-priestley-youtube-2026-05-04
+---
+
+# AI Will Make You a Millionaire - Here's How
+
+> Raw transcript evidence for vault-level Daniel Priestley YouTube ingest. Do not treat this as compiled knowledge; use source cards and synthesis pages for durable claims.
+
+## Source Metadata
+- url: https://www.youtube.com/watch?v=FXqG6H0rSwA
+- channel: Daniel Priestley
+- published_at: 2025-09-12T16:08:18Z
+- duration_seconds: 567
+- fetched_at: 2026-05-04T06:15:03Z
+
+## Transcript
+
+- [00:00] The bad news is your business is already
+- [00:02] dead. AI has killed it and you need to
+- [00:04] reinvent it. The good news is you've got
+- [00:06] 12 to 24 months to reinvent your
+- [00:08] business. And if you do this, you won't
+- [00:09] just survive, you will thrive. You'll
+- [00:11] have a business that's 10 times bigger
+- [00:13] on the other side of this disruption.
+- [00:15] Now, if we've not met before, I'm Daniel
+- [00:17] Priestley. I'm an entrepreneur. For the
+- [00:18] last 20 years, I've been doing startups.
+- [00:20] I've had seven startups that went 0 to a
+- [00:22] million in their first 12 months. Three
+- [00:24] of them went north of 10 million in
+- [00:25] valuation. I've lived through many
+- [00:27] disruptive times in the economy from the
+- [00:30] dotcom crash to the global financial
+- [00:32] crisis to Brexit to the pandemic and I
+- [00:35] can tell you this AI disruption is going
+- [00:37] to dwarf all of those. I've been sharing
+- [00:39] three big ideas with my businesses and
+- [00:41] my clients businesses to get them
+- [00:43] thinking about how to tackle this
+- [00:44] disruption. And I want to share those
+- [00:46] three ideas with you now. Let's get into
+- [00:47] it. So there are going to be three
+- [00:49] mental models that we're going to
+- [00:50] explore in this video. The first mental
+- [00:52] model is that your current business is
+- [00:54] dead. the current business that you
+- [00:55] have, every decision that you've made
+- [00:57] about the CRM system that you use, the
+- [00:59] marketing strategy that you have, the
+- [01:01] people that you have on the team, and
+- [01:02] the roles that you have employed, all of
+- [01:04] those decisions are terrible decisions.
+- [01:06] In a post AAI world, you need to rethink
+- [01:09] every single decision from the top down
+- [01:11] and the bottom up. In fact, at a recent
+- [01:13] team retreat that I held with my team in
+- [01:15] Portugal, we literally started the team
+- [01:17] retreat with a tombstone that had the
+- [01:19] company name on it and it said, "The
+- [01:21] business is dead." and we actually held
+- [01:22] a little bit of a wake uh and we
+- [01:24] basically said this is a line in the
+- [01:26] sand. The business as we know it is over
+- [01:28] and we're using this retreat to rebuild
+- [01:30] from the ground up and we went through
+- [01:32] that process step by step at that team
+- [01:34] retreat. So what are some of the
+- [01:35] decisions that you're going to make now
+- [01:36] that your business is dead? You might
+- [01:38] want to think right from the start uh do
+- [01:40] you want to stay in this same business?
+- [01:42] Do you want to stay looking after this
+- [01:44] same audience? Do you want to offer the
+- [01:46] same sort of thing that you currently
+- [01:47] offer? So you want to start with all of
+- [01:49] those basic questions. concept audience
+- [01:51] offer sales. You may want to ask
+- [01:52] yourself a question about speed to
+- [01:54] value. So speed to value is a question
+- [01:55] where you ask the question what are my
+- [01:58] customers trying to achieve? What is the
+- [01:59] outcome that they most want? What would
+- [02:01] be the fastest humanly possible way in
+- [02:03] fact forget humanly possible AI possible
+- [02:05] way to get them the outcome that they
+- [02:07] want? So for example in dent
+- [02:09] accelerators we know that our clients
+- [02:10] are trying to reinvent their business.
+- [02:12] They want to become a key person of
+- [02:13] influence in their industry. Uh they
+- [02:15] want to stand out. They want to scale
+- [02:16] up. They want to make a bigger dent in
+- [02:18] the universe. So we took those three
+- [02:19] outcomes. We said stand out, scale up,
+- [02:22] make a big positive impact in the world.
+- [02:23] And we made a list of 17 different ways
+- [02:25] to do those things. And then we said,
+- [02:27] how would we use AI to make sure that
+- [02:29] those 17 things happen? What we
+- [02:31] discovered is that we could easily build
+- [02:32] an AI portal that allows every single
+- [02:35] one of our customers to get 80% of the
+- [02:37] work already done for them. If they just
+- [02:39] fill in a little bit of information
+- [02:41] about themselves and their business,
+- [02:42] then these 17 things can almost be 80%
+- [02:45] done within minutes. One of my
+- [02:46] businesses was called Rethink Press,
+- [02:48] which is a book publishing business. And
+- [02:50] a huge part of that was coaching people
+- [02:52] through the bookw writing process, and
+- [02:54] it was a hands-on human process. What we
+- [02:56] did is we took all of that intellectual
+- [02:58] property around how we coach people
+- [03:00] through writing a book, and we spun out
+- [03:02] a new business called Bookmagic.ai,
+- [03:04] which is a step-by-step portal that uses
+- [03:06] AI to guide you through the bookw
+- [03:08] writing process. So, those are some real
+- [03:10] examples of how quickly we can innovate
+- [03:11] once we acknowledge that the current
+- [03:13] business is dead. So, what have the
+- [03:14] results been? So, Rethink Press doing
+- [03:17] very healthy seven figure revenues is
+- [03:19] continuing its revenues because we're
+- [03:20] getting more customers and we've already
+- [03:22] signed up 400 people who pay about $50 a
+- [03:25] month to be on the uh platform called
+- [03:27] bookmagic.ai. So, this thinking of my
+- [03:30] business is dead, what do we do next is
+- [03:32] a really powerful way to prepare
+- [03:33] yourself for this AI enabled world. So,
+- [03:35] point number two is Atlantis has risen.
+- [03:38] This is a new mindset uh that I love to
+- [03:40] work with with my team. Well, Atlantis
+- [03:42] is this sunken city and it was an
+- [03:44] advanced civilization apparently in
+- [03:46] mythology and it sunk to the bottom of
+- [03:48] the ocean and it disappeared forever.
+- [03:50] And in mythology, people have said that
+- [03:52] one day it'll rise again. So, what's
+- [03:54] this got to do with AI? Well, because AI
+- [03:56] has this new technology called agentic
+- [03:58] technology where AI can literally do
+- [04:00] things for you and AI is like a PhD in
+- [04:03] your pocket. I like to think about this
+- [04:05] idea of what if Atlantis had risen out
+- [04:07] of the ocean? What if we discovered that
+- [04:09] it's there? What if we discovered that
+- [04:11] there's now a billion people living in
+- [04:13] Atlantis, they all have a master's
+- [04:15] degree or a PhD in all sorts of
+- [04:17] different things and they're willing to
+- [04:18] work for free? How would that impact
+- [04:20] your business? What would you be doing
+- [04:21] differently? When I think about this for
+- [04:23] my businesses, I think to myself, hm,
+- [04:25] okay, for every client who we take on at
+- [04:27] Dent, wouldn't it be great if we gave
+- [04:29] them a marketing assistant who could
+- [04:30] actually go through and give them
+- [04:31] recommendations as to how to improve
+- [04:33] their website? Wouldn't it be really
+- [04:34] cool if we could have a PhD level
+- [04:37] McKenzie consultant who could rewrite
+- [04:39] their pitch for them? Now, by thinking
+- [04:41] about that, we actually can automate
+- [04:43] that through AI. We can actually assign
+- [04:45] agents to our clients. We can assign
+- [04:47] report writers to our clients. All of
+- [04:49] that is totally possible. We give people
+- [04:51] so many reasons that they would want to
+- [04:53] subscribe to Score App and they would
+- [04:55] never want to cancel that because we're
+- [04:57] delegating Atlanteans onto the business.
+- [04:59] So in my businesses now we have this
+- [05:01] term called let's delegate an Atlantan
+- [05:03] onto that. Now if you don't think this
+- [05:06] way you're limited to just doing very
+- [05:09] simple very basic things for your
+- [05:10] clients because you're limited to an old
+- [05:12] way of thinking. As soon as you start
+- [05:13] thinking about the fact that there's a
+- [05:15] billion people willing to work for free
+- [05:16] it opens your mind up to all sorts of
+- [05:19] things that your business could be doing
+- [05:20] for customers that you're not currently
+- [05:21] doing for your customers. The third
+- [05:23] thing that we need to think about is the
+- [05:24] new moes. So a moat is what we use to
+- [05:27] protect a castle. So, if we think about
+- [05:28] a castle as a very valuable thing and
+- [05:30] you don't want people to invade that,
+- [05:32] you put a moat around it to stop people
+- [05:33] from invading your castle. In business,
+- [05:35] we use a moat to describe something that
+- [05:37] protects your business and stops people
+- [05:39] from copying your business or stops
+- [05:41] people from taking your customers or
+- [05:43] taking your future success. And there
+- [05:44] used to be a few key moes that worked
+- [05:46] really, really well. So, for example,
+- [05:48] for a software company, you used to
+- [05:49] spend a lot of money developing lots and
+- [05:51] lots of lines of code and it was very,
+- [05:53] very difficult for someone to compete
+- [05:54] with you because they had to recreate
+- [05:56] that code at a very great expense. But
+- [05:57] in a postAI world, we can just simply
+- [05:59] ask AI to build something that's very
+- [06:02] similar and it can do all that coding
+- [06:03] for you and that makes it very easy for
+- [06:05] people to copy a software business. So
+- [06:08] some of the biggest modes are going away
+- [06:10] uh from traditional business. So what
+- [06:12] are the new modes? There are four things
+- [06:13] that we need to consider. The first one
+- [06:15] is to define a game where you can be in
+- [06:17] the top 10%. So, you may not be able to
+- [06:19] be in the top 10% of being a fitness
+- [06:22] trainer, but you may be able to be in
+- [06:24] the top 10% at helping men who are over
+- [06:26] 45 to run their first marathon. You may
+- [06:28] not be in the top 10% of film production
+- [06:30] companies, but you might be able to be
+- [06:32] in the top 10% of helping academics to
+- [06:35] share their expertise on YouTube
+- [06:36] channels. So, after you've defined the
+- [06:38] game that you're in the top 10% of,
+- [06:40] you're going to add these three
+- [06:40] ingredients. Ingredient number one is
+- [06:42] exclusivity. Exclusivity could be that
+- [06:44] you've got lots of people who want to
+- [06:46] work with you, but you only choose to
+- [06:47] work with a smaller number. The other
+- [06:49] form of exclusivity is an entry
+- [06:51] criteria. So, if you think about an
+- [06:52] exclusive nightclub, it probably has an
+- [06:54] entry criteria as to how you've got to
+- [06:56] be dressed. You could say, I only work
+- [06:58] with businesses that have north of a
+- [06:59] million of revenue, or I only work with
+- [07:01] people who have achieved X, Y, and Zed
+- [07:03] in the past. The next thing that's going
+- [07:04] to give you a moat is community.
+- [07:06] Especially linked to exclusivity is
+- [07:09] where not only do I get to work with
+- [07:11] you, but I get to meet some of the
+- [07:13] people that you know. Getting to know
+- [07:14] some of the other people who meet your
+- [07:15] entry criteria. I'm going to be able to
+- [07:17] sit around a table and share notes. I'm
+- [07:19] going to be able to have introductions
+- [07:21] to those types of people. So, there's
+- [07:22] going to be some sort of community that
+- [07:24] I get to join that is a filtered curated
+- [07:26] community that is desirable for me to be
+- [07:29] part of. And the third thing is
+- [07:30] experience. that as a community we're
+- [07:32] going to have some sort of experience.
+- [07:34] We're going to do something special
+- [07:35] together. Probably something in the real
+- [07:36] world. Maybe we're going to have dinner
+- [07:38] together. Maybe we're going to do a
+- [07:39] highle experience that goes along with
+- [07:41] your service. So the three things here
+- [07:42] is exclusivity, experience, and
+- [07:44] community. And they kind of form a
+- [07:46] little bit of a triangle. And when you
+- [07:47] put them together, you end up with a
+- [07:49] good strong moat. So at Dent, the core
+- [07:51] thing that we're the top in the world at
+- [07:53] is producing key people of influence. We
+- [07:55] have been doing that for 15 years. We
+- [07:57] know how to take entrepreneurs and to
+- [07:59] build their personal brands and to drive
+- [08:01] founderled growth. And we're probably
+- [08:03] not just in the top 10%, we're probably
+- [08:04] in the top 1 or 01% of doing that in the
+- [08:07] world because we've been doing it so
+- [08:08] long and we've got all the frameworks
+- [08:10] really uh nailed down. We use AI to
+- [08:13] deliver that result really, really well,
+- [08:15] fast, and best in the world. We are
+- [08:17] exclusive as to who we take on. We have
+- [08:19] something like a 100 people apply for
+- [08:21] every person who gets through. We also
+- [08:23] deliver an amazing experience. So we do
+- [08:25] things like take people skiing. We have
+- [08:27] something called ski person of
+- [08:28] influence. We're taking 30 of our
+- [08:29] clients to NECA Island to spend a week
+- [08:31] with Richard Branson. We have dinners,
+- [08:33] we have special gettogethers, we watch
+- [08:34] entrepreneur movies together. Um, we do
+- [08:37] all sorts of fun things together as a
+- [08:39] community. So, we have the exclusivity,
+- [08:40] we have the experience, and we have a
+- [08:42] community. If you apply those key ideas,
+- [08:44] you're not just going to survive the AI
+- [08:46] disruption, you're going to thrive post
+- [08:48] AI disruption. you're going to be one of
+- [08:50] those companies that goes from a million
+- [08:51] to 10 million or 10 million to 100
+- [08:53] million as a result of implementing
+- [08:56] these ideas around AI. Now, if you've
+- [08:58] enjoyed this video, I think you'll
+- [08:59] actually enjoy a longer conversation
+- [09:01] that I had at Diary of a CEO, and we
+- [09:03] talked about how AI disruption is going
+- [09:05] to transform everything and everyone.
+- [09:07] Also, in the next couple of weeks, I'm
+- [09:08] going to be talking about how AI is
+- [09:10] going to change the way that money flows
+- [09:12] around the economy. And I think you're
+- [09:13] going to want to check that one out as
+- [09:14] well. Like this video, leave me a
+- [09:17] comment because I love reading the
+- [09:18] comments, and subscribe to the channel
+- [09:20] so that we can stay in touch and I can
+- [09:21] keep sharing some of these ideas with
+- [09:23] you. I hope your business is doing well
+- [09:24] and I look forward to seeing you

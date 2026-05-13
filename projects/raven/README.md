@@ -2,7 +2,7 @@
 type: project
 title: Raven
 created: '2026-04-15'
-updated: '2026-04-29'
+updated: '2026-05-02'
 tags:
   - project/raven
   - ai
@@ -17,7 +17,7 @@ feeds_into:
   - duc-os/current.md
   - duc-os/long-arc.md
 ---
-> **TL;DR**: Raven is the active Knowledge Signal Engine scaffold: it turns Duc's tacit bullshit detector into source discovery, metadata triage, audit-backed evaluation, vault memory, and eventually public synthesis.
+> **TL;DR**: Raven is being narrowed into a Codex-native hard-source acquisition and evidence-preparation tool: it should fetch, filter, and package sources for Duc/Codex rather than become a custom all-purpose agent OS.
 
 ## Growth Contract
 - Parent branch: [[briefing]] Active Projects, [[duc-os/current]], and `projects/`
@@ -34,6 +34,8 @@ Use the smallest route that fits the task:
 | Need | Go to |
 |---|---|
 | Current live state, next seam, repo status | [[projects/raven/notes/raven-context-hub]] -> [[projects/raven/notes/raven-current-context]] |
+| Codex-native scope pivot | [[projects/raven/notes/raven-context-hub]] -> [[projects/raven/notes/raven-codex-native-pivot]] |
+| Tier 2 source card / Wave Report structure | [[projects/raven/notes/raven-tier-2-source-packet-contract]] |
 | Progress map, completed work, unresolved next decision | [[projects/raven/notes/raven-context-hub]] -> [[projects/raven/notes/raven-progress-map]] |
 | System shape, Canvas, ingestion/promotion architecture | [[projects/raven/notes/raven-architecture-hub]] |
 | Prompt contracts, prompt audits, prompt evolution | [[projects/raven/notes/raven-prompt-hub]] |

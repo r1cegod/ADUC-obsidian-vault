@@ -1,5 +1,5 @@
 ---
-updated: '2026-04-29'
+updated: '2026-05-03'
 ---
 # Vault Briefing
 
@@ -17,10 +17,11 @@ updated: '2026-04-29'
 - [[projects/raven/README|Raven]] - incubating Knowledge Signal Engine; live route starts at [[projects/raven/notes/raven-context-hub]]
 - [[projects/ielts-writing/README|IELTS Writing]] - 20-day protocol: band 4-5 -> 7-8, schema-based docs
 - [[projects/wynncraft/README|Wynncraft Assistant]] - low-priority leisure assistant; live route starts at [[projects/wynncraft/notes/wynncraft]]
+- [[projects/minecraft-pvp/README|Minecraft PvP]] - low-priority daily skill project for modern Aerial Lancer PvP; live route starts at [[projects/minecraft-pvp/notes/minecraft-pvp-operating-sheet]]
 
 ## Current Focus
 
-[[duc-os/current]] is the authority for current state. Dashboard summary: Duc OS migration is today's active meta-router work; PathFinder is reviewable unless a blocker appears; [[projects/raven/README|Raven]] remains the active next scaffold after Duc OS; Wynncraft is low-priority leisure control.
+[[duc-os/current]] is the authority for current state. Dashboard summary: Duc OS is the active meta-router; PathFinder is reviewable unless a blocker appears; [[projects/raven/README|Raven]] is the active Knowledge Signal Engine scaffold with green latest Tier 1 gates and a next decision around first product output or cheap hygiene; Wynncraft and Minecraft PvP are low-priority leisure-control lanes.
 
 ## Pending
 <!-- Check pending/ for unsorted files each session -->
@@ -47,4 +48,4 @@ _Nothing in the drop zone._
 - [[vault-keeping]] - vault maintenance routing hub
 - [[log.md]] - activity-history navigation
 
-**Last updated:** 2026-04-29
+**Last updated:** 2026-05-03

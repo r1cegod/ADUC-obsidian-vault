@@ -2,7 +2,7 @@
 type: protocol
 title: Vibe Docing
 created: '2026-04-17'
-updated: '2026-04-25'
+updated: '2026-05-12'
 tags:
   - learning
   - protocol
@@ -51,7 +51,7 @@ Do not use it to bypass the blueprint or artifact attempt. If Duc has not made t
 
 ## Required Shape
 
-Every vibe-doc section should look like a small official doc page:
+Every vibe-doc section should look like a small official doc page or raw lego block:
 
 ```text
 Operation:
@@ -59,11 +59,24 @@ What it does:
 Pattern:
 Parameters / inputs:
 Returns / output:
-Common traps:
+Common traps / failure modes:
+Where it fits:
 Official source:
+Try this next:
 ```
 
-Keep it short. One operation per response.
+Keep it short. One operation per response. Give enough structure for Duc to build the artifact himself, not enough hidden decisions to replace the build.
+
+## Mandatory How-To Use
+
+For natural-language how-to requests, VIBE_DOCING is the default Learn move once the seam is visible.
+
+```text
+Duc: How do I do "xxx"?
+Agent: Here is the mechanism block, call shape, failure modes, and folder/write pattern. Figure the product artifact out yourself.
+```
+
+If the seam is not visible, ask the smallest missing seam question first. Do not dump a tutorial.
 
 ## Allowed
 

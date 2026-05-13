@@ -1,0 +1,684 @@
+---
+type: source
+title: "Why You Must Build a YouTube Channel"
+source: youtube
+channel: "Daniel Priestley"
+channel_id: UCABR204CFV9ZoMz69TyspzA
+video_id: RoXlS4S0WeA
+url: https://www.youtube.com/watch?v=RoXlS4S0WeA
+published_at: "2026-05-02T12:39:54Z"
+duration_seconds: 1293
+fetched_at: 2026-05-04T06:15:03Z
+transcript_status: fetched
+transcript_language: "en"
+ingest_run: daniel-priestley-youtube-2026-05-04
+---
+
+# Why You Must Build a YouTube Channel
+
+> Raw transcript evidence for vault-level Daniel Priestley YouTube ingest. Do not treat this as compiled knowledge; use source cards and synthesis pages for durable claims.
+
+## Source Metadata
+- url: https://www.youtube.com/watch?v=RoXlS4S0WeA
+- channel: Daniel Priestley
+- published_at: 2026-05-02T12:39:54Z
+- duration_seconds: 1293
+- fetched_at: 2026-05-04T06:15:03Z
+
+## Transcript
+
+- [00:00] YouTube channels are almost built
+- [00:01] flawlessly to be marketing campaigns.
+- [00:04] The way that your customers warm up to
+- [00:06] doing business with you is through a
+- [00:07] process of short form content into long-
+- [00:10] form content into a call to action. If
+- [00:12] you know how to use YouTube correctly,
+- [00:13] it's built almost perfectly as a
+- [00:15] salesunnel. It's almost as if short form
+- [00:18] is like a little cold call. Long form is
+- [00:21] like a sales conversation. And then
+- [00:22] there's the ability to put links to your
+- [00:24] website. It's the perfect salesunnel
+- [00:26] where people don't even realize they're
+- [00:27] going through a salesunnel. Now, for me
+- [00:29] personally, I have a personal YouTube
+- [00:31] channel I've used to consistently
+- [00:33] generate more than 10,000 warm leads per
+- [00:35] month. I want this to happen for you. I
+- [00:37] want you to have this experience of so
+- [00:40] many warm leads that you do not know
+- [00:42] what to do with it. Now, every single
+- [00:43] day, new AI generated content is
+- [00:46] flooding the social media platforms,
+- [00:48] including YouTube. And it's a race to
+- [00:50] become known, liked, and trusted in the
+- [00:52] eyes of your customers. See, if you
+- [00:54] don't build that trust now, it's going
+- [00:56] to be too late in the future because
+- [00:57] people may assume that it's just AI
+- [00:59] generated slop. So, here's what we're
+- [01:01] going to do in this video. We're going
+- [01:02] to explore some research that shows you
+- [01:04] why this works, and it's going to be
+- [01:06] very important so you get this right.
+- [01:07] Then, we're going to go through a
+- [01:08] four-step framework that allows you to
+- [01:11] turn YouTube into your marketing
+- [01:12] campaign.
+- [01:14] Okay, so here's the research about how
+- [01:16] and why this works. Out there in the
+- [01:18] world, there are millions of people who
+- [01:20] would make perfect customers for you,
+- [01:22] but they don't know you exist and
+- [01:23] they're not warm to doing business with
+- [01:25] you. They don't know you. They don't
+- [01:26] like you. They don't trust you because
+- [01:27] they haven't been able to reach you just
+- [01:29] yet. These people are on YouTube every
+- [01:31] single day. It's their second favorite
+- [01:33] search engine. Your customers are
+- [01:35] already learning on YouTube. They're
+- [01:36] already getting to trust people on
+- [01:38] YouTube. In fact, YouTube influences 55%
+- [01:41] of their important decisions. The
+- [01:43] research is so clear that people love
+- [01:46] YouTube videos as part of their buying
+- [01:48] decision. The human brain is built to
+- [01:50] bond, to build rapport, and to learn
+- [01:53] from videos. In fact, 50% of the brain
+- [01:56] is built around visual processing. If
+- [01:58] you are not able to connect with people
+- [02:00] through their eyes and their ears,
+- [02:01] you're not really able to connect with
+- [02:03] them at all. So, YouTube allows you to
+- [02:05] spread your message at scale to all
+- [02:08] sorts of people who are already
+- [02:09] interested, for them to be able to refer
+- [02:11] you and share your videos on with
+- [02:12] others, for the algorithm to find your
+- [02:14] perfect customers no matter where they
+- [02:16] are in the world, and for you to expand
+- [02:17] and grow your reach without spending any
+- [02:20] money. If you want to be perceived as a
+- [02:22] key person of influence in your
+- [02:23] industry, unfortunately, YouTube is also
+- [02:26] table stakes. You've got to have some
+- [02:28] videos where people can find you on
+- [02:30] YouTube. You want to be a professional
+- [02:32] speaker, you need some YouTube videos.
+- [02:34] You want to sign high ticket clients,
+- [02:36] they want to check you out on YouTube
+- [02:37] first as well. You want to sell to
+- [02:39] corporate, corporates love seeing an
+- [02:41] explainer video on YouTube that they can
+- [02:43] share with their peers. And if you want
+- [02:45] talented people to join your team,
+- [02:47] especially if they work remotely,
+- [02:49] YouTube videos are going to help to
+- [02:50] educate and on board your next team
+- [02:52] member. Google's research and Professor
+- [02:54] Robin Dunbar's research on how people
+- [02:57] bond, it all confirms that the buying
+- [02:59] behavior and the bonding behavior is
+- [03:01] massively enhanced if people are
+- [03:03] watching some videos of you on YouTube.
+- [03:05] Now, I can tell you I've experienced
+- [03:06] this personally. I now regularly walk
+- [03:08] into rooms where people have watched my
+- [03:10] YouTube videos. They come warmly walking
+- [03:13] up to me. They talk to me as though
+- [03:15] we've had many conversations before.
+- [03:16] Even though I'm meeting them for the
+- [03:18] first time, they are super warm and
+- [03:20] ready to have a conversation. And that's
+- [03:22] the power of YouTube videos. So, we're
+- [03:24] going to get into a four-step framework.
+- [03:26] And step one is called defining your ICP
+- [03:28] or your ideal customer persona. This is
+- [03:30] the person that you want to be watching
+- [03:32] your YouTube videos. Now, YouTube can
+- [03:34] put you in front of any audience in the
+- [03:36] world, right? You could be talking to
+- [03:38] dentists, you could be talking to
+- [03:39] doctors, CEOs, you could be talking to
+- [03:42] teenagers. You've got to get really
+- [03:44] clear who is the person you want to be
+- [03:46] talking to. We call this the ideal
+- [03:48] customer persona. And here's what we
+- [03:49] want to know about the ideal customer
+- [03:50] persona. We want to know three main
+- [03:52] things. Number one, we want to know what
+- [03:55] is their pain. So, this is all about
+- [03:57] understanding the situation that they're
+- [03:59] in and what's frustrating them and
+- [04:01] what's less than perfect about their
+- [04:03] current situation.
+- [04:04] The second thing we want to know is what
+- [04:06] we call their prize.
+- [04:09] Where do they want to get to? What are
+- [04:10] the outcomes that they wish they had? If
+- [04:12] they could wave a magic wand, what would
+- [04:14] they wish for? And the third thing is
+- [04:16] their problems. What stops them from
+- [04:18] getting their prize? Why are they stuck
+- [04:20] in the pain? Why haven't they been able
+- [04:22] to solve this in the past? What are the
+- [04:24] things that frustrate them, slow them
+- [04:26] down? What are the limitations, the
+- [04:28] obstacles or the criteria that is
+- [04:30] stopping them from getting what they
+- [04:31] want? So, the first step is understand
+- [04:34] your ideal customer through this lens of
+- [04:36] pain, prize, and problems. Now, you can
+- [04:38] use AI to do this. In fact, I'm going to
+- [04:40] give you a download document linked
+- [04:41] below that will actually give you some
+- [04:43] prompts that I use to help you to build
+- [04:45] an ICP. A really good ICP document will
+- [04:48] actually give you a name of your perfect
+- [04:50] customer. It'll tell you their whole
+- [04:52] situation, their background. Uh it'll
+- [04:54] give you the key things that are
+- [04:56] frustrating them. It'll give you the key
+- [04:57] things that they're trying to achieve.
+- [04:59] Everything will be captured in this
+- [05:00] lovely little document. It'll paint you
+- [05:02] a clear picture so that you can be
+- [05:04] talking to that person when you're
+- [05:05] talking to the camera. Now, in a perfect
+- [05:07] world, you would actually pick one of
+- [05:09] your best customers to be your ICP.
+- [05:10] You'd be thinking about one of your
+- [05:12] favorite customers that you've already
+- [05:14] signed up and you'd be talking to that
+- [05:15] customer at the time before they bought
+- [05:17] from your business. Now, my belief is
+- [05:19] that you don't need to please everyone
+- [05:21] and you don't need viral views of
+- [05:23] millions of people watching your videos.
+- [05:25] You need the right people watching your
+- [05:26] videos. I would rather you have a,000
+- [05:29] views from the right ideal customer
+- [05:30] persona than 10,000 views from a bunch
+- [05:33] of people who are never going to buy
+- [05:35] from your business. Views are a lovely
+- [05:37] vanity metric, but it's really about how
+- [05:39] many people can we be talking to who fit
+- [05:41] the ideal customer persona. Over the
+- [05:43] last 15 years, I have worked with many
+- [05:45] businesses to clearly define their ideal
+- [05:47] customer. And there's some key insights
+- [05:49] that I want to share with you. The first
+- [05:51] insight is that different customers see
+- [05:53] your value very differently. Some people
+- [05:55] see your value and they say, "Hey, I
+- [05:57] would happily pay $500 to work with
+- [05:59] you." Other people, based on their
+- [06:01] circumstances, would say, "I would pay
+- [06:03] $5,000 to work with you." And some
+- [06:05] people based on their circumstances
+- [06:07] might pay $50,000 for the exact same
+- [06:09] thing. See, the research says that your
+- [06:12] potential customers are kind of in a bit
+- [06:14] of a hierarchy, like a pyramid. And the
+- [06:16] top 10% of that pyramid has 60% of the
+- [06:20] budget to spend. The bottom 90% of that
+- [06:23] pyramid has just 40% of the budget to
+- [06:26] spend. So, here's the challenge. The
+- [06:27] bottom 90% are noisy. They're the ones
+- [06:30] that are going to tell you your prices
+- [06:31] are too expensive, that you should be
+- [06:33] doing more for less. The top 10% are
+- [06:35] very quiet. They fly under the radar
+- [06:37] even though they've got the most money
+- [06:39] to spend. Your job is to really think
+- [06:41] about this magic question. There is a
+- [06:43] magic question that really tells you who
+- [06:45] your ICP should be. So, here's the magic
+- [06:48] question, and you may want to write this
+- [06:49] down. The magic question is, who has the
+- [06:52] most to gain from the hardest problem
+- [06:55] that I know how to solve? So, I'll say
+- [06:56] it again. Who has the most to gain from
+- [06:58] the hardest problem that I know how to
+- [07:00] solve? So, for example, imagine that
+- [07:02] you're a coup's therapist and you know
+- [07:03] how to fix somebody's marriage, right?
+- [07:05] You can prevent a divorce, let's say,
+- [07:07] because of your ability to understand
+- [07:09] how couples dynamics works. Who has the
+- [07:12] most to gain from that particular hard
+- [07:14] problem that you know how to solve?
+- [07:16] Well, it's probably not a happy young
+- [07:17] newlywed who's broke. It's probably
+- [07:20] someone who's a multi-millionaire who if
+- [07:22] they got divorced, it would cost them
+- [07:24] millions and millions of dollars. So,
+- [07:26] your ICP should be the person who has a
+- [07:29] lot to gain from the hard problem that
+- [07:30] you know how to solve. Now, here's the
+- [07:32] coolest thing about YouTube. YouTube is
+- [07:34] one of those really weird products like
+- [07:36] an iPhone where the CEO of a publicly
+- [07:39] listed company goes to YouTube to look
+- [07:40] at things and a 13-year-old teenager
+- [07:43] goes and looks at videos on YouTube.
+- [07:45] YouTube is almost unrivaled. There's not
+- [07:47] a luxury video platform for people who
+- [07:49] are billionaires in Monaco and another
+- [07:52] completely different video platform for
+- [07:53] people who who are broke students in
+- [07:56] Bristol, right? It's the same video
+- [07:58] platform for everybody. Every single ICP
+- [08:02] that you might want to talk to is
+- [08:03] looking at YouTube videos. Okay, step
+- [08:05] two is to find your angles. Now, these
+- [08:08] are the angles that you're going to make
+- [08:10] videos about. So, here's the thing. Your
+- [08:12] ICP, your ideal customer persona,
+- [08:14] they've got questions. They want to know
+- [08:16] all sorts of stuff and AI can really
+- [08:18] help you to explore the questions that
+- [08:19] they have. If you simply ask AI, what
+- [08:21] kind of questions does my ICP have in
+- [08:24] relationship to this topic? It'll give
+- [08:26] you a list of all the questions. Those
+- [08:28] questions are essentially the angles
+- [08:30] that you're going to make videos about.
+- [08:31] But let me boil it down to a framework
+- [08:33] that I've used that really hones in on
+- [08:35] the best questions to answer for your
+- [08:38] ICP in videos. So, going back to our
+- [08:40] idea here that we've got pain, prize,
+- [08:43] and problems. So, you want to make
+- [08:45] videos through the lens of exploring the
+- [08:47] pain, exploring the situation that
+- [08:49] people are currently in. You want to
+- [08:51] make videos that explore the prize that
+- [08:53] people want to get to and how you would
+- [08:54] get there. You want to make some videos
+- [08:56] that explore the problems that people
+- [08:58] are facing, the obstacles that they've
+- [08:59] got, and how to understand those
+- [09:01] obstacles or how to self diagnose those
+- [09:03] obstacles. Finally, you want to make
+- [09:05] videos about this path of least
+- [09:06] resistance or this process for getting
+- [09:09] from where they are now to where they
+- [09:10] want to be without hitting any of their
+- [09:12] obstacles. Now AI is your best friend
+- [09:14] for turning this framework into video
+- [09:16] content. So once you know this
+- [09:18] framework, you can ask AI, what is the
+- [09:21] pain that my customers experiencing and
+- [09:23] how do I turn that into YouTube videos
+- [09:25] that lots of my ideal customers would
+- [09:27] want to watch. You can go and ask AI
+- [09:29] through the lens of all four of these
+- [09:31] dynamics to start there and then build a
+- [09:33] video concept around that. Now the other
+- [09:35] tool that I really want to recommend is
+- [09:37] called vidinary.com. vitinary.com is
+- [09:40] something that I've co-founded with a
+- [09:42] friend of mine called Martin. It's a
+- [09:44] product that helps you to brain dump
+- [09:45] your ideas and do the research and start
+- [09:47] turning that into video concepts and
+- [09:49] scripts. You literally read it off the
+- [09:51] screen and it turns that into a video.
+- [09:53] So, if you haven't done so already,
+- [09:54] check out vitinary.com. You may need to
+- [09:57] join the waiting list before we can let
+- [09:58] you in because we're still testing the
+- [10:00] product. But the early results are
+- [10:02] mind-blowing. about a thousand people
+- [10:05] have generated 900 new videos in the
+- [10:07] first few weeks. There'll be a link to
+- [10:09] Vidner in the description below. Before
+- [10:11] you just go and make any YouTube video
+- [10:13] content, you've got to understand the
+- [10:14] strategy. So, step three is about
+- [10:17] production. This is about having
+- [10:18] scripts, then capturing it, editing it,
+- [10:21] and uploading it. I want to zone in on
+- [10:23] the scripts because that is what's going
+- [10:25] to hook people's attention. So, let's go
+- [10:27] through the framework for having a
+- [10:28] really good script. The framework is
+- [10:30] that you need an opening hook that
+- [10:32] captures people's attention and calls
+- [10:34] out who the video is for. So the key
+- [10:37] question, who should be watching this?
+- [10:39] Why should they care? And all of that
+- [10:41] goes into an opening hook sentence. At
+- [10:43] the beginning of this video, I called
+- [10:44] out entrepreneurs and business leaders
+- [10:46] and talked about how YouTube could form
+- [10:48] the basis of your best marketing
+- [10:50] campaign. And that was my opening hook.
+- [10:52] Who should be watching and why should
+- [10:53] they care? The next part of the script
+- [10:55] is called the value proposition. This is
+- [10:57] where you tell people if you watch this,
+- [10:59] you're going to get these outcomes,
+- [11:01] right? If you do this now, you're going
+- [11:02] to get this, right? So the essence of a
+- [11:04] good value proposition is if you do
+- [11:06] this, if you sacrifice this, if you pay
+- [11:08] this, if you pay this attention, this is
+- [11:11] the payoff. This is what you'll get in
+- [11:13] return. So that's the value proposition.
+- [11:14] So at the beginning of this video, I
+- [11:16] said if you watch this, you'll get a
+- [11:17] four-step framework for turning YouTube
+- [11:20] videos into powerful marketing
+- [11:21] campaigns. The third part of the script
+- [11:23] that most people leave out is called
+- [11:26] credibility. Now, because people
+- [11:28] conflict from video to video, they are
+- [11:30] always secretly asking the question, but
+- [11:32] why should I listen to you? So, they
+- [11:34] want to know, do you have results? Have
+- [11:35] you done research? Have you got unique
+- [11:37] experiences? Have you got a great story?
+- [11:39] What is it about you that makes me want
+- [11:41] to listen to you? So, this is the
+- [11:42] credibility piece. Now, once you've
+- [11:44] delivered great content, you've earned
+- [11:46] the right to give a call to action. You
+- [11:47] can tell people what you want them to do
+- [11:49] next. It might be that you want them to
+- [11:51] click a link and go to your website. It
+- [11:53] might be that you want them to subscribe
+- [11:54] to your channel or that you want them to
+- [11:56] like the video, right? Any of those
+- [11:58] things are a call to action. Whenever
+- [12:00] you're asking people to do something in
+- [12:01] return, you're delivering what's called
+- [12:03] a call to action. So, you want to know
+- [12:05] what is the call to action that you want
+- [12:06] people to do. In the early days of your
+- [12:08] YouTube channel, just asking people to
+- [12:10] like the video or subscribe is the call
+- [12:12] to action that will build the channel.
+- [12:14] Once you've got lots of subscribers, you
+- [12:16] might want to change the call to action
+- [12:17] and say, "Click the link and go over to
+- [12:19] my website and register for something
+- [12:21] that I'm offering." And then finally,
+- [12:23] wrap it up. Give your video a nice
+- [12:26] close, end on a high point. Make sure
+- [12:27] people want to come back for the next.
+- [12:29] So, the difficult part from here is that
+- [12:32] you're going to be deeply uncomfortable
+- [12:33] getting in front of a camera, delivering
+- [12:35] a script, taking people through that
+- [12:37] content. It's going to feel so weird, so
+- [12:40] uncomfortable the first few times that
+- [12:41] you do it. It's no different from
+- [12:43] driving a car. Remember what it was like
+- [12:45] to learn how to drive? It was not easy
+- [12:47] those first 30 or 40 times. It's the
+- [12:49] same as sitting down with a new
+- [12:50] customer. Remember your first sales
+- [12:52] meetings? They were not easy the first
+- [12:54] 30 or 40 times. And it's going to feel
+- [12:56] weird and clunky the first 30 to 40
+- [12:58] times you sit down and record videos.
+- [13:00] But guess what? It gets so much easier
+- [13:03] once you've done a few dozen videos. It
+- [13:05] becomes second nature. It's just part of
+- [13:07] doing your business and it's giving you
+- [13:09] leverage. Now, let me just hammer in
+- [13:11] this point as to why you need to do this
+- [13:13] and why you need to get over your fear.
+- [13:15] Because there is a difference between
+- [13:17] delivered value and received value.
+- [13:19] Delivered value is how much time and
+- [13:21] energy and effort it is to deliver
+- [13:22] something. Received value is how many
+- [13:25] people received value from receiving
+- [13:27] what it is that you delivered. If I'm
+- [13:29] having a conversation with you
+- [13:30] one-on-one, it might be 1 hour of my
+- [13:32] time delivered and 1 hour of your time
+- [13:34] received. But if I'm doing that exact
+- [13:36] same conversation on a YouTube video, it
+- [13:38] might be 1 hour of my time delivered and
+- [13:41] it might be a,000 hours worth of
+- [13:43] received video. That leverage is
+- [13:45] unbelievable. That is the difference
+- [13:47] between a business that's stagnant and a
+- [13:49] business that's scaling. The
+- [13:50] entrepreneurs and business leaders who
+- [13:52] are resisting doing YouTube videos,
+- [13:53] they're focused on the time, energy, and
+- [13:55] effort to do it, not the amount of value
+- [13:58] that is received at scale once they've
+- [14:00] done it. Now, to get you started, I
+- [14:02] highly recommend working with somebody
+- [14:04] else. Find a video production person.
+- [14:06] Find someone who's going to edit and
+- [14:08] upload because if it's left in your
+- [14:10] court, you're going to cringe at your
+- [14:11] own face and your voice. You're going to
+- [14:13] sit there and say it's not perfect and
+- [14:15] you're going to leave it on your hard
+- [14:16] drive and it's never going to see the
+- [14:17] light of day. If you hand it over to
+- [14:19] someone who can video and edit and
+- [14:20] upload, then it's out of your hands. It
+- [14:22] goes up onto YouTube and before you've
+- [14:24] had a chance to self-criticize, it's
+- [14:26] already doing its job and winning new
+- [14:28] clients. So, let's get into step four.
+- [14:30] And step four is where this becomes a
+- [14:32] marketing machine. This is where you're
+- [14:33] going to generate leads. This is where
+- [14:35] you're going to turn on the taps. This
+- [14:36] is where it becomes an evergreen machine
+- [14:38] that just prints new customers. I have
+- [14:40] had people say that the reason they're
+- [14:42] doing business with me in 2026 is
+- [14:45] because of a video they saw that I
+- [14:46] uploaded in 2024. Some of the videos
+- [14:49] that you're going to be putting on
+- [14:50] YouTube this year are going to be
+- [14:51] winning you business in the next 2,
+- [14:53] three, four years. some of the best and
+- [14:55] highest paying customers that are going
+- [14:56] to come to you in the next year are
+- [14:58] going to find you through these YouTube
+- [14:59] videos. And it's this machine that's
+- [15:01] going to deliver it. So I call this
+- [15:03] framework my perfect repeatable week.
+- [15:05] This is what I do every single week to
+- [15:07] win clients using YouTube. So here's how
+- [15:09] it works. We have short form content
+- [15:12] that links to long form content that
+- [15:14] links to a lead form on my website. So
+- [15:17] think short form, long form, lead form.
+- [15:20] So step one, short form content. So,
+- [15:23] here's what we want to do. Short form
+- [15:24] content is about 30 to 60 seconds. We're
+- [15:27] going to do pain, we're going to do
+- [15:29] prize, and we're going to do news. Every
+- [15:33] single day, we're going to pick one of
+- [15:34] those three. Something that's painful,
+- [15:37] something that would be desirable, or
+- [15:38] something that's happening in the news
+- [15:39] right now. And we're going to create a
+- [15:41] 30 to 60sec short form video or short
+- [15:44] form post that is going to go out on
+- [15:46] YouTube, and it's going to hook people's
+- [15:47] attention. And when they watch that
+- [15:49] short form content, it's going to link
+- [15:51] to this long form content. Now, my short
+- [15:53] form content gets unbelievable amounts
+- [15:55] of views. Sometimes I release a little
+- [15:58] video and it gets a,000 views and
+- [15:59] sometimes it gets a million views. And
+- [16:02] all of the ones that have done so, so
+- [16:04] well, they lead in with pain, prize, or
+- [16:06] news. Now, you can go through my short
+- [16:08] form videos on my channel and you can
+- [16:10] just have a look at them and go, that is
+- [16:11] a pain one, that is a prize one, that is
+- [16:14] a news one. Right? You can start to
+- [16:15] decode the way that I've done my short
+- [16:17] form videos. Now, when someone sees one
+- [16:19] of the short form videos, they think,
+- [16:20] "Who is that person? And how do I get a
+- [16:22] little bit more of that?" They click
+- [16:23] over to your channel, and that's where
+- [16:25] they're going to see your long form
+- [16:26] videos. So, the long form videos are
+- [16:28] going to focus on process,
+- [16:32] principles,
+- [16:36] and case studies. Now, these videos are
+- [16:38] going to be 6 minutes to 90 minutes.
+- [16:42] We're going to be talking to the ICP in
+- [16:44] step one. We're going to be leveraging
+- [16:45] the framework in step two. We're going
+- [16:48] to be using the scripting tools that we
+- [16:49] talked about in step three. And we're
+- [16:51] going to be putting that into these
+- [16:52] long- form videos that go for 6 to 90
+- [16:54] minutes in this step here. Now, you
+- [16:56] don't have to do lots of long form
+- [16:58] videos. You could do one long form video
+- [17:00] per month, so long as every single day
+- [17:03] or every other day, you're doing short
+- [17:05] form videos that link back to your long
+- [17:07] form videos. I've seen really successful
+- [17:09] channels where they do one or two long
+- [17:12] form videos per quarter, but they do
+- [17:14] short form videos every day. Those short
+- [17:16] form videos drive views to the long form
+- [17:18] videos, and those long form videos drive
+- [17:20] people over to this lead form. At the
+- [17:22] end of the long form video, we're going
+- [17:24] to do a call to action to a lead form. A
+- [17:26] lead form is where people click a link
+- [17:28] and fill in a form. They probably will
+- [17:30] give their name, email, and location.
+- [17:32] They may even answer a few questions
+- [17:34] about themselves. They're registering
+- [17:36] for something. So, for me personally, I
+- [17:38] love registering people for workshops. I
+- [17:41] have mini courses. My personal favorite
+- [17:43] is the online assessment. Sometimes if
+- [17:46] I'm launching something new, I get
+- [17:47] people to join a weight list or I've
+- [17:49] even been getting people to join an
+- [17:51] online discussion group. Now, the lead
+- [17:53] form, we use scoreapp.com for all of
+- [17:56] that. Of course, I would. I'm a
+- [17:57] co-founder, but you should, too. And the
+- [17:59] reason for that is it makes it super
+- [18:01] easy to have a landing page, to have an
+- [18:03] opt-in form, to ask people five or six
+- [18:06] questions, and then to register them for
+- [18:08] whatever it is that you're offering.
+- [18:09] Here's a few key principles I want you
+- [18:11] to keep in mind. Principle one on short
+- [18:13] form content, people notice you for the
+- [18:16] first time when they see you for the
+- [18:17] 11th time. You've got to put a body of
+- [18:19] work out there so that people start to
+- [18:21] notice you. If you do this once every
+- [18:23] month, it's going to take a year for
+- [18:24] people to actually clock that you even
+- [18:26] exist. Principle number two, people get
+- [18:28] to know you, like you, and trust you
+- [18:30] across about two hours worth of content.
+- [18:32] So, you've got to have at least a couple
+- [18:34] of hours worth of content available on
+- [18:36] your YouTube channel for this to become
+- [18:38] a reliable content marketing machine.
+- [18:40] And then people buy from you when they
+- [18:42] first get positive experiences that
+- [18:44] didn't cost them anything at all. So,
+- [18:46] make sure that your lead form is giving
+- [18:48] people value straight away. Let them
+- [18:50] enjoy a workshop. Let them register for
+- [18:52] a book. Get them in a discussion group.
+- [18:54] give them a great online assessment
+- [18:56] experience, something positive to start
+- [18:58] with that then leads into a sale. Like
+- [19:01] any flywheel approach, this takes a
+- [19:03] little bit of effort to get started, but
+- [19:04] once it's rolling, it's almost
+- [19:06] impossible to turn it off. In fact, last
+- [19:09] month, I generated 12,000 really warm
+- [19:12] leads just from this strategy alone.
+- [19:14] Some research just came out that really
+- [19:16] validates this whole approach. What they
+- [19:18] did is they did some A versus B testing.
+- [19:20] They took some podcasts and those
+- [19:22] podcasts were getting 10,000 views per
+- [19:25] episode. They took the same podcast,
+- [19:28] they clipped it up into 10 short form
+- [19:30] video clips that led into that podcast
+- [19:32] and the view count went through to the
+- [19:34] millions. So if you just simply do long
+- [19:37] form content alone, you get 10,000
+- [19:39] views. You do long form content with
+- [19:41] short form content that leads into it
+- [19:43] and you get a million views. Two orders
+- [19:46] of magnitude more impact. It's the short
+- [19:48] form into the long form that really
+- [19:50] drives the growth of the channel and
+- [19:52] then it's the clicking over to the lead
+- [19:55] form that drives the growth of your
+- [19:57] business. If you've never tried Score
+- [19:59] app before, there'll be a link below.
+- [20:01] You can set up a free account on Score
+- [20:03] app and you can immediately use our AI
+- [20:05] tools to set up a lead form that
+- [20:07] captures really amazing data and
+- [20:09] customer insights all in one go. It'll
+- [20:11] take you less than a few minutes to get
+- [20:13] this set up. So, there you have it.
+- [20:15] There's my framework for creating a
+- [20:17] YouTube channel as a marketing campaign.
+- [20:19] But ultimately, there's an even bigger
+- [20:21] reason to do this. And the bigger reason
+- [20:23] is the power of your personal brand.
+- [20:25] It's positioning you as a key person of
+- [20:27] influence. The most important thing as
+- [20:29] we go into a post AI world is that you
+- [20:31] are known, liked, and trusted at scale.
+- [20:33] You need to position yourself as a key
+- [20:35] person of influence. All the data and
+- [20:37] all the research is saying that
+- [20:39] founderled growth is the number one
+- [20:41] strategy for growing a business. If
+- [20:43] you're not building your personal brand
+- [20:44] as a key person of influence, you're
+- [20:46] leaving huge amounts of growth on the
+- [20:48] table. And this YouTube channel approach
+- [20:50] is one of the ways that you will be
+- [20:52] building yourself as a key person of
+- [20:54] influence. Now, if you want to double
+- [20:55] down on that strategy, I'm running a
+- [20:57] workshop in the week ahead, which is the
+- [20:59] key person of influence workshop, and
+- [21:01] I'd love to see you there. There'll be a
+- [21:02] link below. Now, for this video, I've
+- [21:04] put together a document. It's a PDF
+- [21:06] document that covers everything we've
+- [21:08] covered in this strategy. It covers some
+- [21:10] AI prompts so that you can download the
+- [21:13] document and start implementing this
+- [21:14] strategy. You don't have to remember
+- [21:16] everything. It'll all be in the
+- [21:18] document. So, click the link below and
+- [21:19] download the PDF that is the summary of
+- [21:22] this with all the strategy summarized
+- [21:23] and all the AI prompts in one place. I
+- [21:26] hope you've enjoyed this video, but I
+- [21:27] really look forward to seeing your video
+- [21:29] on YouTube that is growing your
+- [21:31] business. I'll see you next time.

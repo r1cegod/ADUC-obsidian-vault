@@ -2,7 +2,7 @@
 type: note
 title: Duc OS Session Protocol
 created: '2026-04-29'
-updated: '2026-04-29'
+updated: '2026-05-01'
 tags:
   - context
   - workflow
@@ -134,10 +134,42 @@ When Duc says KICKSTART or asks what to do today:
 2. Discuss and pressure-test before locking.
 3. Pick one main lane.
 4. Define first physical action and done signal.
-5. Only then execute or delegate.
+5. Ask for or receive explicit execution confirmation.
+6. Only then execute or delegate.
 ```
 
 KICKSTART is not a todo list. It is a daily leverage compass.
+
+### Execution Confirmation Gate
+
+Do not treat a well-reasoned lane decision as permission to run tools, patch code, or trigger evals. Discussion can name a likely first physical action, but execution starts only after Duc explicitly confirms the lane or asks to continue into action.
+
+```text
+discuss
+  -> pressure-test
+  -> propose locked lane
+  -> wait for confirmation
+  -> execute
+```
+
+If the agent has already touched code, run commands, or written durable artifacts during a supposed discussion block, stop immediately, report what happened, and repair the operating rule before continuing.
+
+### Compressed Request Trap
+
+When Duc gives a compressed implementation list during KICKSTART, do not immediately expand it into code execution.
+
+```text
+compressed desire
+  -> decode intended leverage
+  -> identify hidden router / operation need
+  -> pressure-test order and forbidden lanes
+  -> propose lock only after the first physical action is clear
+  -> wait for Duc's execution confirmation
+```
+
+If the phrase includes multiple tempting wires, especially project work like eval + ranker + Tier 2, treat it as `DISCUSSING` until the highest-leverage lane is named and Duc confirms execution. The agent should look back at its own routing before touching code when Duc flags process leverage.
+
+This is also token discipline. Decode the route before loading leaf detail; do not spend context on repo files, eval traces, prompt contracts, architecture notes, or source evidence until the locked lane proves those files are needed.
 
 ## Communication Style
 

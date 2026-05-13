@@ -1,0 +1,1068 @@
+---
+type: source
+title: "25 Years of Money Advice in 31 Minutes"
+source: youtube
+channel: "Daniel Priestley"
+channel_id: UCABR204CFV9ZoMz69TyspzA
+video_id: FWBl8RtnQRE
+url: https://www.youtube.com/watch?v=FWBl8RtnQRE
+published_at: "2026-03-19T12:52:21Z"
+duration_seconds: 1905
+fetched_at: 2026-05-04T06:15:03Z
+transcript_status: fetched
+transcript_language: "en"
+ingest_run: daniel-priestley-youtube-2026-05-04
+---
+
+# 25 Years of Money Advice in 31 Minutes
+
+> Raw transcript evidence for vault-level Daniel Priestley YouTube ingest. Do not treat this as compiled knowledge; use source cards and synthesis pages for durable claims.
+
+## Source Metadata
+- url: https://www.youtube.com/watch?v=FWBl8RtnQRE
+- channel: Daniel Priestley
+- published_at: 2026-03-19T12:52:21Z
+- duration_seconds: 1905
+- fetched_at: 2026-05-04T06:15:03Z
+
+## Transcript
+
+- [00:00] This week I turned 45 years old and
+- [00:02] today I want to run through the best
+- [00:03] lessons I've had in the last 25 years.
+- [00:05] What do I wish I knew 25 years ago
+- [00:08] having 25 years of business and
+- [00:11] adulthood. I started out as an
+- [00:12] entrepreneur in my early 20s. I built
+- [00:14] seven startups that went from 0 to a
+- [00:16] million in their first 12 months. I've
+- [00:18] helped three businesses that went north
+- [00:20] of 10 million in valuation. I've crashed
+- [00:22] businesses where I had to start again.
+- [00:24] I've done that multiple times. I've had
+- [00:25] an amazing marriage. I've had three
+- [00:27] kids. And I've had multiple billionaire
+- [00:30] mentors that I've spent actual hangout
+- [00:32] time with. I've traveled the world. I've
+- [00:34] been on private jets and big fancy
+- [00:35] yachts. I've backpacked through jungles.
+- [00:38] So, from all of that, I've learned lots
+- [00:40] of different lessons. And today, I want
+- [00:41] to run through all of my heristics, all
+- [00:43] of the key ideas that I've learned in
+- [00:44] the last 25 years that I would love to
+- [00:46] go back and share with someone in their
+- [00:48] early 20s is just getting started. In
+- [00:50] fact, the last lesson I want to share
+- [00:51] with you in this video, it's going to be
+- [00:53] a little bit emotional for me to share.
+- [00:54] Oh, this one makes me emotional. So,
+- [00:57] let's go through them one at a time
+- [01:00] in no particular order, but I'm going to
+- [01:02] start with this harsh truth. You get
+- [01:03] what you pitch for, and you're always
+- [01:05] pitching. So, let me be really blunt
+- [01:06] with you. I don't think you're pitching
+- [01:08] big enough. I really do not think that
+- [01:10] you are expressing who you really are in
+- [01:12] the world. I think that you contain
+- [01:14] really incredible insights. I think
+- [01:15] you've got great opinions. I think
+- [01:17] you've got great ways that you would
+- [01:19] love to steer the ship, but you're not
+- [01:20] telling people. You're not talking to
+- [01:22] people, or you're telling them in a
+- [01:23] soft, gentle way. you're not pitching it
+- [01:25] into existence. What I wish I could say
+- [01:27] to you if you're a 20-year-old Dan is
+- [01:29] get off the fence and start pitching
+- [01:31] things into reality. Harsh truth number
+- [01:33] two is prolific beats perfect. See, what
+- [01:35] I think is holding you back is that you
+- [01:37] just want to put something out that
+- [01:38] everyone loves and you're just scared of
+- [01:40] what people are going to say if you put
+- [01:41] something out that's a little bit
+- [01:42] mediocre or that's not great. You must
+- [01:45] get over this. Please, I'm begging you,
+- [01:47] put more stuff out there. If people
+- [01:49] don't like it, it's just data. The truth
+- [01:51] is in the age of algorithms, the stuff
+- [01:53] that's no good won't get traction
+- [01:55] anyway. Only a few hundred people are
+- [01:56] going to see it. It's only the stuff
+- [01:58] that's good that takes off. So the more
+- [02:00] stuff you put out there, the good stuff
+- [02:02] has an opportunity to rise to the top.
+- [02:04] Be more bold. Be more brave. Get more
+- [02:06] stuff out there. For me personally, I've
+- [02:08] written seven different books and I've
+- [02:09] co-authored a few as well. I've put out
+- [02:11] hundreds of different videos on YouTube.
+- [02:13] Some of them get great views, some of
+- [02:15] them not so much. You might have seen me
+- [02:16] on Diary of a CEO or Ali Abdal's podcast
+- [02:19] which got millions of views. If you look
+- [02:21] a little deeper, I've done hundreds of
+- [02:23] podcasts that got less than 200 views.
+- [02:25] And what I've discovered is failure or
+- [02:27] mediocracy is not the opposite of
+- [02:29] success. It's the leadup to success.
+- [02:31] It's a key ingredient of success. You
+- [02:33] can't have success without medioc.
+- [02:37] Here's the harsh truth. Older
+- [02:38] generations got the opportunity to buy
+- [02:40] property for cents on the dollar. And
+- [02:41] it's unbelievably unfair how difficult
+- [02:44] it is to get on the housing ladder. It's
+- [02:45] so unfair how difficult it is to buy
+- [02:48] into stock markets that are massively
+- [02:50] inflated at the moment in many cases. A
+- [02:52] lot of the traditional assets, the
+- [02:54] traditional ways that your parents and
+- [02:55] grandparents became wealthy and became
+- [02:57] rich and no longer accessible to younger
+- [02:59] generations. But here's the good news.
+- [03:01] This new generation has this new
+- [03:03] completely different type of asset. An
+- [03:05] asset is anything that adds value
+- [03:07] regardless of what you're doing. If
+- [03:08] you've got a book out there on Amazon,
+- [03:10] that is an asset that's adding value
+- [03:12] regardless of what you're doing. If
+- [03:13] you've got a YouTube video that's
+- [03:15] winning you business and bringing you
+- [03:16] clients, that's an asset that's doing
+- [03:18] things regardless of where you are.
+- [03:19] Whether you're on holiday or whether
+- [03:21] you're taking the dog for a walk, that
+- [03:22] video is out there winning business for
+- [03:24] you. These are new economy assets that
+- [03:26] you can buy really, really cheap. Your
+- [03:28] children and your grandchildren will
+- [03:30] say, "I cannot believe how lucky you
+- [03:32] were to be alive at the time when
+- [03:33] YouTube was just getting started, to be
+- [03:35] alive at the time where podcasts were in
+- [03:37] their infancy, to be alive at a time
+- [03:38] where you could put a book on Amazon
+- [03:40] relatively easy." Right? So there's
+- [03:42] these new economy assets, this
+- [03:43] intellectual capital turned into digital
+- [03:45] assets. That is your opportunity. And
+- [03:48] also those assets will then lead to
+- [03:50] being able to buy the more established
+- [03:52] assets. The first 15 years of my career
+- [03:54] was all about building digital assets
+- [03:56] that gave me enough money to then
+- [03:57] transfer some of that wealth into
+- [03:59] traditional assets. Please do not dwell
+- [04:02] about the opportunities that your
+- [04:03] parents and grandparents had. Get into
+- [04:05] the opportunities that are right for
+- [04:06] you. There are assets that you can own
+- [04:08] that cost you almost nothing to create.
+- [04:10] The next harsh truth is most
+- [04:11] opportunities are downstream from
+- [04:12] attention. Without attention, you can't
+- [04:14] make an opportunity come to life. The
+- [04:16] really harsh truth is that you have a
+- [04:17] business idea, you want to get it in
+- [04:19] front of people. You want to raise
+- [04:20] money, you've got to get in front of
+- [04:21] people. You want to sell products,
+- [04:22] you're going to have to get in front of
+- [04:23] people. Getting in front of people is a
+- [04:25] massive skill. Getting in front of
+- [04:27] people is an essential ingredient to
+- [04:29] success. There is no point being a hero
+- [04:31] in the eyes of your dog and your cat,
+- [04:32] and nobody else knows who you are. In
+- [04:34] order to be successful, you have to get
+- [04:36] attention. There are people who are
+- [04:38] massive introverts. Richard Branson is a
+- [04:40] massive introvert. I've met him. I've
+- [04:42] spent time with him. He's an introvert.
+- [04:43] Tim Cook is a massive introvert. He was
+- [04:46] able to hide in the shadow of Steve Jobs
+- [04:47] for many, many years until such time as
+- [04:50] he had to get out there and get the
+- [04:51] attention for Apple. These people,
+- [04:53] they're introverts, but they understand
+- [04:55] the power of attention. Getting in front
+- [04:56] of the right people is half the battle.
+- [04:58] Now, you sit there and tell yourself a
+- [05:00] story that you're not born into the
+- [05:01] right family. You're not born into the
+- [05:03] right location. Stop hiding. Stop
+- [05:05] playing small. Stop sitting in the
+- [05:07] shadows. Stop waiting for someone to
+- [05:09] point at you and say, "It's your turn."
+- [05:10] Or let me in this video point at you
+- [05:13] right now and say, "It's your turn." Get
+- [05:15] out there. Get in front of the people
+- [05:16] that you need to be in front of in order
+- [05:18] for your ideas to come to life. I have
+- [05:20] no qualifications. I have no special
+- [05:22] skills. And yet, I put myself out there
+- [05:25] and I say, "You know what? I'm going to
+- [05:26] write a book. I'm going to put some
+- [05:27] YouTube videos out there. I'm going to
+- [05:29] get myself on podcasts. I'm going to get
+- [05:30] in front of the right people." The more
+- [05:32] I've been able to capture attention, the
+- [05:34] more I've been able to grow and scale my
+- [05:36] ideas into reality. The next one is
+- [05:38] everything is a team sport. Everything
+- [05:40] that you want is a team sport. Even when
+- [05:41] you see a solo tennis player playing
+- [05:43] tennis by themselves on the court behind
+- [05:45] the scenes is an amazing
+- [05:47] physiootherapist, an amazing coach, an
+- [05:49] amazing assistant, right? Everything is
+- [05:51] a team sport. Half the battle of
+- [05:53] succeeding in life is recruiting the
+- [05:55] right team. You've got to get people
+- [05:57] onto your team. You cannot do it all on
+- [05:59] your own. I have never worked in
+- [06:01] isolation. I've never been on my own.
+- [06:02] When I was just starting out, I
+- [06:04] recruited people onto my team. Now, who
+- [06:06] did I recruit onto my team? People who
+- [06:08] didn't have many opportunities. Now,
+- [06:10] when most people think about recruiting
+- [06:11] a team, they think about hiring someone
+- [06:13] who's ex Google or ex JP Morgan, but the
+- [06:15] person at the local bar or pub is going
+- [06:17] to quit their job and come and work with
+- [06:18] you. That door-to-d dooror salesperson
+- [06:20] who's looking for something better will
+- [06:22] quit their job and come and work with
+- [06:23] you. Everything's a team sport. If you
+- [06:25] want to scale a company, you probably
+- [06:26] need some mentors, some angel investors,
+- [06:28] some salespeople to join your team. If
+- [06:30] you want to get fit and healthy, you're
+- [06:32] probably going to need a team of people
+- [06:33] around you who want to go on a fit and
+- [06:35] health challenge. Stop thinking that you
+- [06:36] can do this in isolation. Stop thinking
+- [06:38] that first you'll become successful on
+- [06:40] your own and then you'll start hanging
+- [06:41] out with the right people. First you
+- [06:43] build a team, then you become
+- [06:45] successful. I don't have any skills and
+- [06:47] I also have a fairly fleeting attention
+- [06:49] span. I leverage people around me who
+- [06:51] can get things done. I want you to
+- [06:52] pretend that you have no skill other
+- [06:54] than the skill of recruiting people onto
+- [06:56] your team. What if all of your success
+- [06:57] came from recruitment? Picking people to
+- [06:59] come and join your team, on boarding
+- [07:01] them, inspiring them, getting them
+- [07:03] aligned, giving them a vision, getting
+- [07:05] them all rowing in the same direction.
+- [07:07] Right? If that was your only skill, that
+- [07:08] would be enough. That leads into the
+- [07:10] next harsh truth that alignment is a
+- [07:12] form of magic. Getting people aligned to
+- [07:14] the same vision is an incredible form of
+- [07:16] magic. Unbelievable things take place if
+- [07:19] you can get a team of people into
+- [07:20] alignment. What does that actually mean?
+- [07:22] It just means that a group of three,
+- [07:23] four, five people all want the same
+- [07:25] things in the next 3 years. A group of
+- [07:27] people are all excited to achieve an
+- [07:29] outcome. A group of people are all
+- [07:31] excited to solve a problem. If you can
+- [07:33] be the person who gets a group of people
+- [07:34] into alignment, you will create magic.
+- [07:37] One of the craziest things is when you
+- [07:38] start a major project absolutely not
+- [07:40] knowing how the hell to do it or what's
+- [07:42] going to unfold, but just simply getting
+- [07:44] a team of people into alignment that
+- [07:46] together we're going to solve these
+- [07:47] problems. together we're going to get
+- [07:49] these outcomes. It unlocks magical
+- [07:51] things that you could never have
+- [07:52] predicted will happen. Alignment is
+- [07:54] truly a form of magic. I would go so far
+- [07:56] as to say if the people around you are
+- [07:58] not aligned to the same goals, it's
+- [08:00] almost impossible to succeed. What I
+- [08:02] would say to 20-year-old Dan is take the
+- [08:04] time to get people into alignment. Go
+- [08:06] out to that cafe, sit around the table
+- [08:09] with eight people, tell them your
+- [08:11] vision, tell them what you want to
+- [08:12] achieve, tell them problems that you
+- [08:13] want to solve, and see if you can get
+- [08:15] the people to stay at the table and say
+- [08:17] that they're committed to being part of
+- [08:18] that team and that they're aligned to
+- [08:20] it. I would also say to 20-year-old Dan,
+- [08:22] don't try and hoard success to yourself.
+- [08:24] Get other people to feel that if they
+- [08:26] succeed, they get to share in the
+- [08:27] success. We're all going to create this
+- [08:28] together. Give people opportunities to
+- [08:30] earn more money, to have more ownership,
+- [08:32] to have more fun, to achieve bigger
+- [08:34] goals, to take the credit. And if you
+- [08:36] can get other people into alignment so
+- [08:38] that they get all those benefits as
+- [08:40] well, you all get to achieve way more
+- [08:42] than you could on your own. The next
+- [08:44] harsh truth, life is an energy game. Low
+- [08:46] energy, low results. Negative energy,
+- [08:48] negative results. Positive energy,
+- [08:50] positive results. Optimism, great
+- [08:52] results. You might sound super smart as
+- [08:54] a pessimist, but guess what? The
+- [08:56] optimists win the game. The optimists
+- [08:58] win the game because they have positive
+- [08:59] energy. And positive energy attracts
+- [09:01] positive things into their lives. It
+- [09:03] attracts the people who say, "I'm up for
+- [09:05] that challenge. I'm ready to go for it."
+- [09:07] Negative people, people say, "You know
+- [09:08] what? You sound intelligent. You sound
+- [09:10] right. You sound like you know what
+- [09:11] you're talking about, but I don't want
+- [09:12] to join your team. I don't want to
+- [09:14] invest any money behind you. I don't
+- [09:15] want to send anybody over your way. Even
+- [09:18] though you sound like you're smart, I'm
+- [09:19] not going to allow you to succeed."
+- [09:21] Whereas the people who have good energy,
+- [09:23] they're the ones who get good results. I
+- [09:24] am seeing so many young people at the
+- [09:26] moment who have bought into the negative
+- [09:28] news and the negative algorithms.
+- [09:29] They've not stopped to think about the
+- [09:31] fact that those algorithms are fueled by
+- [09:33] outrage. They are fueled by negative
+- [09:35] energy. The human brain is twothirds
+- [09:37] optimized for negativity over
+- [09:39] positivity. You've got to make a
+- [09:40] conscious decision that you want to have
+- [09:42] good energy. You have to be the person
+- [09:43] who blocks out those negative
+- [09:45] algorithms. Recently, I was blowing up
+- [09:47] on X.com. I was getting literally
+- [09:49] hundreds of thousands of views, but it
+- [09:51] was causing me negative energy. was
+- [09:52] causing me to be down a rabbit hole of
+- [09:55] negativity. I called up my team and I
+- [09:57] said, "I want you to change the password
+- [09:58] on my ex account. Lock me out of it.
+- [10:00] Don't tell me the password. I need to
+- [10:02] get off this platform because it's too
+- [10:04] negative." Ever since doing that, boom,
+- [10:06] my energy levels are back up. I'm
+- [10:08] positive about the world again and I'm
+- [10:09] out there achieving positive things for
+- [10:11] my life. You know what? The world has
+- [10:13] plenty of positivity and it also has
+- [10:14] plenty of negativity. You get to choose
+- [10:16] which stream you want to jump into. Do
+- [10:18] you want to jump into the stream of
+- [10:20] negativity or do you want to jump into
+- [10:21] the stream of positivity? Now, when I
+- [10:22] say life is all an energy game, there's
+- [10:24] a deeper layer to this as well. There's
+- [10:26] actually five energies. There's the
+- [10:27] energy of purpose and vision. There's
+- [10:30] the energy of a strategic approach.
+- [10:32] There's the energy of the right people,
+- [10:34] getting the right people aligned, uh
+- [10:36] connecting with people, sharing stories.
+- [10:39] There's the energy of rolling up your
+- [10:41] sleeves and getting stuff done. Work,
+- [10:43] work, work, work, work. Like, get it
+- [10:45] done. Do the work that needs to be done.
+- [10:47] And there's the energy of refinement.
+- [10:49] Look at the data. Figure out a better
+- [10:50] way. Come up with a system. You need an
+- [10:52] approach where you figure out which
+- [10:54] energy am I in right now and which
+- [10:55] energy do I need to be in right now and
+- [10:57] how do I shift gearing to that energy?
+- [10:59] Now, I'm not talking about the law of
+- [11:00] attraction and manifestation. A lot of
+- [11:02] people take that to mean that you sit in
+- [11:04] your bedroom writing down your vision
+- [11:06] and your goals and you're not talking to
+- [11:07] anyone and you're not pitching anything
+- [11:09] and you're not taking any action. Yes,
+- [11:11] there is an energy called purpose and
+- [11:13] vision, but that energy is nothing
+- [11:14] without the other four energies. The
+- [11:16] next harsh truth may upset you and that
+- [11:18] is environment dictates performance. The
+- [11:20] environments that you show up in dictate
+- [11:22] how the rest of your life is going to
+- [11:23] play out. I have personally gone into
+- [11:25] prisons and I've worked with people who
+- [11:27] are prison inmates. I've worked with
+- [11:29] people who are drug dealers and I've
+- [11:30] spent my time helping to mentor them
+- [11:33] that if they keep showing up in the
+- [11:34] environment of drug dealing, they will
+- [11:36] go back to drug dealing. They'll end up
+- [11:38] back in prison. I also tell them that
+- [11:39] the entrepreneurial spark that sits
+- [11:41] within them that allows them to be a
+- [11:43] successful drug dealer could also allow
+- [11:46] them to build a legitimate business
+- [11:47] that's wildly successful. But the key
+- [11:49] thing that I tell them is environment
+- [11:50] dictates performance. You have to get
+- [11:52] yourself into an environment where
+- [11:54] legitimate businesses are being built.
+- [11:56] So I tell these ex drug dealers that
+- [11:58] when they get out of prison, they don't
+- [12:00] go back to the same places that they
+- [12:01] used to go back to. They go to a
+- [12:03] different part of town. They start
+- [12:04] networking in angel investor circles.
+- [12:06] They go to a high net worth bank and go
+- [12:08] to events that are being put on there.
+- [12:09] They join a business membership and
+- [12:11] start meeting legitimate business
+- [12:12] people. They get themselves enrolled in
+- [12:14] a tech incubator or a tech accelerator
+- [12:16] and they start getting around tech
+- [12:17] entrepreneurs. They stop listening to
+- [12:19] certain types of music that glorify
+- [12:20] their old life and they start listening
+- [12:22] to podcasts that talk about strategies
+- [12:25] for the new life that they want. So I
+- [12:26] talk about this idea of environment
+- [12:28] dictates performance. In the right
+- [12:30] environment, everything changes. Now for
+- [12:32] me personally in my early 20s, someone
+- [12:34] dragged me along to a dance class. I had
+- [12:36] never even thought of going to a dance
+- [12:38] class in my life. And it was the most
+- [12:39] embarrassing thing turning up to a dance
+- [12:41] class for the first time. Little did I
+- [12:43] realize this was one of the most
+- [12:45] unbelievably cool environments I could
+- [12:47] have ever been part of. Within my first
+- [12:49] lesson, I'm spinning girls around and
+- [12:51] I'm doing dips and I'm discovering all
+- [12:53] of these moves. 3 years later of doing
+- [12:55] three dance classes a week for 3 years,
+- [12:58] I've got this incredible skill and
+- [13:00] dancing is just the most normal thing in
+- [13:01] the world. But that never would have
+- [13:03] happened if I hadn't have shown up and
+- [13:04] put myself in an environment that felt
+- [13:06] really awkward in week one but felt
+- [13:08] totally natural in week 10. So here's
+- [13:10] the thing. You are holding yourself back
+- [13:11] because you don't show up into
+- [13:13] environments that make you feel
+- [13:14] uncomfortable. You resist showing up in
+- [13:16] environments that you are the smallest
+- [13:18] person in the room. And I want you to
+- [13:19] say to yourself, if I was the best
+- [13:21] version of myself, what are the types of
+- [13:22] environments that I would be showing up
+- [13:24] in a regular basis? The next harsh
+- [13:25] truth, this is the greatest time ever to
+- [13:28] be alive. Now, I'm hearing a lot of
+- [13:29] people at the moment, they're like, "Oh
+- [13:31] my goodness, the world's such a horrible
+- [13:33] place. The politics, houses are so
+- [13:36] expensive, and there's not great jobs
+- [13:38] anymore." And all these kind of things.
+- [13:40] Shut up. If we took a long line of the
+- [13:42] last thousand ancestors that you had
+- [13:44] that lived on this planet, and they had
+- [13:46] a chance to push a button and swap
+- [13:48] places with you to live in this time,
+- [13:50] they would push it as fast as they
+- [13:52] humanly could. This would not even be a
+- [13:54] question. Not long ago, tuberculosis
+- [13:56] killed 25% of the population. Not long
+- [13:59] ago, most men worked down a coal mine.
+- [14:01] They worked on a fishing boat. They
+- [14:03] worked in the military getting shot at.
+- [14:05] Life has been horrible for centuries.
+- [14:08] And finally, we have this incredible
+- [14:10] moment where you can share a message
+- [14:12] with the world. You can connect with any
+- [14:14] group of people. You can learn from
+- [14:16] anyone on the world. Everything you want
+- [14:18] to know, ChatGBT is there to tell you
+- [14:20] about it. You've got a lawyer in your
+- [14:21] pocket. You got a doctor in your pocket.
+- [14:23] You've got every PhD ever written fully
+- [14:26] accessible to you. Oh my goodness. This
+- [14:28] is the most mind-blowing time in the
+- [14:30] world. Do not glamorize the past. There
+- [14:33] was all the same horrible stuff that
+- [14:35] we've got today, except they didn't have
+- [14:36] algorithms for speeding it to them.
+- [14:38] You've got to get control of the
+- [14:40] algorithm in your head and say, "You
+- [14:41] know what? I've been born at the most
+- [14:43] incredible time in history. I'm not
+- [14:45] going to waste this opportunity dwelling
+- [14:46] on the negative stuff." Now, if I was to
+- [14:48] talk to 20-year-old Dan, he kind of got
+- [14:49] it, but he didn't go all in on it. He
+- [14:51] kind of noticed that YouTube was
+- [14:53] emerging, but he didn't go all in for
+- [14:55] another 15 or 20 years. He kind of saw
+- [14:57] that digital businesses were a
+- [14:58] superpower, but he didn't go all in for
+- [15:00] the next 15 years. And I would say, my
+- [15:02] goodness, don't just like
+- [15:04] intellectualize it. Really own it and go
+- [15:06] all in on it. We are living in
+- [15:08] incredible times, young Dan. Make the
+- [15:11] most of it. Go all in. Kick the damn
+- [15:13] doors off the hinges. Okay. The next
+- [15:14] lesson is about how money has a
+- [15:16] language. There is a language that goes
+- [15:18] around money and if you speak that
+- [15:19] language, money just opens up to you.
+- [15:21] The language is called the language of
+- [15:22] opportunity, not the language of
+- [15:24] requests. I see so many young people who
+- [15:26] have a request for the world. I'm
+- [15:28] passionate and I want some money to go
+- [15:30] lift my passion. That is a self-centered
+- [15:32] language around what you want. Money
+- [15:34] doesn't speak that language. Money
+- [15:36] speaks the language of the opportunity
+- [15:38] for the person who puts the money in.
+- [15:39] Money moves around certain documents.
+- [15:42] There are certain documents that if you
+- [15:43] have that document, you get to make more
+- [15:45] money. At a very simple level, if you
+- [15:47] create a product brochure or a landing
+- [15:50] page, you get to sell products. If you
+- [15:52] create a pitch deck, you get to raise
+- [15:54] money. The number one reason why people
+- [15:56] get stuck around money is because they
+- [15:57] don't speak the language of money. If
+- [15:59] you want to have money, you need to
+- [16:00] learn how to speak the language of
+- [16:02] money. You need to know the structures.
+- [16:03] You need to know the documents. You need
+- [16:05] to do your research into how money
+- [16:07] works. It sucks, but money is going to
+- [16:09] be a massive part of your life for the
+- [16:11] rest of your life. All the things you
+- [16:13] want to do are going to involve money
+- [16:14] other than maybe meditation. So why not
+- [16:17] invest a little bit of time ASAP to
+- [16:19] understand just how money works? What
+- [16:21] are the different structures in the
+- [16:22] economy? How is a company different from
+- [16:24] a trust, different from an individual?
+- [16:26] What are the tax implications of all of
+- [16:28] those structures? How do you raise money
+- [16:30] if you need money? If you've got a big
+- [16:31] idea, but it needs $500,000, how do you
+- [16:33] get your hands on $500,000? I promise
+- [16:36] you, it's not because you're passionate.
+- [16:37] It's not because you want it. It's not
+- [16:39] because you need it. It's not because
+- [16:40] you requested it. It's because you know
+- [16:42] how to speak the language of
+- [16:43] opportunity. When I was 24 years old, I
+- [16:46] got offered to buy my company for $14
+- [16:48] million. And it was an incredible
+- [16:49] opportunity, but I didn't know how to
+- [16:51] handle that. I didn't know the
+- [16:52] documents. I didn't know the structures.
+- [16:53] And the deal fell through. I didn't get
+- [16:55] $14 million that I could have gotten at
+- [16:58] age 24. And it was simple. I didn't have
+- [17:00] a mentor who steered me in the direction
+- [17:01] of talking that level of money. And
+- [17:04] because I didn't have all the things in
+- [17:05] place, the deal didn't go ahead. I
+- [17:07] learned that lesson the hard way. And I
+- [17:09] don't want you to learn the lesson the
+- [17:10] hard way. I want you to be ready for
+- [17:12] those big opportunities that come along.
+- [17:13] This brings me to my next harsh truth.
+- [17:15] There is gold in gray hair. Most of the
+- [17:18] problems that you're going to face,
+- [17:19] somebody's faced them before. If you
+- [17:21] were to sit down with someone who's 50
+- [17:23] or 60 years old, who's been 10, 20, 30
+- [17:25] years on the planet longer than you
+- [17:27] have, who's faced this thing, who's seen
+- [17:28] it before, who's seen it a dozen times
+- [17:30] before, you would discover that some of
+- [17:32] your biggest problems have easy
+- [17:34] solutions. You are not spending enough
+- [17:36] time around older people. They sound a
+- [17:38] little bit different. Some of their
+- [17:39] values aren't aligned to your values.
+- [17:40] Some of their language is out of date,
+- [17:42] but I promise you, there is golden gray
+- [17:44] hair. I have learned so much by having
+- [17:47] mentors over the age of 60. When I was
+- [17:49] in my 20s, I had mentors who were 60
+- [17:51] plus. It is incredible how much you can
+- [17:53] fast track your life if you just sit
+- [17:55] down with someone who's 15 or 20 years
+- [17:57] older and ask them, "Have you faced this
+- [17:59] before? Or do you know someone who's
+- [18:00] faced this several times before? Who can
+- [18:02] you put me in touch with that helps me
+- [18:04] to solve this?" For thousands and
+- [18:05] thousands of years, we understood the
+- [18:07] value of having elders in our tribe. We
+- [18:08] knew that we used to go to elders in
+- [18:10] order to extract the wisdom that they
+- [18:12] had. And we've lost that ability. We
+- [18:14] think that everything is on the
+- [18:15] internet. Everything's chat GBT. Well, I
+- [18:17] promise you, you will discover that
+- [18:19] people with gray hair have gold. They
+- [18:21] have wisdom to share. Get around a
+- [18:23] mentor who's got some gray hair. The
+- [18:25] next lesson is about having three core
+- [18:27] values. There came a point in my life
+- [18:29] where I sat down and I made up three
+- [18:31] core values. Be brave, have fun, make a
+- [18:33] dent in the universe. Being brave is
+- [18:34] getting out of my comfort zone. Having
+- [18:36] fun is working with people I enjoy
+- [18:38] working with, getting into alignment,
+- [18:40] going to fun places, doing fun things.
+- [18:42] And making a dent in the universe is
+- [18:44] giving back, trying to make an impact,
+- [18:46] doing things that uh add value to
+- [18:48] others, doing things that change the
+- [18:50] game, speaking in a way that improve
+- [18:51] somebody else's life, engaging in
+- [18:53] projects that improve people's lives.
+- [18:55] How did I make them up? I imagined
+- [18:57] myself as a 99year-old man laying in a
+- [18:59] bed and a young person comes to me and
+- [19:01] says, "What's the key to a great life?
+- [19:03] What are the three lessons that you want
+- [19:04] to pass on?" What came to me is be
+- [19:06] brave, have fun, make a dent in the
+- [19:07] universe. And those three things, I
+- [19:10] wrote them down and I said, "You know
+- [19:11] what? That's going to be my compass. I'm
+- [19:13] going to make up three values and I'm
+- [19:15] going to try as hard as I can to live to
+- [19:16] those three values. As soon as I made up
+- [19:18] those three values, a lot of decisions
+- [19:20] became easy. No one ever comes and taps
+- [19:22] you on the shoulder and says, "These are
+- [19:23] the three values that will serve as a
+- [19:25] compass in your life." You have to be
+- [19:26] the one to make them up. Imagine
+- [19:28] yourself as a 99year-old laying in a bed
+- [19:30] passing on wisdom to a teenager. What
+- [19:32] would be your three key pieces of advice
+- [19:34] that you would love to give to them?
+- [19:36] Right? Write those three pieces of
+- [19:38] advice down. Those are the your three
+- [19:39] core values. and live according to those
+- [19:42] values for as long as it serves you.
+- [19:43] This next harsh truth came to me from my
+- [19:45] very first sales manager, George. He
+- [19:47] said, "Dan, the only truth is the
+- [19:49] results." Damn, that hit me like a ton
+- [19:51] of bricks at the time. I thought I knew
+- [19:53] what I was talking about, but my results
+- [19:55] weren't showing it. I thought I was good
+- [19:56] at building rapport. I thought I was
+- [19:58] really good at talking to people. I
+- [19:59] thought I was good at asking for the
+- [20:01] business, but my sales results were in
+- [20:03] the bottom third of the team. Now, there
+- [20:04] was another guy on the team called Nick,
+- [20:06] and he was at the top of the results,
+- [20:07] and I just didn't like the way he was
+- [20:09] doing things. I thought that he was
+- [20:10] pissing people off. I thought he was
+- [20:12] asking questions that were too harsh.
+- [20:14] And George said, "Dan, the only truth is
+- [20:16] the results. Nick is at the top of the
+- [20:18] ladder. You're at the bottom of the
+- [20:19] ladder." Right? If your results don't
+- [20:21] show it, you don't yet know it. So, you
+- [20:23] need to go out there and take Nick to
+- [20:24] lunch and ask, "What does he know that
+- [20:26] you don't know?" Having great theories
+- [20:28] about life is one thing, but if your
+- [20:30] life doesn't reflect that those theories
+- [20:31] work, you need to question those
+- [20:33] theories. If you look at someone who has
+- [20:34] the life that you want and the results
+- [20:36] that you want, but they think a little
+- [20:37] bit different to you, you should assume
+- [20:39] that their way of thinking is actually
+- [20:41] working. The only truth is the result.
+- [20:43] See, in theory, you should be able to
+- [20:45] get academic success. You should be able
+- [20:47] to get a PhD and suddenly your life
+- [20:49] works out really well. But I can show
+- [20:50] you lots of people with a PhD who are
+- [20:52] totally broke. In theory, that person
+- [20:54] who's a little bit scrappy, that person
+- [20:56] who just goes and knocks on doors, that
+- [20:57] person who's cheeky and playful and goes
+- [20:59] talks to strangers, in theory, that
+- [21:01] person should be pissing people off. But
+- [21:03] in reality, they often are the person
+- [21:04] who succeeds. So you can have these
+- [21:06] luxury beliefs. You can believe that the
+- [21:09] world is a certain way. But I tell you
+- [21:11] what, the only truth is the result. If
+- [21:13] your life doesn't reflect excellence,
+- [21:15] you don't have excellent beliefs. You
+- [21:17] have to question your beliefs based on
+- [21:18] the idea that the only truth is the
+- [21:20] result. Let's do another harsh truth
+- [21:22] about money. Money is nothing but a
+- [21:23] tool. It's completely made up. It's a
+- [21:25] human invention. It's a story that we
+- [21:27] tell ourselves. That paper isn't real.
+- [21:29] It's a shared agreement. Even something
+- [21:30] like gold, it's a shiny rock that we've
+- [21:32] all agreed is valuable. Money isn't
+- [21:34] real. Money is a way of keeping score.
+- [21:36] Now, if you were passionate about sport,
+- [21:38] it's interesting to keep score because
+- [21:40] that makes the game interesting. But
+- [21:41] that's not the game. The game is what
+- [21:43] happens on the field and the scoreboard
+- [21:45] reflects the way that you're playing.
+- [21:46] Now, here's the craziest things about
+- [21:48] money. We constantly make up new money.
+- [21:50] Banks literally issue debt out of thin
+- [21:53] air. The governments, they print money
+- [21:55] when they need to. Pursuing money for
+- [21:57] its own ends is a fool's errand. I can
+- [21:59] tell you from having friends who have
+- [22:00] sold their companies for hundreds of
+- [22:01] millions of dollars, you can have
+- [22:03] hundreds of millions of dollars and
+- [22:04] still be miserable. The idea that money
+- [22:06] is going to make you happy is absolutely
+- [22:08] crazy. It's like saying having lots and
+- [22:10] lots of ingredients in your cupboard
+- [22:11] will make you happy. It's the joy of
+- [22:13] cooking that makes you happy. Now, with
+- [22:15] that said, life gets totally easier with
+- [22:17] money. Let me be really, really clear.
+- [22:20] Your time is precious. And when you've
+- [22:21] got money, you can free up your time to
+- [22:23] do more of the things that you want. You
+- [22:25] can have a cleaner who comes in and
+- [22:26] cleans the house. Instead of driving
+- [22:28] yourself, you can jump in the back of an
+- [22:29] Uber and make a few important phone
+- [22:31] calls. If you get a great business idea
+- [22:33] and you've got money and you can take
+- [22:34] two weeks off to explore that,
+- [22:36] fantastic. The beauty of having some
+- [22:38] money is really the ability to control
+- [22:40] your time in a new way. A lot of people
+- [22:42] don't understand the value of actually
+- [22:44] having money. They think money is just
+- [22:45] for spending. There is a value that
+- [22:47] comes from having money. There is a
+- [22:49] value that comes from having three
+- [22:50] months worth of living expenses in a
+- [22:52] savings account. There's a value that
+- [22:53] comes from having money that is separate
+- [22:55] to what you're doing with your business
+- [22:57] or career. The value of that is the
+- [22:59] freedom that it gives your mind to think
+- [23:01] bigger. What you're buying with money is
+- [23:04] mental freedom, time freedom, and
+- [23:06] creative freedom. So, you need to start
+- [23:08] accumulating some money so that you get
+- [23:10] that level of freedom. It's the
+- [23:11] enjoyment of running a business, growing
+- [23:13] a career, building a network, traveling
+- [23:16] through life with the right people.
+- [23:17] Those are the things that are actually
+- [23:19] real. Do not let people lure you away
+- [23:21] from the real stuff with the fake stuff.
+- [23:23] When you discover that your time is
+- [23:26] real, your experience is real, and money
+- [23:28] is fake, then the whole game shifts. If
+- [23:30] you're trading your time and your
+- [23:32] passion and your creative energy in
+- [23:34] exchange for this fake madeup stuff,
+- [23:37] then you're losing the game. The next
+- [23:38] one is the truth about failure and
+- [23:40] success. All failure and all success
+- [23:43] give you nothing more than stories and
+- [23:45] data. And once they've happened, it's
+- [23:46] how you tell the story and how you
+- [23:48] interpret the data. I've had massive
+- [23:50] failures, but I've remained positive
+- [23:51] because I've said, "Well, you know what?
+- [23:52] I've got new data and I've got new
+- [23:54] stories to tell." I've had huge
+- [23:55] successes. I've said, "hm, that's
+- [23:57] interesting. I've got some new stories
+- [23:58] and I've got some new data to share."
+- [23:59] When you start seeing success and
+- [24:01] failure as the same thing, that it's
+- [24:03] just stories and data, you realize that
+- [24:05] everything's just an experience. And you
+- [24:07] get to be the storyteller about how that
+- [24:09] experience impacted you. You get to be
+- [24:11] the one who sees that all experiences
+- [24:13] are part of your mountain of value. your
+- [24:15] high points, your low points, your
+- [24:16] triumphs and your disasters. They are
+- [24:18] all stories and they're all data. It's
+- [24:20] all part of the ingredients for what you
+- [24:22] do next. I have seen people who have
+- [24:24] failed dramatically and then they've
+- [24:25] gone on to succeed wildly because they
+- [24:28] took the story and they took the data.
+- [24:30] I've seen people succeed massively and
+- [24:31] then they've been miserable because of
+- [24:33] the story that they took from that. Now,
+- [24:35] you may be slow to learn this, but you
+- [24:36] will come to know that you will learn
+- [24:38] more from your failures than your
+- [24:39] successes. Me personally, I had a boom,
+- [24:42] then a bust, then a boom, then a bust,
+- [24:44] then a boom, then a bust. I had 15 years
+- [24:47] of becoming a millionaire and losing it,
+- [24:48] and becoming a millionaire and losing
+- [24:50] it, and becoming a millionaire and
+- [24:51] losing it. And actually, that's why I
+- [24:54] succeeded really big after that because
+- [24:56] all of those stories and all of that
+- [24:57] data informed really good decisions
+- [25:00] after those facts. I really learned
+- [25:02] about how the world worked. I never lost
+- [25:04] trust in the fact that I would
+- [25:05] eventually succeed. There must be
+- [25:06] something really valuable that I need to
+- [25:08] learn here that will really help me make
+- [25:10] it big later on down the track. I
+- [25:12] haven't actually learned that much from
+- [25:14] wild success. Wild success is a really
+- [25:16] poor teacher. Failure, a good slap
+- [25:17] around the chops. Unbelievable lessons.
+- [25:20] Here's the harsh truth. Work life
+- [25:21] balance is mostly an illusion. There is
+- [25:23] a season to work hard at the exclusion
+- [25:25] of other things. There is a season to
+- [25:27] prioritize your health and wellness at
+- [25:29] the expense of your career. There is a
+- [25:31] season where you should go all in on
+- [25:32] your friendships and a season where
+- [25:34] money really, really matters. And you
+- [25:35] need to pick what is the main focus that
+- [25:38] is going to dominate a lot of your time.
+- [25:39] Now, here's the other thing that I would
+- [25:40] say to someone in their 20s. I'd say
+- [25:42] this to myself at my 20s. You don't have
+- [25:44] that many things to balance just yet.
+- [25:46] So, work life balance should mostly be
+- [25:48] about work and a few key friendships and
+- [25:50] a few key relationships. So, here's the
+- [25:52] harsh truth. By the time you get into
+- [25:54] your 30s and 40s, you have to balance a
+- [25:56] lot. You're probably going to be taking
+- [25:58] care of kids. You're probably going to
+- [25:59] be taking care of parents. You're
+- [26:01] probably going to be a responsible
+- [26:03] provider. and a lot will fall on your
+- [26:05] shoulders. You need to build up to that.
+- [26:07] You need to be ready for that in your
+- [26:09] 20s. If you can lay strong foundations
+- [26:11] around your work, your career, your
+- [26:13] money, around your health, your
+- [26:14] wellness, and especially around key
+- [26:16] relationships, you are going to set
+- [26:18] yourself up for a very easy game in your
+- [26:20] 30s and your 40s. If you distract
+- [26:22] yourself by trying to have this perfect
+- [26:24] work life balance and you don't lay
+- [26:26] strong foundations, life gets pretty
+- [26:28] hard later on. Now, the other thing I
+- [26:29] would say is life is long. You don't
+- [26:31] need to go to that five-star hotel in
+- [26:33] Maitius. There will be plenty of time to
+- [26:35] do that in your 40s or your 50s or your
+- [26:37] 60s or even your 70s. You don't have to
+- [26:39] cram everything into your 20s, but you
+- [26:41] do need to lay some strong foundations
+- [26:43] that set you up for your 30s and 40s.
+- [26:44] Another harsh truth, you're not taking
+- [26:46] enough risks. You're not putting
+- [26:47] yourself into risky situations that
+- [26:50] could really pay off. See, we don't get
+- [26:51] taught how to evaluate risk in high
+- [26:53] school. We get taught that starting a
+- [26:55] business would be risky and having a
+- [26:56] career is safe. But at the moment, we
+- [26:59] live in a time of asymmetric risk, where
+- [27:01] starting a business could cost you a few
+- [27:02] thousand that make you millions. Having
+- [27:05] a career could give you a few thousand a
+- [27:07] month, but cost you your ability to
+- [27:08] start a business. In your 20s, you
+- [27:10] typically don't have little kids that
+- [27:11] you have to provide for. You could take
+- [27:13] a risk. You could end up sleeping on a
+- [27:15] friend's couch, and it wouldn't be the
+- [27:16] end of the world. What does taking a
+- [27:18] risk really look like? It looks like
+- [27:20] talking to that person that you're
+- [27:22] romantically attracted to and asking
+- [27:23] them out on a date. It looks like
+- [27:25] starting that business and seeing how it
+- [27:27] works out. It looks like jumping on that
+- [27:29] plane and attending that conference even
+- [27:31] though it kind of puts you out of your
+- [27:33] comfort zone. Talking to that investor
+- [27:35] and seeing if they're willing to put
+- [27:36] some investment behind your big idea.
+- [27:38] Going along to a networking event where
+- [27:40] people are older than you and wealthier
+- [27:41] than you and more experienced than you
+- [27:43] and you feel totally out of your depth.
+- [27:45] But that's the place that you're going
+- [27:46] to get the mentor or the breakthrough.
+- [27:48] Your risk profile changes as you age. My
+- [27:50] decisions now, they impact my whole
+- [27:52] family. They impact my kids. They impact
+- [27:54] my parents. They impact my siblings.
+- [27:55] They impact my friendship groups. If I'm
+- [27:57] too reckless right now, it's not just me
+- [28:00] that's going to end up sleeping on the
+- [28:01] couch. It's going to be my whole family
+- [28:03] who have to find a place to stay.
+- [28:04] Recently, I did something stupid. I
+- [28:06] jumped on a skateboard. I fell off and I
+- [28:08] broke my wrist. There was no upside for
+- [28:10] doing this and a huge downside for
+- [28:11] getting it wrong. And as a result, I've
+- [28:13] put pressure on my wife where I'm not
+- [28:15] able to help out around the house in the
+- [28:17] same way that I was while I'm healing.
+- [28:19] It was a dumb, silly mistake. Now,
+- [28:21] that's the type of thing in my teens and
+- [28:22] my 20s that didn't impact anyone else's
+- [28:24] life. A broken arm in my 40s affects my
+- [28:26] whole household. Also, in your 40s, if
+- [28:28] you do something stupid with your
+- [28:29] reputation, it's very, very hard to get
+- [28:31] that back. No one really cares what you
+- [28:34] do in your 20s. You can do all sorts of
+- [28:35] dumb stuff. You can fall flat on your
+- [28:37] face a dozen times. And people say,
+- [28:38] "Well, it's great that you're trying
+- [28:39] things. It's great that you're learning.
+- [28:41] Once you get into your 40s, if you fall
+- [28:43] flat on your face a dozen times, they
+- [28:44] say, "Well, this person's probably not
+- [28:46] going to achieve very much." So harness
+- [28:48] your 20s as a time where you can take
+- [28:50] more risks. Bones are going to heal.
+- [28:52] Businesses are going to bounce back.
+- [28:53] Your career is not going to be damaged
+- [28:55] by a silly decision. Right? Enjoy your
+- [28:57] 20s. Take some risks.
+- [28:59] >> Oh, this one makes me emotional.
+- [29:01] >> The final lesson is a big picture
+- [29:03] lesson. What do I think life is about?
+- [29:05] What do I think success is about? Life
+- [29:06] and success is about finding really
+- [29:08] great people and traveling through life
+- [29:10] together. Isn't it an incredibly weird
+- [29:12] thing? We are on a rock hurdling through
+- [29:14] space orbiting a massive ball of fire.
+- [29:17] We're here for a split second of time.
+- [29:20] We get to travel through life. We get to
+- [29:22] travel through space with a small group
+- [29:24] of people who matter. There will come a
+- [29:26] day where you will get a phone call that
+- [29:28] one of those people has passed. There
+- [29:29] will also come a day where some of the
+- [29:31] things that you took for granted go
+- [29:33] away. You just can't run as fast as you
+- [29:35] once could run. You can't get through
+- [29:37] that hit training class the way you used
+- [29:38] to be able to get through it. You can't
+- [29:40] lift that weight that you thought you
+- [29:41] could lift. You turn up at a party and
+- [29:43] you suddenly feel like, "Hey, I'm the
+- [29:44] oldest person at this party. I feel out
+- [29:46] of it." Life has a funny, unfair little
+- [29:48] way of just sneaking up on you. One day,
+- [29:50] you look at your parents and suddenly
+- [29:51] they do actually look old.
+- [29:56] One by one, your grandparents go, "The
+- [29:58] thing that I'm most proud of is
+- [30:00] traveling through life with some great
+- [30:01] people. My co-founder I met at 14 and
+- [30:04] we're still running businesses today.
+- [30:06] I've got people on my team that I've
+- [30:08] known since I was 10 years old. I've
+- [30:09] gotten to a point now where I've got
+- [30:11] friends in my life who have been there
+- [30:12] for 30 years plus. Few people talk about
+- [30:14] these achievements. On Instagram and
+- [30:16] YouTube, you'll often hear about cars
+- [30:17] and apartments and houses and travel.
+- [30:20] You won't hear about the achievement of
+- [30:23] comforting a friend when their parent
+- [30:25] goes through a stroke. It's rare to hear
+- [30:28] someone talk about what it feels like to
+- [30:30] comfort a friend through a divorce. And
+- [30:32] that stuff's going to happen. Checking
+- [30:33] into a big fancy hotel, that's cool.
+- [30:37] checking out, you forget it pretty
+- [30:39] quickly. When you look back on 20 or 30
+- [30:42] years being there in a hospital with
+- [30:44] someone, that feels like a real
+- [30:46] achievement. What I'd say to young Dan
+- [30:48] is that you're excited about these huge
+- [30:50] achievements like multi-million revenue,
+- [30:54] being told that your company is worth a
+- [30:56] lot of money, being able to jump on a
+- [30:58] plane and go to an incredible holiday.
+- [31:00] What you probably don't realize when
+- [31:01] you're when you're 20 is that the big
+- [31:03] achievements will be hanging out with
+- [31:06] people during ups and downs. Being there
+- [31:09] when a parent or a loved one has to go
+- [31:11] into hospital, speaking at your
+- [31:14] grandparents funeral, and even if you
+- [31:15] achieve all the big stuff that goes on
+- [31:17] Instagram, some of your biggest regrets
+- [31:19] will be not jumping on the plane and
+- [31:20] being at your friend's wedding. It'll be
+- [31:23] not being there when your grandparent
+- [31:24] went into a nursing home. The stuff that
+- [31:27] we think of as peak experience is
+- [31:29] actually pretty meaningless. And the
+- [31:31] stuff that really does offer peak
+- [31:33] experience doesn't make Instagram. But
+- [31:35] if I was to sum up this lesson, it would
+- [31:36] be to spend a little bit of time on a
+- [31:39] rock around the sun with a small group
+- [31:41] of people that truly matter. Don't
+- [31:43] overlook that.

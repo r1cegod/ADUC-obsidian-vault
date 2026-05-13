@@ -1,0 +1,709 @@
+---
+type: source
+title: "Everyone Who Uses This Playbook Makes $1 Million"
+source: youtube
+channel: "Daniel Priestley"
+channel_id: UCABR204CFV9ZoMz69TyspzA
+video_id: WiTIgjYxWbE
+url: https://www.youtube.com/watch?v=WiTIgjYxWbE
+published_at: "2025-10-05T10:35:49Z"
+duration_seconds: 1326
+fetched_at: 2026-05-04T06:15:03Z
+transcript_status: fetched
+transcript_language: "en"
+ingest_run: daniel-priestley-youtube-2026-05-04
+---
+
+# Everyone Who Uses This Playbook Makes $1 Million
+
+> Raw transcript evidence for vault-level Daniel Priestley YouTube ingest. Do not treat this as compiled knowledge; use source cards and synthesis pages for durable claims.
+
+## Source Metadata
+- url: https://www.youtube.com/watch?v=WiTIgjYxWbE
+- channel: Daniel Priestley
+- published_at: 2025-10-05T10:35:49Z
+- duration_seconds: 1326
+- fetched_at: 2026-05-04T06:15:03Z
+
+## Transcript
+
+- [00:00] I've been paid over $35 million growing
+- [00:02] and scaling thousands of businesses
+- [00:04] around the world. I've worked with
+- [00:05] celebrities, I've worked with athletes,
+- [00:07] and I've worked with some of the world's
+- [00:08] top YouTube creators who have more than
+- [00:10] 20 million followers. All of these
+- [00:12] people pay a fortune for the advice that
+- [00:14] I'm about to give you in this video for
+- [00:16] free. Now, the problem with giving you
+- [00:17] this for free is that people tend to not
+- [00:19] value things that are given to them
+- [00:21] freely. So, I want you to engage in a
+- [00:23] silly little activity before we get
+- [00:24] started. I want you to close your eyes
+- [00:26] and imagine that you've just transferred
+- [00:28] me $10,000 in order for what I'm about
+- [00:30] to share with you. How would you show up
+- [00:31] to the next 10, 15, 20 minutes? I'm
+- [00:34] going to take you through a process in
+- [00:35] five steps that has taken thousands of
+- [00:37] people from having a vague idea as to
+- [00:39] what they might do in a directional way
+- [00:41] right through to very specifically
+- [00:43] monetizing their intellectual property.
+- [00:46] Step one is to create a product that has
+- [00:48] proof behind it. Now, here's what I want
+- [00:50] you to do. I want you to imagine
+- [00:52] yourself now and I want you to think
+- [00:53] back over the last 5 years. We're
+- [00:56] looking for little magical moments that
+- [00:59] we're going to call proof stories. And
+- [01:01] proof stories are really powerful
+- [01:02] stories that contain intellectual
+- [01:04] property. So what does a proof story
+- [01:06] have in it? A proof story is a time in
+- [01:09] the last 5 years where you did something
+- [01:12] special and it would be of interest to a
+- [01:14] certain type of person. We call that
+- [01:16] person an ICP, an ideal customer
+- [01:18] persona. So something special that is of
+- [01:20] interest to an ideal customer persona.
+- [01:23] You achieved a quantifiable outcome that
+- [01:26] you've given a name to that outcome and
+- [01:28] you can explain how you did it step by
+- [01:31] step. So think about the last 5 years.
+- [01:33] There was a time that you did something
+- [01:34] special that is of interest to a certain
+- [01:36] type of person, an ICP, an ideal
+- [01:37] customer persona. You can quantify the
+- [01:39] outcome and give the outcome a name and
+- [01:41] you can explain it step by step. So, for
+- [01:43] example, there was a time where I was
+- [01:44] working with some of the world's top
+- [01:46] CEOs and speakers to put them on a stage
+- [01:48] and make them famous and launch their
+- [01:50] books and make them best-selling
+- [01:51] authors. And we called that outcome
+- [01:53] becoming a key person of influence. And
+- [01:54] I had five steps on how to do that. It
+- [01:57] was something special. It was relevant
+- [01:59] to anyone who was an entrepreneur or a
+- [02:00] CEO. We could quantify the outcomes that
+- [02:03] they were getting. We gave it a name, a
+- [02:04] key person of influence, and we created
+- [02:06] the five-step methodology for becoming a
+- [02:08] key person of influence. So based on
+- [02:10] this little proof story, I was able to
+- [02:11] write the book key person of influence
+- [02:13] which became a global business
+- [02:14] accelerator. So that's a great example
+- [02:16] of finding a proof story. Another
+- [02:18] example would be Ronley Vaz. Ronley was
+- [02:20] running a restaurant that was losing a
+- [02:22] ton of money and he was almost half a
+- [02:24] million dollars in debt. However, at the
+- [02:25] same time, what he had done is created a
+- [02:28] very successful podcast around food. And
+- [02:30] what he decided to do is leverage that
+- [02:32] proof story to set up an audio marketing
+- [02:35] agency. Within 30 days, he had signed up
+- [02:37] his first major clients using this whole
+- [02:39] formula. And within six months, he'd
+- [02:41] paid down the debt and had over $20,000
+- [02:43] cash in the bank after paying off his
+- [02:45] debt. And all of it started by
+- [02:47] identifying a proof story that met this
+- [02:49] criteria where he had done something
+- [02:51] special that was of the interest to an
+- [02:52] ideal customer persona with a
+- [02:54] quantifiable outcome that we can name
+- [02:56] and a set of steps that we can follow to
+- [02:58] get that outcome. So the first thing
+- [03:00] that I want you to imagine you've paid
+- [03:02] me to do is to direct you to create a
+- [03:04] proof story from your last five years.
+- [03:06] Now you may have multiple proof stories,
+- [03:09] right? And what I would imagine is that
+- [03:11] there will actually be a little bit of a
+- [03:13] theme to some of them. And if you've got
+- [03:14] more of them, that's even better. So
+- [03:17] what we want to do is we want to
+- [03:18] consider that this proof story is the
+- [03:22] basis of what we call intellectual
+- [03:23] property. Intellectual property is the
+- [03:25] unique stuff that comes from your story.
+- [03:27] It's your story with your emotions, with
+- [03:30] your steps, with your take on things,
+- [03:32] right? That's your intellectual
+- [03:33] property. The name that you give it, you
+- [03:35] could even register that name and it
+- [03:36] could be associated to you and your
+- [03:38] business. So, now we've got the
+- [03:39] intellectual property. We need to turn
+- [03:40] it into two products. The first product
+- [03:43] is called a product for prospects and
+- [03:45] the second product is called a core
+- [03:46] offering. The product for prospects is
+- [03:48] where people can learn about your proof
+- [03:51] story and they can learn about what
+- [03:53] special thing happened, who is that
+- [03:55] relevant for, what is the quantifiable
+- [03:57] outcome, what are the steps that you
+- [03:59] would take and what do we call that?
+- [04:00] What's the name? So people learn about
+- [04:02] that and the core offering is where they
+- [04:04] get it delivered,
+- [04:06] right? They actually get it done for
+- [04:08] them or it happens, right? They become
+- [04:10] part of this proof story. They get to
+- [04:12] replicate part of the proof story. So we
+- [04:14] learn and then we get it delivered. So
+- [04:15] the product for prospects could be that
+- [04:17] people learn through a webinar. It could
+- [04:19] be that people learn through an online
+- [04:21] assessment. It could be that people
+- [04:22] learn through an online miniourse. In
+- [04:24] some ways they need to learn about your
+- [04:26] intellectual property and then they get
+- [04:28] the intellectual property delivered into
+- [04:30] their lap. Now it could be delivered
+- [04:31] through an agency which does it for
+- [04:34] them. It could be delivered through
+- [04:36] software. It could be delivered through
+- [04:38] a physical product, right? Or it could
+- [04:40] be delivered through consulting. Right?
+- [04:42] All of those ways are delivery
+- [04:44] mechanisms. Right? Those are ways that
+- [04:45] people get the delivery of the
+- [04:47] intellectual property. How do we make
+- [04:48] sure that we've productized those? The
+- [04:50] product for prospects needs a landing
+- [04:52] page that is online and the core
+- [04:54] offering needs a slide deck or a
+- [04:56] brochure that explains what gets
+- [04:58] delivered. So the product for prospects
+- [04:59] is a landing page that tells you what
+- [05:01] you need to do to learn and a core
+- [05:03] offering is a slide deck or a brochure
+- [05:06] that tells you what is going to be
+- [05:07] delivered and how much is it going to
+- [05:08] be. Step two is we need to get
+- [05:11] attention. Now in school they told you
+- [05:13] do not be an attention seeker. But in
+- [05:15] today's economy you must get attention.
+- [05:18] Your entire business is downstream from
+- [05:20] attention. If you can't get attention
+- [05:22] you don't have a business. So we have to
+- [05:23] ramp up the amount of attention that you
+- [05:25] get. So you're going to need to be
+- [05:26] noticed. You're going to have to become
+- [05:28] known and you're going to have to become
+- [05:30] rated. Let's explain those. So the first
+- [05:32] step is to become noticed. Noticed means
+- [05:34] that people clock you. They notice you.
+- [05:36] They recognize that you exist.
+- [05:37] Previously they had no idea that you
+- [05:39] existed. They had no idea that you were
+- [05:41] even around, but now they've noticed
+- [05:43] you. The research says that people
+- [05:44] notice you for the first time when they
+- [05:46] see you for the 11th time. So, you've
+- [05:48] got to put out 11 pieces of short
+- [05:50] content that is going to get noticed.
+- [05:52] People will see that you've been
+- [05:53] dropping little bits of social media
+- [05:55] content into their feed every day. And
+- [05:57] by the time they see you 11 times,
+- [05:58] that's where they really start to notice
+- [06:00] that you exist. So, noticing you is
+- [06:02] about short form content, right? It's
+- [06:05] all about little short posts. It could
+- [06:07] be short posts on LinkedIn. It could be
+- [06:10] short posts on Instagram. It could be
+- [06:12] image carousels, right? Any of that
+- [06:14] stuff that people can just go, "Oh,
+- [06:15] there's an image. There's a post.
+- [06:17] There's a little video." Short, punchy
+- [06:19] content that people see. Now, the data
+- [06:21] also says that people have to see these
+- [06:23] 11 pieces of content within 90 days.
+- [06:25] Which means if you're posting only once
+- [06:27] a week, there's just enough time for
+- [06:29] people to notice you every 90 days. But
+- [06:31] if you missed out on one or two posts,
+- [06:33] they're not going to see you. The people
+- [06:35] who get noticed, they post every single
+- [06:38] day. Now, if you post every single day,
+- [06:40] people are going to notice you every two
+- [06:41] weeks, right? Every two weeks, new
+- [06:43] people are going to have noticed you.
+- [06:44] But you have to post every single day in
+- [06:46] order to clock up 11 pieces of content
+- [06:49] that people could have seen within 2
+- [06:50] weeks so that they can then notice you.
+- [06:53] People see you for the first time when
+- [06:54] they see you for the 11th time. So, post
+- [06:56] every single day to minimize the amount
+- [06:58] of time that it takes for people to
+- [07:00] notice you. Some of the biggest people
+- [07:01] that you follow, some of your heroes
+- [07:03] online, they're posting 5 to 10 pieces
+- [07:05] of content every single day because they
+- [07:07] want to get noticed more often. So, the
+- [07:09] next thing that has to happen is that
+- [07:11] people need to know you, right? So,
+- [07:13] they've noticed you. Now, they need to
+- [07:14] get to know you. So, over here is
+- [07:17] notice. Now, they get to know you. And
+- [07:20] the research here says that people need
+- [07:22] to spend 2 to seven hours with you in
+- [07:24] order to get to know you. What we need
+- [07:25] to do is create something called long
+- [07:28] form content. Long form content is any
+- [07:30] long posts, right? So maybe 1500 words
+- [07:32] in a report or a really long post on
+- [07:34] LinkedIn or it could be a long video
+- [07:36] like this one that you're watching here
+- [07:38] where you get to know my content because
+- [07:40] I'm explaining it step by step. So long
+- [07:42] form content is where people get a sense
+- [07:44] that they know you. Some of the best
+- [07:45] long form content is where you appear as
+- [07:47] a guest on a podcast. And if you haven't
+- [07:49] done so, I want you to watch the video
+- [07:51] where I talk about how to become a guest
+- [07:52] on a podcast. And I'll link to that
+- [07:54] below. Long form content could also be
+- [07:56] where people attend a live workshop.
+- [07:57] They maybe see you in person giving a
+- [07:59] live keynote speech. It could be where
+- [08:01] they attend something with you on Zoom
+- [08:03] or where they watch a recording of some
+- [08:05] of that content. And one of the best
+- [08:06] pieces of long form content is a book.
+- [08:09] There is a reason that authors end up
+- [08:10] with fans all over the world because
+- [08:12] people are reading their book and that
+- [08:14] is a great piece of long- form content.
+- [08:16] So the key is that people have 2 to 7
+- [08:18] hours worth of content that they can
+- [08:20] access if they want to. They've noticed
+- [08:22] you with your short form content and now
+- [08:24] they want the long form content to get
+- [08:26] to know you. So you've got to have that
+- [08:28] available for them. Now the final piece
+- [08:29] here is that you become rated. Now what
+- [08:32] does it mean to be rated? Well the word
+- [08:34] rated means if I ask you how much are
+- [08:36] your rates? What I'm really asking is
+- [08:37] how much do I have to pay? So there are
+- [08:39] some categories when you become rated.
+- [08:41] Now when you become rated you could be a
+- [08:43] discount brand right which is cheap. You
+- [08:46] could be a mass market brand which is
+- [08:49] kind of like commoditized. You could be
+- [08:51] a niche market brand which is community
+- [08:55] orientated, passion orientated, or you
+- [08:57] could be a luxury brand. So there's
+- [08:59] different ratings. So the key here is
+- [09:01] that we want to make sure that you are
+- [09:04] rated where you want to be rated. If you
+- [09:06] don't want to be seen as a discount
+- [09:07] brand, you do not want to be rated as a
+- [09:09] discount brand. If you want to be seen
+- [09:10] as niche or luxury, you've got to be
+- [09:12] rated as niche or luxury. So how do you
+- [09:15] get rated? We get rated through
+- [09:17] association. And in particular, when
+- [09:19] someone sees you aligned to four other
+- [09:22] brands around you, that is where they
+- [09:24] get the cues for them to know how to
+- [09:26] rate you. So, for example, if someone
+- [09:28] saw you in a Rolls-Royce, flying on a
+- [09:31] private jet, staying at the Four Seasons
+- [09:33] Hotel, and having a glass of Dom
+- [09:35] Perinon, they would assume that you are
+- [09:37] rated as a luxury brand. and they would
+- [09:39] assume that the price point that you're
+- [09:41] going in at is luxury because they've
+- [09:43] seen four other brands where they
+- [09:45] associate you are a luxury brand. Now, a
+- [09:48] great example of someone who did this
+- [09:50] well is Annie Filipova. Annie has now
+- [09:52] become one of the top most influential
+- [09:54] people on LinkedIn in Greece. How did
+- [09:56] she do it? She really ramped up how much
+- [09:58] short form content, how much long- form
+- [10:00] content, and she mentioned the big
+- [10:02] brands that she's been working with in
+- [10:03] the past. And that got her noticed, it
+- [10:05] got her known, and it got her rated. For
+- [10:07] me personally, up until a few years ago,
+- [10:09] I was putting out a lot of long- form
+- [10:11] content, but I wasn't doing enough short
+- [10:13] form content. And therefore, I wasn't
+- [10:15] getting noticed by enough people. I took
+- [10:17] all the long- form content that I'd
+- [10:19] done. I chopped it up into short form
+- [10:21] content, and my following exploded.
+- [10:23] Hundreds of thousands of people started
+- [10:25] to notice me. Then they watched podcasts
+- [10:27] and read my books. Then they realized
+- [10:29] the types of brands that I worked with.
+- [10:31] I got noticed. I got known. And I got
+- [10:33] rated. And then the business really took
+- [10:35] a boost as a result of that. Step three
+- [10:37] is we need signals of interest. We now
+- [10:39] need people to signal that they're
+- [10:41] interested in what you're doing. So
+- [10:42] they've discovered that you've got some
+- [10:43] intellectual property. They've
+- [10:44] discovered that you've got a product
+- [10:45] that is underpinned by proof. They're
+- [10:47] starting to notice you, know you, and
+- [10:49] rate you. Now they want to signal that
+- [10:51] they're interested to know more. And
+- [10:52] they want to signal that they're
+- [10:53] interested in being able to access what
+- [10:55] you have to offer. Now, how is this
+- [10:57] going to happen? It's going to happen
+- [10:58] with a magical little device called a
+- [11:00] landing page. A high-converting landing
+- [11:02] page has four key elements that makes it
+- [11:05] work. The first one is called a hook. A
+- [11:07] hook is something that hooks people's
+- [11:09] attention and gets them to engage with
+- [11:11] the rest of the landing page. So, there
+- [11:12] are two great hooks that I love. One is
+- [11:15] called a frustration hook and one is
+- [11:16] called a readiness hook. A frustration
+- [11:18] hook basically says, "Are you frustrated
+- [11:20] with blank? Are you frustrated that
+- [11:22] you're not achieving X, Y, and Z? Are
+- [11:24] you frustrated that you don't have this
+- [11:25] going on?" So, essentially, the
+- [11:27] frustration is that you don't have the
+- [11:29] intellectual property. The frustration
+- [11:30] is you don't have the desired outcome
+- [11:32] that your intellectual property gives
+- [11:34] people. So first type of hook is a
+- [11:37] frustration hook and it names the
+- [11:38] frustration people would feel if they
+- [11:40] were lacking your intellectual property.
+- [11:42] A readiness hook is are you ready for XY
+- [11:45] Z result? Are you ready to get this
+- [11:46] great result? So you might do are you
+- [11:48] ready to launch your YouTube channel?
+- [11:49] Are you ready to increase your sales
+- [11:51] conversions? Are you ready to spend more
+- [11:53] time in nature with your family? Right?
+- [11:55] So this is a hook about are you ready to
+- [11:57] achieve this new thing that you want in
+- [11:59] your life. So the hook is about
+- [12:01] readiness or it's about frustration. And
+- [12:03] in just a few words it gives people the
+- [12:06] sense that there's something going on
+- [12:07] that they may miss out on or there's
+- [12:09] something going on that would relieve a
+- [12:11] frustration that they currently have. So
+- [12:12] that's the first part. This is called
+- [12:14] the hook. The second part is called the
+- [12:16] value proposition. The value proposition
+- [12:18] is where you explain that you've got
+- [12:20] value that other people want. So this is
+- [12:22] where you tell people I can solve this
+- [12:24] problem or you can say these are the
+- [12:26] things that I know how to improve. These
+- [12:28] are the things that we know how to
+- [12:29] measure. This is where you explain how
+- [12:31] you're going to alleviate the
+- [12:32] frustration or how you're going to get
+- [12:33] people the outcome. So you're going to
+- [12:35] tell people in this value proposition
+- [12:36] here that you know how to get them to do
+- [12:38] something better, faster, cheaper, or
+- [12:40] with more emotional benefits than they
+- [12:42] currently know how to get. This is
+- [12:44] called a value proposition. Now, when
+- [12:45] you explain a value proposition, people
+- [12:48] have doubts. They're not sure if they
+- [12:49] can trust you. So therefore, you need to
+- [12:52] give them your credibility. Now the
+- [12:54] credibility could be about your story,
+- [12:56] your background, or it could be about
+- [12:58] your research. You might be able to say,
+- [13:00] "Here's what the research says." Or you
+- [13:02] might be able to say, "Here's what I've
+- [13:03] done in the past." So this might include
+- [13:05] your headshot in your bio, right? It
+- [13:07] might be able to tell people who you
+- [13:08] are. Or it might include some
+- [13:10] statistics, some research, some relevant
+- [13:12] facts that help people to understand
+- [13:14] that there's credibility behind what
+- [13:16] you're saying and there's credibility to
+- [13:18] back up this value proposition. Now, the
+- [13:20] final thing that a great landing page
+- [13:22] needs is a call to action. And a call to
+- [13:25] action is where you're going to get
+- [13:26] these signals. When people click the
+- [13:28] button and they fill in the form, that
+- [13:30] is a signal of interest. That's called a
+- [13:31] lead. All business is downstream of lead
+- [13:34] generation. So, we need people to take
+- [13:35] an action. And a call to action tells
+- [13:38] them which action to take. So, this is
+- [13:40] where you say, "Start the assessment,
+- [13:42] register for the workshop, join the
+- [13:44] group, register for the waiting list."
+- [13:46] Whatever the call to action is, this is
+- [13:48] where you're telling people what to do
+- [13:49] next. So, a few great calls to action
+- [13:51] could be to attend a webinar, to fill in
+- [13:54] an assessment, to join a waiting list,
+- [13:55] or to join a discussion group.
+- [13:57] Essentially, you're going to call people
+- [13:59] to action to engage with the product for
+- [14:01] prospects, which is where they get to
+- [14:03] learn more. So, a great example of this
+- [14:05] is a guy called David Fraser. David has
+- [14:07] a wonderful business called Bunky Life.
+- [14:09] Bunky Life sells bunkies. And bunkies
+- [14:11] are these cabins in the woods in Canada
+- [14:13] where you buy a pre-fabricated cabin and
+- [14:16] you and your family go out into the
+- [14:17] woods and you set up a cabin and we call
+- [14:19] this a bunky life. Now, David's business
+- [14:22] really took off when he created a
+- [14:24] landing page called Are You Ready for
+- [14:25] the Bunky Life? He used scoreapp.com to
+- [14:28] set that up. As a result of having that
+- [14:30] good landing page, he was able to
+- [14:31] collect a lot of signaled interest for
+- [14:33] people who wanted to have a bunky. He
+- [14:35] was able to get thousands and thousands
+- [14:36] of leads, people signaling interest,
+- [14:38] which takes us on to the next step. So
+- [14:39] step four is sales conversions. Now in
+- [14:42] order to make sales we need to set up
+- [14:45] something called a lapse dashboard. Laps
+- [14:48] stands for leads, appointments,
+- [14:51] presentations
+- [14:53] and ultimately sales. So what we have to
+- [14:56] do is measure the conversions. How many
+- [14:58] leads come off our landing page? How
+- [15:00] many times can we book in a one-to-one
+- [15:02] or a group sales presentation? How many
+- [15:04] times can we present our core offering?
+- [15:07] And how many times do people actually go
+- [15:09] ahead and buy the core offering. So
+- [15:10] we're moving people from the product for
+- [15:11] prospects phase to the core offering
+- [15:13] phase. The landing page that collected
+- [15:15] signals of interest. That was the thing
+- [15:17] that got people to signal interest in
+- [15:18] the product for prospects. And the sales
+- [15:21] presentation moves people through from
+- [15:23] signaled interest to sale by collecting
+- [15:26] the lead, booking the appointment,
+- [15:28] presenting them with the education that
+- [15:30] they need or the insights or the methods
+- [15:32] that they need to understand the core
+- [15:33] offering and then asking for the
+- [15:35] business and making a sale. and signing
+- [15:37] people up. So, we're going from leads to
+- [15:39] sales. We're going from product for
+- [15:40] prospects to core offering here. Now, a
+- [15:43] good lapse dashboard will keep track of
+- [15:45] these conversions. So, you might have a
+- [15:47] situation where you have a 100 leads and
+- [15:50] that might result in 15 people who book
+- [15:52] an appointment and that might result in
+- [15:55] 10 people who see a presentation and
+- [15:58] that might result in three sales. So,
+- [16:00] you know that you've got 11,5 103 as
+- [16:03] your conversions. And now your job is to
+- [16:06] see if you can go from 100 to 15 to
+- [16:08] increase this to maybe 20. Maybe you can
+- [16:11] increase this to 15. Maybe you can
+- [16:14] increase this to five. So your job as
+- [16:16] the entrepreneur is to come up with ways
+- [16:18] to get more leads and to get more of
+- [16:20] those leads to convert to an
+- [16:21] appointment, to get more of those
+- [16:22] appointments to sit through the whole
+- [16:24] presentation and engage with the
+- [16:25] learning and to get more of those people
+- [16:27] who have learned something to engage in
+- [16:29] a sale. So your job is to improve your
+- [16:31] laps dashboard every single week, week
+- [16:33] after week after week. We call it a
+- [16:35] perfect repeatable week. We want to see
+- [16:37] leads, appointments, presentations, and
+- [16:39] sales. And we want to do a lot of
+- [16:40] brainstorming. How can we get more
+- [16:42] leads? How can we book more
+- [16:43] appointments? How can we present more
+- [16:45] effectively? And how can we secure more
+- [16:46] sales at the end? Now, especially on
+- [16:48] these two steps, the signaled interest
+- [16:50] and the sale, the piece of technology
+- [16:52] that's going to add the most value to
+- [16:54] you to just automate this whole process
+- [16:56] is Score App. If you've not tried
+- [16:58] scoreapp.com, we've got lots of
+- [17:00] templates, over 150 templates that you
+- [17:02] can use for collecting signaled
+- [17:04] interest. And on the back end of Score
+- [17:05] app, you've got a mini CRM system that
+- [17:08] helps you to manage from lead into sale.
+- [17:11] It helps you to collect those leads,
+- [17:13] collect all of that data, and then you
+- [17:14] can export that to your laps dashboard,
+- [17:17] maybe using a Google sheet to begin with
+- [17:18] or using a CRM system if you're a bigger
+- [17:21] business. And now you've got a really
+- [17:22] easy automated way of generating
+- [17:24] signaled interest and converting that to
+- [17:26] sales and keeping track of that on a
+- [17:28] lapse dashboard. So if you've not done
+- [17:30] so already, get a free account at
+- [17:32] scoreapp.com that will help you with all
+- [17:34] of this. Okay, the final step I want to
+- [17:36] talk about today is where we're going to
+- [17:37] scale this up. So this is where we're
+- [17:39] going to leverage all of the assets that
+- [17:41] we've created so far and we're going to
+- [17:42] do it at a greater scale. We've created
+- [17:45] a product that is underpinned by proof.
+- [17:47] We've got intellectual property that
+- [17:48] we've unpacked into a product for
+- [17:49] prospects and a core offering. We've
+- [17:51] gone out to get attention. At this
+- [17:52] point, we've got into a regular rhythm
+- [17:54] of putting out 11 pieces of short form
+- [17:56] content that link to two to seven hours
+- [17:58] worth of long form content that
+- [18:00] references four brands that I've heard
+- [18:02] of that rates you highly. We're sending
+- [18:04] people from attention over to signaled
+- [18:06] interest through landing pages. Those
+- [18:08] landing pages are generating leads. And
+- [18:11] then we're managing a sales process of
+- [18:12] leads, appointments, presentations, and
+- [18:14] sales. And finally, we want to do that
+- [18:16] at a bigger scale. We want more and more
+- [18:18] people engaging with all of that. So, we
+- [18:20] need to scale up. So, how are we going
+- [18:22] to do that? First, we need to calculate
+- [18:24] something called an allowable cost per
+- [18:26] sale. And then, we need an allowable
+- [18:28] cost per lead. Once we have our laps
+- [18:32] dashboard and we've figured out how many
+- [18:33] leads turned into sales, we can figure
+- [18:35] out what is the allowable cost per sale
+- [18:37] that we can keep spending over and over
+- [18:40] and over again in order to grow the
+- [18:42] business. So, for example, let's say
+- [18:43] your core offering is $5,000 and you're
+- [18:48] happy to spend 15% on generating a sale.
+- [18:51] So, you could say, "Okay, I'm happy to
+- [18:53] spend $750 on generating a sale." So,
+- [18:56] now we know that the allowable cost per
+- [18:58] sale is $750. So, if we've collected
+- [19:02] data from our laps dashboard, we know
+- [19:03] that three out of 100 people are going
+- [19:05] to buy. So, if we generate 100 leads, we
+- [19:08] would expect to see three sales. So, we
+- [19:10] know that if it was 1 in 100, we would
+- [19:13] have to have an allowable cost per lead
+- [19:14] of $7.50. But because we get three out
+- [19:17] of 100, it's going to be $22.50
+- [19:21] as our allowable cost per lead, which
+- [19:23] means anywhere that we can spend $22.50
+- [19:26] and generate a lead means that we are
+- [19:28] going to be within our allowable cost
+- [19:30] per sale. Now, the good news is that
+- [19:32] often you can spend $22.50 and generate
+- [19:34] a lead on Instagram. You can do that on
+- [19:37] Facebook. You can do that probably on
+- [19:39] LinkedIn. In fact, in many cases, if
+- [19:42] you've got good content online, if
+- [19:44] you've got good intellectual property,
+- [19:45] you'll see that you can generate leads
+- [19:47] for well under $10 per lead. So long as
+- [19:49] you're within your allowable cost per
+- [19:50] lead and allowable cost per sale, you
+- [19:52] can spend money to scale up. As you
+- [19:54] probably have guessed, the final step is
+- [19:57] to spend money. This is to engage in
+- [19:59] paid promotions. So paid promotions
+- [20:02] would be ads where you spend money on
+- [20:04] advertising. You might do Google ads,
+- [20:06] Facebook ads, LinkedIn ads, X ads, any
+- [20:09] of those ads. You can also do joint
+- [20:11] venture partnerships where you pay
+- [20:13] influencers or you pay other
+- [20:14] organizations to promote you. You could
+- [20:16] do paid outreach. This is where you pay
+- [20:19] for someone to literally call people or
+- [20:21] you might pay for someone to send DMs.
+- [20:23] You might pay to be featured on an email
+- [20:25] campaign. You might also do
+- [20:27] sponsorships. So, you could sponsor
+- [20:29] somebody's event. You could sponsor
+- [20:30] somebody's newsletter. You could sponsor
+- [20:32] somebody's YouTube channel. So, you've
+- [20:34] got ads, you've got joint ventures,
+- [20:35] you've got outreach, you've got
+- [20:36] sponsorship. These are all examples of
+- [20:38] paid promotions, but paid promotions
+- [20:41] only work when you know your allowable
+- [20:42] cost per sale and your allowable cost
+- [20:44] per lead and that you can track the
+- [20:46] amount of money that you're paying back
+- [20:48] to your allowable cost per sale. Now,
+- [20:50] what we then need to do is just slowly
+- [20:52] ratchet it up. So, what we do is we say,
+- [20:54] I can afford to spend $10,000 this
+- [20:56] month. I'm going to spend the $10,000 on
+- [20:58] ads. Make sure that the allowable cost
+- [21:00] per lead is accurate. Make sure the
+- [21:02] allowable cost per sale is translating
+- [21:04] through. Make sure that we're achieving
+- [21:06] the allowable cost per lead and the
+- [21:07] allowable cost per sale. And then next
+- [21:09] month you might say, I can spend 12,000
+- [21:11] on ads. And then the next month maybe
+- [21:13] 15,000. And maybe the next month 20,000.
+- [21:15] And then you could spend some money on
+- [21:17] promotions and sponsorships and other
+- [21:19] different activities. Always checking
+- [21:21] that you're within your allowable cost
+- [21:22] per lead and your allowable cost per
+- [21:24] sale. So that's a five-step framework
+- [21:26] that a lot of people have paid me a lot
+- [21:28] of money to talk them through. And
+- [21:30] essentially the coaching session that I
+- [21:31] would have with you as a new
+- [21:32] entrepreneur and you just paid me
+- [21:34] $10,000. A lot of our conversation would
+- [21:37] be about your proof story and your
+- [21:38] intellectual property and how you
+- [21:40] productize that, how you get more
+- [21:41] attention, how you get more signals of
+- [21:43] interest, how you get more sales, and
+- [21:44] how you scale up. And largely, I've just
+- [21:46] given that to you for free. If you
+- [21:47] enjoyed this, please share it with
+- [21:49] another entrepreneur that you know, and
+- [21:51] you're going to really enjoy staying
+- [21:52] subscribed to this channel because I'm
+- [21:54] sharing a lot of the stuff that people
+- [21:56] pay me for for free on this YouTube
+- [21:58] channel. Click like and subscribe. Give
+- [22:00] it a thumbs up. Leave me a comment
+- [22:01] below. And I look forward to seeing you
+- [22:03] next time. I hope your business is
+- [22:04] successful.

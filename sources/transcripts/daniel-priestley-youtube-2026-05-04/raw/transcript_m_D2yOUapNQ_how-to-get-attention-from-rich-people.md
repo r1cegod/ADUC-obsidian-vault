@@ -1,0 +1,651 @@
+---
+type: source
+title: "How to Get Attention from Rich People"
+source: youtube
+channel: "Daniel Priestley"
+channel_id: UCABR204CFV9ZoMz69TyspzA
+video_id: m_D2yOUapNQ
+url: https://www.youtube.com/watch?v=m_D2yOUapNQ
+published_at: "2025-11-28T16:32:51Z"
+duration_seconds: 1165
+fetched_at: 2026-05-04T06:15:03Z
+transcript_status: fetched
+transcript_language: "en"
+ingest_run: daniel-priestley-youtube-2026-05-04
+---
+
+# How to Get Attention from Rich People
+
+> Raw transcript evidence for vault-level Daniel Priestley YouTube ingest. Do not treat this as compiled knowledge; use source cards and synthesis pages for durable claims.
+
+## Source Metadata
+- url: https://www.youtube.com/watch?v=m_D2yOUapNQ
+- channel: Daniel Priestley
+- published_at: 2025-11-28T16:32:51Z
+- duration_seconds: 1165
+- fetched_at: 2026-05-04T06:15:03Z
+
+## Transcript
+
+- [00:00] In today's video, we're going to talk
+- [00:01] about how to sell to rich people. The
+- [00:03] top 1% are earning more than ever
+- [00:06] because they're using software and
+- [00:07] technology to scale their businesses
+- [00:09] faster than ever. And it's really
+- [00:10] important to have an offering that sells
+- [00:12] to rich people. Here's why. A rich
+- [00:14] person has all the same problems that a
+- [00:16] normal person has, but at a much bigger
+- [00:18] scale. They might have problems with
+- [00:19] their family, with their fitness, with
+- [00:21] their business, and all of those
+- [00:22] problems are compounded by the fact that
+- [00:24] they're operating at scale. The big
+- [00:26] difference between a normal person and a
+- [00:28] rich person is that a rich person has
+- [00:30] way more money to solve their problems.
+- [00:32] A typical wealthy person might have a
+- [00:34] personal staff of four or five people.
+- [00:36] They might have an executive team of 15
+- [00:38] people. They might have an extended team
+- [00:40] of 150 people and all of that creates
+- [00:43] complexity and it creates problems and
+- [00:45] it creates opportunities for you to be
+- [00:47] able to offer something that solves some
+- [00:48] of those problems. One rich person has
+- [00:51] 15 times the budget of the average
+- [00:52] person. The top 9% of people have 45% of
+- [00:56] the total budget to spend. Which means
+- [00:58] 60% of the available capital in your
+- [01:01] industry is in the top 10% of people who
+- [01:04] are buying. You want to tap into the top
+- [01:06] 10% who have 60% to spend. The mass
+- [01:09] market is 90% of people who only have
+- [01:12] 40% of the budget and that's coming down
+- [01:15] not going up. So we want to be in this
+- [01:17] top 10% here. We want to sell to the
+- [01:18] luxury market or we want to sell to the
+- [01:20] affluent niche market. Let me give you
+- [01:22] two examples. Example number one is a
+- [01:24] health and safety consultant that I know
+- [01:26] called Ray. Ray was talking to anyone
+- [01:28] and everyone who had an office or a
+- [01:30] normal work environment or a sports
+- [01:32] center about health and safety. He was
+- [01:34] running health and safety workshops. He
+- [01:36] was doing health and safety posters,
+- [01:38] health and safety best practices, all of
+- [01:40] those sorts of things. His day rate was
+- [01:41] about $2,000 a day. Now, what he did is
+- [01:44] he applied some of the strategies I'm
+- [01:46] going to talk about in this video in
+- [01:48] order to move into the top end of his
+- [01:50] market. He identified that the top end
+- [01:51] of his market was a particular type of
+- [01:54] food processing. [music] They had big
+- [01:56] budgets to spend because they had a very
+- [01:58] dangerous work environment and they had
+- [01:59] a big problem that needed solving. He
+- [02:01] ran a little workshop with someone from
+- [02:03] a very well-known company. They gave
+- [02:05] everyone some amazing books and
+- [02:06] materials. They put people into that
+- [02:09] workshop. As a result of running one of
+- [02:11] those workshops every 90 days, they were
+- [02:13] able to move the day rate from 2 grand a
+- [02:15] day to 20 grand a day. The typical
+- [02:17] client went from spending $20,000 to
+- [02:20] $400,000 and the business exploded as a
+- [02:23] result. And all he did is he figured out
+- [02:26] how to move himself from the mass market
+- [02:29] to the top of the tree. I'll give you
+- [02:30] one more example. One of our clients in
+- [02:32] Sydney was a property sourcing
+- [02:34] specialist. What he would do is find
+- [02:35] property investments and he would source
+- [02:37] property investments for anyone who
+- [02:39] wanted to buy an investment property but
+- [02:41] didn't have the time or energy or
+- [02:42] expertise to find a good deal. So his
+- [02:45] business was deal sourcing. Now what he
+- [02:47] did is he made a shift in his business
+- [02:49] that changed everything. He made himself
+- [02:51] exclusively and only for people who
+- [02:54] worked for the big four accounting firms
+- [02:55] at a director level or above. He got rid
+- [02:58] of all of his case studies and
+- [02:59] testimonials other than the ones who
+- [03:01] were working at the big four accounting
+- [03:03] firms. And he started running
+- [03:04] introduction workshops at the cafes and
+- [03:06] restaurants across the road from the big
+- [03:08] four in Sydney. He applied the
+- [03:09] principles I'm about to share with you
+- [03:11] in this video. and he was able to set a
+- [03:13] rule that he would only work with these
+- [03:15] exclusive clientele if they committed to
+- [03:18] a three-year journey to buy at least six
+- [03:20] investment properties. And as soon as he
+- [03:22] made those shifts to move into the top
+- [03:24] end of town and to have bigger deals and
+- [03:25] bigger commitments, he was able to
+- [03:27] massively transform his business by
+- [03:29] working with people who've got money to
+- [03:31] spend. Now, the truth is that your
+- [03:33] product or service could be 10 times
+- [03:35] more valuable to the right person if
+- [03:37] only you could get in front of them. So,
+- [03:38] let's go through three principles that
+- [03:40] put you in front of the right people.
+- [03:42] Principle number one is about having a
+- [03:44] really powerful pitch. You cannot show
+- [03:46] up in these environments if you don't
+- [03:47] know what it is that you're selling, if
+- [03:49] you don't know what it is that you're
+- [03:50] doing, or if you can't communicate the
+- [03:52] value of what you're doing. So, we're
+- [03:53] going to talk about pitching. Principle
+- [03:55] number two is called contextual
+- [03:56] adjacency. You need to show up in the
+- [03:58] right way. You need to show up with the
+- [03:59] right brands around you, with the right
+- [04:01] people who introduced you. You've got to
+- [04:03] have the right context in order to move
+- [04:05] in these circles. And principle number
+- [04:06] three is called land and expand. This is
+- [04:08] where we start small and we end up with
+- [04:10] big deals. By being generous at the
+- [04:12] start, we end up being well paid at the
+- [04:14] end. So let's go through these three
+- [04:15] principles. How do we have a really
+- [04:17] powerful pitch? A powerful pitch, we
+- [04:19] call it a social pitch or a hook pitch.
+- [04:21] And it has six elements. Name, same,
+- [04:24] fame, pain, aim, game. I know that
+- [04:27] sounds like a big mouthful, but you can
+- [04:28] actually get all of this done in under
+- [04:30] 40 seconds. So your name is what is your
+- [04:33] name and your business name? or what is
+- [04:35] your name and your product or service
+- [04:37] name? That's one of the first things.
+- [04:38] Wealthy, rich people, they meet a 100red
+- [04:40] people a month. You need to remind
+- [04:42] people of who you are and where you're
+- [04:44] from. Same is a simple, easy to
+- [04:46] understand definition of what you do so
+- [04:48] that they're not confused to begin with
+- [04:50] and they kind of just understand
+- [04:52] directionally correct what it is that
+- [04:53] you do. You might say something like,
+- [04:55] "I'm Daniel Priestley. I run a software
+- [04:57] company called scoreapp.com. We do AI
+- [05:00] generated marketing campaigns for small
+- [05:02] businesses." The next one is fame. Fame
+- [05:04] is what sets you apart. What makes you
+- [05:06] different? Or who do we have in common
+- [05:09] that makes me instantly more trusted?
+- [05:11] So, I might say something like, "We've
+- [05:13] got 9,000 customers in 150 different
+- [05:16] countries." I might say, "I've met you
+- [05:18] through mutual contact at Coots [music]
+- [05:20] Bank." I might say, "We've won awards."
+- [05:22] I might say that we've recently raised
+- [05:24] an investment round. I might say that
+- [05:26] one of our investors is a person that
+- [05:28] you've heard of. Right? All of that
+- [05:30] could be part of the fame. So I want you
+- [05:31] to think about anything at all that
+- [05:33] gives you a little bit of extra
+- [05:34] credibility, little bit of extra fame
+- [05:36] that you can put into your default
+- [05:38] social pitch. So the next part is pain.
+- [05:40] This is where you describe the
+- [05:42] frustration or the pain that you first
+- [05:44] noticed in the world. So I might say
+- [05:46] most small businesses really struggle to
+- [05:48] generate leads. They massively struggle
+- [05:50] to run performance marketing campaigns
+- [05:51] and if they could do that, their
+- [05:52] business would benefit massively. The
+- [05:54] next part is AIM. This is what you do.
+- [05:56] We've created a platform that allows
+- [05:58] small businesses to set up a
+- [05:59] hyperargeted marketing campaign, a
+- [06:01] performance marketing campaign in under
+- [06:03] 30 minutes. And the big game is what is
+- [06:06] the big picture of what you're doing? I
+- [06:07] might say something like, "For me
+- [06:09] personally, I really care about
+- [06:10] entrepreneurs. I want to see
+- [06:11] entrepreneurs standing out, scaling up,
+- [06:14] and solving big meaningful problems in
+- [06:15] the world." So all of that fits into
+- [06:17] about 45 seconds. Name, same, fame,
+- [06:20] pain, aim, and game. That is my pitch.
+- [06:23] In my experience, rich people really
+- [06:25] respect people who've got a wellthought
+- [06:27] through pitch. They love it. Now, I've
+- [06:28] had the opportunity to meet dozens of
+- [06:30] billionaires. I've met senior decision
+- [06:32] makers. I've met executives and CEOs and
+- [06:34] big investors who write big checks. All
+- [06:36] of them love a wellthought through
+- [06:38] pitch. But the way that I deliver my
+- [06:40] pitch is I always ask permission first.
+- [06:42] I'll say something like, "I know a lot
+- [06:43] about you cuz I've done my research.
+- [06:45] Would it be okay if I share 30 seconds
+- [06:47] to a minute about what I'm up to in the
+- [06:48] world at the moment?" Or I might say, "I
+- [06:50] know you get pitched a lot and I don't
+- [06:52] want to be that guy who gives you a
+- [06:53] pitch. Would it be okay if I share a
+- [06:55] 30-cond version of my pitch so you know
+- [06:57] what I do?" And by asking permission, it
+- [06:59] normally gets a smile. It gets a
+- [07:01] positive reaction and it cuts straight
+- [07:03] to the point. And I tell you what, rich
+- [07:05] people value their time and they love
+- [07:06] people who get to the point. Okay, so
+- [07:08] the next thing I'm going to share with
+- [07:09] you is a big deal. And most rich people
+- [07:12] don't even have the words to describe
+- [07:14] what this is, but they all use it and
+- [07:16] it's like 80% of the battle. What I'm
+- [07:18] about to share with you is the key to
+- [07:20] showing up powerfully in a rich person
+- [07:22] environment. The technical term for what
+- [07:24] I'm going to share with you is called
+- [07:25] contextual adjacency. Now, what this
+- [07:27] means is that people judge you by what
+- [07:28] they see going on around you. They judge
+- [07:30] you based on the people that are around
+- [07:32] you, the brands that are around you, the
+- [07:34] physical locations that you meet them
+- [07:35] in. All of that stuff actually provides
+- [07:38] a lot of weight to what you're saying.
+- [07:39] See, you could have the exact same
+- [07:41] words, but said in one context it means
+- [07:44] nothing, and in another context it means
+- [07:46] everything. Context really matters. So
+- [07:48] contextual adjacency is the three, four,
+- [07:51] or five markers that are going on around
+- [07:53] you that tell people a lot about who you
+- [07:55] are. Now, I've got a story that really
+- [07:57] illustrates this point. Imagine that
+- [07:59] you're going to hire one of two business
+- [08:00] coaches. Business coach number one wants
+- [08:02] to meet you in the cafe at Equinox Gym.
+- [08:04] When they arrive, they're dressed head
+- [08:06] to toe in Gym Shark athletic wear.
+- [08:08] They're wearing an Apple fitness
+- [08:09] tracking watch, and they bring you a
+- [08:11] gift of a book of Jim Collins's Good to
+- [08:14] Great. Now, before they've even opened
+- [08:15] their mouth, you know that this person
+- [08:17] is very performanceorientated.
+- [08:19] This person is datadriven and this
+- [08:21] person really cares about [music] big
+- [08:22] outcomes. Now, the second business coach
+- [08:24] says they want to meet you in a crystal
+- [08:25] cafe. They're wearing [music] Buddhist
+- [08:27] beads around their wrist. They've got
+- [08:29] flowy roby clothing on. They bring you a
+- [08:31] gift of a book called The Secret and How
+- [08:33] to Manifest Your Dreams. And you notice
+- [08:35] that they have an Android mobile phone
+- [08:36] that has a big crack through the screen.
+- [08:38] Now, before they've even opened their
+- [08:39] mouth, you already know that this person
+- [08:41] is a little bit different to the first
+- [08:43] business coach. They're much more
+- [08:44] spiritual. They're much more into the
+- [08:46] metaphysical. Neither of these coaches
+- [08:47] needs to even open their mouth. You've
+- [08:49] already made a decision based on whether
+- [08:51] you're interested in the spiritual and
+- [08:52] metaphysical approach or whether you're
+- [08:54] into the data and performancedriven
+- [08:56] approach, right? You've already kind of
+- [08:57] made up your mind based on the context
+- [09:00] of how you met that coach. So, what I
+- [09:02] demonstrated there is how much
+- [09:04] contextual adjacency actually matters.
+- [09:07] People place huge amounts of weight
+- [09:08] based on a few different things. Now,
+- [09:10] let me give you some things that you
+- [09:11] could go with. Number one is the books,
+- [09:13] thought leaders or courses that you're
+- [09:15] currently engaged in. So if you were to
+- [09:17] show up with a book or if you've
+- [09:19] recently taken a course and you
+- [09:20] discussed it or if you met someone at a
+- [09:22] course or if you share a common thought
+- [09:24] leader that you both follow, that's a
+- [09:26] great contextual marker. Educational
+- [09:28] institutions that you've studied under
+- [09:29] would be another contextual marker.
+- [09:31] Third one would be the locations that
+- [09:33] you meet. In every city, there are
+- [09:35] locations that rich people are meeting
+- [09:36] in and there are locations that they
+- [09:38] never go into. So in a big city like
+- [09:40] London, you'll find that Marabone,
+- [09:43] Mayfair and Chelsea are the places that
+- [09:45] they typically meet and they meet in
+- [09:47] beautiful hotels, certain restaurants
+- [09:48] and cafes and definitely members clubs.
+- [09:50] So there are those locations that
+- [09:52] provide context. The fourth thing is the
+- [09:54] brands that are surrounding you. There
+- [09:56] is a difference between having an Apple
+- [09:58] iPhone and a cracked Android. There is a
+- [10:00] difference between showing up in a crisp
+- [10:02] Apollo Ralph Lauren shirt or in a
+- [10:05] scrappy old t-shirt from your favorite
+- [10:07] band of the '90s. If you're in a place
+- [10:08] like Dubai, big flashy brands like Rolex
+- [10:12] and Ferrari, they carry a lot of weight.
+- [10:14] In other circles, those brands would
+- [10:16] devalue you or make you seem too flashy.
+- [10:19] But the key here is to put thought into
+- [10:21] the brands that are around you. The
+- [10:22] fifth one is the suppliers that you
+- [10:24] share. Now, rich people bank at rich
+- [10:26] people banks. They go to rich people
+- [10:28] consultants. They go to rich people
+- [10:30] accountants and lawyers. All of those
+- [10:32] suppliers, they have a fast track for
+- [10:35] upand cominging entrepreneurs. They have
+- [10:37] monthly events that they run to attract
+- [10:39] new people in. And if you get on their
+- [10:41] mailing list, you will figure out how
+- [10:43] they get people together. I tell you
+- [10:45] what, if you meet someone through a
+- [10:46] private bank or a really wellrespected
+- [10:48] consulting firm at one of those events
+- [10:50] that they run, that immediately says a
+- [10:52] lot about who you are. And then the
+- [10:54] final one, of course, is mutual
+- [10:55] contacts. If you have mutual friends,
+- [10:58] mutual contacts, if you know family
+- [11:00] members or trusted members of their
+- [11:01] inner circle, that is a powerful
+- [11:04] strategy for having a really strong
+- [11:06] level of context before you've even
+- [11:08] opened your mouth. Now, an amazing hack
+- [11:10] for this is that on LinkedIn or
+- [11:12] Instagram, you can already see the
+- [11:13] people that you have in common. You can
+- [11:15] see the thought leaders that both of you
+- [11:16] are following. You can see the mutual
+- [11:18] contacts on LinkedIn that both of you
+- [11:20] know. Do some digging to see if you've
+- [11:21] got those mutual contacts and mutual
+- [11:23] brands in common. The key here is that
+- [11:26] you need three, four, or five of these
+- [11:29] contextual markers to say something
+- [11:31] about you before you've even opened your
+- [11:33] mouth. Put some thought into this. Do
+- [11:34] you know the one thing I've noticed is
+- [11:36] that entry-level entrepreneurs almost
+- [11:38] never think about the context and
+- [11:40] setting the right scene. And yet, the
+- [11:42] wealthy and the rich people that I know,
+- [11:43] they put a lot of thought into this
+- [11:45] stuff. Principle number three for
+- [11:46] selling to rich people is the concept
+- [11:48] called land and expand. The way that you
+- [11:50] sell to rich people is by doing
+- [11:52] something upfront. that is free, that
+- [11:54] creates proof, then reviewing it and
+- [11:56] then expanding and then reviewing it and
+- [11:58] expanding. You don't get to do big deals
+- [12:00] before you've proven yourself on small
+- [12:01] deals. You prove that you're trustworthy
+- [12:03] in a small way and then you get invited
+- [12:05] to do big stuff in a big way. But
+- [12:07] there's a little technique that really
+- [12:09] changes everything. Let me explain.
+- [12:11] Okay, so with the land and expand
+- [12:12] framework, the first thing you need to
+- [12:14] do is generate proof. You've got to
+- [12:16] prove that you're valuable. The best way
+- [12:18] to do proof is through education or
+- [12:21] research. Education is where you go in
+- [12:23] and you share insights that are very
+- [12:25] very valuable that the rich person
+- [12:27] didn't know existed. Research is where
+- [12:29] you go in collect data or information
+- [12:30] that the rich person didn't have access
+- [12:32] to. You consolidate that and you share
+- [12:35] with them some key insights. So in this
+- [12:37] proof phase, we're going to do some
+- [12:38] research. We're going to find some
+- [12:39] insights and we're going to share that
+- [12:41] totally freely. The other thing that you
+- [12:42] could do is a short little sprint, some
+- [12:45] sort of small project where you're
+- [12:47] building chemistry just by getting
+- [12:49] started. So, for example, let's say
+- [12:50] you're a fitness trainer and you meet a
+- [12:52] rich person who says that they want to
+- [12:53] lose some weight. You might say, "Let's
+- [12:55] just go for a run together. Let's just
+- [12:57] get out there and do something together.
+- [12:58] Let me take you to the gym and let's go
+- [13:00] and do a workout together." Now, what
+- [13:02] you're doing is you're saying, "Let's
+- [13:03] just build some chemistry. Let's build
+- [13:04] some proof. Let's see if we work well
+- [13:06] together." You're not going to put any
+- [13:08] barriers in the way. You're not going to
+- [13:09] say, "Let's have a contract. Let's pay
+- [13:11] some money just yet. We're going to park
+- [13:13] all of that to the side and just start
+- [13:15] doing something together." The key here
+- [13:17] is start the ball rolling with as
+- [13:18] minimal amount of friction as possible
+- [13:20] to create some proof. Now, once you've
+- [13:22] created proof, I want you to be the one
+- [13:25] to suggest a review process. I want you
+- [13:27] to figure out how to present your data,
+- [13:28] your research, or your insights in a
+- [13:30] written format. Now, what I want you to
+- [13:32] do is figure out how to put it on a
+- [13:34] spreadsheet, how to put it on a slide
+- [13:36] deck, and I want you to print it out and
+- [13:38] give it to the rich person. I want you
+- [13:39] to say, "Here's what we discovered.
+- [13:41] Here's what we found. Here's what we
+- [13:42] did. Here's what we should do next." But
+- [13:44] the key here is it's got to be written
+- [13:46] and printed. I want you to have a
+- [13:47] printed out document. The big mistake
+- [13:49] that many of you make is thinking that
+- [13:51] people have amazing memories or that
+- [13:53] they have a lot of head space. A rich
+- [13:55] person does not have a lot of head
+- [13:57] space. It needs to be printed out. It
+- [13:58] needs to be visual. Did you know that
+- [14:00] 50% of the human brain is dedicated to
+- [14:03] visual processing? If you don't make it
+- [14:05] visual, there's 50% chance people won't
+- [14:07] take it in. The other reason you got to
+- [14:08] make it visual is rich people make
+- [14:10] decisions with other people in mind. A
+- [14:12] rich person has an executive assistant
+- [14:14] who needs to see what's going on. A rich
+- [14:16] person might have a financial adviser. A
+- [14:18] rich person might have another key
+- [14:20] decision maker, maybe a spouse who gets
+- [14:22] involved in their decisions. You need to
+- [14:25] give them something that they can then
+- [14:26] share with those other decision makers
+- [14:28] to make making that decision a complete
+- [14:30] no-brainer. Put the thought in and
+- [14:32] create something visual that can be that
+- [14:34] review process that they can share.
+- [14:36] Okay. If you do this correctly, they are
+- [14:38] going to say, "Let's propose a deal."
+- [14:39] And what you might do is say, "I'd love
+- [14:41] to work with you. What do you think the
+- [14:42] deal should look like?" Now, here's the
+- [14:44] cool thing. Rich people are really good
+- [14:46] at constructing deals. And it's very,
+- [14:48] very cool to let them suggest the deal.
+- [14:50] You can even say, "I've got an idea as
+- [14:53] to what a deal might look like, but I'd
+- [14:54] love to know if we work together, what
+- [14:56] do you want that to look like? Or have
+- [14:58] you got an idea as to how it would look
+- [15:00] like? Is there a preferred way you would
+- [15:01] want to work with someone like myself?"
+- [15:03] The reason this works so well is half
+- [15:05] the time they're going to suggest
+- [15:06] something that is way bigger than you
+- [15:09] had in mind and the other half of the
+- [15:11] time they're going to suggest something
+- [15:12] smaller. But if that's what they're
+- [15:13] comfortable with at this phase, that's
+- [15:15] where you need to go next. Now, if
+- [15:16] you're lucky, they're going to explain a
+- [15:18] big deal. They're going to say, "Hey,
+- [15:19] let's work on this. Let's work on these
+- [15:20] parameters." You might even ask them the
+- [15:22] question, "What's the price point?
+- [15:23] What's the budget that you feel
+- [15:25] comfortable with?" You might say, "If I
+- [15:26] was to work with someone like yourself,
+- [15:28] we would typically budget around X or Y.
+- [15:30] Is that the typical scenario that would
+- [15:32] work with you? The power of putting it
+- [15:33] into their court is that they have a lot
+- [15:35] more experience in their world than you
+- [15:37] do, obviously. And they're going to have
+- [15:38] price points that they have in mind.
+- [15:40] They're going to have budgets that they
+- [15:41] typically work with. They're going to
+- [15:43] have performance targets that they might
+- [15:45] typically feel comfortable with. And if
+- [15:47] you put the ball in their court, it's
+- [15:48] often the case that the deal that they
+- [15:51] suggest is way better than the deal that
+- [15:52] you would come up with. You should
+- [15:54] always have a fullback position. You
+- [15:55] should always have a deal that you've
+- [15:56] put thought into that you can suggest on
+- [15:58] the spot. So if they say, "I'm not sure.
+- [16:00] How do you think it should look?" You
+- [16:01] say, "Well, here's what I'm thinking."
+- [16:02] Right? And you can present that and once
+- [16:04] again present it in a written document
+- [16:06] that is printed out that is ready to
+- [16:07] share. Now, here's the little secret.
+- [16:09] The one thing that rich people like to
+- [16:12] do is constantly test to see if you're
+- [16:14] trustworthy and whether you deliver
+- [16:16] results. So, you've done something for
+- [16:17] free and that created proof. Excellent.
+- [16:20] Now, you're going to do something, let's
+- [16:21] call it 10 grand, 20 grand, 100 grand,
+- [16:23] and that's going to deliver even more
+- [16:25] proof. Once again, you're going to do a
+- [16:26] review process. And here is the
+- [16:29] absolutely most powerful tactical thing
+- [16:32] that you can do at this point. Once
+- [16:33] you've delivered the second great result
+- [16:35] that you got paid for, this is where you
+- [16:37] can say the truth is that I'm getting
+- [16:39] busy. I'm oversubscribed. My focus is
+- [16:41] getting split between other projects.
+- [16:43] You can actually name a constraint. And
+- [16:45] at this point, you can say, I'm not
+- [16:48] sure, do you think I should double down
+- [16:50] working with you, or do you think it's
+- [16:51] time that we part ways? So, the powerful
+- [16:53] technique here is that after you've
+- [16:55] delivered two powerful proof projects,
+- [16:57] you can say, "I'm getting busy. I've got
+- [16:59] other things going on. Do you think it's
+- [17:01] time that we double down and work on
+- [17:03] some bigger things together, or do you
+- [17:05] think it's time that we pull it a day
+- [17:07] and part ways on really good terms?"
+- [17:09] Now, most rich people will say, "What
+- [17:10] are you talking about part ways? I want
+- [17:12] to do way bigger stuff with you. I
+- [17:14] really want to expand what we can do."
+- [17:15] So, you can now suggest, "Here's some
+- [17:18] big projects that we could work
+- [17:19] together." During the process of doing a
+- [17:21] few things together, you've already
+- [17:23] started to understand this person's
+- [17:25] world better. You understand where they
+- [17:27] travel, where their interests are, and
+- [17:28] this is where you can suggest some big
+- [17:30] [music] deals. This is where you could
+- [17:31] say, "What I'd love to do is I'd love to
+- [17:33] do some bigger deals with you. The
+- [17:35] reason I've been working closely with
+- [17:36] you up until this point is to build
+- [17:38] trust with you so that we can do some
+- [17:40] bigger deals together. Do you have
+- [17:41] anything in mind?" Right? And this is
+- [17:43] where you're going to try and open up to
+- [17:44] the really big deals because the truth
+- [17:46] is that the big deals is where you make
+- [17:48] the big money with a rich person. The
+- [17:50] small deals are just building proof and
+- [17:51] trust. So the purpose of getting to this
+- [17:54] point was to get to the big deal. Now
+- [17:56] here's another interesting thing. Rich
+- [17:57] people love to make recommendations to
+- [17:59] other rich people. And at this point you
+- [18:02] may say, "Do you know of any big deals
+- [18:04] that are going on in your network that I
+- [18:06] should be pitching for that I should be
+- [18:08] putting myself forward for?" Now, that's
+- [18:09] a powerful question because at this
+- [18:12] particular moment, your current person
+- [18:14] that you're working with may not have a
+- [18:16] big deal, but they might know three or
+- [18:17] four people who do have a big deal. And
+- [18:19] that's really powerful as well. The big
+- [18:21] deal that you get access to may not be
+- [18:23] the same person. It might be someone
+- [18:24] that they can introduce you to. But the
+- [18:26] key insight here is that we're going
+- [18:28] through a process of land and expand
+- [18:30] through the process of creating proof
+- [18:32] and then reviewing it in a written
+- [18:33] document, creating more proof, reviewing
+- [18:35] it in a written document, and then
+- [18:37] suggesting that big deal. Okay, so we've
+- [18:39] covered three things here. And those
+- [18:41] three things are how you work with rich
+- [18:43] people. I hope you found that really,
+- [18:45] really interesting. I don't want you to
+- [18:46] click onto the next piece of content. I
+- [18:48] want you to think about how are you
+- [18:49] going to improve your pitch. How are you
+- [18:51] going to improve the context of how you
+- [18:53] show up in the world and how are you
+- [18:55] going to build a journey where you land
+- [18:56] and expand so that you can work on
+- [18:59] bigger and bigger deals. There is so
+- [19:00] much money out there. The world is just
+- [19:02] full of money. There's more money on the
+- [19:04] planet than ever before. It's just in
+- [19:06] the hands of small group of people and
+- [19:08] you need to know how to sell to those
+- [19:10] people. So, make it a goal in the year
+- [19:11] ahead that you're going to start selling
+- [19:13] to people who've got more money to
+- [19:15] spend. Okay, I hope you enjoyed that
+- [19:16] video. If you did, like, subscribe, and
+- [19:19] share with someone who you think would
+- [19:20] benefit from this content. I look
+- [19:22] forward to seeing you next time and I
+- [19:23] hope your business is doing

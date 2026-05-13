@@ -2,7 +2,7 @@
 type: note
 title: Raven Evaluation Insights
 created: '2026-04-22'
-updated: '2026-04-26'
+updated: '2026-05-03'
 tags:
   - project/raven
   - evaluation
@@ -38,6 +38,20 @@ Reports tell you what happened.
 This note tells you what now belongs to the system.
 
 ## Current Durable Insights
+
+### Eval Operations
+
+- `daily eval` means run the Raven full graph first and create a fresh packet; it is not a vault-only status summary.
+- Focused node/dataset evals are Phase 2: they start from Duc audit lines or inspected failures, then rerun until the current dataset standard is met.
+- A passing daily full graph with blank Duc audit lines creates audit evidence, not an automatic prompt/dataset patch.
+- Focused datasets must track the current request-era schema. Old query-era rows without `request` are not meaningful failures; they are migration debt.
+- Daily eval candidate counts are not comparable while `raven_candidates` suppresses previously seen videos globally. Eval isolation or run-local candidate identity must come before search/prompt tuning.
+
+### YouTube Search / Candidate Evidence
+
+- Low candidate counts can be a storage artifact, not a search artifact. On 2026-05-03, direct YouTube diagnostics found dozens of filter-passing results for the daily queries, while the packet showed only 11 candidates because global `UNIQUE(source, platform_id)` / `link UNIQUE` suppressed videos already stored by earlier runs.
+- Best route: make candidates run-local first, then add a source-history layer later if needed. Do not use global candidate uniqueness as a substitute for source memory.
+- Query tuning should happen after storage semantics are fixed. Initial high-volume query families for YouTube growth are `small youtube channel growth`, `youtube channel mistakes`, and `youtube growth case study`.
 
 ### Tier 1 Ranker
 

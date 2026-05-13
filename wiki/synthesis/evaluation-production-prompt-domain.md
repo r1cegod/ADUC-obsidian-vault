@@ -2,7 +2,7 @@
 type: synthesis
 title: Evaluation And Production Prompt Domain
 created: '2026-04-26'
-updated: '2026-04-26'
+updated: '2026-05-02'
 tags:
   - evaluation
   - prompts
@@ -66,6 +66,25 @@ desired behavior
 ```
 
 A green command is not the same as a production claim. The claim must name the seam it proves and the seams it does not prove.
+
+## Two-Phase Eval Method
+
+Use this reusable shape when the evaluation depends on human taste or judgment:
+
+```text
+1. Dataset bootstrap
+   -> capture the human audit taste
+   -> turn audit examples into explicit cases
+   -> preserve expected judgment, edge reason, and failure mode
+
+2. Eval to dataset standard
+   -> run the focused eval against the bootstrapped dataset
+   -> inspect failures before changing prompts or code
+   -> rerun until the current dataset standard is met
+   -> scope the production claim to the tested seam
+```
+
+Do not skip dataset bootstrap when the standard is still tacit. Otherwise the eval only measures whether the system matches an unexamined evaluator, not whether it learned the intended judgment.
 
 ## Production Prompt Loop
 

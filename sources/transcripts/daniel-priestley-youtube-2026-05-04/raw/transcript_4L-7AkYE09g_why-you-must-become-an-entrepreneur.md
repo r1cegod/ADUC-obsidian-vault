@@ -1,0 +1,442 @@
+---
+type: source
+title: "Why You Must Become an Entrepreneur"
+source: youtube
+channel: "Daniel Priestley"
+channel_id: UCABR204CFV9ZoMz69TyspzA
+video_id: 4L-7AkYE09g
+url: https://www.youtube.com/watch?v=4L-7AkYE09g
+published_at: "2025-09-19T17:05:01Z"
+duration_seconds: 852
+fetched_at: 2026-05-04T06:15:03Z
+transcript_status: fetched
+transcript_language: "en"
+ingest_run: daniel-priestley-youtube-2026-05-04
+---
+
+# Why You Must Become an Entrepreneur
+
+> Raw transcript evidence for vault-level Daniel Priestley YouTube ingest. Do not treat this as compiled knowledge; use source cards and synthesis pages for durable claims.
+
+## Source Metadata
+- url: https://www.youtube.com/watch?v=4L-7AkYE09g
+- channel: Daniel Priestley
+- published_at: 2025-09-19T17:05:01Z
+- duration_seconds: 852
+- fetched_at: 2026-05-04T06:15:03Z
+
+## Transcript
+
+- [00:00] Unfortunately, the way AI is disrupting
+- [00:02] the world at the moment, everybody is
+- [00:03] going to have to become more
+- [00:04] entrepreneurial.
+- [00:05] >> One of the biggest employers in the Bay
+- [00:07] Area is cutting thousands of jobs
+- [00:09] because of AI.
+- [00:10] >> This week, Microsoft announcing it is
+- [00:12] laying off nearly 4% of its workforce as
+- [00:14] it tries to refocus uh more on AI.
+- [00:17] >> You might be wondering which businesses
+- [00:19] and which jobs are going to survive the
+- [00:20] AI revolution. And unfortunately, the
+- [00:22] answer is none of them. Absolutely every
+- [00:24] business, every industry is going to be
+- [00:26] impacted by AI. In this video, I'm going
+- [00:28] to explain to you what's happening at a
+- [00:29] very high level economically. It'll
+- [00:31] explain why everything feels really
+- [00:33] expensive. All of this will make sense
+- [00:34] once we get to the end of this video.
+- [00:36] The good news is you're going to know
+- [00:38] exactly how to respond so that the rest
+- [00:40] of your life is absolutely wonderful.
+- [00:43] My name is Daniel Priestley. If we
+- [00:44] haven't met before, I'm an entrepreneur.
+- [00:46] I've lived through many different
+- [00:47] disruptions over the last 20 years. I've
+- [00:49] started and scaled multiple companies.
+- [00:50] I've had seven businesses that went 0 to
+- [00:52] a million in their first 12 months. I've
+- [00:54] had three businesses worth more than 10
+- [00:56] million. Now, the first thing I want you
+- [00:57] to be aware of is the macro trend driven
+- [00:59] by technology that goes hundreds of
+- [01:01] years. If we were to go back in time to
+- [01:03] the 1750s, we would have seen the
+- [01:06] decline of the agricultural age. And it
+- [01:08] was all based on land ownership. Who
+- [01:10] owned land, who controlled land, who
+- [01:12] took over land, that was all based on
+- [01:14] this system. That game came to an end
+- [01:16] when the birth of the industrial age
+- [01:18] came along. So, call it about 1750.
+- [01:22] We started to see the decline of the
+- [01:23] agricultural age and we started to see
+- [01:25] the gradual increase of the industrial
+- [01:28] age. And the industrial age was driven
+- [01:30] by all sorts of tools and technologies
+- [01:32] was factories and offices. And the whole
+- [01:34] idea with factories and offices is that
+- [01:37] you basically set up a factory and
+- [01:39] office and within a local 5m radius you
+- [01:42] need to get men and those men need to
+- [01:44] come to the office and they need to work
+- [01:46] in the factory or the office. And what I
+- [01:47] believe is happening is we've entered a
+- [01:49] new age that we'll call the digital age.
+- [01:52] And the digital age is the age where
+- [01:54] geography doesn't really matter at all.
+- [01:56] We're so disconnected from farming and
+- [01:58] land and all of those sorts of things.
+- [02:00] And also factories and offices don't
+- [02:02] really matter very much anymore. It's
+- [02:04] all about this new type of assets. And
+- [02:06] these new assets are called intellectual
+- [02:08] property, which is ideas, data, which is
+- [02:11] knowledge about stuff and collecting
+- [02:13] that data. media, which is what you're
+- [02:16] watching right now, videos, published
+- [02:18] content, and code, right? So, that would
+- [02:21] be software, AI tools, all of those
+- [02:23] sorts of things. All of that industrial
+- [02:25] age, which you were prepared for with
+- [02:27] the schooling system, all of that is now
+- [02:28] outdated. It's in decline and everyone
+- [02:31] who's connected to that system is
+- [02:33] experiencing a decline, right? So, this
+- [02:35] is going out and it's being replaced by
+- [02:38] this digital age. And if we look at the
+- [02:41] cities and the places that are doing
+- [02:43] really well, it's pretty strange. Like
+- [02:45] take Dubai for example. Dubai has no
+- [02:47] farmland. It has no factories. Uh it's
+- [02:50] too hot and too expensive uh to do any
+- [02:52] of that. But it's attracting a lot of
+- [02:54] digital entrepreneurs who have IP, data,
+- [02:56] media, and code. So the first thing that
+- [02:58] you need to be aware of is that you were
+- [03:01] raised for a system that no longer
+- [03:02] exists. You went to a schooling system
+- [03:05] that was created in the 1850s,
+- [03:09] right? and it was very very relevant
+- [03:11] from 1850 to 1950. It did a great job.
+- [03:14] But ever since then it's been in
+- [03:15] decline. If you were like me, I was born
+- [03:17] in the 80s. I remember the absolute peak
+- [03:20] of the industrial age was the Simpsons,
+- [03:26] >> right? And if you look at the star of
+- [03:28] the show of the Simpsons, you got Homer
+- [03:29] Simpson. Homer Simpson is an average
+- [03:32] guy, right? He's a normal guy. There's
+- [03:33] nothing special about him, but he has a
+- [03:36] job. That job pays for a big
+- [03:38] five-bedroom house. He's got three kids.
+- [03:40] His wife doesn't have to work. He takes
+- [03:41] holidays. He's got a car. So this was
+- [03:44] the point in time. This was latestage
+- [03:46] industrial age where someone working in
+- [03:48] a factory or an office could have a very
+- [03:50] very comfortable life because it had
+- [03:52] matured. The industrial age had matured
+- [03:54] to the point where Homer Simpson could
+- [03:56] actually have a pretty damn good life,
+- [03:58] right? So that tells you that that is
+- [03:59] the peak of that particular system. We
+- [04:02] know that right now you would never
+- [04:03] create a a show called The Simpsons
+- [04:05] because no one would believe that it was
+- [04:07] possible to live like that. In the
+- [04:09] industrial age, all of the results
+- [04:12] clustered around something called a bell
+- [04:14] curve. A bell curve says we reward the
+- [04:17] average. We reward Homer Simpson. So the
+- [04:21] average doctor gets paid what every
+- [04:23] other doctor earns. The average dentist
+- [04:25] earns roughly the same. uh everyone who
+- [04:28] works in a factory gets paid the average
+- [04:31] or thereabouts of the factory. If you
+- [04:33] take any factory or office, the way that
+- [04:35] they pay people is through something
+- [04:37] called wages. And wages is about
+- [04:39] creating an average amount of time for
+- [04:41] an average amount of work uh and getting
+- [04:43] an average amount of pay. And
+- [04:45] essentially in a wage situation, you
+- [04:48] actually have a situation where you just
+- [04:50] have juniors,
+- [04:52] right? And you have standard and then
+- [04:55] you have senior. So, gold, silver,
+- [04:57] bronze, and basically everyone gets paid
+- [04:59] roughly the same. There's occasionally
+- [05:01] there's a little outlier who's
+- [05:02] exceptionally good at what they do or
+- [05:04] maybe an apprentice who's just getting
+- [05:06] started, but almost everyone gets paid
+- [05:07] on a bell curve. In a digital
+- [05:09] environment, that's not how things work.
+- [05:11] In a digital environment, we operate on
+- [05:14] something called a power law. So, a
+- [05:17] power law is where all the results go to
+- [05:20] the top 10%. So you have 10% of the
+- [05:23] people getting 90% of the pie and you
+- [05:28] have 90% getting 10% of the pie. If you
+- [05:32] go and have a look at Google, Google is
+- [05:34] the top search engine and it gets 90% of
+- [05:37] the search traffic. So everything that
+- [05:38] happens in a digital environment is all
+- [05:40] about power law. So what you have to
+- [05:42] know is that just simply turning up and
+- [05:44] being Homer Simpson, being average
+- [05:46] doesn't work anymore. You must be in the
+- [05:48] top 10% at something. Now the good news
+- [05:51] is is that you can find people anywhere
+- [05:52] in the world. So geography doesn't
+- [05:55] matter anymore, right? Geography has
+- [05:57] changed. So what you can do is you can
+- [05:59] define your own game. You can say at the
+- [06:02] intersection of fitness
+- [06:06] and uh executives
+- [06:09] and running
+- [06:13] your first marathon
+- [06:17] and maybe men,
+- [06:19] right? You can say at this particular
+- [06:22] thing, I'm going to be the top I'm going
+- [06:25] to be the best in the world at that or
+- [06:26] at least I'm going to be in the top 10%.
+- [06:28] So you might say, okay, here's what
+- [06:29] we're doing. I am going to help men who
+- [06:32] want to get fit who are executives at
+- [06:36] what they do. They have a busy life
+- [06:37] between uh you know their their normal
+- [06:39] life. They might be executives or
+- [06:41] entrepreneurs and I'm going to help them
+- [06:42] by getting them to run their very first
+- [06:44] marathon and I'm going to be the best in
+- [06:46] the world at that. Right? So that means
+- [06:47] that if you define that game, you can
+- [06:50] say for that particular niche, I can
+- [06:52] promote myself as a key person of
+- [06:55] influence, right? the person who is most
+- [06:57] well known for that and I can be in the
+- [06:59] top 10% of that. Now, if you had have
+- [07:01] just simply said, I just work with
+- [07:02] fitness, there's a good chance that
+- [07:04] you're going to be somewhere in the
+- [07:05] middle, which means there's no money. If
+- [07:06] you said, oh, I just work with men and
+- [07:08] fitness, okay, maybe you're here, but by
+- [07:10] adding some parameters to the game,
+- [07:12] you're going to push yourself into the
+- [07:13] top 10% and now you can promote
+- [07:15] yourself. And the more people who are
+- [07:17] interested in playing that well-defined
+- [07:19] game, they're going to find you no
+- [07:20] matter where they are in the world.
+- [07:22] They're going to want to buy your
+- [07:23] courses, buy your books, buy your
+- [07:25] things, watch your YouTube videos,
+- [07:27] right? So, you're going to end up as a
+- [07:28] key person of influence at the top of a
+- [07:30] power law. So, your job is no matter
+- [07:33] what, you've got to stop being Homer
+- [07:34] Simpson, stop being average, and you got
+- [07:36] to start being at the top of a power
+- [07:38] law, however you want to define that.
+- [07:39] What typically happens is you niche,
+- [07:41] then pivot, niche, then pivot, niche,
+- [07:43] then pivot. you find yourself at the top
+- [07:45] of a power law and then you pivot to
+- [07:47] something bigger and eventually you end
+- [07:49] up at quite a big market. That's the
+- [07:52] game that we're currently playing. Let
+- [07:53] me give you some more rules to this
+- [07:54] game. Okay, so how does AI really impact
+- [07:57] things and what do we expect to see over
+- [07:59] the next 5 years? Well, let's have a
+- [08:01] look at how income enters people's
+- [08:04] houses as it currently stands and we're
+- [08:06] going to look at what's going to happen
+- [08:07] in the future. So, as it currently
+- [08:09] stands, income really only enters
+- [08:12] people's house through one of four ways,
+- [08:14] right? So, here's a little house, right?
+- [08:17] So, for majority of people, income
+- [08:19] enters their house through a wage. So,
+- [08:21] the wage, as I said, is an average
+- [08:24] amount of time a month, right, for an
+- [08:27] average amount of pay to do an average
+- [08:29] amount of work. As it currently stands,
+- [08:31] about 60% of money entering people's
+- [08:33] houses comes from wages. If you don't
+- [08:36] have wages, we often have what we call
+- [08:38] government benefits. And at the moment,
+- [08:41] about 15% of the money that's entering
+- [08:44] people's houses is coming from the
+- [08:46] government. So, it's a government
+- [08:47] benefit thing. One of the big ones
+- [08:48] that's going to come next after AI takes
+- [08:50] over all sorts of things is something
+- [08:52] called UBI.
+- [08:54] UBI is universal basic income. It's
+- [08:56] basically getting paid by the government
+- [08:58] because you're not working because AI
+- [09:00] took your job. Up here is what we would
+- [09:02] call fees. And I call this performance
+- [09:05] fees. And fees are all about doing
+- [09:09] something where you can measure your
+- [09:11] performance. So this could be a
+- [09:12] commission that you sold a house and now
+- [09:14] you get a commission for selling the
+- [09:16] house. Or it could be that you're
+- [09:17] self-employed and you did a day's worth
+- [09:19] of work and you get paid for a day's
+- [09:21] worth of work. So this is
+- [09:22] self-employment, entrepreneurship,
+- [09:24] uh sales commissions, but it's very much
+- [09:27] it's not linked to wages. It's not an
+- [09:28] average amount of money for an average
+- [09:30] amount of time for an average amount of
+- [09:31] work. It is actually a money that is
+- [09:34] directly linked to some sort of
+- [09:35] performance. And once again at the
+- [09:36] moment we have about 15% uh that is
+- [09:39] coming to people who are entrepreneurs
+- [09:41] or fee earners. And then finally over
+- [09:43] here we're going to call this rent.
+- [09:45] Another word would be yield but it's
+- [09:47] money from assets. Right? So this is
+- [09:49] basically money that comes in because
+- [09:52] you own a house or because you own
+- [09:54] shares. So people who are able to live
+- [09:56] off of the rent that they're earning
+- [09:58] from some other asset that they earn. uh
+- [10:00] people who get a yield, maybe you own
+- [10:02] some stocks or shares that pay a
+- [10:04] dividend that uh you don't have to do
+- [10:06] anything. These just keep paying you
+- [10:07] regardless of what you're doing. So,
+- [10:08] traditionally, this would have been
+- [10:09] called passive income. And at the
+- [10:11] moment, about 10% of the money that's
+- [10:12] going into people's homes is coming from
+- [10:14] that type of income. So, that's the pie
+- [10:16] as it currently sits where we are today
+- [10:19] before AI disrupts things. What's going
+- [10:22] to happen is we will probably get rid of
+- [10:24] wages. Wages are going to start going
+- [10:26] away. Not all at once, not for
+- [10:27] everybody. There's still going to be
+- [10:29] some wages. And the reason for that is
+- [10:31] wages just do not make sense in an AI
+- [10:33] world. Anything that is average,
+- [10:35] anything that's repeatable, anything
+- [10:36] that's just kind of like monotonous, we
+- [10:38] can automate it. We can automate it with
+- [10:40] robots or we can automate it with AI.
+- [10:42] The the truth is I didn't make the
+- [10:44] rules, by the way. I'm just noticing the
+- [10:45] trends. The truth is this is probably
+- [10:47] going to end up closer to 30%. So, we're
+- [10:49] going to probably see a hinging of the
+- [10:51] amount of people who earn their money
+- [10:52] comfortably through wages. Now, what's
+- [10:54] going to happen is that we're probably
+- [10:56] going to have half those people who lost
+- [10:58] their wage go down to government
+- [11:00] benefits and the other half go up and
+- [11:04] become entrepreneurs. So, these are
+- [11:05] people who go, "Oh, I can't make money
+- [11:07] out of a wage, but I can make my money
+- [11:09] from business or I can make my money as
+- [11:10] a commission salesperson, so I can go
+- [11:12] from a wage slave to a performance fee
+- [11:14] earner." Now, what I do think is going
+- [11:16] to happen, the government is going to
+- [11:18] have to scratch their head and say, "How
+- [11:20] do we pay for twice as many people on
+- [11:23] government benefits? How do we do that?"
+- [11:24] So, what I think they probably going to
+- [11:26] do is they're going to bring in
+- [11:27] something called wealth taxes. And
+- [11:30] wealth taxes is basically seizing your
+- [11:32] traditional assets in order to pay for
+- [11:35] uh the money here. Now, the reason
+- [11:37] they'll go for wealth taxes is because
+- [11:38] this number here, 10%, even if they
+- [11:40] taxed all of that, it's not enough. So
+- [11:42] because assets typically earn about less
+- [11:45] than 5%, you could basically take that
+- [11:48] 10% and you can say oh well there's
+- [11:50] probably about 20 to 30 times that if
+- [11:53] you calculate the wealth. So if we start
+- [11:55] chipping away at people's wealth and
+- [11:57] taking that wealth, we can then probably
+- [11:59] pay a big chunk of these benefits over
+- [12:01] here. Now they'll probably also try and
+- [12:03] tax these people, these fee owners.
+- [12:05] However, there's a different catch here.
+- [12:08] These FE owners are going to become more
+- [12:10] and more high performance FE owners
+- [12:12] because they have digital assets.
+- [12:13] Remember we talked about intellectual
+- [12:15] property like books and um videos and
+- [12:17] media. So they've got these new economy
+- [12:19] assets, IP, media, data, and code. And
+- [12:22] all of those assets are giving them
+- [12:24] superpowers to earn more money than
+- [12:27] ever. So these people have figured out
+- [12:28] that intellectual property, media, data,
+- [12:30] and code allows them to earn performance
+- [12:33] fees much higher. That means their
+- [12:35] businesses are more profitable. They can
+- [12:37] sell more stuff. They can earn more.
+- [12:39] These people can do that from anywhere.
+- [12:41] So these people can be in Dubai. These
+- [12:43] people could be in Vanuatu.
+- [12:46] These people could wherever the hot
+- [12:47] place is. If all of a sudden those
+- [12:49] places became high tax places, they
+- [12:51] could just move to somewhere else. So
+- [12:52] it's going to be very difficult for
+- [12:53] governments to chase after these people
+- [12:55] cuz they hop on a plane and as long as
+- [12:56] they've got their laptop and their
+- [12:58] phone, they're able to do what they do.
+- [12:59] So that means they're going to go after
+- [13:00] these people. So the punchline is what
+- [13:03] you need to do is take as much money as
+- [13:06] you can and develop these assets IP,
+- [13:09] media, data and code. You need to build
+- [13:11] a personal brand. You need to have
+- [13:13] online assets. You need to have things
+- [13:14] that make it easy for you to deliver per
+- [13:16] performance. Don't seek out passive
+- [13:19] income. Seek out massive income.
+- [13:21] Anything that helps you to be a high
+- [13:22] performer because of your brand, because
+- [13:24] of your database, because of your
+- [13:26] content library. That's the stuff that's
+- [13:28] going to be out of reach of grabby
+- [13:30] governments when all of this goes down.
+- [13:32] So, you want to be in this camp here.
+- [13:34] You want to have a lifestyle boutique, a
+- [13:36] lifestyle biz, right? You want to be
+- [13:38] able to have fun, freedom, flexibility,
+- [13:40] the ability to live and work from
+- [13:42] anywhere because of your digital assets.
+- [13:44] Okay, I hope that tells you what's going
+- [13:46] on big picture. I hope that spells it
+- [13:48] all out for you. Gives you something to
+- [13:50] think about. Tells you how to start
+- [13:51] thinking, how to strategize, how to
+- [13:53] invest. I've just done a big long video,
+- [13:55] 60 minutes, that talks about how to do a
+- [13:57] sevenf figureure business from zero to
+- [13:59] seven figures using IP media data and
+- [14:01] code. Uh there'll be a link to that
+- [14:03] here. I hope you're enjoying this
+- [14:05] content. If so, give me a like and a
+- [14:07] subscribe. Uh, and also I hope your
+- [14:09] business is doing really well and I look
+- [14:10] forward to seeing you

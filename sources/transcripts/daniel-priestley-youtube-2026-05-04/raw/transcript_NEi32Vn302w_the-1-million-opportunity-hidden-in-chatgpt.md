@@ -1,0 +1,335 @@
+---
+type: source
+title: "The $1 Million Opportunity Hidden in ChatGPT"
+source: youtube
+channel: "Daniel Priestley"
+channel_id: UCABR204CFV9ZoMz69TyspzA
+video_id: NEi32Vn302w
+url: https://www.youtube.com/watch?v=NEi32Vn302w
+published_at: "2026-02-07T11:47:03Z"
+duration_seconds: 566
+fetched_at: 2026-05-04T06:15:03Z
+transcript_status: fetched
+transcript_language: "en"
+ingest_run: daniel-priestley-youtube-2026-05-04
+---
+
+# The $1 Million Opportunity Hidden in ChatGPT
+
+> Raw transcript evidence for vault-level Daniel Priestley YouTube ingest. Do not treat this as compiled knowledge; use source cards and synthesis pages for durable claims.
+
+## Source Metadata
+- url: https://www.youtube.com/watch?v=NEi32Vn302w
+- channel: Daniel Priestley
+- published_at: 2026-02-07T11:47:03Z
+- duration_seconds: 566
+- fetched_at: 2026-05-04T06:15:03Z
+
+## Transcript
+
+- [00:00] Stop what you're doing because something
+- [00:01] massive is happening that will impact
+- [00:03] your business and your life like nothing
+- [00:05] else. There is a huge opportunity
+- [00:06] unfolding and I need to tell you about
+- [00:08] it. ChatGpt is experimenting with ads in
+- [00:11] their free subscription tier. I'm old
+- [00:12] enough to remember when Google launched
+- [00:14] their ad platform and for about 2 years
+- [00:17] you could win clients for pennies. And
+- [00:19] then I remember when Facebook did the
+- [00:21] same thing. Facebook had so many
+- [00:23] eyeballs and no advertisers. And for
+- [00:25] about two years, you could pick up
+- [00:26] unlimited amounts of clients for
+- [00:28] fraction of the cost of what it cost on
+- [00:30] Google or any other advertising
+- [00:32] platform. There's a reason that this
+- [00:33] opportunity is bigger than Facebook and
+- [00:35] Google combined because ChatGBT has
+- [00:37] three things baked into the platform.
+- [00:38] Unbelievable amounts of data that Google
+- [00:40] and Facebook just wish they had. It also
+- [00:42] has memory and it has intelligence. So,
+- [00:44] let me give you some examples. It might
+- [00:45] know that you've been struggling with a
+- [00:47] business challenge for the last 7 and
+- [00:48] 1/2 months and now you need a business
+- [00:50] coach to get through it. It might know
+- [00:51] that you had a newborn baby 3 years ago
+- [00:53] and now you need a kid's birthday party.
+- [00:55] It might know that you're thinking about
+- [00:56] launching a podcast and here's a list of
+- [00:59] all the products and services that go
+- [01:00] alongside that launch. It also knows
+- [01:02] exactly how to talk to you in your tone
+- [01:05] of voice, in your way of thinking about
+- [01:06] how to influence you towards the right
+- [01:08] decision. All of that means this could
+- [01:10] be better than any advertising platform
+- [01:12] that has ever come before. So, step one,
+- [01:14] let's talk about your marketing budget.
+- [01:15] I do not want you to have a fixed
+- [01:17] marketing budget while this thing's
+- [01:18] scaling up. A fixed marketing budget is
+- [01:20] where you say, "Our business can spend
+- [01:22] $50,000 on marketing for the year, and
+- [01:24] we're just going to break that into
+- [01:25] different chunks." Better than a fixed
+- [01:27] marketing budget is called an allowable
+- [01:29] cost per lead or an allowable cost per
+- [01:30] sale. This is where you calculate at an
+- [01:32] individual sale level, how much can you
+- [01:35] spend generating leads or generating
+- [01:37] sales. So, let's say that a typical sale
+- [01:38] is $25,000 and you're more than
+- [01:41] comfortable spending $400 on advertising
+- [01:44] and sales commission. Now, you know that
+- [01:46] you can spend $400 per sale. It doesn't
+- [01:49] matter how many sales, you can just
+- [01:50] simply scale up. And so long as you're
+- [01:52] winning customers for less than the
+- [01:54] allowable cost per lead and less than
+- [01:56] the allowable cost per sale, you can
+- [01:58] keep scaling all the way to the minimum.
+- [01:59] So the first thing I want you to do is
+- [02:01] get really clear. What are you willing
+- [02:03] to spend to win a customer? And now your
+- [02:05] marketing budget is an infinite
+- [02:07] marketing budget. So long as you stay
+- [02:08] below those numbers, and I promise you,
+- [02:10] you are going to stay below those
+- [02:11] numbers. You're going to win customers
+- [02:14] for a fraction of your allowable cost
+- [02:15] per sale. So now I want to cover a
+- [02:18] fundamental in advertising that has not
+- [02:20] changed in the last 25 years plus. And
+- [02:22] this fundamental is how to structure
+- [02:24] your ads. The first thing you need is a
+- [02:26] hook. Then you need a value proposition.
+- [02:28] Then you need credibility. And then you
+- [02:30] need a call to action. Hook, value
+- [02:32] proposition, credibility, call to
+- [02:34] action. Those are the four fundamentals
+- [02:36] that make every ad work. This worked for
+- [02:38] me 25 years ago. It worked for me 25
+- [02:41] minutes ago. So a hook is one sentence
+- [02:43] that captures people's attention. Any
+- [02:45] hook that relates to the pain people are
+- [02:47] experiencing, the prize that people
+- [02:49] want, or the process that someone should
+- [02:51] follow in order to get the prize is a
+- [02:53] evergreen hook. So, for example, for a
+- [02:56] fitness trainer, are you frustrated that
+- [02:57] you're not losing weight despite going
+- [02:59] to the gym three times a week? Powerful
+- [03:01] hook. Would you like to get into the
+- [03:02] best shape of your life even though
+- [03:04] you're busier at work than ever before?
+- [03:06] Really powerful hook. Pain, prize, or
+- [03:09] process, those hooks are almost
+- [03:10] evergreen. So, a value proposition is
+- [03:12] telling people what they will get if
+- [03:14] they continue to engage with you. So,
+- [03:16] you might say, "We help business owners
+- [03:18] to scale their business by hiring sales
+- [03:20] teams. We're really good at recruiting,
+- [03:22] training, and managing salespeople."
+- [03:23] That's a value proposition. You might
+- [03:25] say, "We get businesses to launch
+- [03:26] podcasts. We can do the research. We can
+- [03:28] do the scripting. We can do the booking
+- [03:30] of guests. That's a value proposition.
+- [03:32] Credibility." So credibility could be
+- [03:34] your numbers, how long you've been in
+- [03:36] business, how many clients you've worked
+- [03:38] with, the cumulative value of the work
+- [03:40] that you've done, right? Any of that is
+- [03:42] credibility. It could also be awards
+- [03:44] that you've won, qualifications that you
+- [03:46] hold, or independent certifications. If
+- [03:48] you're just starting out, you can quote
+- [03:50] academic research that relates to what
+- [03:51] you do. You could have expert
+- [03:53] testimonials or quotes, or you could
+- [03:54] have third party references where people
+- [03:56] recommend you. Now, those three things,
+- [03:58] the hook, the value proposition, and the
+- [04:00] credibility, these are incredibly
+- [04:02] important no matter how you're
+- [04:04] advertising. You'll see that this
+- [04:05] formula is the same formula that made
+- [04:07] Google ads work, Facebook ads work, and
+- [04:09] even newspaper ads work two decades ago.
+- [04:11] Because ultimately, people will not
+- [04:13] engage with a new business or a new
+- [04:15] person unless you capture their
+- [04:16] attention, show them some value, and
+- [04:18] tell them why they should listen to you.
+- [04:20] The third and most important step is the
+- [04:21] call to action. The call to action is
+- [04:23] asking people to do something different
+- [04:25] to what they're currently doing. They're
+- [04:26] currently sitting in an amazing powerful
+- [04:28] platform, Chat GBT. They already trust
+- [04:31] that platform. Why are they going to
+- [04:32] shift their attention from Chat GBT to
+- [04:34] whatever you've got? It has to be a
+- [04:36] level up. It has to be a progression.
+- [04:37] So, here's some of the calls to action
+- [04:39] I'm going to be using. I'm going to be
+- [04:40] calling out the fact that it's now time
+- [04:42] to talk to a human. I'm going to be
+- [04:43] saying things like, "It looks like you
+- [04:44] got a business challenge. The difference
+- [04:46] between us and Chat TBT is that we've
+- [04:49] lived through that experience and we can
+- [04:51] talk you through it human to human." So,
+- [04:53] I'm going to be encouraging people. It's
+- [04:54] now time to talk to a human. So, I'm
+- [04:56] going to be telling people as a call to
+- [04:58] action, you've got a chat GPT response.
+- [05:00] Now, it's time to talk to a human. Now,
+- [05:01] the next call to action that I think
+- [05:03] could be an elevation is called a custom
+- [05:05] GPT. A custom GBT is where I let people
+- [05:08] know that we've used AI in a customized
+- [05:10] way to solve this particular problem.
+- [05:12] So, for example, I've got a business
+- [05:14] called Bookmagic.ai. I'm going to
+- [05:15] encourage people in my CTA to go to
+- [05:17] bookmagic.ai because it's a special AI
+- [05:20] system for writing books. It looks like
+- [05:22] you want to write a book. We've created
+- [05:23] a custom AI experience around planning,
+- [05:26] preparing, and publishing your book.
+- [05:27] Come across to bookmagic.ai. So, I'm
+- [05:29] telling people that this is a custom
+- [05:31] GBT. It's a custom AI. It's not just the
+- [05:33] generic one that GBT has. It's going to
+- [05:35] be something custom just for this
+- [05:37] particular use case. So, the third CTA
+- [05:39] that I'm thinking about is called social
+- [05:41] commerce. It's the inapp purchasing that
+- [05:43] all the other platforms have had huge
+- [05:44] success with. See, all the platforms,
+- [05:46] they don't want you to leave. They don't
+- [05:47] want you to leave Tik Tok or Instagram.
+- [05:49] and they've been able to build buttons
+- [05:50] in where you just simply buy something
+- [05:52] in the platform without leaving. And
+- [05:54] that is the preferred option that Sam
+- [05:55] Alman will have. He will not want you to
+- [05:57] leave chat GBT. He'll want you to just
+- [05:59] click a button and purchase something.
+- [06:00] It gives him the opportunity to take a
+- [06:02] cut of that purchase as well. So think
+- [06:04] about buying a ticket to an event,
+- [06:06] buying a product or service, buying a
+- [06:08] first consultation, whatever people can
+- [06:10] just click and buy. That's going to be a
+- [06:12] powerful thing that ChatGpt is going to
+- [06:13] want people to do. Now, it's really
+- [06:15] important that you start thinking about
+- [06:17] what are going to be your calls to
+- [06:18] action and you start doing some testing.
+- [06:20] Now, I want to encourage you to do a
+- [06:21] couple of things. Go to scoreapp.com and
+- [06:23] have a look at all of the different ways
+- [06:25] that you can engage people and see if
+- [06:27] you can play around with some of these
+- [06:28] CTAs. We've got assessments, we've got
+- [06:30] waiting lists, we've got mini courses,
+- [06:31] we've got webinar booking pages. All of
+- [06:34] those templates are ready to go. Start
+- [06:35] playing with the setup of that now so
+- [06:37] that you've got multiple CTAs ready to
+- [06:39] go. The other thing that I really want
+- [06:40] you to think about is the power of your
+- [06:42] personal brand. Chat GBT is incredibly
+- [06:44] powerful, but it's not a human. It has
+- [06:46] no lived experiences. Your experiences
+- [06:48] are valuable. Your history, your
+- [06:50] background, that's what differentiates
+- [06:51] you. You need to explore your stories.
+- [06:53] You need to explore what makes you
+- [06:55] unique because your personal brand is a
+- [06:57] differentiator. People don't really care
+- [06:59] about business brands anymore. Social
+- [07:00] media was never built to amplify
+- [07:02] business brands. Social media was built
+- [07:04] to amplify personal brands. The more you
+- [07:06] create personal branded content on
+- [07:08] social media, the more ChattBT will
+- [07:10] happily send people to it and notify
+- [07:12] people about it. One of the last
+- [07:13] remaining modes that sets you apart and
+- [07:15] gives you differentiation in the
+- [07:17] marketplace that we're going into is
+- [07:18] your personal brand. Position yourself
+- [07:20] as a key person of influence in your
+- [07:22] industry, be a thought leader, be an
+- [07:24] influencer, get that personal brand up
+- [07:26] because the window for that opportunity
+- [07:28] is going to close. Now, I have tested
+- [07:30] over and over and again, personal brand
+- [07:33] ads massively outperform business brand
+- [07:35] ads. If you say the exact same thing as
+- [07:38] a person who represents a business, you
+- [07:40] will massively outperform any ad that is
+- [07:42] just a faceless business. You may not
+- [07:44] love being a personal brand, but it's a
+- [07:46] powerful asset and one of your
+- [07:47] competitors is going to use this and I
+- [07:49] promise you, they're going to win. So,
+- [07:51] do not disadvantage yourself. Use your
+- [07:53] personal brand as an asset in your
+- [07:55] advertising platforms. So, the three big
+- [07:57] things that you need to have is get
+- [07:59] clear about how much you can spend as an
+- [08:01] allowable cost per sale or an allowable
+- [08:03] cost per lead. Get really clear about
+- [08:05] how you're going to hook people's
+- [08:06] attention. Give them a value
+- [08:07] proposition. Show them that you're
+- [08:09] credible. And then finally, have
+- [08:11] multiple calls to action so that you can
+- [08:13] test which is most effective. The size
+- [08:14] of this opportunity is massive. Every
+- [08:16] single week, 800 million people are
+- [08:18] going on to chat GBT and asking
+- [08:20] questions and sharing a bit about
+- [08:22] themselves. 95% of those people are
+- [08:24] currently on the free subscription.
+- [08:26] That's 760 million people per week. It's
+- [08:30] 2.5 billion messages a day that you're
+- [08:32] going to have the opportunity to
+- [08:33] advertise on. 80% of those 2.5 billion
+- [08:35] conversations are about education,
+- [08:37] advice, doing research, or drafting
+- [08:40] communications. All of that gives
+- [08:42] unbelievably rich data as to what that
+- [08:44] person is trying to get done. These are
+- [08:46] going to be the red-hot leads that your
+- [08:48] business couldn't even dream of. I am so
+- [08:50] passionate about seeing your business
+- [08:51] succeed. That's what I want. That's why
+- [08:53] I make these YouTube videos. This
+- [08:55] opportunity is something that I do not
+- [08:57] want you to pass up. I want you to be
+- [08:59] there when the firing gun goes off and
+- [09:00] we can run this race together. In the
+- [09:03] next 1 to two years, we could change the
+- [09:04] direction of your entire future. I hope
+- [09:06] you've enjoyed this video. I hope you
+- [09:08] feel the urgency in my voice. Give this
+- [09:10] video a like and a subscribe because
+- [09:12] we're going to explore this topic more
+- [09:13] and more over the months and years
+- [09:15] ahead. And I don't want you to miss any
+- [09:16] of that. I want your business to
+- [09:18] succeed. I hope you're doing really,
+- [09:19] really well and I'll see you soon. Now,
+- [09:21] if you enjoyed this video, check out
+- [09:22] this video on how to build a personal
+- [09:24] brand in the age of AI.

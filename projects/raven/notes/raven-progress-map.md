@@ -2,7 +2,7 @@
 type: note
 title: Raven Progress Map
 created: '2026-04-29'
-updated: '2026-04-29'
+updated: '2026-05-02'
 tags:
   - project/raven
   - context
@@ -14,7 +14,7 @@ feeds_into:
   - projects/raven/notes/raven-context-hub.md
   - projects/raven/README.md
 ---
-> **TL;DR**: Raven has moved from an empty scaffold into a working Phase 1 signal engine: query enrichment, YouTube metadata discovery, SQLite logging/writeback, Tier 1 metadata ranking, final selection, and audit-backed focused eval. The immediate future is not Reddit or crawler work; it is finishing Tier 1 clarity and then choosing the next product direction from a clean past map.
+> **TL;DR**: Raven has moved from an empty scaffold into a working Phase 1 signal engine, but the current strategic correction is to narrow it into a Codex-native hard-source acquisition/evidence tool rather than expand it into a custom agent OS.
 
 ## Growth Contract
 - Parent branch: [[projects/raven/notes/raven-context-hub]]
@@ -53,7 +53,7 @@ empty repo shell
   -> high-model final selector
   -> markdown audit artifact
   -> focused eval loop
-  -> remaining Tier 1 boundary calibration
+  -> Tier 1 focused boundary green on rerun
 ```
 
 Raven is currently a source-discovery and judgment loop, not a content-ingestion system yet.
@@ -142,14 +142,14 @@ Known green checks:
 
 - Enricher baseline gate: `5/5` after the latest keyword/output calibration.
 - Focused YouTube-growth enricher gate: `1/1`.
-- Tier 1 synthetic gate: `8/8`.
+- Tier 1 baseline gate: `8/8` at thread `8e3be664-e566-4d85-bb99-aea0e519e373` on 2026-04-30.
+- Focused Tier 1 YouTube-growth gate: `17/17` at thread `eabf177d-e5c4-45ed-8f92-527de06332a6` on 2026-04-30.
 - Tier 1 final synthetic gate: `1/1`.
 - Tier 1 final focused YouTube-growth bootstrap: `1/1`.
 
-Known weak edge:
+Known watch edge:
 
-- Focused Tier 1 YouTube-growth eval remains `15/17`.
-- The unresolved taste boundary is named-tool/channel-clone leverage versus broad beginner-mistake metadata.
+- The named-tool/channel-clone versus broad beginner-mistake boundary is currently green, but should stay under audit pressure on fresh live runs.
 - Broad misconception-style query expansion can recreate noisy candidate pools if not watched.
 
 ## Not Active
@@ -170,36 +170,32 @@ These are not the next move unless Duc explicitly changes the lane:
 
 ## Next Already Recorded
 
-The vault already has a near-term next move:
+The previous near-term next move is now evidence-checked:
 
 ```text
 finish Tier 1 boundary calibration
-  -> named-tool / channel-clone leverage should probably survive
-  -> broad beginner-mistake metadata should stay weak
-  -> rerun focused eval
-  -> update prompt/eval notes only after evidence changes
+  -> focused YouTube-growth Tier 1 rerun passed 17/17
+  -> baseline Tier 1 rerun passed 8/8
+  -> no prompt/code patch was needed in this session
 ```
 
-This is the current implementation next, not the full future strategy.
+The next implementation decision is no longer "fix Tier 1 first"; it is choosing the next product-facing wire from a green-ish ranking loop.
 
 ## Future Discussion Queue
 
 After the past is accepted, the next conversation should choose one lane:
 
 ```text
-A. Finish Tier 1 calibration
-   -> make current ranker less stupid before adding more surface area
-
-B. Define first product output
+A. Define first product output
    -> what a kept source becomes for Duc: list, audit packet, vault card, or public synthesis seed
+
+B. Clean repo hygiene
+   -> remove the empty root `test/` violation before more backend growth
 
 C. Add title keyword gate
    -> use enricher `key_words` as cheap pre-rank noise control
 
-D. Clean repo hygiene
-   -> fix root test-folder violation before more backend growth
-
-E. Design vault-keeper promotion path
+D. Design vault-keeper promotion path
    -> SQLite candidate -> judgment -> promoted vault memory -> retrieval packet
 ```
 

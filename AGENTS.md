@@ -2,7 +2,11 @@
 
 > **TL;DR**: Read [[context/hot]] -> [[duc-os]], then let Duc OS choose the next router. [[briefing]] is now a dashboard under Duc OS, not the root authority.
 
-Last updated: 2026-04-29
+Last updated: 2026-05-02
+
+## Highest-Level Rule
+
+- Always update the vault before finishing the response.
 
 ## Quick Start
 
@@ -10,7 +14,8 @@ Read in order:
 
 0. `context/hot.md` - temporary session cache
 1. `duc-os.md` - root operating layer and meta-router
-2. then the smallest route selected by Duc OS:
+2. `duc-os/kickstart.md` - mandatory compact daily checklist before repo work
+3. then the smallest route selected by Duc OS:
    - [[briefing]] for active-project dashboard
    - [[development]] for technical help, implementation, learning, or delegation
    - [[vault-keeping]] for maintenance, drift, logging, or branch placement
@@ -24,6 +29,7 @@ Open `projects/<name>/README.md` before project notes or raw sources.
 
 Run before every task:
 
+- If the task touches any repo, code, command, eval, git state, or project implementation, read [[duc-os/kickstart]] first and follow today's checklist.
 - Is `duc-os/current.md` `updated` date > 7 days ago? -> Flag it, do not act on stale current state.
 - Does [[briefing]] Active Projects match [[duc-os/current]] Active Projects? -> If not, reconcile before proceeding.
 - Files in `pending/`? -> Flag and offer to sort before starting task.

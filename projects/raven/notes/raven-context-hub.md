@@ -2,7 +2,7 @@
 type: hub
 title: Raven Context Hub
 created: '2026-04-25'
-updated: '2026-04-29'
+updated: '2026-05-02'
 tags:
   - project/raven
   - context
@@ -44,6 +44,8 @@ Use this when the task is about Raven status, next actions, live blockers, or wh
 - Need live project state and next action: [[projects/raven/notes/raven-current-context]]
 - Need what has been done so far and the next unresolved decision: [[projects/raven/notes/raven-progress-map]]
 - Need project thesis and main routes: [[projects/raven/README]]
+- Need Codex-native scope pivot: [[projects/raven/notes/raven-codex-native-pivot]]
+- Need Tier 2 source card / Wave Report structure: [[projects/raven/notes/raven-tier-2-source-packet-contract]]
 - Need architecture route: [[projects/raven/notes/raven-architecture-hub]]
 - Need evaluation route: [[projects/raven/notes/raven-evaluation-hub]]
 - Need workflow/rules route: [[projects/raven/notes/raven-workflow-hub]]

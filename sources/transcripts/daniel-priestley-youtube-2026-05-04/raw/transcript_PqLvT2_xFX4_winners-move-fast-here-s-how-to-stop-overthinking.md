@@ -1,0 +1,352 @@
+---
+type: source
+title: "Winners Move Fast - Here's How to Stop Overthinking"
+source: youtube
+channel: "Daniel Priestley"
+channel_id: UCABR204CFV9ZoMz69TyspzA
+video_id: PqLvT2_xFX4
+url: https://www.youtube.com/watch?v=PqLvT2_xFX4
+published_at: "2025-09-27T14:38:38Z"
+duration_seconds: 643
+fetched_at: 2026-05-04T06:15:03Z
+transcript_status: fetched
+transcript_language: "en"
+ingest_run: daniel-priestley-youtube-2026-05-04
+---
+
+# Winners Move Fast - Here's How to Stop Overthinking
+
+> Raw transcript evidence for vault-level Daniel Priestley YouTube ingest. Do not treat this as compiled knowledge; use source cards and synthesis pages for durable claims.
+
+## Source Metadata
+- url: https://www.youtube.com/watch?v=PqLvT2_xFX4
+- channel: Daniel Priestley
+- published_at: 2025-09-27T14:38:38Z
+- duration_seconds: 643
+- fetched_at: 2026-05-04T06:15:03Z
+
+## Transcript
+
+- [00:00] You are plagued by self-doubt while top
+- [00:02] entrepreneurs are moving at speed and
+- [00:04] getting more done in a week than most
+- [00:06] people are getting done in a year. Speed
+- [00:08] is a key ingredient in success.
+- [00:10] >> Move fast, be bold.
+- [00:11] >> Speed of innovation is is what is what
+- [00:13] matters.
+- [00:13] >> Amazon has a million and a half people
+- [00:15] and the company is still fast.
+- [00:17] >> Top entrepreneurs are not plagued by
+- [00:19] self-doubt. They have a key ingredient
+- [00:20] that unlocks speed and we're going to
+- [00:22] talk about two ways to get that key
+- [00:24] ingredient in today's video.
+- [00:26] Let me tell you a story about how fast
+- [00:28] Steven Bartlett moves. I was speaking at
+- [00:30] the same event as him in Romania. He
+- [00:32] arrived in the morning at 10:00 a.m. By
+- [00:34] 11:00 a.m. he had checked into the
+- [00:36] hotel. He was in the gym doing a
+- [00:37] workout. By early afternoon, he had
+- [00:39] arrived at the venue. Backstage, he was
+- [00:41] leading an innovative team meeting with
+- [00:43] a dozen of his senior people. Then at
+- [00:45] about 3:00 in the afternoon, he spends
+- [00:47] an hour on stage. He delivers an amazing
+- [00:49] presentation. At the end of that, he
+- [00:51] walks backstage and he goes back into
+- [00:53] the green room. He's going to be
+- [00:54] presenting to another group of over 500
+- [00:57] people and he delivers another hourong
+- [00:59] presentation to hundreds of people in an
+- [01:01] online environment. Then I bump into him
+- [01:03] at the business lounge in the airport
+- [01:05] where he's working on a pitch deck and
+- [01:07] then we jump on an airplane where he
+- [01:09] shows me some of his next big products
+- [01:11] that he's going to launch and talks me
+- [01:12] through some of his big ideas for the
+- [01:14] year ahead. He's a powerhouse of moving
+- [01:16] fast and getting things done. In my
+- [01:18] first year in business as a 21-year-old,
+- [01:20] I went and booked ads, booked venues,
+- [01:23] filled venues, made sales, did $1.3
+- [01:27] million worth of sales in my first 12
+- [01:29] months. All while people I knew who are
+- [01:31] twice my age were sitting there plagued
+- [01:33] with fear and not getting on with it. By
+- [01:36] the time most people had figured out
+- [01:37] whether they should act or not, top
+- [01:39] entrepreneurs have already taken action.
+- [01:41] They've already gotten the results.
+- [01:42] They've already kicked the door off the
+- [01:43] hinges and made things happen. So, how
+- [01:45] is it that they're able to do this? How
+- [01:47] are entrepreneurs moving at speed? What
+- [01:49] is the ingredient that top entrepreneurs
+- [01:51] have that allow them to go fast? The key
+- [01:54] ingredient is confidence. Entrepreneurs
+- [01:56] who can do things quickly have
+- [01:58] confidence. And confidence is the thing
+- [01:59] that unlocks speed. Whenever you see
+- [02:01] someone who's moving fast, you know that
+- [02:03] underneath that speed is confidence. So
+- [02:05] where does confidence come from? So the
+- [02:08] definition of confidence is the ability
+- [02:10] to know what's going to happen next.
+- [02:11] When we think about a confident athlete
+- [02:14] who's throwing a basketball into the
+- [02:15] hoop, they know what's going to happen
+- [02:17] when that ball leaves their hands.
+- [02:18] They've got a high degree of confidence
+- [02:20] as to what happens next. When we think
+- [02:22] about a professional Formula 1 driver,
+- [02:24] they're driving around the track at 300
+- [02:25] mph, but they have a high degree of
+- [02:28] predictability as to what happens next.
+- [02:30] So, confidence is nothing more than your
+- [02:32] ability to predict what will happen
+- [02:34] next. So, where does this ability to
+- [02:36] predict come from? It comes from data.
+- [02:38] So I want to start by explaining this
+- [02:40] idea of a confidence interval because
+- [02:42] this is where confidence comes from. A
+- [02:44] confidence interval basically means that
+- [02:46] you collect lots of data, right? All
+- [02:48] this data is coming in and most of the
+- [02:51] data starts to fit around what we call a
+- [02:55] bell curve. And when we collect 30
+- [02:57] points of data, we then know that
+- [03:02] most of the data, in fact about 65% of
+- [03:05] the data will fit within this range
+- [03:07] here. And this gives us our first
+- [03:09] confidence interval. So our first
+- [03:11] confidence interval is that about 2/3 of
+- [03:13] the data fits roughly speaking into this
+- [03:15] box here. We're starting to predict what
+- [03:17] will happen. Now let me translate this
+- [03:19] to you for a business situation. Imagine
+- [03:21] that you do 30 sales meetings, one-toone
+- [03:25] sales meetings, and out of 301:1 sales
+- [03:28] meetings, you make three sales. So, what
+- [03:30] that means is that we can predict with
+- [03:32] about a 65% accuracy that if you were to
+- [03:35] do 300 sales meetings, you should get 30
+- [03:39] sales. Now, are you guaranteed to get 30
+- [03:42] sales? No, you're not guaranteed. But,
+- [03:44] you know, you're going to be about 2/3
+- [03:47] right. You're going to be right 2/3 of
+- [03:49] the time. You're going to be pretty
+- [03:50] confident that about 30 sales, it might
+- [03:53] be 33 sales. It might be 27 sales. We
+- [03:55] know with about 65% confidence that if
+- [03:57] you do 300 sales meetings, you'll get
+- [03:59] about 30 sales based upon doing 30 sales
+- [04:02] meetings and getting three sales. So
+- [04:04] that amount of data gives us our very
+- [04:06] first confidence interval. Now, here's
+- [04:08] the next confidence interval. If we were
+- [04:10] to do
+- [04:11] 150 sales meetings, right? So we do 150
+- [04:15] 1-1 sales meetings and we were to get 15
+- [04:18] sales, that gives us a new level of
+- [04:21] confidence, right? So we now have a new
+- [04:23] confidence interval. We're not 2/3 sure.
+- [04:26] We're now about 95% sure. Right? So,
+- [04:28] we've moved to a greater level of
+- [04:30] confidence. We know with about 95%
+- [04:32] accuracy that roughly speaking, we
+- [04:34] should be able to extrapolate forward
+- [04:36] that if we were to do 1,500 sales
+- [04:39] meetings, we'd get roughly speaking
+- [04:41] about 150 sales. So, now we've increased
+- [04:43] our confidence. So, we've expanded our
+- [04:45] confidence interval, right? So, our
+- [04:47] confidence interval is essentially our
+- [04:50] ability to predict what happens next.
+- [04:51] Now, does that mean that there's not
+- [04:53] going to be outliers? Of course, there's
+- [04:54] going to be outliers. There's going to
+- [04:56] be a professional athlete who throws the
+- [04:58] ball at the hoop and it just bounces
+- [04:59] straight off. That's going to happen
+- [05:01] some of the time. There's going to be a
+- [05:02] race car driver who crashes the car.
+- [05:04] That's going to happen some of the time,
+- [05:05] but most of the time, we can predict
+- [05:07] that they're going to be fairly
+- [05:08] successful. We know what's going to
+- [05:10] happen most of the time. So, we have
+- [05:11] these confidence intervals. So, the two
+- [05:13] tests that I like to use when I am doing
+- [05:16] anything in business is called the 30
+- [05:18] test and the 150 test. So, we want to do
+- [05:21] a 30 test to get our first level of
+- [05:24] confidence and a 150 test to get our
+- [05:27] second level of confidence. What might
+- [05:29] this look like in typical business
+- [05:30] situations? If I was to post 30 pieces
+- [05:33] of content and see how many leads that
+- [05:35] that content generates, that's going to
+- [05:37] give me a little bit of confidence. If I
+- [05:39] was to post 150 pieces of content and
+- [05:41] see how many leads that generates,
+- [05:43] that's going to give me much more
+- [05:44] confidence in my ability to do this.
+- [05:46] Now, the reason that we're doing this is
+- [05:47] because confidence equals speed. People
+- [05:49] who have a lot of confidence can move
+- [05:51] really, really fast and get a lot done
+- [05:53] really quickly. And that is a key thing
+- [05:55] that entrepreneurs do when they're
+- [05:56] performing at their best. So, let's
+- [05:58] think about the person who doesn't have
+- [06:00] confidence. Consider this. If you don't
+- [06:02] have confidence to speak publicly, to
+- [06:04] get up on a stage and speak publicly,
+- [06:06] it's probably because you don't have a
+- [06:08] lot of data about what happens when you
+- [06:10] do that. I could almost guarantee you
+- [06:11] that if you were to get up on stage and
+- [06:13] do 30 public speeches, you would have
+- [06:15] much more confidence when it comes to
+- [06:17] public speaking. If you'd done 150 talks
+- [06:19] on stage, you would have 95% confidence
+- [06:22] because you would know what happens when
+- [06:23] you set foot on stage. Let's say that
+- [06:25] you don't feel confident in front of a
+- [06:26] camera. There's a good chance that if
+- [06:28] you don't feel confident in front of a
+- [06:29] camera, it's because you've not done it
+- [06:31] 30 times. If you had done it 30 times,
+- [06:33] you'd have 65% confidence. If you'd done
+- [06:35] it 150 times, you'd have 95% confidence
+- [06:38] getting in front of a camera because you
+- [06:40] can predict what's going to happen next.
+- [06:42] Remember, confidence is nothing more
+- [06:43] than your ability to predict what
+- [06:45] happens next. and your ability to
+- [06:46] predict what happens next comes down to
+- [06:48] how many data points you've got. The
+- [06:50] first confidence interval comes from 30
+- [06:53] bits of data. The second confidence
+- [06:54] interval comes from 150 bits of data.
+- [06:57] How else could you use this? If you've
+- [06:59] never hired someone before, you might
+- [07:00] want to look at 30 rums. You might want
+- [07:02] to have 30 one-to-one meetings with
+- [07:04] somebody who could potentially join your
+- [07:06] team. You've got a pretty good level of
+- [07:08] confidence that you know the types of
+- [07:09] people who are willing to join your
+- [07:11] team. If you've never run ads before,
+- [07:12] you might want to spend enough money to
+- [07:14] get 30 clicks over to your landing page
+- [07:16] to give you a little bit of confidence
+- [07:18] as to what happens next. If you want to
+- [07:20] get more confidence, you might want to
+- [07:21] run enough ads to get 150 clicks over to
+- [07:24] a landing page to see what happens next
+- [07:26] because that's going to give you more
+- [07:27] confidence. When we normally describe
+- [07:29] confidence, we normally describe it as a
+- [07:31] feeling rather than as data. Here's what
+- [07:34] I would like you to do. Rather than
+- [07:36] focusing on the feeling of not having
+- [07:38] confidence, I want you to refocus on the
+- [07:40] data that you've been able to collect.
+- [07:42] Because the feeling should only indicate
+- [07:44] that you don't have enough data. When we
+- [07:46] feel confident, it's typically because
+- [07:48] we've done something 30 to 150 times and
+- [07:51] we intuitively just feel confident that
+- [07:53] we know how things are going to work
+- [07:54] out. When we feel a lack of confidence,
+- [07:56] it's because we typically haven't done
+- [07:58] something 30 to 150 times. So, we
+- [08:01] intuitively don't know how things are
+- [08:03] going to work out. Have you ever heard
+- [08:04] of beginner's luck? Beginner's luck is
+- [08:06] where you have no data, so you're just
+- [08:08] optimistic about how things might work
+- [08:10] out. You don't really have a way of
+- [08:11] judging. You're just going to turn up
+- [08:13] and see what happens. And that's what we
+- [08:14] call beginner's luck, or that's what we
+- [08:16] call newbie confidence. Newbie
+- [08:17] confidence is just simply a really
+- [08:20] positive thing because you don't have
+- [08:21] the data, so you're just curious to see
+- [08:22] what happens next. And some people have
+- [08:24] newbie confidence, but long-term
+- [08:26] sustainable confidence comes from data.
+- [08:29] So, here's my challenge to you. My
+- [08:30] challenge to you is to pick something
+- [08:33] that you're not confident on and to go
+- [08:35] out and collect 30 pieces of data and to
+- [08:37] then re-evaluate and see if you can
+- [08:39] predict what happens next. Then go and
+- [08:41] do 150 points of data and see if you can
+- [08:44] increase the level of confidence about
+- [08:46] your ability to predict what happens
+- [08:47] next. You may want to apply this to
+- [08:49] advertising where you drive people to a
+- [08:51] landing page and check the conversions.
+- [08:53] You may want to apply this to public
+- [08:55] speaking where you get up on a stage
+- [08:56] more often. You may want to apply this
+- [08:58] to sales meetings where you do more
+- [09:00] sales meetings. You keep notes, you keep
+- [09:02] data, and then you evaluate at the end
+- [09:03] of the process. You may want to do this
+- [09:05] with hiring, right? What we're looking
+- [09:07] for is to raise your level of
+- [09:09] confidence. The one thing I really want
+- [09:10] you to do is to suspend your feelings
+- [09:12] until after you've collected the data.
+- [09:14] Rather than focusing on how you feel,
+- [09:16] just simply acknowledge, I don't yet
+- [09:18] have the data. I'm going to choose how I
+- [09:20] feel about this once I've collected 150
+- [09:22] samples. So, why is it that someone like
+- [09:24] Steven Bartlet can move fast? It's
+- [09:26] simply because he's now got enough data
+- [09:29] to know that he can move fast. He's done
+- [09:31] a thousand episodes of the podcast. He's
+- [09:33] worked with more than 30 world leaders.
+- [09:35] He's worked with more than 30
+- [09:36] celebrities. He's worked with more than
+- [09:39] 150 high-profile people. And he knows
+- [09:41] how that's going to work out. Confidence
+- [09:42] is not some magical mythical thing that
+- [09:45] some people have and other people don't
+- [09:46] have. Confidence arises out of data. It
+- [09:49] arises out of samples. The two tests
+- [09:51] that every entrepreneur should be
+- [09:53] conducting more often is a 30 test to
+- [09:55] get 65% confidence and a 150 test to get
+- [09:59] a 95% confidence so that you can feel
+- [10:02] better about how things are going to
+- [10:04] work out for you. The mindset of an
+- [10:05] entrepreneur is a passionate visionary
+- [10:07] scientist. You're going to be passionate
+- [10:09] because you care about this. You're
+- [10:11] going to be visionary because you have
+- [10:12] an opinion of the future. And you're
+- [10:13] going to be a scientist because you
+- [10:15] collect lots of data and then you figure
+- [10:17] out how confident you're going to be.
+- [10:19] Now, if you're not quite sure what to
+- [10:20] collect data on, I've got a video that
+- [10:22] is 29 minutes long that breaks down the
+- [10:24] entrepreneurial journey into five clear
+- [10:26] steps from zero to a million of revenue
+- [10:29] or more. It's going to tell you step by
+- [10:31] step what to collect data and how to
+- [10:32] feel confident to move to the next step.
+- [10:34] So, the next video to check out is this
+- [10:37] one here. Okay. I hope your business is
+- [10:39] doing really well. I hope you're
+- [10:40] succeeding and I look forward to seeing
+- [10:41] you next

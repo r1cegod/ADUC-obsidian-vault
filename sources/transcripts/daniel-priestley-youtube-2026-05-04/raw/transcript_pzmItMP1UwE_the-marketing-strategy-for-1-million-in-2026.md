@@ -1,0 +1,359 @@
+---
+type: source
+title: "The Marketing Strategy for $1 Million in 2026"
+source: youtube
+channel: "Daniel Priestley"
+channel_id: UCABR204CFV9ZoMz69TyspzA
+video_id: pzmItMP1UwE
+url: https://www.youtube.com/watch?v=pzmItMP1UwE
+published_at: "2026-01-10T12:01:39Z"
+duration_seconds: 601
+fetched_at: 2026-05-04T06:15:03Z
+transcript_status: fetched
+transcript_language: "en"
+ingest_run: daniel-priestley-youtube-2026-05-04
+---
+
+# The Marketing Strategy for $1 Million in 2026
+
+> Raw transcript evidence for vault-level Daniel Priestley YouTube ingest. Do not treat this as compiled knowledge; use source cards and synthesis pages for durable claims.
+
+## Source Metadata
+- url: https://www.youtube.com/watch?v=pzmItMP1UwE
+- channel: Daniel Priestley
+- published_at: 2026-01-10T12:01:39Z
+- duration_seconds: 601
+- fetched_at: 2026-05-04T06:15:03Z
+
+## Transcript
+
+- [00:00] You have probably heard of something
+- [00:01] called a marketing funnel. And it's
+- [00:03] where you apply pressure for people to
+- [00:04] move from awareness into consideration
+- [00:06] into decision. And you want that to
+- [00:08] happen as fast as possible. But here's
+- [00:09] the problem. No one likes to be
+- [00:11] funneled. No one wants to be pushed and
+- [00:12] cajolled and squeezed. And you would
+- [00:14] hate that to happen to your grandma. Why
+- [00:16] would you want to funnel somebody that
+- [00:18] you love? And why would you want to
+- [00:19] funnel someone who you want to spend
+- [00:20] time with as a customer? So here's
+- [00:21] what's happened. The traditional
+- [00:23] marketing funnel has broken down. And
+- [00:24] Google has even confirmed this with
+- [00:26] their research. Now, when your parents
+- [00:27] or grandparents were starting a
+- [00:28] business, 2 to four touch points was
+- [00:30] enough to get somebody to buy something
+- [00:31] because people didn't have an entire
+- [00:33] universe of options available to them.
+- [00:35] But today, people don't buy until
+- [00:36] they've had 8 to 12 touch points. We
+- [00:39] need to change the way that we think
+- [00:40] about the marketing funnel because
+- [00:42] people do not like to be squeezed. They
+- [00:44] don't like the pressure. What they do
+- [00:46] like is positive experiences. So, we're
+- [00:48] going to talk about how to apply this to
+- [00:50] your marketing in the year ahead. In
+- [00:51] this video, I'm going to show you how to
+- [00:52] massively improve your marketing through
+- [00:53] something called a marketing playground.
+- [00:55] This is where you give people positive
+- [00:56] experiences that allow them to unlock
+- [00:58] the value that your business has to
+- [01:00] offer. Imagine there's your business and
+- [01:01] people don't even know that it exists.
+- [01:03] And what we do is we set up a series of
+- [01:05] fun experiences that lead people to
+- [01:07] understand who you are, what you do, and
+- [01:09] how you can add value. What I'm doing in
+- [01:10] the year ahead is focusing my marketing
+- [01:12] on three key phases that customers go
+- [01:14] through before they buy. The three
+- [01:16] phases is understanding their problem
+- [01:18] and me being able to empathize with the
+- [01:20] problem, showing people a process as to
+- [01:22] how they can solve the problem and then
+- [01:24] introducing them to the prize if they
+- [01:26] buy the solution. Now, if you try and
+- [01:28] introduce people to the prize too soon,
+- [01:29] they completely reject it. Even if you
+- [01:31] try and give people the solution through
+- [01:33] a process too early, they find that that
+- [01:35] becomes a bit pushy. It has to start
+- [01:37] back here with people who are problem
+- [01:39] aware. And I'll explain what that means.
+- [01:41] The way to make this work is to truly
+- [01:43] understand what makes your customers
+- [01:44] tick and to understand in their mind
+- [01:46] what is the buying journey that they go
+- [01:48] on. And it's a predictable journey. It
+- [01:50] starts out with something called being
+- [01:52] problem aware. People who are problem
+- [01:54] aware, they are aware that something is
+- [01:57] less than perfect in their life. They
+- [01:58] know that they've got some sort of a
+- [01:59] problem. Maybe their business isn't
+- [02:01] growing. Maybe their relationship's not
+- [02:02] going the way they want it to. Maybe
+- [02:03] their health and fitness is not where
+- [02:05] they think it should be. So they are
+- [02:06] aware of a problem, but at the moment
+- [02:08] they're not sure how to solve that
+- [02:09] problem. So the problem awareness is
+- [02:11] high but the solution awareness is low.
+- [02:14] As they start to research solutions and
+- [02:16] become more aware of solutions, they
+- [02:18] start to become educated about what they
+- [02:21] could do to solve their problem. And in
+- [02:23] the middle here, this is where the
+- [02:25] problems and the solutions start to
+- [02:27] meet. This is where they have an
+- [02:28] awareness of how their problem could
+- [02:30] potentially be solved in [music] the
+- [02:32] marketplace. Then customers start to
+- [02:34] have a preferred solution that they're
+- [02:35] looking at and they start to research
+- [02:37] that solution. They then want to confirm
+- [02:39] that buying this particular product or
+- [02:41] service would be a genuine solution to
+- [02:42] the problem that they've got. So they
+- [02:44] end up over here where they're trying to
+- [02:45] make this decision. So there are three
+- [02:48] distinct zones that people move through.
+- [02:50] The first zone is what we would call the
+- [02:53] zone of understanding the problem. The
+- [02:55] second zone is understanding what is the
+- [02:59] process and the final zone is accessing
+- [03:02] the prize. So if you want to have
+- [03:04] incredibly powerful marketing, you need
+- [03:06] to have experiences that people can have
+- [03:08] along their journey where they connect
+- [03:10] with their problem and they can
+- [03:11] empathize and understand their problem.
+- [03:13] They can then connect with a process or
+- [03:14] an understanding of best practices as to
+- [03:16] how they're going to solve this and then
+- [03:18] they can check to see if they are
+- [03:19] actually going to get the prize that
+- [03:20] they want if they buy your product or
+- [03:22] service. So here's what this could look
+- [03:24] like. Imagine for a moment that you
+- [03:26] create a miniourse
+- [03:30] helping people to understand the
+- [03:32] particular problem. Now imagine this.
+- [03:34] Imagine the headline is a problem aware
+- [03:36] headline. So it could say something
+- [03:38] like, "Are you frustrated that you're
+- [03:40] not losing weight despite the fact that
+- [03:41] you work out in the gym three times a
+- [03:43] week or more?" So that would be like,
+- [03:44] "Ah, you can empathize with me. That's
+- [03:46] incredible." What we're looking to do
+- [03:47] here when we create these types of
+- [03:49] assets is to have radical empathy. What
+- [03:52] does it feel like to have this problem
+- [03:54] and to feel misunderstood or out of
+- [03:55] alignment with the world? One experience
+- [03:57] could be a mini course. Another one
+- [03:59] could be a little quiz that helps you to
+- [04:01] diagnose the problem. Right? So, a
+- [04:03] problem diagnosis quiz. Are you
+- [04:05] struggling to get 7 hours worth of sleep
+- [04:07] each night? If so, answer these 15
+- [04:10] questions to find out why. So, that
+- [04:11] would be a problem diagnosis quiz. Third
+- [04:13] option could be a discussion group. Now
+- [04:15] you could host this on Facebook or on
+- [04:17] WhatsApp and it could be a discussion
+- [04:18] group for people who are struggling with
+- [04:21] a particular problem. Do you have a
+- [04:22] difficult teenager? Join our WhatsApp
+- [04:24] group for parents who are struggling
+- [04:26] with dealing with a difficult teenager.
+- [04:28] So that would be a discussion group for
+- [04:30] people who can relate to a particular
+- [04:31] problem. Now all of these are
+- [04:32] experiences that people can have
+- [04:34] positive experiences where they actually
+- [04:35] get to connect and be reminded about the
+- [04:38] validity of their problem. Now there is
+- [04:40] a particular framework for creating any
+- [04:42] content that is problemaware content and
+- [04:45] it's called the clinical method. The
+- [04:46] clinical method is actually from the
+- [04:48] world of doctors and hospitals and
+- [04:50] clinics. The clinical method has four
+- [04:51] bases that we want to hit. There is the
+- [04:53] symptoms, the causes, the treatments and
+- [04:55] the prognosis. The symptoms are things
+- [04:57] that are going wrong that we notice.
+- [04:58] These are the things that are painful or
+- [05:00] frustrating or annoying that we see
+- [05:02] dayto-day. That's the things that people
+- [05:04] notice. The next thing is telling people
+- [05:06] what's causing that. So, if you're
+- [05:08] noticing these symptoms, here's why it's
+- [05:10] happening. Here's the cause of those
+- [05:11] symptoms. The treatment is what do you
+- [05:14] do about it? If you have these causes,
+- [05:16] how do you treat these causes? And the
+- [05:17] prognosis is how long does it take to
+- [05:20] fix? How long does it take to get a
+- [05:21] breakthrough? So, when you're creating
+- [05:23] problemaware content, I want you to
+- [05:25] focus on discussing symptoms, causes,
+- [05:27] treatments, and prognosis because that's
+- [05:29] the most valuable information for people
+- [05:31] who are here at this phase here called
+- [05:33] the problem aware phase. Once people
+- [05:35] understand their problem, they then want
+- [05:37] to naturally move to this middle zone,
+- [05:38] which is where they want to understand
+- [05:40] the process. Think about this as
+- [05:42] discovering best practices, discovering
+- [05:44] what works, figuring out all the things
+- [05:46] that you could be doing in order to get
+- [05:48] a breakthrough. Now, around this
+- [05:49] process, people love to read a book and
+- [05:52] they want to read a book about the
+- [05:53] process. They might want to listen to a
+- [05:55] podcast episode. And the podcast episode
+- [05:57] could be all about the process of going
+- [06:00] from point A to point B. They might want
+- [06:02] to see case studies so that they can
+- [06:04] understand what happened when someone
+- [06:06] went through that process. They might
+- [06:08] want to do a live workshop to be
+- [06:10] introduced to a process or a set of best
+- [06:13] practices that could help them with
+- [06:14] their problem. Or if the process is
+- [06:16] about a set of pillars or principles,
+- [06:19] they may want to take an assessment that
+- [06:22] benchmarks them as to where they're
+- [06:24] strong and where they're weak so that
+- [06:25] they can identify where to put their
+- [06:27] attention. So this is all about
+- [06:28] understanding the process that would
+- [06:30] solve the problem and unlock the prize.
+- [06:32] Now when people understand the process,
+- [06:34] this is where they really want to
+- [06:36] understand if they're buying the right
+- [06:38] thing that will give them the maximum
+- [06:40] benefit and the biggest prize possible.
+- [06:41] Now this is often where people want to
+- [06:43] have a one-to-one sales meeting or a
+- [06:45] one-to-one discussion. This might be
+- [06:47] where they want to have a free trial.
+- [06:49] This is where they get to have an
+- [06:50] experience and try on what it feels like
+- [06:52] to solve the problem. They may want to
+- [06:53] have an experience. So they could attend
+- [06:56] a particular event with your existing
+- [06:58] customers and clients and hear firsthand
+- [07:00] people describing what it feels like to
+- [07:02] be on the other side of this. They might
+- [07:04] also want to take a final assessment
+- [07:06] that tells them or calculates their
+- [07:08] upside. Maybe it's a calculator. And if
+- [07:10] they put their information into the
+- [07:12] calculator, it actually tells them what
+- [07:14] kind of return on investment they'll
+- [07:15] get. This also might be where someone
+- [07:17] actually wants to have an explainer
+- [07:18] video where it specifically talks
+- [07:20] through exactly what it's like to buy
+- [07:22] the product and what to expect when you
+- [07:24] do buy it. So, for example, with a
+- [07:26] physical product, you've seen those
+- [07:27] unboxing videos where it actually
+- [07:29] literally takes a physical product and
+- [07:30] unboxes it and shows the customer what
+- [07:32] it would be like to unbox the product.
+- [07:34] So, this is very much a product or
+- [07:36] solution focused part of the buying
+- [07:38] cycle. Now what your business wants to
+- [07:40] do is to create multiple experiences
+- [07:42] that help people to get clear about the
+- [07:44] problem, their symptoms, the causes, the
+- [07:45] treatment, the prognosis that introduces
+- [07:47] them to your process, your way of
+- [07:49] solving things, your principles, your
+- [07:51] process, your best practices, and then
+- [07:54] ultimately introduces them to the prize,
+- [07:56] the thing that solves the problem and
+- [07:58] actually gives them what they want. So
+- [07:59] if you take score for example, how have
+- [08:01] we scaled up rapidly to over 10,000
+- [08:03] customers? Well, we have mini courses
+- [08:05] that explain the problem of lead
+- [08:07] generation and why it's so important and
+- [08:09] how most businesses struggle with that.
+- [08:11] We have a blueprint that explains to
+- [08:12] people how our methodology actually
+- [08:14] solves that problem. And we have free
+- [08:16] trials where people can start app with a
+- [08:18] free trial and actually test out our
+- [08:19] software and see if it works. Those are
+- [08:21] just some examples of what we've got.
+- [08:22] But we've also got scorecards. We've
+- [08:24] also got a book that people can read.
+- [08:26] We've got online courses. all sorts of
+- [08:28] stuff that people can experience that
+- [08:30] walk them through the problem, the
+- [08:31] process, and the prize so that it feels
+- [08:33] natural to buy. Now, here's the other
+- [08:34] good news. If you have a look in the
+- [08:35] score app template library, you'll
+- [08:37] actually discover that some of our
+- [08:38] scorecards are now organized by these
+- [08:40] three bases. We actually have scorecards
+- [08:42] that are deliberately designed to
+- [08:44] connect with people's problem and to
+- [08:45] empathize with people and help them to
+- [08:47] understand their problem. We have
+- [08:48] scorecards that are deliberately
+- [08:49] designed to educate people about your
+- [08:51] process. And we have scorecards
+- [08:52] deliberately designed to introduce
+- [08:54] people to your prize. And we've already
+- [08:56] organized that. If you want to put this
+- [08:57] in place, squareup.com is a really great
+- [08:59] place to orchestrate these campaigns.
+- [09:01] The key idea is that in the next 12
+- [09:03] months, if you want to have marketing
+- [09:05] that works on autopilot if you just want
+- [09:07] happy, warm customers coming through the
+- [09:09] door, you can't just have one marketing
+- [09:11] funnel and you can't apply pressure and
+- [09:13] squeeze people towards becoming a
+- [09:15] client. You've got to give people
+- [09:17] positive experience that lead them to
+- [09:18] their own conclusion that you would be
+- [09:20] the best person to buy from. Now, if you
+- [09:22] get this right, your business will scale
+- [09:24] to the moon. You will have the most
+- [09:26] unbelievable marketing and sales
+- [09:27] results. Marketing and sales will go
+- [09:29] from something that frustrates you to
+- [09:31] something that delights you. You'll go
+- [09:32] from dealing with customers that have
+- [09:34] resistance to dealing with customers
+- [09:35] that are beating down the door and can't
+- [09:37] wait to buy. Okay, so here's what I want
+- [09:38] you to do. I would love for you to tell
+- [09:40] me which one of these marketing
+- [09:42] experiences are you going to put in
+- [09:43] place next. Leave me a comment below.
+- [09:45] Are you going to create a problem,
+- [09:46] process, or prize campaign? I'd love to
+- [09:48] see in the comments below which one
+- [09:50] you're going to implement first. If you
+- [09:51] haven't done so already, check out
+- [09:52] squapp.com to implement these campaigns.
+- [09:55] Give this channel a like, give it a
+- [09:56] subscribe.

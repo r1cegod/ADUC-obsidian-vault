@@ -2,7 +2,7 @@
 type: note
 title: Raven Evaluation Workflow
 created: '2026-04-22'
-updated: '2026-04-26'
+updated: '2026-05-03'
 tags:
   - project/raven
   - evaluation
@@ -37,6 +37,58 @@ eval run
 
 This note owns the workflow.
 
+## Two-Phase Eval Pipeline
+
+Raven eval work has two phases:
+
+```text
+1. Dataset bootstrap
+   -> collect Duc audit taste from human audit artifacts
+   -> convert it into explicit cases and expected judgments
+   -> preserve edge cases, disagreement, and failure reasons
+
+2. Run eval until dataset standard
+   -> run focused eval against the bootstrapped dataset
+   -> patch prompt/code/dataset only from inspected failures
+   -> rerun until the current dataset standard is met
+   -> write back the report and durable insight
+```
+
+A green command is not success unless it satisfies the dataset standard. If the run exposes a missing taste rule, update the dataset or eval notes before expanding the system.
+
+## Daily Eval Quick Operation
+
+`daily eval` is a quick operation, not a planning phrase.
+
+```text
+Daily eval
+  -> lock Raven eval lane in KICKSTART
+  -> run one full graph with `eval/run_observation.py full`
+  -> inspect packet markdown and trace summary
+  -> stop after Phase 1 and wait for Duc audit
+  -> enter Phase 2 focused dataset/node eval only after Duc audit lines or explicit approval
+  -> write the vault report and daily log
+```
+
+Default current query unless Duc names another target:
+
+```bash
+./.venv/bin/python eval/run_observation.py full --graph raven --request "how to grow a youtube channel"
+```
+
+Phase 2 is human-gated. Do not run focused dataset/node eval, patch prompts, or patch datasets just because the full graph ran or the packet looks suspicious. Use Duc audit lines or explicit approval as the trigger.
+
+Expected packet audit surface:
+
+```text
+report first
+  -> counts and filtering summary before details
+  -> YouTube raw hits / unique videos / candidates / filtered-out counts
+  -> Tier 1 audit index before per-candidate detail
+  -> candidate detail includes title, query, label, channel, date, views, link, preview, and ranker reasoning
+  -> final selector report shows actual non-skip input count before kept rows
+```
+
 ## Current Use Case
 
 Primary current use case:
@@ -51,22 +103,59 @@ Tier 1 ranker evaluation
   -> rerun
 ```
 
+## Current Harness
+
+Raven evals now route through one repo-local observation entrypoint:
+
+```bash
+./.venv/bin/python eval/run_observation.py dataset --suite enricher --file eval/enricher_cases.jsonl
+./.venv/bin/python eval/run_observation.py dataset --suite ranker_tier1 --file eval/ranker_tier1_cases.jsonl
+./.venv/bin/python eval/run_observation.py dataset --suite ranker_tier1_final --file eval/ranker_tier1_final_cases.jsonl
+```
+
+Focused runtime observation uses the same harness:
+
+```bash
+./.venv/bin/python eval/run_observation.py full --graph raven --request "how to grow a youtube channel"
+./.venv/bin/python eval/run_observation.py node --graph raven --node enricher --state-json '{"query":"how to find leads"}'
+./.venv/bin/python eval/run_observation.py checkpoint-node --graph raven --thread-id "<thread_id>" --checkpoint-id "<checkpoint_id>" --node ranker_tier1_final
+```
+
+The old eval scripts are compatibility wrappers only:
+
+```text
+eval/run_enricher_eval.py
+eval/run_ranker_tier1_eval.py
+eval/run_ranker_tier1_final_eval.py
+```
+
+They should not receive new behavior. Add new eval behavior to `src/backend/observability/` and expose it through `eval/run_observation.py`.
+
 ## Workflow
 
-1. Define the evaluation target.
-2. Run executable evidence from repo `eval/` or the active backend seam.
-3. Produce or inspect the human-readable audit markdown artifact.
-4. Audit the result before trusting green output.
-5. Write/update the evaluation report in the vault.
-6. Write/update the rolling insights note with what the run taught the system.
-7. Update project routing only if the domain shape changed.
-8. Log the work in the daily log.
+Daily eval means a fresh full-graph run first. Focused node/dataset evals are the second-stage learning loop, not a substitute for the daily run.
+
+1. Define the evaluation target and dataset standard.
+2. For daily eval, run full-graph executable evidence through `eval/run_observation.py full`.
+3. Inspect the packet folder under repo `eval/packets/` only enough to summarize the Phase 1 packet.
+4. Stop and wait for Duc audit. Do not start focused dataset/node eval from agent-only judgment.
+5. After Duc audit lines or explicit approval, bootstrap or update the focused dataset from those audit artifacts before treating the eval as authoritative.
+6. Run focused dataset/node evals until the current dataset standard is met, or record the blocker explicitly.
+7. Patch prompt/code/dataset only from approved inspected failures and only inside the locked lane.
+8. Write/update the evaluation report in the vault.
+9. Write/update the rolling insights note with what the run taught the system.
+10. Update the Raven eval workflow/domain/hub if the loop changed; this is top priority after eval work.
+11. Update project routing only if the domain shape changed.
+12. Log the work in the daily log.
 
 ## Write Boundary
 
 ```text
 repo eval/
   -> executable evidence only
+  -> packet folders under eval/packets/
+  -> machine trace JSON
+  -> fast human audit markdown
 
 vault notes/
   -> workflow docs

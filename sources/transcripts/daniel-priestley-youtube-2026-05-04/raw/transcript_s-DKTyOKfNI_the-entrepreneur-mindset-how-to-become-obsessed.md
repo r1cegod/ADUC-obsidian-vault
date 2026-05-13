@@ -1,0 +1,283 @@
+---
+type: source
+title: "The Entrepreneur Mindset: How to Become Obsessed"
+source: youtube
+channel: "Daniel Priestley"
+channel_id: UCABR204CFV9ZoMz69TyspzA
+video_id: s-DKTyOKfNI
+url: https://www.youtube.com/watch?v=s-DKTyOKfNI
+published_at: "2025-10-18T11:04:10Z"
+duration_seconds: 492
+fetched_at: 2026-05-04T06:15:03Z
+transcript_status: fetched
+transcript_language: "en"
+ingest_run: daniel-priestley-youtube-2026-05-04
+---
+
+# The Entrepreneur Mindset: How to Become Obsessed
+
+> Raw transcript evidence for vault-level Daniel Priestley YouTube ingest. Do not treat this as compiled knowledge; use source cards and synthesis pages for durable claims.
+
+## Source Metadata
+- url: https://www.youtube.com/watch?v=s-DKTyOKfNI
+- channel: Daniel Priestley
+- published_at: 2025-10-18T11:04:10Z
+- duration_seconds: 492
+- fetched_at: 2026-05-04T06:15:03Z
+
+## Transcript
+
+- [00:00] If you're going to make it as an
+- [00:01] entrepreneur, you need to become
+- [00:02] obsessed. You have to have the
+- [00:03] entrepreneurial mindset. The same sort
+- [00:05] of mindset that has fueled the growth of
+- [00:07] Steve Jobs, Elon Musk, Sam Alman, Emma
+- [00:10] Greed, all of the top entrepreneurs that
+- [00:11] you admire the most. They have the same
+- [00:14] mindset. Now, I'm going to break this
+- [00:15] down into three categories that give you
+- [00:18] the entrepreneurial mindset that
+- [00:19] maximizes your growth. Without this
+- [00:21] mindset, you're going to struggle.
+- [00:23] Without this mindset, you're going to
+- [00:24] become overly emotional. Without this
+- [00:26] mindset, you're going to unravel your
+- [00:28] success. So if you're going to make it
+- [00:29] as an entrepreneur, you need to focus on
+- [00:31] these three things. Now the three things
+- [00:33] are to become a passionate visionary
+- [00:35] scientist. Those are the three elements
+- [00:36] of being a great entrepreneur and having
+- [00:38] a great entrepreneurial mindset. So
+- [00:39] let's break them down. So how do we
+- [00:42] break down passion? What is passion? I
+- [00:44] believe that passion is an alignment
+- [00:46] between your origin story, your mission
+- [00:48] and your vision. So your origin story is
+- [00:51] your past. Your mission is your present,
+- [00:54] what you want to do right now. And your
+- [00:57] vision is your future. So your origin,
+- [01:00] mission, and vision needs to be in
+- [01:02] alignment. Your past, present, and
+- [01:04] future are one thing. Now what happens
+- [01:06] is that if you are in alignment with
+- [01:08] your past, present, and future, you end
+- [01:10] up with this mystery ingredient called
+- [01:11] passion. A great example of this is
+- [01:13] Steve Jobs when he said,
+- [01:15] >> "You can't connect the dots looking
+- [01:16] forward. You can only connect them
+- [01:18] looking backwards."
+- [01:19] >> He was able to decode that his origin
+- [01:21] story included a love of liberal arts
+- [01:24] and technology. Steve Jobs also
+- [01:26] understood that his vision was about
+- [01:28] celebrating the creatives. If you look
+- [01:30] at his famous ad, Here's to the crazy
+- [01:32] ones, the rebels and the misfits. He
+- [01:34] really gives an ode to the people that
+- [01:36] he considers the ones that he wants to
+- [01:38] celebrate most. And his mission was to
+- [01:40] build tools that allow them to do their
+- [01:41] best work. Now, because he had that
+- [01:43] alignment between his origin, mission,
+- [01:45] and vision, people wanted to follow him,
+- [01:47] even though he was difficult to work
+- [01:48] with. My definition of passion is a
+- [01:50] willingness to struggle for something
+- [01:52] bigger than yourself. Think about a
+- [01:54] passionate dancer. She's willing to
+- [01:56] dance even though her feet are sore
+- [01:58] because she's willing to struggle for
+- [01:59] something bigger than herself. That is
+- [02:02] real passion. Passion is not about joy.
+- [02:04] Passion is not vibes. Passion is not
+- [02:05] about feeling good. Passion is the
+- [02:08] willingness to struggle through the
+- [02:09] things that you need to endure in order
+- [02:11] for something greater. That's real
+- [02:12] passion. So we call that the origin, the
+- [02:14] mission, and the vision. The origin is
+- [02:16] your past. It's your background. It's
+- [02:18] your backstory. It's the things that
+- [02:19] you've been doing naturally for many,
+- [02:21] many years. And your mission is an
+- [02:23] understanding. It's a knowing of what is
+- [02:24] the most high value thing that you need
+- [02:26] to be doing today that only you could be
+- [02:28] doing. Vision is what you want to see
+- [02:30] happen in the future. If you could wave
+- [02:32] a magic wand and 10 years from now the
+- [02:34] world would be different in some way.
+- [02:36] Your vision is what you see happening. A
+- [02:38] really fun way to think about origin,
+- [02:39] mission, and vision is the story of
+- [02:41] Batman. The origin story of Batman is
+- [02:43] that he was a victim of crime at age 10
+- [02:45] and he swore that he would clean up
+- [02:47] Gotham City. His vision for the future
+- [02:50] is Gotham City free from crime. And his
+- [02:53] mission is to use his family fortune to
+- [02:55] become a symbol that strikes fear into
+- [02:57] the heart of baddies. And the reason we
+- [02:59] love the character Batman is because of
+- [03:02] the strength of the origin, mission, and
+- [03:04] vision story. For you to be perceived as
+- [03:06] a more passionate entrepreneur, you need
+- [03:08] to have clarity around your origin
+- [03:09] story, your vision for the future, and
+- [03:11] your mission of what you're up to today.
+- [03:13] The second piece of the puzzle is to be
+- [03:15] a visionary.
+- [03:19] So what does it mean to be a visionary?
+- [03:21] It means that you're operating from the
+- [03:22] visionary part of the brain. So let's
+- [03:25] look at your brain.
+- [03:31] We'll keep at it. So your brain is built
+- [03:34] in call it three levels. Level one is
+- [03:37] the destructive part of your brain or
+- [03:39] the defensive part of your brain called
+- [03:40] the reptile. The reptile is all about
+- [03:43] fight, flight, freeze, freak out, throw
+- [03:46] tantrums, get aggressive. It has
+- [03:48] 7-minute tantrums. It loves to have
+- [03:51] these little moments where it's really
+- [03:52] annoyed at the world and it's willing to
+- [03:54] do whatever it takes. It's a great part
+- [03:56] of the brain if you were to encounter a
+- [03:58] threat. The next part is called the
+- [04:00] autopilot. The autopilot is the part of
+- [04:03] the brain that just simply wants to do
+- [04:05] things on repeat. It does not want to
+- [04:07] have to think very hard. It wants to
+- [04:09] repeat the past and do the same stuff
+- [04:11] over and over and over again and it just
+- [04:13] hopes that that works. Now, this was a
+- [04:15] very useful part of the brain as well.
+- [04:17] If you went down a certain path and at
+- [04:19] the end of that path there was a big
+- [04:21] banana tree and you got bananas, then
+- [04:23] your brain says, "You know what? Let's
+- [04:24] just do that over and over again. Let's
+- [04:25] just keep walking down the path and get
+- [04:27] the bananas every day." Same thing if
+- [04:29] you're an employee. You're going to go
+- [04:30] into autopilot mode. You're going to
+- [04:32] turn up to work at the same time every
+- [04:34] day. You're going to do the same sort of
+- [04:35] things and then you're going to finish
+- [04:36] work at the same time every day and
+- [04:37] you're going to come home and you're
+- [04:38] going to repeat, repeat, repeat, repeat.
+- [04:40] Five years go by, 10 years go by, you've
+- [04:42] been on autopilot mode the whole time
+- [04:44] and not a lot has changed. Autopilot is
+- [04:46] essentially staying within your comfort
+- [04:48] zone and just repeating the past. The
+- [04:50] final part of the brain is the exciting
+- [04:52] part. If you're an entrepreneur, this is
+- [04:53] called the visionary part of the brain.
+- [04:56] The visionary part of the brain sees the
+- [04:57] future and figures out how to reverse
+- [04:59] engineer the future. It's got
+- [05:00] superpowers. This part of the brain has
+- [05:02] empathy, right? It can understand what
+- [05:05] other people are feeling. It has love
+- [05:08] where it can really understand how to
+- [05:10] form emotional connection and bonds to
+- [05:13] to ideas or people. It has strategy
+- [05:16] where it can come up with step-by-step
+- [05:18] ways of getting what it wants. It has
+- [05:21] creativity
+- [05:23] where it can come up with new and novel
+- [05:25] ways to achieve something. Ultimately,
+- [05:27] the visionary part of the brain is the
+- [05:29] best bit of you. If you've ever been
+- [05:31] sitting by the pool on a holiday and
+- [05:32] thought, "What if I make this phone
+- [05:34] call? What if I create this product?
+- [05:35] What if I start this business? What if I
+- [05:38] take my business into a new location in
+- [05:39] the world? What if I try things in a
+- [05:41] completely different way?" If that has
+- [05:43] been a conversation that's put a smile
+- [05:45] on your face and you felt that level of
+- [05:46] excitement because you've come up with a
+- [05:48] new strategy, you having a visionary
+- [05:50] moment. You want to capture that
+- [05:51] lightning in a bottle and you want to be
+- [05:53] the visionary entrepreneur. Every
+- [05:55] successful entrepreneur is operating
+- [05:57] from the visionary mind until such time
+- [05:59] as they destroy their success by going
+- [06:02] reptile or getting caught in their
+- [06:03] comfort zone on autopilot. So your job
+- [06:06] as an entrepreneur is to keep yourself
+- [06:08] in the visionary mindset. The third part
+- [06:10] of having an entrepreneurial mindset is
+- [06:13] the scientist.
+- [06:15] The scientist is the part of you that is
+- [06:17] curious and loves to come up with
+- [06:19] experimentation. You want to run fast
+- [06:20] and cheap experiments to see if you can
+- [06:22] change the way the world works. So what
+- [06:24] does a scientist do? They approach the
+- [06:26] world with curiosity. They create a
+- [06:28] hypothesis and then they figure out
+- [06:29] what's called a null hypothesis. So they
+- [06:32] think, hm, I wonder if I ran this ad,
+- [06:34] would that create customers? So they run
+- [06:37] some experiments. And the experiment
+- [06:39] either works or it doesn't work. A
+- [06:40] scientist is not upset about a failed
+- [06:43] experiment. A scientist just says,
+- [06:44] "That's one way that I've figured out
+- [06:46] that doesn't work." The best way to be a
+- [06:48] scientist is to come up with ideas and
+- [06:50] test your ideas. You're going to run
+- [06:51] fast and cheap experiments. To run fast
+- [06:53] and cheap experiments might mean setting
+- [06:55] up a landing page all within one day,
+- [06:57] putting it on social media, and seeing
+- [06:59] how people respond to it. Great
+- [07:00] scientists are not worried about looking
+- [07:02] silly. They're worried about collecting
+- [07:04] data. They're not judging until they
+- [07:06] have the data. So, a great scientist
+- [07:07] might go and survey 30 or 150 people and
+- [07:10] then figure out how many people want the
+- [07:12] particular product that they're
+- [07:13] offering. Great scientists are not
+- [07:15] worried about being embarrassed. They're
+- [07:17] worried about collecting good quality
+- [07:18] data and then being able to extrapolate
+- [07:20] based on the data. Great scientists
+- [07:22] don't form opinions and they don't feel
+- [07:24] a sense of confidence or lack of
+- [07:26] confidence until they've got their hands
+- [07:28] on the data. So, it's a combination of
+- [07:30] these three things, being passionate,
+- [07:32] being visionary, and being a scientist
+- [07:33] that make you a great entrepreneur. If
+- [07:35] you want to know what the entrepreneur
+- [07:37] mindset is all about, those are the
+- [07:38] three key ingredients that I see when I
+- [07:41] look at the most successful
+- [07:42] entrepreneurs in my life and when I've
+- [07:44] been operating at my best. Now, if you
+- [07:46] want to know exactly what to do with
+- [07:47] that mindset, you may want to check out
+- [07:49] my recent video, which is 29 minutes,
+- [07:51] that tells you step by step how to move
+- [07:53] through the five stages of going from
+- [07:55] idea to seven figure business. There'll
+- [07:57] be a link somewhere in the description
+- [07:58] below. I hope you're enjoying these
+- [08:00] videos. If you are, please share this
+- [08:02] with someone who you think wants to
+- [08:03] improve their entrepreneurial mindset.
+- [08:05] Give it a like, give it a comment, give
+- [08:06] it a subscribe. I look forward to seeing
+- [08:08] you soon and I hope your business is
+- [08:10] successful.

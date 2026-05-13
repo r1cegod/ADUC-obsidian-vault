@@ -1,0 +1,705 @@
+---
+type: source
+title: "How to Generate So Many Leads, You Can Double Your Prices"
+source: youtube
+channel: "Daniel Priestley"
+channel_id: UCABR204CFV9ZoMz69TyspzA
+video_id: cOBCjNXl4LE
+url: https://www.youtube.com/watch?v=cOBCjNXl4LE
+published_at: "2025-11-08T19:53:45Z"
+duration_seconds: 1258
+fetched_at: 2026-05-04T06:15:03Z
+transcript_status: fetched
+transcript_language: "en"
+ingest_run: daniel-priestley-youtube-2026-05-04
+---
+
+# How to Generate So Many Leads, You Can Double Your Prices
+
+> Raw transcript evidence for vault-level Daniel Priestley YouTube ingest. Do not treat this as compiled knowledge; use source cards and synthesis pages for durable claims.
+
+## Source Metadata
+- url: https://www.youtube.com/watch?v=cOBCjNXl4LE
+- channel: Daniel Priestley
+- published_at: 2025-11-08T19:53:45Z
+- duration_seconds: 1258
+- fetched_at: 2026-05-04T06:15:03Z
+
+## Transcript
+
+- [00:00] Businesses don't succeed by chasing
+- [00:01] customers. Businesses succeed by getting
+- [00:03] customers to chase them. There are
+- [00:05] restaurants that people have to book in
+- [00:07] months in advance. There are consulting
+- [00:08] firms that get to pick and choose the
+- [00:10] customers that they choose to work with.
+- [00:12] There are products that you have to
+- [00:14] pre-order and wait months in order to
+- [00:16] receive. Those are the types of
+- [00:17] businesses that are doing so so well in
+- [00:19] this economy. But how do you orchestrate
+- [00:20] that? Well, that's the theme of this
+- [00:22] book here, Oversubscribed. I'm going to
+- [00:24] share with you what's in this book
+- [00:26] that's going to change the game for your
+- [00:28] business. With the right moves that
+- [00:29] we'll cover that are in this book, we
+- [00:31] can flip the script. We can become way
+- [00:33] more successful and make 10 times more
+- [00:35] money by getting customers to line up to
+- [00:37] do business with you. So, let's get
+- [00:38] started.
+- [00:40] Okay, so let's get into it. Chapter one
+- [00:42] is only oversubscribed businesses make
+- [00:44] profit. Now, what do I mean by that?
+- [00:46] Imagine if there was something called a
+- [00:47] prophet god. and the prophet God handed
+- [00:49] out profit fairly based on who took the
+- [00:51] most risk, who gave the best customer
+- [00:53] service, who had the best product that
+- [00:54] was the most reliable. I think what we'd
+- [00:56] see is that the airline industry should
+- [00:58] be wildly profitable. It's an expensive,
+- [01:01] risky, high demand business to be in.
+- [01:03] And yet, strangely, only 3 to 7% margins
+- [01:06] is the norm in that industry. They're
+- [01:08] not very profitable even at the best of
+- [01:10] times. So, contrast that with Rolex.
+- [01:12] Rolex watches have done the same thing
+- [01:13] for about a hundred years. They don't
+- [01:15] have wildly amazing customer service.
+- [01:17] They haven't innovated any brand new
+- [01:19] massive innovative product and yet every
+- [01:21] single year they can keep increasing
+- [01:22] their prices and they have massive
+- [01:25] profit margins. Now why is that? Well,
+- [01:27] it's pretty simple. The airline industry
+- [01:29] is not oversubscribed. If you want a
+- [01:31] ticket, you can get one. You could fly
+- [01:32] today, you could fly tomorrow. You
+- [01:33] wouldn't have to join a waiting list.
+- [01:34] Whereas Rolex maintain demand and supply
+- [01:37] tension for what they do. Now, this is
+- [01:38] rule one of every economics class. And
+- [01:41] basically, they say when demand is
+- [01:42] higher than supply, profit is tolerated.
+- [01:45] When supply is higher than demand,
+- [01:46] losses are tolerated. And if demand and
+- [01:48] supply meet in the middle, only wages
+- [01:50] are tolerated. Most businesses forget
+- [01:53] rule one of economics. And therefore,
+- [01:55] they never make real profit. Consider
+- [01:57] this little thought experiment. Imagine
+- [01:58] there was a business coach who could
+- [02:00] only take on five clients, but there
+- [02:02] were 10 people who wanted to be those
+- [02:04] clients. And they just kept bidding with
+- [02:05] each other until the price went up and
+- [02:07] up and up and up. Eventually, five out
+- [02:09] of the 10 give up. And the five who end
+- [02:12] up becoming clients are the ones who
+- [02:13] paid the most amount of money. When two
+- [02:14] people want something and there's only
+- [02:16] one available, the price rises until
+- [02:18] somebody gives in. If you're not overs
+- [02:19] subscribed, that just doesn't happen.
+- [02:21] The second principle of the book is that
+- [02:23] the only people that matter are your
+- [02:25] people. Now, what do we mean by that?
+- [02:27] Well, there are people out there in the
+- [02:28] market who have no idea who you are. And
+- [02:30] then there are people who have actually
+- [02:31] figured out that they know you, like
+- [02:33] you, and trust you. They rate you. They
+- [02:35] want to work with you exclusively. Think
+- [02:37] about the acting industry. There are
+- [02:39] hundreds of thousands of people who want
+- [02:40] to be an actor, but only a small group
+- [02:42] of actors get paid huge amounts of money
+- [02:45] to be in films. Is it because they're
+- [02:46] such great actors that they're far
+- [02:48] superior to every other actor in the
+- [02:50] marketplace? Probably not. It's because
+- [02:51] they have a following of people who are
+- [02:54] willing to go to the cinema if that
+- [02:55] person is in the movie. If Tom Cruz is
+- [02:57] in the movie, people will go and fill up
+- [02:59] the seats in the cinema. But if it's
+- [03:01] nobody I've ever heard of, I probably
+- [03:03] wouldn't turn up and see the movie.
+- [03:04] These actors have built a following of
+- [03:06] people who will go and see them because
+- [03:08] it's them. We call these people your
+- [03:10] people. Now, how do you get a group of
+- [03:12] these people? Well, they have to notice
+- [03:14] you. They have to get to know you, and
+- [03:16] they have to rate you. And to do that,
+- [03:18] we've created something called the
+- [03:19] 7-Eleven methodology, which is in
+- [03:21] chapter 2. So, what's the 7-Eleven
+- [03:23] methodology? It basically says that in
+- [03:25] order for people to get to know you, for
+- [03:26] them to notice you, and for them to rate
+- [03:28] you, they need to see you 11 times in
+- [03:30] order for them to notice you. They need
+- [03:32] to spend two to seven hours with you to
+- [03:34] get to know you and they need to see you
+- [03:36] on four different platforms to feel like
+- [03:38] they really rate you. So what we
+- [03:39] encourage people to do in the book is we
+- [03:41] encourage them to build their 7-Eleven
+- [03:43] architecture. That means creating 7
+- [03:45] hours worth of long- form content,
+- [03:46] breaking it up into 11 short pieces of
+- [03:49] content and posting it on four different
+- [03:50] platforms. And that 7-Eleven for
+- [03:52] strategy has worked now for thousands of
+- [03:54] businesses who say that it's been
+- [03:56] transformational. Now, if you can get
+- [03:58] people who are 7-Eleven Ford, if they've
+- [04:00] experienced you for 7 hours, if they've
+- [04:01] seen you 11 times, if they've seen you
+- [04:03] on four different platforms, those
+- [04:05] people are now really, really warm to
+- [04:07] doing work with you. Now, what happens
+- [04:09] as a net result? Well, as a net result,
+- [04:11] they start to ignore everybody else.
+- [04:13] They're willing to pay your prices.
+- [04:15] They're willing to respond to your
+- [04:16] marketing campaigns. Now, I'll give you
+- [04:18] a funny example. Me personally, I would
+- [04:20] not say that I'm a heavy metal fan. I
+- [04:22] don't listen to a lot of heavy metal
+- [04:23] music. However, in 1992, I discovered
+- [04:26] Metallica and I bought the Metallica
+- [04:28] Black album. Now, since then, I've
+- [04:30] listened to a lot of Metallica. I've
+- [04:31] followed Metallica, and if Metallica
+- [04:33] comes to town, I'm going to get a ticket
+- [04:35] and go to the show. I don't go to
+- [04:36] anybody else's heavy metal concert, but
+- [04:38] I will go to a Metallica concert because
+- [04:41] I have been 7-Eleven forward by
+- [04:43] Metallica. Now, I've seen this in the
+- [04:44] world of fitness coaching and fitness
+- [04:46] consulting. There are certain people who
+- [04:48] are fitness coaches and they've built up
+- [04:50] a relationship with a large group of
+- [04:52] people and some of those people have
+- [04:53] been fully 7-Eleven Ford and those
+- [04:55] people are willing to pay premium prices
+- [04:57] to work with that fitness coach. Now
+- [04:59] consider that it's a lot easier to make
+- [05:02] money if you've got eight people who are
+- [05:04] happy to pay $8,000 than trying to find
+- [05:06] a,000 people willing to pay $80, right?
+- [05:08] a small group of people who really rate
+- [05:10] what you do is probably going to be a
+- [05:12] much more powerful way to grow your
+- [05:14] business than trying to get a little bit
+- [05:16] of money off a lot of people who don't
+- [05:17] really know who you are. So the whole
+- [05:20] market doesn't really matter. It doesn't
+- [05:21] matter what market you're in and it
+- [05:23] doesn't matter what the market's doing.
+- [05:24] It matters how many people are your
+- [05:26] people. Okay, that takes us to chapter
+- [05:28] three. And in chapter three we say first
+- [05:30] make your market and then make your
+- [05:32] sales. Now what do we mean by that? So
+- [05:34] market making is about signal collection
+- [05:37] and sales making is about getting people
+- [05:39] to pay money. Before we ask people to
+- [05:41] pay money, we want to run a signal
+- [05:42] collection campaign. The example that I
+- [05:44] love to share is the example of
+- [05:46] Glastonbury Music Festival. So for 364
+- [05:49] days of the year, you cannot buy a
+- [05:51] ticket to Glastonbury. You can only
+- [05:53] register that you're interested in a
+- [05:54] ticket. That is called a signal
+- [05:56] collection campaign. You have to
+- [05:57] pre-register for tickets. And then one
+- [05:59] day of the year, they say at 5:00 in the
+- [06:01] morning, tickets are going to go on
+- [06:02] sale. Over 750,000 people have
+- [06:05] registered, but we only have 136,000
+- [06:07] tickets available. Now, people lose
+- [06:09] their minds over this. They get up at
+- [06:10] 5:00 in the morning and all of those
+- [06:12] tickets typically sell out in under 40
+- [06:14] minutes.
+- [06:15] >> Glastonbury Festival has sold out in
+- [06:17] just 35 minutes.
+- [06:18] >> Now, most music festivals cannot do
+- [06:20] that. And the reason that they don't do
+- [06:21] that is they try and make sales rather
+- [06:23] than trying to collect signals first. I
+- [06:25] want you to do a signal collection
+- [06:26] campaign before you do a sales campaign.
+- [06:28] Imagine that you're a consultant and you
+- [06:30] can only work with five clients per
+- [06:31] year. I would like you to get five
+- [06:33] signals for every one client that you
+- [06:35] can get. Now, what would that look like?
+- [06:37] It would look like people filling in an
+- [06:38] application form, doing an initial
+- [06:40] questionnaire, something like that, in
+- [06:42] order to express interest that they want
+- [06:44] to be one of those five. Now, if you can
+- [06:46] get 25 people who have signaled that
+- [06:48] they're interested, and you only have
+- [06:50] five consulting spots available, then
+- [06:52] the price of those consulting spots is
+- [06:54] going to go high. Now, the thing that
+- [06:55] really pushes that up is when you add
+- [06:57] transparency. Transparency is where
+- [06:59] everybody knows that you've got lots of
+- [07:01] signals relative to the amount of
+- [07:02] official capacity that you've got. So, I
+- [07:04] want to introduce you to the idea of
+- [07:06] having an official capacity. And an
+- [07:07] official capacity means that you've got
+- [07:09] an official amount of clients that you
+- [07:10] can take on. And you publicly name that
+- [07:13] number of clients. You say, "This is how
+- [07:15] many people we can work with. I can only
+- [07:16] work with five clients per year. We can
+- [07:18] only take 250 bookings." Whatever the
+- [07:20] number is, that's going to be public and
+- [07:21] that's going to be your official
+- [07:22] capacity. And then you're going to make
+- [07:24] public how many signals you've got
+- [07:26] relative to that. And what we're trying
+- [07:27] to do is run a signal collection
+- [07:30] campaign that far exceeds your official
+- [07:32] capacity. We want to make sure that it's
+- [07:34] transparent, that the marketplace can
+- [07:36] see that you've got limited supply and
+- [07:38] excess demand. And when the marketplace
+- [07:40] can really see that that's what's going
+- [07:42] on, that's when your prices go through
+- [07:44] the roof. Principle number four is that
+- [07:46] people buy when the conditions are
+- [07:47] right. The conditions have to be just
+- [07:49] perfect for people to go for it. Now,
+- [07:51] consider this. Imagine that you've got
+- [07:53] your business overs subscribed. You've
+- [07:54] got lots of signals. you've got limited
+- [07:56] capacity. People know that your official
+- [07:58] capacity is 10 and you've got 50 to 100
+- [08:01] signals and they can see that there's a
+- [08:03] difference. Now, what we need to do is
+- [08:05] we need to create the moment where
+- [08:07] people are going to act. And we want to
+- [08:08] launch a campaign where there is a
+- [08:10] launch moment or there is a moment to
+- [08:12] act. And in the leadup to that, we need
+- [08:14] three things to be in alignment. We call
+- [08:15] it logic, emotion, and urgency. Logic is
+- [08:18] all the reasons why people should buy
+- [08:20] from you that are logical that could go
+- [08:22] onto a spreadsheet. So, in the example
+- [08:23] of a Rolex, the logical reason that
+- [08:25] people buy Rolexes is they tend to hold
+- [08:28] their value. A $5,000 Rolex tends to
+- [08:30] stay at $5,000 resale value, which means
+- [08:33] you're not losing money on a Rolex. You
+- [08:35] might buy a $1,000 watch that halves in
+- [08:37] value, or you might buy a Rolex that
+- [08:38] holds its value. So, the logical reason
+- [08:41] is that it holds its value. The second
+- [08:43] thing we need to do is the emotional
+- [08:44] reason. So, the emotional reason is to
+- [08:46] have a feeling attached to your business
+- [08:48] or a feeling attached to the result that
+- [08:50] you offer. In Rolex's example, it's all
+- [08:52] about success and status. So emotions
+- [08:55] are communicated in movies. Customers
+- [08:57] have movies in their mind and they think
+- [08:59] about what is the movie if I buy this
+- [09:01] product. So if I buy a Rolex, people are
+- [09:03] going to notice my Rolex. Or if I buy a
+- [09:05] Ferrari, people are going to notice me
+- [09:07] driving the Ferrari. Perhaps that's the
+- [09:08] movie. Or if I buy your consulting, my
+- [09:11] business is going to grow and it's going
+- [09:12] to feel amazing and we're going to have
+- [09:13] a party with the whole team and
+- [09:15] everyone's going to celebrate. So
+- [09:16] emotions are all about the movies that
+- [09:18] we play to ourselves in our mind. And
+- [09:20] the final one is urgency. And urgency is
+- [09:22] about the fear of missing out. It's the
+- [09:24] fear that if I don't buy, I'll miss out
+- [09:26] on something. It's taking action would
+- [09:27] actually be less painful than not taking
+- [09:30] action. So we call that FOMO. And if we
+- [09:32] can add a little bit of fear of missing
+- [09:34] out, if we can explain what do you miss
+- [09:35] out if you don't get this, what do you
+- [09:38] lose if you don't take action, then
+- [09:40] people go, "Ooh, I feel a sense of
+- [09:42] urgency that I need to take action at
+- [09:44] this particular moment." The number one
+- [09:45] reason that people respond to that is
+- [09:47] when they see that there are lots more
+- [09:49] people signaling interest than there's
+- [09:51] capacity available because that
+- [09:52] inherently communicates that you will
+- [09:54] miss out if you don't take action. So
+- [09:56] when we have logic, emotion, and
+- [09:58] urgency, the conditions are right and
+- [10:00] then we tell people this is the time to
+- [10:02] buy. Principle five in the book is all
+- [10:05] about being different and setting your
+- [10:06] own rules. I really encourage businesses
+- [10:09] to do things in a quirky, different,
+- [10:11] unique way. I tell people that if you do
+- [10:13] the same thing that everybody else does,
+- [10:15] then you'll get the same result as
+- [10:16] everybody else. You've got to set your
+- [10:18] own rules. It's your business. You get
+- [10:20] to set the rules. If you want to make
+- [10:21] people jump through hoops, you can make
+- [10:23] them jump through hoops. If you want to
+- [10:24] get people to pre-register for a waiting
+- [10:26] list or join a discussion group or fill
+- [10:28] in an application form, you're allowed
+- [10:30] to do all of those things. Provided it's
+- [10:32] legal. You can ask people to do whatever
+- [10:34] it is you want in order to set your
+- [10:36] rules for doing business. I used the
+- [10:38] example of a business coach that I once
+- [10:39] worked with who told me upfront, "These
+- [10:42] are my holidays and I'm not going to
+- [10:43] respond to your emails or your phone
+- [10:44] calls during these dates." And he also
+- [10:46] said, "I don't do late at night. I don't
+- [10:48] do early in the morning. This is how we
+- [10:50] work together. If you don't like those
+- [10:51] rules, don't work with me." And I was so
+- [10:53] impressed by the fact that he set the
+- [10:55] ground rules from day one. And it made
+- [10:57] me feel that he must be a damn good
+- [10:58] business coach. Oversubscribed
+- [11:00] businesses are comfortable with the idea
+- [11:01] of saying, "No, no, we don't let people
+- [11:04] do this. No, we don't have this happen."
+- [11:06] I want you to think about what would be
+- [11:07] the rules for you to do business on your
+- [11:09] terms that would make doing business an
+- [11:11] absolute joy. Principle six in the book
+- [11:13] is that value is created in the
+- [11:15] ecosystem. One particular thing doesn't
+- [11:17] create value. It's the overall business
+- [11:19] that creates value. One product
+- [11:21] typically doesn't create value, but a
+- [11:22] product ecosystem creates value. In the
+- [11:24] book, I talk about the power of giving
+- [11:26] away information, giving away insights,
+- [11:28] giving away education, and then selling
+- [11:30] the implementation and having both of
+- [11:32] those options available. Now, here's the
+- [11:34] cool thing. People might see that you're
+- [11:35] making lots of profit doing a few
+- [11:37] different things. Once you've built your
+- [11:38] overall ecosystem, it's very hard to
+- [11:40] copy. People can copy one or two things,
+- [11:42] but they can't copy the overall thing.
+- [11:44] And that is what gives you long-term
+- [11:45] stability. Principle seven is about
+- [11:48] meeting people where they are and
+- [11:49] speaking their language. It's often the
+- [11:51] case that when you become an expert at
+- [11:53] what you do, you adopt all the expert
+- [11:55] jargon. You forget what it's like to be
+- [11:56] a beginner right at the start of the
+- [11:58] journey. You forget what it's like to be
+- [12:00] frustrated without knowing how to solve
+- [12:01] the problem. And by forgetting all of
+- [12:03] those things, you fail to empathize with
+- [12:05] your customer. See, your customer needs
+- [12:07] empathy first. They need you to connect
+- [12:09] with them where they are. If you want to
+- [12:11] take someone on a journey, you have to
+- [12:12] go meet them at their house and then
+- [12:14] take them on the journey. You can't just
+- [12:16] expect them to magically figure out how
+- [12:18] to get to where they want to go. If they
+- [12:19] already knew how to get to where you
+- [12:21] are, they would have already done it on
+- [12:22] their own. So, on one hand, you have to
+- [12:24] be an expert at what you do, and you
+- [12:26] have to understand all the jargon. But
+- [12:27] on the other hand, you have to be an
+- [12:29] expert in your customer and speak their
+- [12:32] language and empathize with their
+- [12:33] current situation before you get the
+- [12:35] opportunity to work with them on the
+- [12:37] transformation. So, a big part of being
+- [12:39] oversubscribed is the ability to
+- [12:41] radically empathize with your customers
+- [12:43] and what's frustrating them today and
+- [12:45] what their fears might be today. And the
+- [12:47] businesses that can empathize in that
+- [12:49] way and speak their customers language,
+- [12:51] they're the ones that win. Principle
+- [12:53] number eight, nothing beats being
+- [12:55] positively remarkable. Being remarkable
+- [12:57] means that your marketing budget drops
+- [12:59] to zero. When your customers are talking
+- [13:01] about you, it creates a virtuous loop.
+- [13:03] Every time you sign up a customer,
+- [13:04] they're going to go get you another
+- [13:05] customer and that customer will get you
+- [13:07] another customer. So, we talk about the
+- [13:08] idea of being positively remarkable.
+- [13:10] Treat your existing customers like
+- [13:12] celebrities. Make them feel special.
+- [13:15] Make them feel valued. Give them more
+- [13:17] than they thought was possible. And do
+- [13:19] it with a massive smile on your face.
+- [13:20] Because if you can look after your
+- [13:22] existing customers, they're going to go
+- [13:24] out and talk to people. Now, in today's
+- [13:25] world, a typical person doesn't just
+- [13:27] have a few friends. They've probably got
+- [13:29] a few thousand people on their social
+- [13:30] media that they can broadcast you to the
+- [13:33] world with. So, we want to approach this
+- [13:34] from a couple of different angles. Angle
+- [13:36] number one is the way that you treat
+- [13:37] your customers and how you make them
+- [13:38] feel. And angle number two is the way
+- [13:40] your business visually represents itself
+- [13:43] so that it's social media friendly. Now,
+- [13:45] one big thing that will make you
+- [13:47] remarkable is to show up as a key person
+- [13:49] of influence. to make sure that you show
+- [13:51] up as a thought leader in your industry
+- [13:53] to share signature ideas to share
+- [13:56] content that goes viral and essentially
+- [13:58] that also makes you positively
+- [14:00] remarkable. If ever you've seen a post
+- [14:01] on Instagram that has lots of people
+- [14:03] sharing it that's super remarkable
+- [14:05] almost viral content you need to become
+- [14:07] a little bit of a master of showing up
+- [14:09] as a key person of influence and saying
+- [14:11] things that get shared as well. Okay,
+- [14:12] we've covered the first section of the
+- [14:15] book which is those principles. Now,
+- [14:16] we're going to get into the real meat of
+- [14:18] the book, which is the methodology, the
+- [14:20] campaign driven enterprise method.
+- [14:23] So, in the middle of the book, we
+- [14:25] introduce you to the campaign driven
+- [14:26] enterprise method. We say that a
+- [14:28] business is a series of campaigns and
+- [14:30] that we've got to run lots of campaigns.
+- [14:31] We use the example of Nike and we say
+- [14:33] Nike started out as one campaign to get
+- [14:36] people jogging and they had jogging
+- [14:37] shoes and they had a book about jogging
+- [14:39] and all of that got them started and now
+- [14:41] they run lots of campaigns. They have a
+- [14:43] campaign for basketball and for
+- [14:44] skateboarding and for golf and all the
+- [14:46] different sports. They're running lots
+- [14:48] of campaigns all the time. In the same
+- [14:50] way that an engine is a revolution and a
+- [14:53] fast engine is lots of revolutions, a
+- [14:56] business is running campaigns and a
+- [14:58] bigger business is running lots of
+- [14:59] campaigns. So, we talk about three key
+- [15:01] campaigns that grow a small business
+- [15:03] into a bigger business. I've used this
+- [15:04] approach to build multiple businesses
+- [15:06] from zero to a million of revenue in
+- [15:08] their first 12 months. And it really
+- [15:10] hinges on the idea of what we call a
+- [15:12] three-part year. So the three-part year
+- [15:14] is the perfect repeatable week, the
+- [15:16] spotlight campaign that happens
+- [15:18] quarterly, and the annual big message.
+- [15:20] Let me break it down. So the first type
+- [15:22] of campaign is the perfect repeatable
+- [15:24] week. Perfect repeatable week is where
+- [15:26] you do the same thing over and over and
+- [15:28] over and over again. You're trying to
+- [15:30] generate lots of leads, lots of
+- [15:32] appointments, lots of presentations,
+- [15:33] lots of sales, and it happens every
+- [15:35] single week. Now, you might figure out
+- [15:37] that your business, in order for it to
+- [15:39] succeed, you need 30 leads per week, and
+- [15:41] your perfect repeatable week is just
+- [15:43] going to generate those 30 leads. Maybe
+- [15:45] you've got a scorecard with
+- [15:46] scoreapp.com. Maybe you're doing some
+- [15:48] online social media marketing. Maybe
+- [15:50] you've got some paid ads going. Maybe
+- [15:51] you run an introduction workshop and you
+- [15:54] always get 30 people on the workshop.
+- [15:56] But you've got to figure out what is the
+- [15:57] thing that works every single week. And
+- [15:59] the goal here is to crank the handle and
+- [16:01] do it over and over and over again.
+- [16:04] Believe it or not, I have been running
+- [16:05] the same introduction workshop for the
+- [16:07] last 15 years for Dent. And this
+- [16:10] introduction workshop has grown Dent
+- [16:12] into a global business. It's a 90-minute
+- [16:14] workshop where we just simply cover all
+- [16:16] the basics of becoming a key person of
+- [16:18] influence. If you haven't booked in
+- [16:19] before, you can find a link to it below.
+- [16:21] I run this every single month and it
+- [16:24] goes over and over and over again. It's
+- [16:26] the same thing that we've been
+- [16:27] delivering for 15 years and it just
+- [16:29] keeps working. A big mistake I see a lot
+- [16:31] of businesses make is they think they
+- [16:33] have to do something different or random
+- [16:34] every single week. But the best
+- [16:36] businesses, they know how to show up
+- [16:38] powerfully in the same way week after
+- [16:40] week after week. So that's called the
+- [16:42] perfect repeatable week. And it's the
+- [16:44] underpinning campaign for all the
+- [16:46] others. The second campaign is called
+- [16:48] the quarterly spotlight campaign. Now
+- [16:50] the quarterly spotlight campaign is
+- [16:51] every 90 days we want to do something
+- [16:53] special. We want to have a special
+- [16:54] campaign. Maybe it's a product launch.
+- [16:56] Maybe it's a seasonal offering. Maybe
+- [16:58] it's a collaboration. Maybe you're
+- [17:00] featuring a high-profile person. So, for
+- [17:02] example, a quarterly spotlight campaign
+- [17:03] that I recently ran was I had a bigname
+- [17:06] guest speaker and we had a special live
+- [17:08] event in London. We filmed it and we put
+- [17:10] it online and hundreds of people turned
+- [17:12] up and it was a really good spotlight
+- [17:14] campaign. It was great for our brand. We
+- [17:16] made lots of sales and it really
+- [17:18] differentiated us. The good news is is
+- [17:20] that people who don't buy on your
+- [17:22] perfect repeatable week, you can
+- [17:24] reactivate and get them to go into the
+- [17:26] spotlight campaign. And people who show
+- [17:28] up for the spotlight campaign who don't
+- [17:30] buy, you can reactivate them and send
+- [17:32] them to the perfect repeatable week
+- [17:34] campaign. So these two campaigns work
+- [17:36] really nicely. If someone discovers you
+- [17:38] in January, they might come to your
+- [17:40] quarterly spotlight in March. If they
+- [17:42] discover you in March, they might come
+- [17:43] to your perfect repeatable week in April
+- [17:45] or May. So people bounce between the
+- [17:47] perfect repeatable week and the
+- [17:49] quarterly spotlight campaign. Now each
+- [17:50] quarter you want to do a different and
+- [17:52] exciting thing. If you're a seasonal
+- [17:54] business, you might have a campaign for
+- [17:56] Christmas. You might have a campaign for
+- [17:57] Easter. You might have a campaign for
+- [17:59] summer, right? So all of those different
+- [18:00] campaigns, you're going to figure out
+- [18:02] which campaigns you're going to do each
+- [18:04] quarter, and you're going to plan it out
+- [18:05] at least 12 months into the future. The
+- [18:07] third campaign is what we call the
+- [18:09] annual big message, or you might call it
+- [18:12] the 7-Eleven campaign. And the 7-Eleven
+- [18:15] campaign is essentially putting lots of
+- [18:17] content online. This is where people are
+- [18:19] going to get 11 short pieces of content,
+- [18:21] seven hours worth of long- form content,
+- [18:24] and four different platforms. And
+- [18:25] because they're experiencing you online,
+- [18:27] they're discovering and adopting your
+- [18:28] values. And it's from this social media
+- [18:31] cloud cover that people often discover
+- [18:33] you and go to the perfect repeatable
+- [18:35] week. It's where they'll discover your
+- [18:36] quarterly spotlight. And it's also where
+- [18:38] you'll be able to refine your message so
+- [18:40] that your advertising campaigns work
+- [18:42] even better. The annual big message is
+- [18:44] actually just a constant stream of
+- [18:46] online social media content featuring
+- [18:48] you that makes everything lift. Now, the
+- [18:51] goal here is to plan out all of these
+- [18:53] three campaigns a year in advance. So,
+- [18:55] at the end of 2025, I will plan out all
+- [18:58] of 2026 with a perfect repeatable week,
+- [19:01] four spotlight campaigns, and an annual
+- [19:03] big message that we'll express through
+- [19:05] the 7-Eleven 4 campaign. By doing that,
+- [19:07] we just need to execute, and the
+- [19:09] business is going to grow and do really,
+- [19:10] really well and hit all of its targets.
+- [19:12] Okay, the final part of the book says
+- [19:15] two things that are really important.
+- [19:16] Number one, you can't do all of this on
+- [19:18] your own. You need to have a team of
+- [19:20] people. And we talk about campaign teams
+- [19:22] of four people as the smallest campaign
+- [19:25] team. And we talk about just getting
+- [19:26] together with those four people and
+- [19:28] creating the campaigns. Someone who's
+- [19:30] focused on the execution, someone who's
+- [19:31] more focused on sales, someone who's
+- [19:33] focused on being the face of the
+- [19:35] campaign. We talk about all of those
+- [19:36] roles and we say form a campaign team.
+- [19:39] It's too much to do on your own. You
+- [19:41] need to have a little breakout team that
+- [19:42] is your campaign team and that's really
+- [19:44] really important. The smallest unit is
+- [19:46] four but it can build up to about 8 to
+- [19:48] 12 people as you run bigger and bigger
+- [19:50] campaigns working on each campaign. And
+- [19:52] the final thing the book talks about is
+- [19:54] the remarkable times that we're in. If
+- [19:56] you get this right, the sky is the
+- [19:58] limit. We are now living in a time where
+- [20:00] you can campaign to all corners of the
+- [20:02] planet. You can have customers in
+- [20:03] Bangalore, in Brazil, in Boston, in
+- [20:06] Birmingham. You can have customers
+- [20:07] everywhere around the world. If you get
+- [20:09] your message on point, if you're
+- [20:11] capturing people's attention online, if
+- [20:13] you build a product that scales, you are
+- [20:15] going to have a very, very big business.
+- [20:16] There's never been a better time for you
+- [20:18] to launch something, to run great
+- [20:20] campaigns, and to get massively
+- [20:22] oversubscribed at a global level. So, at
+- [20:24] the end of the book, I'm really trying
+- [20:25] to get you to think big based on the
+- [20:27] potential of the times that we're living
+- [20:28] in. Now, there's only so much that I can
+- [20:30] put into a video like this. I've given
+- [20:31] you a good overview, but really the
+- [20:34] power comes from deep diving into this.
+- [20:36] So, there's a link below where you can
+- [20:37] get a copy of the book if you want to
+- [20:39] get into the deep dive or come and join
+- [20:40] me for a live event where we can spend
+- [20:42] 90 minutes together and I'll get to know
+- [20:44] you, you'll get to know me and we'll be
+- [20:45] able to go that I'll show you what I do
+- [20:47] on my perfect repeatable week workshop
+- [20:49] that I run. I look forward to seeing you
+- [20:50] soon. I hope you've enjoyed that. Give
+- [20:52] it a like, give it a subscribe, a
+- [20:53] comment, share it with another
+- [20:55] entrepreneur. I hope your business is
+- [20:56] doing really
